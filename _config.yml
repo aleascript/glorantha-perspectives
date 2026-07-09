@@ -2,6 +2,7 @@ title: Glorantha Perspectives
 description: Ressources diverses pour l'univers-jeu Glorantha
 baseurl: "/glorantha-perspectives"
 url: "https://aleascript.github.io"
+permalink: pretty
 theme: jekyll-theme-cayman
 lang: fr
 

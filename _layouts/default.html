@@ -11,9 +11,9 @@
   <header class="page-header">
     <nav class="site-nav">
       <a href="{{ "/" | relative_url }}" class="nav-link">Accueil</a>
-      <a href="{{ "/content/notes/" | relative_url }}" class="nav-link">Notes</a>
-      <a href="{{ "/content/stories/" | relative_url }}" class="nav-link">Histoires</a>
       <a href="{{ "/content/rules/" | relative_url }}" class="nav-link">Règles</a>
+      <a href="{{ "/content/stories/" | relative_url }}" class="nav-link">Histoires</a>
+      <a href="{{ "/content/notes/" | relative_url }}" class="nav-link">Notes</a>
     </nav>
     <h1 class="project-name">{{ page.title | default: site.title }}</h1>
     {% if page.title and page.title != site.title %}
@@ -26,7 +26,7 @@
       <span class="site-footer-owner">
         Glorantha Perspectives est un projet fan non-officiel.
         <br>
-        <em>"This website uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under Chaosium Inc's Fan Material Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Chaosium Inc. For more information about Chaosium Inc's products, please visit www.chaosium.com."</em>
+        <span class="chaosium-notice">"This website uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under Chaosium Inc's Fan Material Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Chaosium Inc. For more information about Chaosium Inc's products, please visit www.chaosium.com."</span>
       </span>
     </footer>
   </main>
