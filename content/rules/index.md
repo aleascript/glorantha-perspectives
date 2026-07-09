@@ -6,4 +6,7 @@ title: Règles
 
 Règles diégétiques alignant gameplay et roleplay dans l'univers de Glorantha.
 
-*Contenu à venir.*
+Les cadres de pensée dans Glorantha
+
+- [L'animisme](animism)
+- [Le théisme](theism)
