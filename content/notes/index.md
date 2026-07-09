@@ -17,3 +17,5 @@ Quelques réflexions sur les règles également.
 [De l'inspiration dans un cadre comme Glorantha?](inspiration)
 
 [Statistiques du jeu](stats)
+
+[A propos des pools](pools)

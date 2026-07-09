@@ -4,7 +4,7 @@ title: Histoires
 
 # Histoires
 
-Les sagas et récits de Glorantha.
+Des sagas et récits dans Glorantha.
 
 - La saga d'Araldir
 - La Voie Lunaire

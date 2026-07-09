@@ -8,10 +8,10 @@ title: Accueil
 
 Ressources diverses pour l'univers-jeu **Glorantha**
 
-- Des règles diégétiques alignant gameplay et roleplay
-- Un moteur d'inspiration runique
-- Diverses histoires
+- Des [règles](content/rules) diégétiques alignant gameplay et roleplay
+- Un moteur d'[inspiration runique](content/rules/runes/inspiration)
+- Diverses [histoires](content/stories)
   - La saga d'Araldir
   - La Voie Lunaire
   - Le bannissement de Gurdtar
-- Diverses notes
+- Diverses [notes](content/notes)
