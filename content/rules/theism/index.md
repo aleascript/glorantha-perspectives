@@ -11,7 +11,7 @@ title: "Les panthéons"
 
 > À l'heure de l'épreuve, on rappelle nos propres exploits et la gloire de nos Dieux, et on laisse les Dieux juger qui de nous ou de l'ennemi est le plus digne de triompher.
 
-- On compte le nombre de réussites d'un pool théiste de la manière suivante:
+- On compte le nombre de réussites d'un [pool](../hades) théiste de la manière suivante:
     - On compte les pairs
     - Les 6 permettent de relancer des dés impairs (soutien divin) et cumulatifs si on tire encore un 6. Si on n’a plus de dés impairs, on peut même gagner des dés à lancer (intervention, manifestation divine en quelque sorte)
 

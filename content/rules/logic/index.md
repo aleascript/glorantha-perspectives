@@ -10,7 +10,7 @@ title: "La logique du Dieu Invisible"
 
 > Face à un problème, on aligne simplement notre savoir et nos ressources, et l'on mesure avec justesse si la somme de nos forces surpasse ce qui nous barre la route.
 
-- On compte le nombre de réussites d'un pool logique de la manière suivante:
+- On compte le nombre de réussites d'un [pool](../hades) logique de la manière suivante:
     - On somme et on divise par 5. Le résultat est le nombre de 5 entiers.
 
 **Modes de puissance**

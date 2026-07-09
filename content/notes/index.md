@@ -4,6 +4,14 @@ title: Notes
 
 # Notes
 
-Notes diverses sur l'univers de Glorantha.
+Notes diverses sur l'univers-jeu de Glorantha.
 
-*Contenu à venir.*
+Quelques réflexions sur les règles également.
+
+[Plusieurs cadres de pensée pour un même personnage?](multiple-referentials)
+
+[Le Chaos](chaos)
+
+[Dépasser les cadres?](new-referentials)
+
+[De l'inspiration dans un cadre comme Glorantha?](inspiration)

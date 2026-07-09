@@ -16,7 +16,7 @@ Le tirage des dés révèle comment le dragonewt s'intègre à la réalité ou s
 
 Les pools draconiques sont constituées de D8. 
 
--  On compte le nombre de réussites d'un pool draconique de la manière suivante:
+-  On compte le nombre de réussites d'un [pool](../hades) draconique de la manière suivante:
     - **Le Matérialisme (L'Action Normée) :** Tout dé pair (2, 4, 6, 8) compte pour une réussite  sans aucune conséquence spirituelle négative.
 - **Le Déchirement Draconique :** Si le tirage révèle des motifs d'altération supérieurs, une décision stricte doit être prise pour *chaque* motif complexe identifié :
     - **La Stase de l'Œuf :** Les dés affichant des valeurs identiques (doublons, triplons,…).
