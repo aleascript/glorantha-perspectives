@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "fr" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+</head>
+<body>
+  <header class="page-header">
+    <nav class="site-nav">
+      <a href="{{ "/" | relative_url }}" class="nav-link">Accueil</a>
+      <a href="{{ "/content/notes/" | relative_url }}" class="nav-link">Notes</a>
+      <a href="{{ "/content/stories/" | relative_url }}" class="nav-link">Histoires</a>
+      <a href="{{ "/content/rules/" | relative_url }}" class="nav-link">Règles</a>
+    </nav>
+    <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+    {% if page.title and page.title != site.title %}
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    {% endif %}
+  </header>
+  <main class="main-content">
+    {{ content }}
+    <footer class="site-footer">
+      <span class="site-footer-owner">
+        Glorantha Perspectives est un projet fan non-officiel.
+        <br>
+        <em>"This website uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under Chaosium Inc's Fan Material Policy."</em>
+      </span>
+    </footer>
+  </main>
+</body>
+</html>
