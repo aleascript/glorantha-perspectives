@@ -21,4 +21,4 @@ Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi
 - [Les Dragons et les Dragonewts (un 5ème cadre de pensée)](draconic)
 - [L'Illumination](illumination)
 - [Les quêtes héroïques](heroquests)
-- [L'inspiration runique](runic-inspiration)
+- [L'inspiration runique](runes/inspiration)

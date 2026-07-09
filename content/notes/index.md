@@ -15,3 +15,5 @@ Quelques réflexions sur les règles également.
 [Dépasser les cadres?](new-referentials)
 
 [De l'inspiration dans un cadre comme Glorantha?](inspiration)
+
+[Statistiques du jeu](stats)
