@@ -2,6 +2,8 @@
 title: "Cartes runiques"
 ---
 
+![cards](assets/cards.png)
+
 On pourrait remplacer les mises par un paquet de cartes contenant:
 - 1/6 de la rune majeure du Dieu (pour les 6)
 - 2/6 avec des runes mineures du panthéon ou du Dieu (pour 2 et 4)
