@@ -12,4 +12,4 @@ La seule règle immuable reste a priori la balance du destin (mises de A vs mise
 
 > Le plus difficile est de faire en sorte que la régle reflète bel et bien une façon de penser et que le gameplay soit en phase avec le roleplay.
 
-> N'est ce pas là la vraie [Quête Héroïque](../rules/heroquests) finalement?
+> N'est ce pas là la vraie [Quête Héroïque](../../rules/heroquests) finalement?

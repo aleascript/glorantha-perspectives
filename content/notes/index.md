@@ -22,4 +22,4 @@ Quelques réflexions sur les règles également.
 
 [Méditations sur les Runes](runes-meditation)
 
-[Ars Draconis Magica](../rules/draconic/ars-draconis-magica.md)
+[Ars Draconis Magica](../rules/draconic/ars-draconis-magica)

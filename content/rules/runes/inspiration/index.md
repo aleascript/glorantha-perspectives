@@ -45,4 +45,4 @@ En début de saison, en début de situation, ou quand vous vous sentez en manque
 
 En effet, le récit est centré sur les objectifs des personnages avant tout. Cela permet de bien creuser leurs motivations et leurs façons de réfléchir et d’agir. Mais ce n’est pas suffisant pour écrire une histoire. Les personnages sont plongés dans un monde complexe (Glorantha) qui bouge et ce mouvement du monde est exprimé par les Runes. C’est aussi simple que ça dans une logique Gloranthesque. 
 
-*Bonne [méditation sur les runes](../../notes/runes-meditation.md) de pouvoir*
+*Bonne [méditation sur les runes](../../../notes/runes-meditation) de pouvoir*

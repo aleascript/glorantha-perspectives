@@ -46,4 +46,4 @@ Cette mécanique permet au dragonewt de fonctionner normalement (et sans pénali
 
 Les dragonewts n’étant généralement pas explorés en tant que joueur (du fait de l’utuma), le système permet de justifier et de jouer naturellement ces moments étranges où des créatures surpuissantes se laissent massacrer pour s'élever. La décision de faire renaître le dragonewt immédiatement ou des âges plus tard reste à l'entière discrétion de vos choix narratifs.
 
-Et pour les Logiciens, vous pouvez également consulter le [grimoire Ars Draconis Magica](../draconic/ars-draconis-magica.md)
+Et pour les Logiciens, vous pouvez également consulter le [grimoire Ars Draconis Magica](ars-draconis-magica)

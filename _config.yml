@@ -2,6 +2,7 @@ title: Glorantha Perspectives
 description: Ressources diverses pour explorer l'univers-jeu Glorantha
 baseurl: "/glorantha-perspectives"
 url: "https://aleascript.github.io"
+permalink: pretty
 theme: jekyll-theme-cayman
 lang: fr
 author: AleaScript
@@ -9,7 +10,7 @@ author: AleaScript
 twitter:
   card: summary
 
-logo: /assets/images/logo.png
+logo: /assets/header.png
 
 plugins:
   - jekyll-seo-tag
@@ -20,4 +21,4 @@ defaults:
       path: ""
     values:
       layout: default
-      image: /assets/images/logo.png
+      image: /assets/header.png

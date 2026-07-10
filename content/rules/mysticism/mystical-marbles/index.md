@@ -2,7 +2,7 @@
 title: Les billes mystiques
 ---
 
-![marbles](assets/marbles.png)
+![marbles](../assets/marbles.png)
 
 Quand un mystique affronte l’adversité, il distingue ce qui est favorable ou peut agir en tant que bras de levier, de ce qui est défavorable ou doit rester en retrait. Il distingue aussi ce qui peut muter et engendrer une transformation. Il ne voit donc que des billes noires, grises, blanches et bicolores (noire et blanche) ou bien rouge (comme la Lune Rouge) 
 

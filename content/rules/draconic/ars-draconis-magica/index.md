@@ -16,7 +16,7 @@ humains, ne pouvons faire de même. La rune est alors une contrainte.
 En regardant la rune de l’infini, on comprend mieux comment ça
 marche:
 
-![Rune de l'infini](../runes/assets/conditions/infini-coordinates.png)
+![Rune de l'infini](../../runes/assets/conditions/infini-coordinates.png)
 
 Au centre l’Ouroboros (0). Un point. Un
 rond. Un mouvement reptilien et le cercle se plie pour créer la
