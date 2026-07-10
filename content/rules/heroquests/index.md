@@ -24,3 +24,5 @@ Quelques aspects des quêtes héroïques:
 - Un [Outremonde marqué par les runes](../../notes/runic-forms/)
 
 Même si les mythes Gloranthiens sont déjà fort nombreux à explorer, vous aurez peut-être envie d'en [inventer](myths). 
+
+Vous pourriez même revenir d'une Quête Héroïque [transformé en profondeur](../../notes/new-referentials). 
