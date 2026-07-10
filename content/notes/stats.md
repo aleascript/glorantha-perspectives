@@ -4,8 +4,6 @@ title: "Statistiques"
 
 # Stats
 
-!image.png
-
 Ces stats ont ete faites a la louche par IA
 
 ![stats](../notes/assets/image.png)
