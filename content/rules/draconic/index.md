@@ -45,3 +45,5 @@ Notez également la correspondance des 8 runes de pouvoirs avec les 8 chiffres d
 Cette mécanique permet au dragonewt de fonctionner normalement (et sans pénalité) dans les tâches du quotidien via la Voie Matérialiste. Le drame n'intervient que lorsque la magie profonde opère : un tirage exceptionnel (Stase ou Ouroboros) n'est plus perçu comme une simple opportunité d'écraser un adversaire, mais comme un test spirituel aux yeux de son espèce.
 
 Les dragonewts n’étant généralement pas explorés en tant que joueur (du fait de l’utuma), le système permet de justifier et de jouer naturellement ces moments étranges où des créatures surpuissantes se laissent massacrer pour s'élever. La décision de faire renaître le dragonewt immédiatement ou des âges plus tard reste à l'entière discrétion de vos choix narratifs.
+
+Et pour les Logiciens, vous pouvez également consulter le [grimoire Ars Draconis Magica](../draconic/ars-draconis-magica.md)

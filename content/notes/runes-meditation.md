@@ -5,11 +5,11 @@ title: Méditation sur les runes
 > Les érudits (Sages Gris de Lankhor Mhy, Sages Bruns d'Irippi Ontor, Logiciens du Dieu Invisible, Astrologues Buseriens...) aiment passer des heures à réflechir sur l'ordre des runes de pouvoir.
 
  
- Certains ont une idée bien arrêtée de l'ordre de ces runes dans le Cosmos.
+ Les astrologues Busériens ont une idée bien arrêtée de l'ordre de ces runes dans le Cosmos. Ils méditent alors sur leur ordre en commençant par une des huit runes et en parcourant le cercle dans un sens ou dans l'autre (*"Les 16 parcours dans le Ciel"*)
 
  D'autres sont plus ouverts, et aiment tirer par hasard l'ordre et trouver le lien menant à l'autre. Ils affinent leur sagesse pour prodiguer les meilleurs conseils aux gouvernants.
 
- Certains l'utilisent comme examen dans les Universités des grandes Cités.
+ Certains l'utilisent aussi comme examen dans les Universités des grandes Cités.
 
 *Un exemple de cercle:*
 ![Cercle des runes](../rules/runes/assets/pouvoirs/power-runes-circle.png)
