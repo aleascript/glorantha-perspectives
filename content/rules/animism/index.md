@@ -34,3 +34,5 @@ On pourrait presque voir chaque dé comme représentant un esprit.
 Les grands esprits sont versatiles et difficiles à convaincre d’où l’impact du 1.
 
 [Et pourquoi pas un spirit bag?](spirit-bag)
+
+[Rappel sur les aptitudes chamaniques](aptitudes)
