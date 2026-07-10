@@ -15,6 +15,8 @@ Conformément au mono-mythe Jrusteli, voici les quatre grands cadres de pensée 
 - [La logique du Dieu Invisible](logic)
 - [Le mysticisme](mysticism)
 
+Ces cadres de pensée permettent de se positionner par rapport au monde et de poser des [**mises**](mises) dans un conflit ou face à un obstacle. C'est la narration qui permet de définir ce qui va rentrer en jeu dans la résolution [(1)](#note1).
+
 Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi 
 évoquer les sujets suivants:
 - [L'influence de la Lune Rouge](moon)
@@ -22,3 +24,5 @@ Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi
 - [L'Illumination](illumination)
 - [Les quêtes héroïques](heroquests)
 - [L'inspiration runique](runes/inspiration)
+
+> <a id="note1"></a>*(1) Le mécanisme est assez similaire à HeroWars, HeroQuest sauf que là cela fonctionne de manière plus ouverte puisque les mises ne sont pas forcément hiérarchisées.*
