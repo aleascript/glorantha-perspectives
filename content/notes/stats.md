@@ -8,7 +8,7 @@ title: "Statistiques"
 
 Ces stats ont ete faites a la louche par IA
 
-![stats](assets/stats.png)
+![stats](../notes/assets/image.png)
 
 Notons les stats 1D intéressantes. 
 

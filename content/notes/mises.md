@@ -44,7 +44,7 @@ Il serait même tentant de demander aux joueurs d’associer une rune à chaque 
 
 En ne pouvant pas poser plus d’une mise pour une même rune dans un camp donné.
 
-Mais cela nécessite une connaissance pointue des runes et une habilité à les associer rapidement un facteur à une rune ce qui est peut-être moins trivial que les facteurs sans l’association runique. 
+Mais cela nécessite une connaissance pointue des runes et une habilité à les associer rapidement une mise à une rune ce qui est peut-être moins trivial que les mises sans l’association runique. 
 
 Il est possible qu’on pose une rune avec laquelle on n’a pas forcément d’affinité. Dans ce cas, ça pourrait alerter sur la pertinence de ce facteur par rapport à la cohérence du personnage et dans le monde, voire même un problème d’attache potentiel si on accepte que le facteur soit pris en compte. 
 

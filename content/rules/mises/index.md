@@ -22,25 +22,25 @@ Lorsque le destin est incertain et qu’on sent l’apparition d’une potentiel
 
 Le moteur est d’abord basé sur le bon sens et la connaissance du monde de Glorantha. Chaque obstacle contient son lot de difficultés à surmonter. Vous utilisez vos atouts pour espérer dépasser l’obstacle. 
 
-Les facteurs potentiellement déterminants se listent donc.
+Les mises potentiellement déterminantes se listent donc.
 
-Quand il y a opposition, il peut être intéressant de définir les objectifs de chaque partie et de créer les pools des facteurs de chaque partie en fonction des objectifs de l’un et l’autre.
+Quand il y a opposition, il peut être intéressant de définir les objectifs de chaque camp et de déterminer les mises de chaque camp en fonction des objectifs de l’un et l’autre.
 
-A veut ça: A+ les facteurs qui peuvent y mener, A- les facteurs qui peuvent contrecarrer l'objectif de A.
+A veut ça: A+ les mises qui peuvent y mener, A- les mises qui peuvent contrecarrer l'objectif de A.
 
-B veut ça: B+ les facteurs qui peuvent y mener, B- les facteurs qui peuvent contrecarrer l'objectif de B
+B veut ça: B+ les mises qui peuvent y mener, B- les mises qui peuvent contrecarrer l'objectif de B
 
 Opposition → A+, B- vs A-, B+
 
-**Facteurs pro A contre facteurs pro B**
+**Mises pro A contre mises pro B**
 
 On a le nombre de **mises** pour chaque **camp**. On va pouvoir procéder à la **résolution**.
 
-Quelque soit le cadre de pensée de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les facteurs des uns et des autres. 
+Quelque soit le cadre de pensée de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les mises acceptables des uns et des autres. 
 
 ### Et la difficulté dans tout ça?
 
-Déjà signalons que certains facteurs sont des facteurs cadre. Ils sont tellement impactants qu’ils forcent les autres facteurs à s’aligner et permettent d'exprimer ce qu’il ne sera pas possible de tenter. 
+Déjà signalons que certains facteurs sont des facteurs cadre. Ils sont tellement impactants qu’ils forcent les mises à s’aligner et permettent d'exprimer ce qu’il ne sera pas possible de tenter. 
 
 Pour autant si on veut s'entêter quand même a jouer hors cadre, on pourrait voir apparaître un delta de puissance entre les deux parties. 
 
@@ -48,13 +48,13 @@ Plutôt que d'exprimer cela par des multiplication de dés, on va voir plus loin
 
 Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des pools qui est en jeu. Une partie aura juste beaucoup plus de dés dans son pool que l’autre.
 
-### Les dés et les facteurs
+### Les dés et les mises
 
-Une fois les mises connues pour chaque camp, on perd le lien entre le facteur qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
+Une fois les mises connues pour chaque camp, on perd le lien entre la mise qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
 
 Le cadre de pensée peut servir à exprimer le résultat suivant le point de vue de ce cadre. 
 
-Les facteurs sont aussi là pour déterminer les éléments narratifs. Ils deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.  
+Les mises sont aussi là pour déterminer les éléments narratifs. Elles deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.  
 
 ### Obstacle abstrait
 
@@ -83,7 +83,7 @@ On peut amener de la nuance selon la différence de réussites.
 
 En cas d’égalité, on peut jouer le status quo ou faire gagner in extremis le protagoniste s’il y a un protagoniste dans le récit. 
 
-Dans tous les cas, les facteurs déterminants et les cadres de pensée servent la narration de l’interprétation. 
+Dans tous les cas, les mises et les cadres de pensée servent la narration de l’interprétation. 
 
 Et ce qui est essentiel de garder en tête, c'est le contexte de la situation qui sert a interpréter le résultat. 
 

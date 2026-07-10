@@ -38,7 +38,7 @@ Vous voulez voir le monde avec les yeux d'un trollinet ou d’un broo, allez y.
 
 ## Jeu en groupe
 
-Bien que prévu pour le mode solo, il doit être possible de jouer en groupe avec des joueurs connaissant bien Glorantha ou un MJ qui fait le travail nécessaire de pédagogie pour transmettre aux PJ de quoi proposer des facteurs cohérents pour Glorantha. 
+Bien que prévu pour le mode solo, il doit être possible de jouer en groupe avec des joueurs connaissant bien Glorantha ou un MJ qui fait le travail nécessaire de pédagogie pour transmettre aux PJ de quoi proposer des mises cohérentes pour Glorantha. 
 
 On verra plus loin que la mécanique du jeu invite le joueur à épouser un cadre de pensée spécifique à Glorantha.
 
