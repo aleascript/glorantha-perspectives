@@ -2,11 +2,9 @@
 title: "L'animisme: le monde des esprits"
 ---
 
-> *"À la mémoire de Greg Stafford. Il fut le premier à entendre le chant de la Création et, tel un véritable chaman, il nous a ouvert la voie du Monde des Esprits pour que nous puissions y tracer nos propres chemins."*
-
 > Un animiste ressent le monde. Il ressent le lien entre le monde invisible et visible. C’est comme ça qu’il peut interpréter, décider, agir. Les animistes sont entre les deux mondes: le mondain et le spirituel. C’est leur vision du monde. Toujours. Tout le temps.
 
-*Noms péjoratifs pour les autres: primitifs, sauvages…*
+*Noms péjoratifs pour les autres: primitifs, sauvages, ...*
 
 **Règles de résolution**
 
