@@ -1,0 +1,4 @@
+Sitemap: https://aleascript.github.io/glorantha-perspectives/sitemap.xml
+
+User-agent: *
+Allow: /

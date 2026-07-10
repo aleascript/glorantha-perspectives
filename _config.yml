@@ -4,9 +4,20 @@ baseurl: "/glorantha-perspectives"
 url: "https://aleascript.github.io"
 theme: jekyll-theme-cayman
 lang: fr
+author: AleaScript
+
+twitter:
+  card: summary
+
+logo: /assets/images/logo.png
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+      image: /assets/images/logo.png
