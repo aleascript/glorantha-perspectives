@@ -6,7 +6,7 @@ title: "Statistiques"
 
 Ces stats ont ete faites a la louche par IA
 
-![Répartition des statistiques par cadre de pensée](../assets/image.png)
+![Répartition des statistiques par cadre de pensée](image.png)
 
 Notons les stats 1D intéressantes. 
 

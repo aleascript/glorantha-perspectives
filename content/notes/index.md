@@ -31,3 +31,9 @@ Quelques réflexions sur les règles également.
 [Couleurs runiques](runic-colors)
 
 [Formes runiques](runic-forms)
+
+[Quelques monnaies](money)
+
+[Calendrier aléatoire](random-calendar)
+
+[Glorantha for newbies](gloranthix)
