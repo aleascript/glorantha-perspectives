@@ -7,6 +7,8 @@ title: Méditation sur les runes
  
  Les astrologues Busériens ont une idée bien arrêtée de l'ordre de ces runes dans le Cosmos. Ils méditent alors sur leur ordre en commençant par une des huit runes et en parcourant le cercle dans un sens ou dans l'autre (*"Les 16 parcours dans le Ciel"*)
 
+ Les Theyalans aiment bien gloser sur l'ordre des semaines du calendrier éponyme:  Désordre, Harmonie, Mort, Fertilité, Stase, Mouvement, Illusion, Vérité.
+
  D'autres sont plus ouverts, et aiment tirer par hasard l'ordre et trouver le lien menant à l'autre. Ils affinent leur sagesse pour prodiguer les meilleurs conseils aux gouvernants.
 
  Certains l'utilisent aussi comme examen dans les Universités des grandes Cités.
