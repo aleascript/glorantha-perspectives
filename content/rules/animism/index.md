@@ -12,7 +12,7 @@ title: "L'animisme: le monde des esprits"
 
 > Quand la piste s'efface, on appelle à soi les esprits du lieu et nos alliés invisibles, puis on écoute si le monde choisit de nous répondre à nous plutôt qu'à la menace.
  
-- On compte le nombre de réussites d'un [pool](../hades) animiste de la manière suivante:
+- On compte le nombre de réussites d'un [camp](../mises) animiste de la manière suivante:
     - Les pairs 2,4,6 comptent comme réussite (les esprits répondent)
     - Les impairs 3,5 ont un effet neutre (les esprits restent indifférents)
     - Les 1 annulent une réussite 6 (les grands esprits sont très versatiles et difficiles à convaincre)
@@ -23,7 +23,7 @@ title: "L'animisme: le monde des esprits"
 **Modes de puissance**
 
 - Mode **affaibli**: les esprits sont moins réceptifs. Les grands esprits (6) ne sont plus du tout contrôlables. Et donc 2-4 réussite, 1-3-5-6 neutre.
-- Mode **héroïque**: alignement spirituel : si plus petit dé et plus grand dé sont de même parité (pairs ou impairs), réussite totale de tout le pool.
+- Mode **héroïque**: alignement spirituel : si plus petit dé et plus grand dé sont de même parité (pairs ou impairs), réussite totale de **toutes** les mises.
 
 **Commentaires**
 

@@ -6,7 +6,7 @@ title: Accueil
 
 # Glorantha Perspectives
 
-Ressources diverses pour l'univers-jeu **Glorantha**
+Ressources diverses pour explorer l'univers-jeu **Glorantha**
 
 - Des [règles](content/rules) diégétiques alignant gameplay et roleplay
 - Un moteur d'[inspiration runique](content/rules/runes/inspiration)

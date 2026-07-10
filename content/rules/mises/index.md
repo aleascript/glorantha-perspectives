@@ -1,8 +1,10 @@
 ---
-title: Hasard & Destin
+title: Camps & Mises
 ---
 
 > Quand le destin hésite, on rassemble tout ce qui fait notre force, dans la chair comme dans l'invisible, et l'on regarde de quel côté le sort va pencher face à ce qui s'oppose à nous.
+
+Principe: face à l'adversité, on mise sur tout ce qui pourrait, dans cette situation, nous servir. L'adversaire ou l'obstacle fait de même. Et ensuite
 
 Une  résolution intervient pour déterminer  une bifurcation narrative. Elle n’est là que pour servir le récit. On ne fait donc pas de résolution à tout bout de champ. On peut même choisir de résoudre une opposition une première fois et ne pas le faire une seconde fois si ça n’amène rien à a dynamique du récit. 
 
@@ -12,11 +14,11 @@ Le système a été inventé pour que les joueurs gardent en permanence en tête
 
 Lorsque le destin est incertain et qu’on sent l’apparition d’une potentielle bifurcation narrative, on procède en trois étapes: 
 
-- Chaque partie détermine ce qui est important à ce moment là.  En s’immergeant dans le monde, la situation, le focus qu'on souhaite, on détermine donc les éléments à mettre dans la balance
-- La résolution des éléments se fait ensuite avec des règles différentes suivant la vision du monde de chaque camp, selon qu’on est animiste, théiste, mystique ou logicien. Chaque camp obtient donc un certain nombre de réussites.
-- L’interprétation du résultat se fait en se basant sur la situation, le focus mis en place,  les objectifs et les stratégies des uns ou des autres.
+- Chaque partie détermine ce qui est important à ce moment là.  En s’immergeant dans le monde, la situation, le focus qu'on souhaite, on détermine donc les éléments à mettre dans la balance: les **mises**
+- La **résolution** des mises se fait ensuite avec des règles différentes suivant la vision du monde de chaque camp, selon qu’on est [animiste](../animism), [théiste](../theism), [mystique](../mysticism) ou [logicien](../mysticism/index.md). Chaque camp obtient donc un certain nombre de réussites.
+- L’**interprétation du résultat** se fait en se basant sur la situation, le focus mis en place,  les objectifs et les stratégies des uns ou des autres.
 
-## Détermination des pools de dés
+## Détermination des mises
 
 Le moteur est d’abord basé sur le bon sens et la connaissance du monde de Glorantha. Chaque obstacle contient son lot de difficultés à surmonter. Vous utilisez vos atouts pour espérer dépasser l’obstacle. 
 
@@ -32,9 +34,9 @@ Opposition → A+, B- vs A-, B+
 
 **Facteurs pro A contre facteurs pro B**
 
-On a le nombre de dés de chaque pool. On va pouvoir procéder au tirage.
+On a le nombre de **mises** pour chaque **camp**. On va pouvoir procéder à la **résolution**.
 
-Quelque soit le cadre de pensée de votre personnage, c’est toujours la même méthode pour créer les pools de manière narrative. La spécificité se retrouvera dans les facteurs des uns et des autres. 
+Quelque soit le cadre de pensée de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les facteurs des uns et des autres. 
 
 ### Et la difficulté dans tout ça?
 
@@ -48,23 +50,30 @@ Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nou
 
 ### Les dés et les facteurs
 
-Une fois dans le pool, on perd le lien entre le facteur qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
+Une fois les mises connues pour chaque camp, on perd le lien entre le facteur qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
 
 Le cadre de pensée peut servir à exprimer le résultat suivant le point de vue de ce cadre. 
 
 Les facteurs sont aussi là pour déterminer les éléments narratifs. Ils deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.  
 
-### Pool miroir
+### Obstacle abstrait
 
-Le système est utilisé par chaque partie en fonction de son cadre de pensée. Si l'obstacle est abstrait, sa partie sera résolue par le cadre de pensée de la partie adverse (jeu de miroir).
+Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils correspondent simplement à la matérialité du monde.
+
+Deux possibilités:
+
+- **Miroir**: Utiliser des mises du même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique.
+
+- **Générique**: Utiliser un cadre "matérialiste" simple: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Pas d'autres règles d'ajustement des mises une fois le tirage effectué.
+
 
 > Exemple: Un mystique escaladant une montagne génère 2 pools: un pour lui et un pour l’obstacle. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de la montagne se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
 
 ## Les tirages
 
-Selon la vision du monde des protagonistes, leurs méthodes de résolution diffèrent. La façon de jouer le tirage d’un pool est différent pour un [animiste](../animism), un [théiste](../theism), un [logicien](../logic) ou un [mystique](../mysticism/). 
+Selon la vision du monde des protagonistes, leurs méthodes de résolution diffèrent. La façon de jouer le tirage d’un camp est différent pour un [animiste](../animism), un [théiste](../theism), un [logicien](../logic) ou un [mystique](../mysticism/). 
 
-Chaque tirage permet de déterminer un nombre de réussites qu’on compare au nombre de réussites de l’autre pool. 
+Chaque tirage permet de déterminer un nombre de réussites qu’on compare au nombre de réussites de l’autre camp. 
 
 ## Interprétation du résultat
 
@@ -92,6 +101,6 @@ Si l’on veut, on peut s’aider de la grille de lecture suivante:
 
 ### Les rétributions
 
-Les joueurs aiment voir les personnages évoluer.  Les évolutions sont toujours racontées dans le système gloranthien. Il n’y a pas de meta-game, ou en tout cas le moins possible. Pas de bonus. Malus. 
+Les joueurs aiment voir les personnages évoluer.  Les évolutions sont toujours racontées dans le système gloranthien. Il n’y a pas de meta-game, ou en tout cas le moins possible. Pas de bonus, malus. 
 
 C’est donc à la Destinée d’imaginer des rétributions: liens, attaches, cadeaux, nouveau pouvoir ou prise de conscience…

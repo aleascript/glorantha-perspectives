@@ -14,9 +14,9 @@ title: "Pensée Draconique : le Rêve du Dragon"
 
 Le tirage des dés révèle comment le dragonewt s'intègre à la réalité ou s'il décide de la tordre. 
 
-Les pools draconiques sont constituées de D8. 
+Les mises draconiques sont représentées par des D8. 
 
--  On compte le nombre de réussites d'un [pool](../hades) draconique de la manière suivante:
+-  On compte le nombre de réussites d'un [camp](../mises) draconique de la manière suivante:
     - **Le Matérialisme (L'Action Normée) :** Tout dé pair (2, 4, 6, 8) compte pour une réussite  sans aucune conséquence spirituelle négative.
 - **Le Déchirement Draconique :** Si le tirage révèle des motifs d'altération supérieurs, une décision stricte doit être prise pour *chaque* motif complexe identifié :
     - **La Stase de l'Œuf :** Les dés affichant des valeurs identiques (doublons, triplons,…).
@@ -27,7 +27,7 @@ Les pools draconiques sont constituées de D8.
     - **Le Wyrm :** Le motif complexe peut être converti en réussite. Et cela permettra de remporter l’opposition en plus des réussites matérialistes. Mais en contrepartie, le dragonewt force le monde avec l'Auld Wyrmish et s'y ancre. Il reçoit obligatoirement un nouveau *lien* ou une *attache négative*. Il gagne le conflit matériel, mais régresse spirituellement.
     - **L'Utuma (Le Sacrifice) :** Il décide d’ignorer l’avantage de l’Auld Wyrmish pour maintenir son évolution spirituelle. En cas de décès, il gagnera sans doute un stade supérieur lors de sa prochaine incarnation.
 
-> Note: en cas d'obstacle abstrait, non draconique, donc miroir du personnage draconique, le pool opposé n'aura pas de scrupule pour jouer le Wyrm.
+> Note: en cas d'obstacle abstrait, non draconique, donc miroir du personnage draconique, le camp opposé n'aura pas de scrupule pour jouer le Wyrm.
 
 **Modes de puissance**
 

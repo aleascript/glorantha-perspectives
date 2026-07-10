@@ -18,4 +18,4 @@ Quelques réflexions sur les règles également.
 
 [Statistiques du jeu](stats)
 
-[A propos des pools](pools)
+[A propos des mises](mises)

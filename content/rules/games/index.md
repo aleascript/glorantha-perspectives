@@ -48,11 +48,11 @@ Un des joueurs jouera la Destinée (le MJ) et les joueurs auront chacun un perso
 
 Le MJ peut faire jouer un scénario préconçu mais aussi improviser à partir des jets de rune. 
 
-Le MJ a le dernier mot sur les facteurs des pools. 
+Le MJ a le dernier mot sur les mises. 
 
 ### Le mode partagé
 
-Tous les joueurs jouent la Destinée. On tourne. On commence par un joueur qui expose son idée et tire les runes. On démarre l’histoire. Quand il y a plusieurs personnages dans une scène, on se répartit les rôles entre joueurs pour déterminer les pools et jouer les personnages. 
+Tous les joueurs jouent la Destinée. On tourne. On commence par un joueur qui expose son idée et tire les runes. On démarre l’histoire. Quand il y a plusieurs personnages dans une scène, on se répartit les rôles entre joueurs pour déterminer les mises et jouer les personnages. 
 
 On change de Destinée à chaque fin de scène (dans le sens des aiguilles d’une montre par exemple). 
 

@@ -16,10 +16,10 @@ Exemples possibles:
 
 > L’autre camp fait un tirage qui aurait du écraser le mystique mais les règles mystiques finissent par inverser totalement le résultat. La stupeur ressentie peut engendrer une Illumination.
 
-- Pool de même taille à la fin du tirage
+- Camps contenant le même nombre de mises
 - Côté mystique : quasiment que des 1 et un 6
-- Côté other: autant de 6 que de 1 dans le pool mystique et un 1 impair.
-- Résultat: pool mystique 6 et pool other 1
+- Côté other: autant de 6 que de 1 dans le camp mystique et un 1 impair.
+- Résultat: camp mystique: 6 et camp other: 1
 
 ### La révélation par le basculement
 
