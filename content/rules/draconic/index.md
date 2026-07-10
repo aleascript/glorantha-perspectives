@@ -4,6 +4,8 @@ title: "Pensée Draconique : le Rêve du Dragon"
 
 > Un adepte de la voie draconique lit le monde à travers des paradoxes et une vision globale de son propre tirage. Il participe à la réalité matérielle comme les autres, mais sait que forcer l'illusion avec sa magie cosmique le lie un peu plus à ce monde, retardant sa propre mue vers le stade de Vrai Dragon. Son véritable pouvoir spirituel réside dans sa force à renoncer à vaincre lorsque l'opportunité magique se présente.
 
+![dices](assets/draconic_dices.png)
+`Utuma avec II réussites ou Wyrm avec IV réussites?`
 
 *Noms péjoratifs pour les autres: monstres, incompréhensibles...*
 
