@@ -2,7 +2,7 @@
 title: "Couleurs runiques"
 ---
 
-On a vu plus haut que le monde était chatoyant et cela va même jusqu'aux attributs physiques: peau, yeux, cheveux.
+Le monde de Glorantha est chatoyant et cela va même jusqu'aux attributs physiques: peau, yeux, cheveux.
 
 On peut en effet, relier la couleur de peau, des yeux et des cheveux à la rune forte.
 
