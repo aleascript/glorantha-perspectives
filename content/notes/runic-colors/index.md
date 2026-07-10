@@ -16,12 +16,12 @@ Tous les organes ne sont pas forcément marqués. Certains auront des yeux orang
 
 Voici quelques couleurs:
 
-    air: orange ou bleu
-    terre: vert olive ou marron
-    lune: rouge ou blanc
-    eau: bleu ou blanc
-    obscurité: gris terne ou noir
-    feu: jaune ou rouge
+- **Air**: orange ou bleu
+- **Terre**: vert olive ou marron
+- **Lune**: rouge ou blanc
+- **Eau**: bleu ou blanc
+- **Obscurité**: gris terne ou noir
+- **Feu**: jaune ou rouge
 
 Les autres runes peuvent aussi colorer un personnage.
 
