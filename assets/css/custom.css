@@ -1,9 +1,3 @@
-/* Couleurs Cayman personnalisées — à placer AVANT l'import */
-$header-bg-color: "#8f3b1b";
-$header-bg-color-secondary: "#2f1a14";
-
-@import "{{ site.theme }}";
-
 .site-nav {
   margin-bottom: 1rem;
   text-align: center;
@@ -36,6 +30,12 @@ $header-bg-color-secondary: "#2f1a14";
   margin-top: 0;
 }
 
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #995615;
+    background-image: linear-gradient(120deg, #041a8b, #ede7bc);
+}
 
 .site-footer-owner .chaosium-notice {
   color: #999;
