@@ -6,7 +6,7 @@
   <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-  <img src="assets/header.png" width="100%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/header.png" width="100%">
 </head>
 <body>
   <header class="page-header">
