@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Glorantha Perspectives - Fichier de Contexte IA
+
+Ceci est le document consolidé du site Glorantha Perspectives, conçu spécifiquement pour les modèles de langage (LLMs). Il contient l'intégralité des règles diégétiques, du moteur d'inspiration runique et des histoires.
+
+{% assign ai_pages = site.pages | where_exp: "item", "item.path contains 'content/'" %}
+
+{% for page in ai_pages %}
+## {{ page.title | default: page.name }}
+
+{{ page.content | strip_html }}
+
+---
+{% endfor %}
