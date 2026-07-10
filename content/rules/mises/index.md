@@ -4,7 +4,7 @@ title: Camps & Mises
 
 > Quand le destin hésite, on rassemble tout ce qui fait notre force, dans la chair comme dans l'invisible, et l'on regarde de quel côté le sort va pencher face à ce qui s'oppose à nous.
 
-Principe: face à l'adversité, on mise sur tout ce qui pourrait, dans cette situation, nous servir. L'adversaire ou l'obstacle fait de même. Et ensuite
+Principe: face à l'adversité, on mise sur tout ce qui pourrait, dans cette situation, nous servir. L'adversaire ou l'obstacle fait de même. Et ensuite on procède à un tirage pour résoudre.
 
 Une  résolution intervient pour déterminer  une bifurcation narrative. Elle n’est là que pour servir le récit. On ne fait donc pas de résolution à tout bout de champ. On peut même choisir de résoudre une opposition une première fois et ne pas le faire une seconde fois si ça n’amène rien à a dynamique du récit. 
 
@@ -34,6 +34,10 @@ Opposition → A+, B- vs A-, B+
 
 **Mises pro A contre mises pro B**
 
+ou encore
+
+**Atouts, tactiques pour contrer les difficultés, dangers de l'adversaire**
+
 On a le nombre de **mises** pour chaque **camp**. On va pouvoir procéder à la **résolution**.
 
 Quelque soit le cadre de pensée de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les mises acceptables des uns et des autres. 
@@ -46,7 +50,7 @@ Pour autant si on veut s'entêter quand même a jouer hors cadre, on pourrait vo
 
 Plutôt que d'exprimer cela par des multiplication de dés, on va voir plus loin que chaque cadre de pensée possède un mode affaibli et un mode héroïque. 
 
-Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des pools qui est en jeu. Une partie aura juste beaucoup plus de dés dans son pool que l’autre.
+Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des mises qui est en jeu. Une partie aura juste beaucoup plus de dés de son côté que l’autre.
 
 ### Les dés et les mises
 
@@ -62,12 +66,12 @@ Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils cor
 
 Deux possibilités:
 
-- **Miroir**: Utiliser des mises du même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique.
+- **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique.
 
-- **Générique**: Utiliser un cadre "matérialiste" simple: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Pas d'autres règles d'ajustement des mises une fois le tirage effectué.
+- **Agnostique** ou **Matérialiste**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué.
 
 
-> Exemple: Un mystique escaladant une montagne génère 2 pools: un pour lui et un pour l’obstacle. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de la montagne se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
+> Exemple: Un mystique escaladant une montagne va générer des mises pour lui et des mises représentant les difficultés à surmonter. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de l'obstacle se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
 
 ## Les tirages
 
@@ -103,4 +107,4 @@ Si l’on veut, on peut s’aider de la grille de lecture suivante:
 
 Les joueurs aiment voir les personnages évoluer.  Les évolutions sont toujours racontées dans le système gloranthien. Il n’y a pas de meta-game, ou en tout cas le moins possible. Pas de bonus, malus. 
 
-C’est donc à la Destinée d’imaginer des rétributions: liens, attaches, cadeaux, nouveau pouvoir ou prise de conscience…
+C’est donc à la Destinée d’imaginer des rétributions: liens, attaches, cadeaux, nouveau pouvoir, prise de conscience...
