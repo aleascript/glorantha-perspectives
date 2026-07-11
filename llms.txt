@@ -2,16 +2,47 @@
 layout: null
 permalink: /llms.txt
 ---
-# Glorantha Perspectives - Fichier de Contexte IA
 
-Ceci est le document consolidé du site Glorantha Perspectives, conçu spécifiquement pour les modèles de langage (LLMs). Il contient l'intégralité des règles diégétiques, du moteur d'inspiration runique et des histoires.
+# Glorantha Perspectives
 
-{% assign ai_pages = site.pages | where_exp: "item", "item.path contains 'content/'" | reject_exp: "item", "item.path contains 'content/stories/'" %}
+> Ressources diégétiques pour explorer l'univers-jeu Glorantha : règles, réflexions et outils de jeu alignant gameplay et roleplay.
 
-{% for page in ai_pages %}
-## {{ page.title | default: page.name }}
+## Règles
 
-{{ page.content | strip_html }}
+- [Règles](https://aleascript.github.io/glorantha-perspectives/content/rules/): Vue d'ensemble des règles diégétiques
+- [Animisme](https://aleascript.github.io/glorantha-perspectives/content/rules/animism/): Le monde des esprits
+- [Spirit bag](https://aleascript.github.io/glorantha-perspectives/content/rules/animism/spirit-bag/): Mises alternatives avec un sac à cailloux
+- [Aptitudes chamaniques](https://aleascript.github.io/glorantha-perspectives/content/rules/animism/aptitudes/): Aptitudes de la rune de l'Esprit
+- [Théisme](https://aleascript.github.io/glorantha-perspectives/content/rules/theism/): Les panthéons et cultes
+- [Cartes runiques](https://aleascript.github.io/glorantha-perspectives/content/rules/theism/runic-cards/): Mises avec un paquet de cartes runiques
+- [Logique du Dieu Invisible](https://aleascript.github.io/glorantha-perspectives/content/rules/logic/): Vision rationnelle du monde
+- [Mysticisme](https://aleascript.github.io/glorantha-perspectives/content/rules/mysticism/): Déconstruction de l'illusion du réel
+- [Les billes mystiques](https://aleascript.github.io/glorantha-perspectives/content/rules/mysticism/mystical-marbles/): Outil pour les mystiques
+- [Pensée draconique](https://aleascript.github.io/glorantha-perspectives/content/rules/draconic/): Le Rêve du Dragon
+- [Ars Draconis Magica](https://aleascript.github.io/glorantha-perspectives/content/rules/draconic/ars-draconis-magica/): Grimoire de magie draconique
+- [La Voie Lunaire](https://aleascript.github.io/glorantha-perspectives/content/rules/moon/): Magie lunaire et cycle lunaire
+- [L'Illumination](https://aleascript.github.io/glorantha-perspectives/content/rules/illumination/): Oppression mystique et duel de questions
+- [Quêtes héroïques](https://aleascript.github.io/glorantha-perspectives/content/rules/heroquests/): Accéder à l'Autre Côté
+- [Créer des mythes](https://aleascript.github.io/glorantha-perspectives/content/rules/heroquests/myths/): Histoires du temps des Dieux
+- [Inspiration runique](https://aleascript.github.io/glorantha-perspectives/content/rules/runes/inspiration/): Les runes tissent la réalité
+- [Camps & Mises](https://aleascript.github.io/glorantha-perspectives/content/rules/mises/): Rassembler sa force dans l'invisible
+- [Exemple de mises](https://aleascript.github.io/glorantha-perspectives/content/rules/mises/sample/): Illustration concrète d'une opposition
+- [Modes de jeu](https://aleascript.github.io/glorantha-perspectives/content/rules/games/): Solo et exploration de Glorantha
 
----
-{% endfor %}
+## Optional
+
+- [Notes](https://aleascript.github.io/glorantha-perspectives/content/notes/): Notes diverses sur Glorantha
+- [Plusieurs cadres de pensée](https://aleascript.github.io/glorantha-perspectives/content/notes/multiple-referentials/): Syncretismes entre cadres
+- [Le Chaos](https://aleascript.github.io/glorantha-perspectives/content/notes/chaos/): Réflexions sur le Chaos
+- [Nouveaux cadres](https://aleascript.github.io/glorantha-perspectives/content/notes/new-referentials/): Créer un nouveau cadre de pensée
+- [De l'inspiration](https://aleascript.github.io/glorantha-perspectives/content/notes/inspiration/): Sources d'inspiration pour Glorantha
+- [Statistiques](https://aleascript.github.io/glorantha-perspectives/content/notes/stats/): Stats des règles
+- [Réflexions sur les mises](https://aleascript.github.io/glorantha-perspectives/content/notes/mises/): Mises et cadres multiples
+- [Méditation sur les runes](https://aleascript.github.io/glorantha-perspectives/content/notes/runes-meditation/): Ordre des runes de pouvoir
+- [Thèmes gloranthiens](https://aleascript.github.io/glorantha-perspectives/content/notes/themas/): Thèmes de la Guerre des Héros
+- [Yet Another Glorantha](https://aleascript.github.io/glorantha-perspectives/content/notes/yet-another-glorantha/): S'éloigner du canon
+- [Couleurs runiques](https://aleascript.github.io/glorantha-perspectives/content/notes/runic-colors/): Couleur et rune forte
+- [Formes runiques](https://aleascript.github.io/glorantha-perspectives/content/notes/runic-forms/): Formalisation des runes
+- [La monnaie](https://aleascript.github.io/glorantha-perspectives/content/notes/money/): Monnaies en cours dans Glorantha
+- [Calendrier aléatoire](https://aleascript.github.io/glorantha-perspectives/content/notes/random-calendar/): Tirer un jour du calendrier
+- [Glorantha for newbies](https://aleascript.github.io/glorantha-perspectives/content/notes/gloranthix/): Présentation du monde pour les nouveaux joueurs
