@@ -94,6 +94,8 @@ Nous allâmes nous coucher dans la vaste maison de Caius, qui se révélait un h
 
 Le lendemain, je retrouvai le conseiller aux thermes de la cité. Ces derniers, nouvellement érigés, avaient été inaugurés par le roi quelques jours plus tôt (ce qui expliquait sa venue à Bagnot, dans l'optique d'asseoir son règne par une vision civilisatrice). J'étais accompagné de Jaridan. 
 
+![Lunarium](lunarium.png)
+
 C'est au cœur de la fumée rouge du *Lunarium* que l'homme réapparut. Je remarquai qu'il n'y avait que très peu de locaux dans les bains. Il se présenta enfin : 
 
 > **Imex Rapiis :** "Imex Rapiis, conseiller stratégique et tactique auprès du Roi. Pharandros est jeune et découvre encore le monde barbare. Ce n'est pas l'Empire ici, mais seulement une province. Par chance, c'est la plus riche des Provinces. Je suis là pour que la Prospérité règne, pour que les chefs barbares n'aient aucun intérêt à se rebeller et pour que la *Lunar Pax* persiste. C'est pour cela que nous avons construit ces Thermes."
