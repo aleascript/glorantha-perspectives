@@ -35,6 +35,8 @@ Il répondit : "Puissions-nous satisfaire le Fils de la Lune, et bienvenue à to
 
 Je regardais la nomade des pieds à la tête et frémis en pensant que ce sont des gens comme elle qui, plusieurs fois, mirent l'Empire à feu et à sang, jusqu'à même assassiner l'Empereur.
 
+![Fazzur](dunstop-fazzur.png)
+
 "Même s'il est difficile de gagner une guerre, il l'est tout autant de conserver et d'imposer la paix", reprit Fazzur. "La guerre laisse des traces, des ressentiments parmi les vaincus et ils cherchent toujours à prendre leur revanche. Nous les écraserons s'il le faut, mais nous devons être prêts. C'est pour cela que j'ai besoin de vous quatre pour consolider nos positions, être mes yeux, mes oreilles. Furetez, enquêtez, représentez notre cause. Vous avez carte blanche. Revenez dans un an pour faire votre rapport. Vous pouvez disposer."
 
 "J'accepte volontiers", dis-je.
