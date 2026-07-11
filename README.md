@@ -74,7 +74,7 @@ brew install pandoc weasyprint
 
 ### `generate-full-content.sh`
 
-Génère `full-content.md` à la racine du projet en concaténant toutes les pages Markdown de `content/rules/` et `content/notes/`.
+Génère `full-content/index.md` en concaténant toutes les pages Markdown de `content/rules/` et `content/notes/`. Le fichier inclut un front matter Jekyll pour être rendu comme page du site.
 
 ```bash
 # Depuis la racine du projet
@@ -90,7 +90,7 @@ L'algorithme :
 
 ### `generate-pdf.sh`
 
-Convertit `full-content.md` en `full-content.pdf` (A4, images intégrées, styles CSS).
+Convertit `full-content/index.md` en `full-content/full-content.pdf` (A4, images intégrées, styles CSS).
 
 ```bash
 # Depuis la racine du projet
@@ -116,6 +116,9 @@ Le fichier `tools/pdf-style.css` est généré automatiquement à la première e
 │   ├── notes/           # Notes diverses
 │   ├── stories/         # Histoires et sagas
 │   └── rules/           # Règles diégétiques
+├── full-content/        # Document consolidé (généré)
+│   ├── index.md
+│   └── full-content.pdf
 ├── tools/               # Scripts utilitaires
 │   ├── generate-full-content.sh
 │   ├── generate-pdf.sh

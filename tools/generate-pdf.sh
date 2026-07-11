@@ -3,8 +3,8 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-INPUT="$PROJECT_ROOT/full-content.md"
-OUTPUT="$PROJECT_ROOT/full-content.pdf"
+INPUT="$PROJECT_ROOT/full-content/index.md"
+OUTPUT="$PROJECT_ROOT/full-content/full-content.pdf"
 CSS="$SCRIPT_DIR/pdf-style.css"
 
 if [ ! -f "$INPUT" ]; then

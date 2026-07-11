@@ -15,3 +15,5 @@ Ressources diverses pour explorer l'univers-jeu **Glorantha**
   - La Voie Lunaire
   - Le bannissement de Gurdtar
 - Diverses [notes](content/notes)
+
+[_](full-content)

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate full-content.md: concatenates all rules and notes pages
+Generate full-content/index.md: concatenates all rules and notes pages
 from the Glorantha Perspectives Jekyll site.
 
 Algorithm per section:
@@ -15,6 +15,7 @@ ROOT = Path(__file__).parent.parent.resolve()
 CONTENT = ROOT / "content"
 RULES = CONTENT / "rules"
 NOTES = CONTENT / "notes"
+OUT_DIR = ROOT / "full-content"
 
 visited = set()
 output_lines = []
@@ -149,9 +150,11 @@ process_section(RULES)
 process_section(NOTES)
 
 # Write output
+OUT_DIR.mkdir(exist_ok=True)
 result = "".join(output_lines).strip() + "\n"
-output_path = ROOT / "full-content.md"
-output_path.write_text(result, encoding='utf-8')
+front_matter = "---\ntitle: \"Full Content (Rules & Notes only)\"\n---\n\n"
+output_path = OUT_DIR / "index.md"
+output_path.write_text(front_matter + result, encoding='utf-8')
 
 print(f"Generated: {output_path}")
 print(f"Pages included: {len(visited)}")

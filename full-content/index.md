@@ -1,3 +1,7 @@
+---
+title: "Full Content (Rules & Notes only)"
+---
+
 # Règles
 Règles diégétiques alignant gameplay et roleplay dans l'univers de Glorantha.
 
