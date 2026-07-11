@@ -433,14 +433,14 @@ _Table des runes de pouvoir:_
 
 | **Chiffre** | **Rune** | **Thèmes** | **Exemples** |
 | --- | --- | --- | --- |
-| 1️⃣ | ![Mouvement](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations… |
-| 2️⃣ | ![Mort](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/mort.png) | **Menace** | ce qui est différent, l’autre, l’ennemi… |
-| 3️⃣ | ![Harmonie](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… |
-| 4️⃣| ![Stase](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… |
-| 5️⃣ | ![Vie](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… |
-| 6️⃣ | ![Désordre](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… |
-| 7️⃣ | ![Vérité](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… |
-| 8️⃣ | ![Illusion](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… |
+| **[1]** | ![Mouvement](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations… |
+| **[2]** | ![Mort](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/mort.png) | **Menace** | ce qui est différent, l’autre, l’ennemi… |
+| **[3️]** | ![Harmonie](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… |
+| **[4️]** | ![Stase](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… |
+| **[5️]** | ![Vie](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… |
+| **[6️]** | ![Désordre](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… |
+| **[7️]** | ![Vérité](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… |
+| **[8️]** | ![Illusion](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… |
 
 Main gauche et main droite (2d8 ou 8 cartes)
 
