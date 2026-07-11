@@ -2,7 +2,7 @@
 title: Exemple de détermination des mises
 ---
 
-Voici un exemple concret de mise en place des pools pour une opposition dans **Glorantha Perspectives**, en illustrant spécifiquement l'impact du focus et d'un facteur cadre.
+Voici un exemple concret de détermination des mises pour une opposition dans **Glorantha Perspectives**, en illustrant spécifiquement l'impact du focus et d'un facteur cadre.
 
 ### Le Contexte de la Scène
 
@@ -23,9 +23,9 @@ Les règles expliquent que certains facteurs sont des "facteurs cadre" qui sont 
 - **Le Facteur Cadre :** Le lieu est le *Saint des Saints d'Ernalda*, régi par le mythe de **La Paix d'Ernalda**. Dans cet espace, toute forme d'agression, de violence ou même de haussement de voix est métaphysiquement étouffée par la Déesse de la Terre.
 - **Conséquence sur les facteurs :** Kallyr aurait pu vouloir utiliser son trait *Colérique* ou son statut de *Guerrière intimidante* pour faire pression sur la prêtresse. Mais le facteur cadre force les autres facteurs à s'aligner. Il est strictement impossible de recourir à l'intimidation ici sous peine de voir la magie du temple la paralyser. Ces facteurs lui sont inaccessibles.
 
-### 3. La Mise en place des Pools
+### 3. La Mise en place des mises
 
-Pour créer les pools de manière narrative, la méthode consiste à croiser les facteurs favorables et défavorables en fonction des objectifs de chacun.
+Pour déterminer les mises valables de manière narrative, la méthode consiste à croiser les facteurs favorables et défavorables en fonction des objectifs de chacun.
 **Définition des objectifs :**
 
 - **Camp A (Kallyr) :** Veut obtenir la relique pour protéger le clan.
@@ -45,7 +45,7 @@ Pour créer les pools de manière narrative, la méthode consiste à croiser les
 - **Facteurs contrecarrant Yanela :**
     - *L'Amour de la communauté* (Yanela est une mère pour le clan, l'idée que son peuple soit massacré affaiblit sa résolution).
 
-### 4. Bilan de l'Opposition (Les Pools Finaux)
+### 4. Bilan de l'Opposition
 
 On se retrouve donc avec une résolution de 4 mises contre 4 mises.
 
