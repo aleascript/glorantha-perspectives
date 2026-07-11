@@ -54,6 +54,54 @@ bundle exec jekyll build
 
 Les fichiers générés se trouvent dans le dossier `_site/`.
 
+## Outils
+
+Deux scripts dans `tools/` permettent de générer un document unique contenant tout le contenu du site.
+
+### Prérequis techniques
+
+- **Python** 3.x (pour `generate-full-content.sh`)
+- **pandoc** (pour `generate-pdf.sh`)
+- **weasyprint** (pour `generate-pdf.sh`)
+
+```bash
+# Ubuntu / Debian
+sudo apt install pandoc weasyprint
+
+# macOS (Homebrew)
+brew install pandoc weasyprint
+```
+
+### `generate-full-content.sh`
+
+Génère `full-content.md` à la racine du projet en concaténant toutes les pages Markdown de `content/rules/` et `content/notes/`.
+
+```bash
+# Depuis la racine du projet
+python3 tools/generate-full-content.sh
+
+# Depuis tools/
+cd tools && python3 generate-full-content.sh
+```
+
+L'algorithme :
+1. Page d'index de la section → liens directs (même section) → orphelins
+2. Même logique pour chaque section (rules puis notes)
+
+### `generate-pdf.sh`
+
+Convertit `full-content.md` en `full-content.pdf` (A4, images intégrées, styles CSS).
+
+```bash
+# Depuis la racine du projet
+bash tools/generate-pdf.sh
+
+# Depuis tools/
+cd tools && bash generate-pdf.sh
+```
+
+Le fichier `tools/pdf-style.css` est généré automatiquement à la première exécution et peut être personnalisé.
+
 ## Structure du projet
 
 ```
@@ -68,6 +116,10 @@ Les fichiers générés se trouvent dans le dossier `_site/`.
 │   ├── notes/           # Notes diverses
 │   ├── stories/         # Histoires et sagas
 │   └── rules/           # Règles diégétiques
+├── tools/               # Scripts utilitaires
+│   ├── generate-full-content.sh
+│   ├── generate-pdf.sh
+│   └── pdf-style.css
 ├── index.md             # Page d'accueil
 ├── Gemfile              # Dépendances Ruby
 ├── .gitignore           # Fichiers ignorés par Git

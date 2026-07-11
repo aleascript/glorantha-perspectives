@@ -20,7 +20,7 @@ title: "L'animisme: le monde des esprits"
 
 **Modes de puissance**
 
-- Mode **affaibli**: les esprits sont moins réceptifs. Les grands esprits (6) ne sont plus du tout contrôlables. Et donc 2-4 réussite, 1-3-5-6 neutre.
+- Mode **affaibli**: les esprits sont moins réceptifs. Les grands esprits (6) ne sont plus du tout contrôlables. Et donc 2-4 réussite, 1-3-5-6 neutre. Et il perd la capacité de récupérer des bénédictions ou de lier des esprits.
 - Mode **héroïque**: alignement spirituel : si plus petit dé et plus grand dé sont de même parité (pairs ou impairs), réussite totale de **toutes** les mises.
 
 **Commentaires**
