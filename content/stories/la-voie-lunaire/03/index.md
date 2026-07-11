@@ -29,9 +29,10 @@ Récit d'Ikarnos: "Je tentais de m'entretenir avec le décurion qui commandait l
 > 🎲 Victoire marginale 
 
 Récit de Peek-ee-Peek: "Je tentais de provoquer un accident sur le soldat qui m'avait manqué de respect toute la journée. Les esprits m'accompagnent et guident ma route. Je murmurais donc à *Esprit de la Bête* d'aller faire ruer soudainement le cheval du décurion pour envoyer un coup de sabot au soldat. Le cheval rua, mais le soldat ne fut pas touché, et le décurion ne chuta pas non plus. L'événement parut étrange à tous et jeta un grand silence dans les rangs. Au moins, ils arrêtèrent de me chercher des noises et se mirent sur leurs gardes, croyant à un ennemi invisible tout proche. Des éclaireurs partirent. Nous perdîmes du temps, mais je souriais intérieurement : j'avais obtenu le calme."
-  
-**Objectifs de Jaridan et Hanya :** Rien de spécial.
 
+![De Dunstop a Bagnot](dunstop-to-bagnot.png)
+
+**Objectifs de Jaridan et Hanya :** Rien de spécial.
 
 # Halte à Bagnot
 
@@ -70,6 +71,8 @@ Nous décidâmes d'envoyer en ambassade chez Pharandros uniquement moi-même (Ik
 Je me fis donc annoncer aux côtés d'Hanya auprès de Pharandros. Le roi était jeune, beau, charismatique, arborant des cheveux bouclés blonds et un sourire communicatif. Nous fûmes parfaitement reçus, car à ses yeux, *"les amis de son oncle le sont forcément"*. Le jeune souverain était entouré de conseillers souvent bien plus âgés que lui, mais je remarquai rapidement que ces derniers ne semblaient pas le dominer pour autant. 
 
 Je présentai notre mission qui m'amenait à voyager vers les terres de Prax, récemment conquises. La vision du jeune roi était claire : en apportant les bienfaits lunaires aux populations locales, celles-ci cesseraient presque naturellement d'être une menace, tout en usant bien sûr de la force si nécessaire. 
+
+![Pharandros](pharandros.png)
 
 Soudain, l'un des conseillers me demanda ce que le *Masque Ondoyant* de l'Empereur penserait du culte d'Arim le Pauvre. Je reconnus immédiatement un mot secret : mon interlocuteur faisait sans doute partie de la *Société des Phrases Secrètes*. Je le fixai intensément. C'était un homme mince, presque ascétique, vêtu d'une robe et portant plusieurs étuis à parchemins. 
 
