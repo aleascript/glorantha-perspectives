@@ -37,3 +37,6 @@ Quelques réflexions sur les règles également.
 [Calendrier aléatoire](random-calendar)
 
 [Glorantha for newbies](gloranthix)
+
+
+> **A propos de l'IA**: je n'ai aucun talent en dessin et je remercie les merveilleurs dessinateurs qui ont su dessiner le monde de Glorantha. Pour autant, il n'y a pas toujours une illustration pour tout ce qui pourrait être imaginé. Alors au risque de m'attirer les foudres des anti-IA, je m'autorise à utiliser l'IA pour générer des visuels pour ce site. 
