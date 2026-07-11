@@ -2,7 +2,7 @@
 title: "Yet Another Glorantha (YAG)"
 ---
 
-En réponse au YGMV (Your Glorantha May Vary), voici une idée qui pourrait permettre de s'éloigner du canon gloranthien de manière totalement assumée.
+En réponse au **YGWV** (Your Glorantha Will Vary), voici une idée qui pourrait permettre de s'éloigner du canon gloranthien de manière totalement assumée.
 
 Dans un futur lointain (Harshax voire même après), une Quête Héroïque a été menée et elle a débouché sur l'accouplement d'un Dragon avec Arachne Solara. De cette union, Arachne Solara a pondu des milliers d'oeufs.
 
