@@ -1,7 +1,5 @@
 ---
-title: "Notes de campagne : Bagnot"
-setting: Glorantha
-date_in_game: 1611 - Mer - Harmonie
+title: "Bagnot"
 ---
 
 # De Dunstop vers Bagnot
