@@ -1,5 +1,5 @@
 ---
-title: un exemple de détermination des mises
+title: Exemple de détermination des mises
 ---
 
 Voici un exemple concret de mise en place des pools pour une opposition dans **Glorantha Perspectives**, en illustrant spécifiquement l'impact du focus et d'un facteur cadre.
