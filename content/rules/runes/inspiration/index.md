@@ -24,14 +24,14 @@ _Table des runes de pouvoir:_
 
 | **Chiffre** | **Rune** | **Thèmes** | **Exemples** |
 | --- | --- | --- | --- |
-| 1 | Mouvement | Découverte | ce qui est autour, le monde, lieux, informations… |
-| 2 | Mort | Menace | ce qui est différent, l’autre, l’ennemi… |
-| 3 | Harmonie | Relations | ce qui relie, émotions, sentiments, liens, dilemme… |
-| 4 | Stase | Loi | ce qui est figé, moralité, société, groupe, autorité… |
-| 5 | Vie | Ressources | ce qui est nécessaire, matériel, réalité… |
-| 6 | Désordre | Révélation | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… |
-| 7 | Vérité | Savoir, Connaissance | ce qui doit être cherché, recherché, étudié… |
-| 8 | Illusion | Mystère | ce qui est caché, tromperie, illusion, vain, illusoire… |
+| 1️⃣ | ![Mouvement](../assets/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations… |
+| 2️⃣ | ![Mort](../assets/pouvoirs/mort.png) | **Menace** | ce qui est différent, l’autre, l’ennemi… |
+| 3️⃣ | ![Harmonie](../assets/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… |
+| 4️⃣| ![Stase](../assets/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… |
+| 5️⃣ | ![Vie](../assets/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… |
+| 6️⃣ | ![Désordre](../assets/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… |
+| 7️⃣ | ![Vérité](../assets/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… |
+| 8️⃣ | ![Illusion](../assets/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… |
 
 Main gauche et main droite (2d8 ou 8 cartes)
 
