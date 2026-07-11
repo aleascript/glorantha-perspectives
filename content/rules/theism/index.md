@@ -2,6 +2,8 @@
 title: "Les panthéons"
 ---
 
+![Monde divin](../runes/assets/mondes/gods.png)
+
 > Un théiste interprète le monde par rapport aux actes exemplaires des Dieux de son panthéon et de son culte. Il se moule dans un cadre préexistant et reproduit des actes, des pensées qui sont normées. Il espère en récupérer la force divine sous forme de soutien voire même d’”intervention” (qui est plus une manifestation qu’une réelle intervention puisqu’il y a le Grand Compromis).
 > 
 

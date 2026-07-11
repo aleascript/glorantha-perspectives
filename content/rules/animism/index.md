@@ -2,6 +2,8 @@
 title: "L'animisme: le monde des esprits"
 ---
 
+![Monde des esprits](../runes/assets/mondes/spirits.png)
+
 > Un animiste ressent le monde. Il ressent le lien entre le monde invisible et visible. C’est comme ça qu’il peut interpréter, décider, agir. Les animistes sont entre les deux mondes: le mondain et le spirituel. C’est leur vision du monde. Toujours. Tout le temps.
 
 *Noms péjoratifs pour les autres: primitifs, sauvages, ...*
