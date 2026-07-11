@@ -2,6 +2,8 @@
 title: "Inspiration runique"
 ---
 
+![Destin](../assets/conditions/destin.png)
+
 Les runes sont les briques du monde. Elles tissent la réalité. Elles s'immiscent partout. Elles dessinent la trame du Destin.
 
 Identifions les.
