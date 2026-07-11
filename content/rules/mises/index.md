@@ -66,13 +66,15 @@ Les mises sont aussi là pour déterminer les éléments narratifs. Elles devien
 
 ### Obstacle abstrait
 
-Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils correspondent simplement à la matérialité du monde.
+Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils correspondent simplement à la résistance du monde.
 
 Deux possibilités:
 
-- **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
+- <img src="../runes/assets/formes/homme.png" alt="Homme" width="6%"> **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
 
-- **Agnostique** ou **Matérialiste**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage. 
+- <img src="../runes/assets/mondes/median.png" alt="Monde médian" width="6%"> **Agnostique**, **Matérialiste**, **Le monde médian**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage.
+
+Note: ici c'est la rune du monde médian qui est utilisée. Mais si le personnage est dans le monde des esprits, ou celui des Dieux, ce sont les règles de ce monde qui servent alors comme règle de base.  
 
 > Exemple: Un mystique escaladant une montagne va générer des mises pour lui et des mises représentant les difficultés à surmonter. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de l'obstacle se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
 
