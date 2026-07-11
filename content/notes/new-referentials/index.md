@@ -2,6 +2,8 @@
 title: "Découvrir un nouveau cadre de pensée?"
 ---
 
+![Maitrise](../../rules/runes/assets/conditions/maitrise.png)
+
 On pourrait imaginer par exemple élaborer d'autres ajustements des règles pour ceux qui auraient des runes de condition spécifique.
 
 On a vu l'influence de la rune lunaire, et de la rune de l’infini avec Ouroboros. On pourrait presque voir les régles de la Logique comme émanantes de la rune de la Loi, les règles de l’animisme émanantes de la rune de l’Esprit, etc...

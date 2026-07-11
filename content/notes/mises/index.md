@@ -2,6 +2,8 @@
 title: "Réflexions sur les camps et les mises"
 ---
 
+![Destin](../../rules/runes/assets/conditions/destin.png)
+
 ### Camp hybride
 
 Un camp peut être construit à partir de plusieurs cadres de pensée. 

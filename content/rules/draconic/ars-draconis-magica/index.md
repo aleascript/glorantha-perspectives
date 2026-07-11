@@ -2,6 +2,8 @@
 title: "Ars Draconis Magica"
 ---
 
+![Infini](../../runes/assets/conditions/infini.png)
+
 Ce grimoire exploire la magie draconique à travers la rune de
 l’infini.
 

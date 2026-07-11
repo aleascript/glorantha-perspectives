@@ -2,6 +2,8 @@
 title: "Le Chaos"
 ---
 
+![Chaos](../../rules/runes/assets/conditions/chaos.png)
+
 - Je ne pense pas qu’il faille inventer de nouvelles règles
 - En effet, le théisme n'est pas clair sur le sujet. Il croit borner le chaos mais ça n’a pas marché. Il est probable que l’explosion des 6 en soit en partie responsable par **EXPLOSION DIVINE**. D'où le bordel dans les âges mythiques et le Grand Compromis. Les Dieux sont la source principale du chaos.
 - Le mysticisme non plus, ce n’est pas son sujet. Il fait même plutôt disparaitre les sources entropiques (les 6) par **TRANSFORMATIONS**. Si tout le monde était mystique, la notion même de chaos n’existerait pas.

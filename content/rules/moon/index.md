@@ -2,6 +2,8 @@
 title: "La Voie Lunaire"
 ---
 
+![Lune](../runes/assets/elements/lune.png)
+
 La magie lunaire est soumise au cycle lunaire en dehors de la ligne brillante. 
 
 Comment ça se traduit?

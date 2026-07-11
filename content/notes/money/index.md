@@ -2,6 +2,9 @@
 title: "La monnaie"
 ---
 
+![Commerce](../../rules/runes/assets/conditions/echanges.png)
+
+
 Quelques notes sur certaines monnaies en cours dans Glorantha. 
 
 Glorantha est un monde fait de commmunautés. La monnaie est moins diffusée que dans notre monde actuel. Les monnaies sont donc plutôt rares et plutôt le fait des Princes ou des populations urbaines. 

@@ -2,6 +2,8 @@
 title: Camps & Mises
 ---
 
+![Master](../runes/assets/conditions/maitrise.png)![Chance](../runes/assets/conditions/chance.png)
+
 > Quand le destin hésite, on rassemble tout ce qui fait notre force, dans la chair comme dans l'invisible, et l'on regarde de quel côté le sort va pencher face à ce qui s'oppose à nous.
 
 Principe: face à l'adversité, on mise sur tout ce qui pourrait, dans cette situation, nous servir. L'adversaire ou l'obstacle fait de même. Et ensuite on procède à un tirage pour résoudre.

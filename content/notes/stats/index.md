@@ -2,6 +2,8 @@
 title: "Statistiques"
 ---
 
+![Chance](../../rules/runes/assets/conditions/chance.png)
+
 # Stats
 
 Ces stats ont ete faites a la louche par IA
