@@ -20,6 +20,7 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 
 - [Les préludes](01)
 - [Dunstop](02)
+- [Bagnot](03)
 
 # Notes:
 
