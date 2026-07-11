@@ -21,7 +21,7 @@ title: "Jaridan"
 * Panthéon des Tempêtes (sans Orlanth)
 * **Relations**: 
   - Famille 
-  - - Clan 
+  - Clan 
 * **Vertus**: Courage, Générosité, Honneur personnel, Justice sociale, Piété, Sagesse, Vassalité 
 
 # Marchand
@@ -38,13 +38,13 @@ title: "Jaridan"
 
 # Initié d'Issaries
 
-* Communication: 
+## Communication
  - Crier d'une voix claire, Discours impressionnant 
  - Convaincre acheteur ou vendeur 
  - Langue douce 
  - Parler avec les mains
 
-* Marchand: 
+## Marchand
  - Bénir un marché 
  - Créer un lien gagnant-gagnant 
  - Évaluer une monnaie 
@@ -62,14 +62,14 @@ title: "Jaridan"
 - Parle le Nouveau Pélorien et le Sartarite
 - Vertus: esprit d'aventure
 
-* **Voyage**: 
+## Voyage 
  - Couvrir les traces 
  - Détecter une embuscade
  - Trouver une route de secours 
  - Trouver un sentier 
  - Protection pendant le sommeil
 
-* **Communication**: 
+## Communication 
 
  - Se faire comprendre 
  - Salutations amicales
