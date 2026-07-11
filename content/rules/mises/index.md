@@ -58,7 +58,9 @@ Une fois les mises connues pour chaque camp, on perd le lien entre la mise qui a
 
 Le cadre de pensée peut servir à exprimer le résultat suivant le point de vue de ce cadre. 
 
-Les mises sont aussi là pour déterminer les éléments narratifs. Elles deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.  
+Les mises sont aussi là pour déterminer les éléments narratifs. Elles deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.
+
+[Exemple de détermination de mises](sample)
 
 ### Obstacle abstrait
 
@@ -66,10 +68,9 @@ Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils cor
 
 Deux possibilités:
 
-- **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique.
+- **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
 
-- **Agnostique** ou **Matérialiste**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué.
-
+- **Agnostique** ou **Matérialiste**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage. 
 
 > Exemple: Un mystique escaladant une montagne va générer des mises pour lui et des mises représentant les difficultés à surmonter. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de l'obstacle se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
 
