@@ -24,6 +24,8 @@ Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi
 ---
 
 # L'animisme: le monde des esprits
+![Monde des esprits](/home/dev/projects/glorantha-perspectives/content/rules/animism/../runes/assets/mondes/spirits.png)
+
 > Un animiste ressent le monde. Il ressent le lien entre le monde invisible et visible. C’est comme ça qu’il peut interpréter, décider, agir. Les animistes sont entre les deux mondes: le mondain et le spirituel. C’est leur vision du monde. Toujours. Tout le temps.
 
 *Noms péjoratifs pour les autres: primitifs, sauvages, ...*
@@ -60,6 +62,8 @@ Les grands esprits sont versatiles et difficiles à convaincre d’où l’impac
 ---
 
 # Les panthéons
+![Monde divin](/home/dev/projects/glorantha-perspectives/content/rules/theism/../runes/assets/mondes/gods.png)
+
 > Un théiste interprète le monde par rapport aux actes exemplaires des Dieux de son panthéon et de son culte. Il se moule dans un cadre préexistant et reproduit des actes, des pensées qui sont normées. Il espère en récupérer la force divine sous forme de soutien voire même d’”intervention” (qui est plus une manifestation qu’une réelle intervention puisqu’il y a le Grand Compromis).
 > 
 
@@ -87,6 +91,8 @@ Les grands esprits sont versatiles et difficiles à convaincre d’où l’impac
 ---
 
 # La logique du Dieu Invisible
+![Loi](/home/dev/projects/glorantha-perspectives/content/rules/logic/../runes/assets/formes/loi.png) ![Logic](/home/dev/projects/glorantha-perspectives/content/rules/logic/../runes/assets/mondes/logic.png)
+
 > Un logicien a une vision “scientifique”, rationnelle du monde. Cause/Effet. Ingrédients/Recette. Essais, expériences. Il organise, quantifie, compare. Son Dieu est invisible et donc ne se manifeste pas. On s'en approche par l'étude et la raison.
 
 *Noms péjoratifs pour les autres: sorcellerie, sorciers, matérialistes, faux prophètes, menteurs, vampires...*
@@ -121,6 +127,8 @@ C’est probablement le seul mode dans lequel on peut garder les dés qui pour l
 ---
 
 # Mysticisme: l'Illumination
+![Monde mystique: le centre, le vide](/home/dev/projects/glorantha-perspectives/content/rules/mysticism/../runes/assets/mondes/void.png)
+
 > Un mystique a une vision du monde fondée sur une déconstruction intérieure mais réelle de l’illusion du réel, des sens, etc… Il sait qu’il n’y a pas de vérité absolue. Il voit les transformations. En cela, il peut interpréter, décider et agir sur le monde.
 
 *Nom péjoratif utilisé par les autres: nihilistes, charlatans,…*
@@ -156,6 +164,8 @@ C’est une opposition mystique. Au bout d’un moment, on ne peut plus réduire
 ---
 
 # Camps & Mises
+![Master](/home/dev/projects/glorantha-perspectives/content/rules/mises/../runes/assets/conditions/maitrise.png)![Chance](/home/dev/projects/glorantha-perspectives/content/rules/mises/../runes/assets/conditions/chance.png)
+
 > Quand le destin hésite, on rassemble tout ce qui fait notre force, dans la chair comme dans l'invisible, et l'on regarde de quel côté le sort va pencher face à ce qui s'oppose à nous.
 
 Principe: face à l'adversité, on mise sur tout ce qui pourrait, dans cette situation, nous servir. L'adversaire ou l'obstacle fait de même. Et ensuite on procède à un tirage pour résoudre.
@@ -218,13 +228,15 @@ Les mises sont aussi là pour déterminer les éléments narratifs. Elles devien
 
 ### Obstacle abstrait
 
-Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils correspondent simplement à la matérialité du monde.
+Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils correspondent simplement à la résistance du monde.
 
 Deux possibilités:
 
-- **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
+- <img src="../runes/assets/formes/homme.png" alt="Homme" width="6%"> **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
 
-- **Agnostique** ou **Matérialiste**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage. 
+- <img src="../runes/assets/mondes/median.png" alt="Monde médian" width="6%"> **Agnostique**, **Matérialiste**, **Le monde médian**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage.
+
+Note: ici c'est la rune du monde médian qui est utilisée. Mais si le personnage est dans le monde des esprits, ou celui des Dieux, ce sont les règles de ce monde qui servent alors comme règle de base.  
 
 > Exemple: Un mystique escaladant une montagne va générer des mises pour lui et des mises représentant les difficultés à surmonter. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de l'obstacle se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
 
@@ -266,6 +278,8 @@ C’est donc à la Destinée d’imaginer des rétributions: liens, attaches, ca
 ---
 
 # La Voie Lunaire
+![Lune](/home/dev/projects/glorantha-perspectives/content/rules/moon/../runes/assets/elements/lune.png)
+
 La magie lunaire est soumise au cycle lunaire en dehors de la ligne brillante. 
 
 Comment ça se traduit?
@@ -296,6 +310,8 @@ Ce n’est pas le mode héroïque mais c’est vrai que pour un lunaire, sentir 
 ---
 
 # Pensée Draconique : le Rêve du Dragon
+![Dragonewt](/home/dev/projects/glorantha-perspectives/content/rules/draconic/../runes/assets/formes/dragonewt.png)![Dragonewt](/home/dev/projects/glorantha-perspectives/content/rules/draconic/../runes/assets/formes/dragon.png)
+
 > Un adepte de la voie draconique lit le monde à travers des paradoxes et une vision globale de son propre tirage. Il participe à la réalité matérielle comme les autres, mais sait que forcer l'illusion avec sa magie cosmique le lie un peu plus à ce monde, retardant sa propre mue vers le stade de Vrai Dragon. Son véritable pouvoir spirituel réside dans sa force à renoncer à vaincre lorsque l'opportunité magique se présente.
 
 ![dices](/home/dev/projects/glorantha-perspectives/content/rules/draconic/draconic_dices.png)
@@ -411,6 +427,8 @@ Vous pourriez même revenir d'une Quête Héroïque [transformé en profondeur](
 ---
 
 # Inspiration runique
+![Destin](/home/dev/projects/glorantha-perspectives/content/rules/runes/inspiration/../assets/conditions/destin.png)
+
 Les runes sont les briques du monde. Elles tissent la réalité. Elles s'immiscent partout. Elles dessinent la trame du Destin.
 
 Identifions les.
@@ -492,6 +510,8 @@ Il faudrait beaucoup d’objets similaires pour éviter la “triche” et aussi
 ---
 
 # Ars Draconis Magica
+![Infini](/home/dev/projects/glorantha-perspectives/content/rules/draconic/ars-draconis-magica/../../runes/assets/conditions/infini.png)
+
 Ce grimoire exploire la magie draconique à travers la rune de
 l’infini.
 
@@ -760,16 +780,21 @@ Quelques réflexions sur les règles également.
 [Glorantha for newbies](gloranthix)
 
 
-> **A propos de l'IA**: je n'ai aucun talent en dessin et je remercie les talentueux et merveilleux dessinateurs qui ont su dessiner le monde de Glorantha. Puisse Sestarto leur accorder sa bénédiction! Pour autant, il n'y a pas toujours une illustration pour tout ce qui pourrait être imaginé. Alors au risque de m'attirer les foudres des anti-IA, je m'autorise à utiliser l'IA pour générer des visuels pour ce site. 
+> **A propos de l'IA**: je n'ai aucun talent en dessin et je remercie les talentueux et merveilleux dessinateurs qui ont su dessiner le monde de Glorantha. Puisse Sestarto leur accorder sa bénédiction! Pour autant, il n'y a pas toujours une illustration pour tout ce qui pourrait être imaginé. Alors au risque de m'attirer les foudres des anti-IA, je m'autorise à utiliser l'IA pour générer des visuels pour ce site. Pour autant, je comprends tout à fait que toute illustration peut aller à l'encontre de l'imaginaire d'un explorateur de Glorantha et qu'on n'a pas cette même indulgence vis à vis d'une IA que vis a vis de l'effort d'un autre humain et ceci même si la vision de ce dernier ne colle pas forcément à ce qu'on aurait imaginé de Glorantha. J'hésite donc encore à fournir ou pas des illustrations pour les histoires. 
 ---
 
 # Plusieurs cadres de pensée est-il possible pour un même personnage?
+![Maitrise](/home/dev/projects/glorantha-perspectives/content/notes/multiple-referentials/../../rules/runes/assets/conditions/maitrise.png)
+
+
 Glorantha est un monde complexe et des syncrétismes peuvent émerger. Les idées, les points de vue circulent. Il est donc tout à fait possible qu’un personnage utilise plusieurs cadres de pensée, surtout les Lunaires qui sont du genre inclusifs. C'était également probablement le cas des Érudits de l’Ambigu au 2ème Age ou d’Arkat au 1er Age. 
 
 Par contre, notons quand même que ces syncrétismes sont rares.
 ---
 
 # Le Chaos
+![Chaos](/home/dev/projects/glorantha-perspectives/content/notes/chaos/../../rules/runes/assets/conditions/chaos.png)
+
 - Je ne pense pas qu’il faille inventer de nouvelles règles
 - En effet, le théisme n'est pas clair sur le sujet. Il croit borner le chaos mais ça n’a pas marché. Il est probable que l’explosion des 6 en soit en partie responsable par **EXPLOSION DIVINE**. D'où le bordel dans les âges mythiques et le Grand Compromis. Les Dieux sont la source principale du chaos.
 - Le mysticisme non plus, ce n’est pas son sujet. Il fait même plutôt disparaitre les sources entropiques (les 6) par **TRANSFORMATIONS**. Si tout le monde était mystique, la notion même de chaos n’existerait pas.
@@ -781,6 +806,8 @@ Par contre, notons quand même que ces syncrétismes sont rares.
 ---
 
 # Découvrir un nouveau cadre de pensée?
+![Maitrise](/home/dev/projects/glorantha-perspectives/content/notes/new-referentials/../../rules/runes/assets/conditions/maitrise.png)
+
 On pourrait imaginer par exemple élaborer d'autres ajustements des règles pour ceux qui auraient des runes de condition spécifique.
 
 On a vu l'influence de la rune lunaire, et de la rune de l’infini avec Ouroboros. On pourrait presque voir les régles de la Logique comme émanantes de la rune de la Loi, les règles de l’animisme émanantes de la rune de l’Esprit, etc...
@@ -805,6 +832,8 @@ Pour autant, vous pouvez aussi vous baser sur l'[inspiration runique](../../rule
 ---
 
 # Statistiques
+![Chance](/home/dev/projects/glorantha-perspectives/content/notes/stats/../../rules/runes/assets/conditions/chance.png)
+
 # Stats
 
 Ces stats ont ete faites a la louche par IA
@@ -832,6 +861,8 @@ Par contre, si le dragonewt choisit l’utuma et donc la voie matérialiste, on 
 ---
 
 # Réflexions sur les camps et les mises
+![Destin](/home/dev/projects/glorantha-perspectives/content/notes/mises/../../rules/runes/assets/conditions/destin.png)
+
 ### Camp hybride
 
 Un camp peut être construit à partir de plusieurs cadres de pensée. 
@@ -960,7 +991,7 @@ Certains thèmes sont fortement culturellement typés (Orlanthi, mystique, Occid
 ---
 
 # Yet Another Glorantha (YAG)
-En réponse au YGMV (Your Glorantha May Vary), voici une idée qui pourrait permettre de s'éloigner du canon gloranthien de manière totalement assumée.
+En réponse au **YGWV** (Your Glorantha Will Vary), voici une idée qui pourrait permettre de s'éloigner du canon gloranthien de manière totalement assumée.
 
 Dans un futur lointain (Harshax voire même après), une Quête Héroïque a été menée et elle a débouché sur l'accouplement d'un Dragon avec Arachne Solara. De cette union, Arachne Solara a pondu des milliers d'oeufs.
 
@@ -1020,6 +1051,9 @@ En particulier:
 ---
 
 # La monnaie
+![Commerce](/home/dev/projects/glorantha-perspectives/content/notes/money/../../rules/runes/assets/conditions/echanges.png)
+
+
 Quelques notes sur certaines monnaies en cours dans Glorantha. 
 
 Glorantha est un monde fait de commmunautés. La monnaie est moins diffusée que dans notre monde actuel. Les monnaies sont donc plutôt rares et plutôt le fait des Princes ou des populations urbaines. 
