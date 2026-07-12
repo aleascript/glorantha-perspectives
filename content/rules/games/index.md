@@ -36,6 +36,23 @@ Vous voulez vous rendre au marché de Nochet, allez y.
 
 Vous voulez voir le monde avec les yeux d'un trollinet ou d’un broo, allez y.
 
+### En pratique
+
+- Je choisis un **cadre** que je veux explorer
+- Je crée ensuite les **protagonistes** (succinctement ou de manière détaillée selon mon projet de jeu solo: court ou long)
+- J'utilise les **runes** de pouvoir dès que je dois répondre à une question: qui, quoi, pourquoi, comment, etc...
+- Je me **documente** sur la partie de l'univers dans laquelle on est pour voir s'il n'y a pas des incontournables à explorer et qui mettraient en avant le monde
+- J'imagine alors un embryon de **situation** dans laquelle je plonge les protagonistes
+- J'imagine l'**interaction** et leurs **objectifs** 
+- S'il y a incertitude dans les choix, je procède à des **oppositions**
+- J'utilise la [**jauge de Destin**](../mises/index.md#et-la-difficulté-dans-tout-ça)
+- Pour moi une situation doit aboutir sur au moins un **conflit** pour qu'il soit intéressant à jouer
+- J'essaie de jouer la **scène** jusqu'au bout
+- Et à la fin, je fais même un jet sous la valeur du Destin (le nombre de dés ou la valeur absolue du Destin): si le résultat est strictement inférieur, alors un **rebondissement** a lieu.
+- La scène se termine et je peux donc naturellement passer à la situation suivante 
+
+
+
 ## Jeu en groupe
 
 Bien que prévu pour le mode solo, il doit être possible de jouer en groupe avec des joueurs connaissant bien Glorantha ou un MJ qui fait le travail nécessaire de pédagogie pour transmettre aux PJ de quoi proposer des mises cohérentes pour Glorantha. 
