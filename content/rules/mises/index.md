@@ -54,7 +54,7 @@ Plutôt que d'exprimer cela par des multiplication de dés, on va voir plus loin
 
 Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des mises qui est en jeu. Une partie aura juste beaucoup plus de dés de son côté que l’autre.
 
-Vous pouvez aussi aussi bien en solo qu'en groupe, envisager d'utiliser une jauge de Destin. Cela permet d'improviser des mises suivant la situation pour équilibrer les difficultés selon ce qui s'est déroulé précédemment et ainsi créer une respiration narrative. On n'est absolument pas obligé d'équilibrer la jauge à chaque conflit. C'est juste un marqueur (très utile si on improvise ou si on joue en solo).
+Vous pouvez aussi aussi bien en solo qu'en groupe, envisager d'utiliser une **jauge de Destin**. Cela permet d'improviser des mises suivant la situation pour équilibrer les difficultés selon ce qui s'est déroulé précédemment et ainsi créer une respiration narrative. On n'est absolument pas obligé d'équilibrer la jauge à chaque conflit. C'est juste un marqueur (très utile si on improvise ou si on joue en solo).
 
 Principe: la jauge démarre à zero, et peut avoir une valeur négative (le destin finira par se retourner contre les héros) ou positive (le destin finira par jouer en faveur des héros). 
 
@@ -65,6 +65,7 @@ Notes:
 - en cas de conflit intra héros, l'adversaire est celui qui a initié le conflit
 - parfois, des difficultés ou des avantages ont lieu sans conflit au gré du récit. On peut dans ce cas compenser par un dé opposé. 
 - on peut aussi utiliser un décompte: +1 représentant un dé héros, -1 représentant un dé d'adversité. 
+- On pourrait matérialiser les dés héros par des jetons marqués par la rune de la chance <img src="../runes/assets/conditions/chance.png" width="5%" halign="bottom">, et les dés de l'adversité par des jetons marqués par la rune du destin  <img src="../runes/assets/conditions/destin.png" width="5%" halign="bottom"> ("pas de grand destin, sans adversité")
 
 > Exemple:
 > - Jauge à 0
