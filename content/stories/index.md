@@ -10,4 +10,3 @@ Des sagas et récits dans Glorantha.
 - [La Voie Lunaire](la-voie-lunaire)
 - Le bannissement de Gurdtar
 
-*Contenu à venir.*
