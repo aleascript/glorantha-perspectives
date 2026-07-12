@@ -77,7 +77,7 @@ Il y avait 4 morts, 3 mourants et 1 gravement blessé. Hanya acheva froidement l
 
 **Jiridan** murmura alors à l'oreille d'Ikarnos : "J'ai reconnu certains visages. Je les ai vus au marché de Bagnot. Les rebelles sont donc aussi présents en ville, et pas seulement dans les montagnes..."
 
-**Ikarnos**s'approcha du seul survivant : "Tu veux vivre ou mourir ?" 
+**Ikarnos** s'approcha du seul survivant : "Tu veux vivre ou mourir ?" 
 
 L'homme balbutia : "Gloire à Orlanth !", avant de cracher d'autres mots en Orlanthi. Ses yeux s'agrandirent de stupeur lorsqu'il vit Jiridan traduire ses paroles.
 
