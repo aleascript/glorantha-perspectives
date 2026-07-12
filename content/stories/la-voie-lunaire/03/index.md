@@ -49,6 +49,7 @@ Puis, nous aperçûmes enfin les fortifications en pierre de Bagnot, l'ancienne 
 La cité apparaissait d'inspiration clairement Orlanthi et beaucoup moins militaire que Dunstop. Jaridan, le marchand Tarshite, y possédait déjà quelques contacts commerciaux. Hanya restait dubitative, ne retrouvant pas la splendeur de sa chère Jillaro, même si on lui vanta le *Temple d'Arim le Pauvre*, sans doute la seule construction notable de la ville. 
 
 Nous décidâmes de nous rendre chez Caius Brontex, un magistrat ami de Fazzur figurant sur notre liste. Celui-ci accueillit notre petite équipée dans sa demeure, dont l'architecture extérieure était Orlanthi mais l'ameublement intérieur purement Dara-Happien. Autour d'une table, nous discutâmes avec Caius de la situation régionale. Nous y glanâmes plusieurs informations :
+
 * La *Lunar Pax* est fragile (mais nous le savions déjà).
 * Le jeune roi Pharandros est particulièrement ambitieux.
 * Il voue une immense admiration à Fazzur pour son génie militaire.
@@ -58,9 +59,11 @@ Nous l'interrogeâmes sur l'intérêt de choisir un itinéraire par l'est plutô
 
 ### Activités des compagnons
 
-* **Hanya** alla visiter le *Temple d'Arim le Pauvre*. Elle se retrouva isolée au milieu des barbares. Le temple n'avait rien d'exceptionnel en soi, mais ses sculptures en bois détaillaient le périple de cet homme devenu Dieu, qui eut le courage de pénétrer le premier dans la *Passe du Dragon* après les tueries draconiques. Les bas-reliefs montraient ses diverses et mystérieuses rencontres : un homme-cheval, une femme avec des plumes sur la tête, ou encore une prêtresse et une montagne.
-* **Jaridan** en profita pour vendre quelques biens et renouveler ses stocks commerciaux.
-* **Peek-ee-Peek** préféra se faire discrète et resta la majeure partie du temps à l'abri chez Caius.
+**Hanya** alla visiter le *Temple d'Arim le Pauvre*. Elle se retrouva isolée au milieu des barbares. Le temple n'avait rien d'exceptionnel en soi, mais ses sculptures en bois détaillaient le périple de cet homme devenu Dieu, qui eut le courage de pénétrer le premier dans la *Passe du Dragon* après les tueries draconiques. Les bas-reliefs montraient ses diverses et mystérieuses rencontres : un homme-cheval, une femme avec des plumes sur la tête, ou encore une prêtresse et une montagne.
+
+**Jaridan** en profita pour vendre quelques biens et renouveler ses stocks commerciaux.
+
+**Peek-ee-Peek** préféra se faire discrète et resta la majeure partie du temps à l'abri chez Caius.
 
 ## L'audience royale
 
@@ -74,17 +77,15 @@ Je présentai notre mission qui m'amenait à voyager vers les terres de Prax, r�
 
 Soudain, l'un des conseillers me demanda ce que le *Masque Ondoyant* de l'Empereur penserait du culte d'Arim le Pauvre. Je reconnus immédiatement un mot secret : mon interlocuteur faisait sans doute partie de la *Société des Phrases Secrètes*. Je le fixai intensément. C'était un homme mince, presque ascétique, vêtu d'une robe et portant plusieurs étuis à parchemins. 
 
-C'est Hanya qui prit la parole pour lui répondre : 
-> "La Déesse ne combat que ses ennemis et sait reconnaître les qualités de tout en toute chose, car nous ne sommes qu'Un à ses yeux !"
+C'est **Hanya** qui prit la parole pour lui répondre : "La Déesse ne combat que ses ennemis et sait reconnaître les qualités de tout en toute chose, car nous ne sommes qu'Un à ses yeux !"
 
-L'homme sourit malicieusement : 
-> "Certes, vous avez raison, noble gardienne de Jillaro. J'osais juste une plaisanterie en comparant l'austérité du pauvre Arim au train de vie actuel du nouveau masque."
+L'homme sourit malicieusement : "Certes, vous avez raison, noble gardienne de Jillaro. J'osais juste une plaisanterie en comparant l'austérité du pauvre Arim au train de vie actuel du nouveau masque."
 
 L'entrevue se termina sur ces mots. Il était évident que je devais reprendre contact avec cet homme de manière plus discrète. Nous quittâmes le roi en l'informant que nous résidions chez Caius et que nous resterions quelques jours ici afin de préparer notre expédition vers Prax par l'est. Il n'y avait plus qu'à attendre. 
 
 De retour à la demeure, nous racontâmes tout à Jaridan et Peek-ee-Peek. J'avais pris le parti de les inclure dans la confidence pour souder notre groupe pour le moins hétérogène. Hanya était plutôt d'avis de se méfier : à ses yeux, Jaridan et Peek-ee-Peek n'étant pas "des nôtres", ils pouvaient avoir des raisons de nous trahir, et il valait mieux qu'ils en sachent le moins possible. Elle convint cependant que les informations glanées étaient loin d'être confidentielles.
 
-> **Peek-ee-Peek :** "Vous êtes étranges à vouloir rester enfermés entre des murs. Mais j'attendrais si c'est la volonté de la Déesse."
+**Peek-ee-Peek :** "Vous êtes étranges à vouloir rester enfermés entre des murs. Mais j'attendrais si c'est la volonté de la Déesse."
 
 Nous allâmes nous coucher dans la vaste maison de Caius, qui se révélait un hôte des plus prévenants.
 
@@ -94,19 +95,15 @@ Le lendemain, je retrouvai le conseiller aux thermes de la cité. Ces derniers, 
 
 ![Lunarium](lunarium.png)
 
-C'est au cœur de la fumée rouge du *Lunarium* que l'homme réapparut. Je remarquai qu'il n'y avait que très peu de locaux dans les bains. Il se présenta enfin : 
+C'est au cœur de la fumée rouge du *Lunarium* que l'homme réapparut. Je remarquai qu'il n'y avait que très peu de locaux dans les bains. Il se présenta enfin : "**Imex Rapiis**, conseiller stratégique et tactique auprès du Roi. Pharandros est jeune et découvre encore le monde barbare. Ce n'est pas l'Empire ici, mais seulement une province. Par chance, c'est la plus riche des Provinces. Je suis là pour que la Prospérité règne, pour que les chefs barbares n'aient aucun intérêt à se rebeller et pour que la *Lunar Pax* persiste. C'est pour cela que nous avons construit ces Thermes."
 
-> **Imex Rapiis :** "Imex Rapiis, conseiller stratégique et tactique auprès du Roi. Pharandros est jeune et découvre encore le monde barbare. Ce n'est pas l'Empire ici, mais seulement une province. Par chance, c'est la plus riche des Provinces. Je suis là pour que la Prospérité règne, pour que les chefs barbares n'aient aucun intérêt à se rebeller et pour que la *Lunar Pax* persiste. C'est pour cela que nous avons construit ces Thermes."
-
-Se tournant vers Jaridan, il ajouta : 
-
-> **Imex Rapiis :** "C'est le choix entre la victoire avec nous, ou la défaite contre nous, en quelque sorte."
+Se tournant vers Jaridan, il ajouta :  "C'est le choix entre la victoire avec nous, ou la défaite contre nous, en quelque sorte."
 
 Je décidai d'avancer mes pions : 
 
-> **Ikarnos :** "Seulement, il faut envoyer taxes, impôts et esclaves dans l'Empire. L'équilibre n'est pas simple à trouver."
->
-> **Imex Rapiis :** "Comme je vous l'ai dit, la Province est riche, la situation pourrait donc être bien pire. Vous êtes courageux de partir ainsi à l'aventure. De l'autre côté des montagnes se trouve la célèbre *Passe du Dragon* : un territoire de collines et de sommets, une mosaïque de peuples essentiellement barbares, mais aussi inhumains. Ici à Tarsh, nous avons quelques exilés dans les montagnes qui se révoltent de temps à autre. Mais là-bas, de l'autre côté, cela doit être l'enfer, même si nous les avons vaincus il y a presque dix ans. Soyez prudents, mes amis, en tout cas."
+**Ikarnos :** "Seulement, il faut envoyer taxes, impôts et esclaves dans l'Empire. L'équilibre n'est pas simple à trouver."
+
+**Imex Rapiis :** "Comme je vous l'ai dit, la Province est riche, la situation pourrait donc être bien pire. Vous êtes courageux de partir ainsi à l'aventure. De l'autre côté des montagnes se trouve la célèbre *Passe du Dragon* : un territoire de collines et de sommets, une mosaïque de peuples essentiellement barbares, mais aussi inhumains. Ici à Tarsh, nous avons quelques exilés dans les montagnes qui se révoltent de temps à autre. Mais là-bas, de l'autre côté, cela doit être l'enfer, même si nous les avons vaincus il y a presque dix ans. Soyez prudents, mes amis, en tout cas."
 
 ## Départ
 
