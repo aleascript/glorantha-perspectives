@@ -135,6 +135,8 @@ Avant d'arriver devant une immense porte, les nains leur demandent de laisser le
 
 Les héros avancent et Ikarnos montre l'exemple en s'agenouillant devant le monarque Nain. "Votre majesté, merci de nous recevoir" et attend la réponse. 
 
+![Isidilian](isidilian.png)
+
 Le roi plisse ses yeux et d'un geste les invite a se redresser. "Moi Isidilian, Roi de la mine des montagnes de l'Aiguille, vous accueille avec plaisir." 
 
 Il parle le Pélorien! et continue: "vous êtes lunaires d'après ce qu'on m'a dit. Savez-vous que l'élévation de la Lune Rouge était dans le Grand Schéma pour réparer la Machine? Haha .. je vois à vos têtes que vous l'ignorez. Normal, vous êtes si jeune, vous n'avez pas connu les guerres des Dieux ni les guerres des Empires, vous ne voyez qu'un petit bout du Plan, vous êtes comme le lapin dans son terrier mais vous faites partie du Plan. Fazzur votre employeur fait partie du plan" 
