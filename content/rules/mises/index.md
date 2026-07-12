@@ -54,6 +54,25 @@ Plutôt que d'exprimer cela par des multiplication de dés, on va voir plus loin
 
 Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des mises qui est en jeu. Une partie aura juste beaucoup plus de dés de son côté que l’autre.
 
+Vous pouvez aussi aussi bien en solo qu'en groupe, envisager d'utiliser une jauge de Destin. Cela permet d'improviser des mises suivant la situation pour équilibrer les difficultés selon ce qui s'est déroulé précédemment et ainsi créer une respiration narrative. On n'est absolument pas obligé d'équilibrer la jauge à chaque conflit. C'est juste un marqueur (très utile si on improvise ou si on joue en solo).
+
+Principe: la jauge démarre à zero, et peut avoir une valeur négative (le destin finira par se retourner contre les héros) ou positive (le destin finira par jouer en faveur des héros). 
+
+Concrétement on peut la représenter par des dés de deux couleurs: une couleur pour les héros et une couleur pour l'adversité. Quand un conflit a lieu, on complète la jauge par les dés qui équilibrerait le conflit. Deux dés de meme couleur s'annulent donc on a toujours soit aucun dé, soit des dés d'une seule couleur. Ces dés permettent de jauger les difficultés des conflits. 
+
+Notes: 
+- la jauge est globale. 
+- en cas de conflit intra héros, l'adversaire est celui qui a initié le conflit
+- parfois, des difficultés ou des avantages ont lieu sans conflit au gré du récit. On peut dans ce cas compenser par un dé opposé. 
+- on peut aussi utiliser un décompte: +1 représentant un dé héros, -1 représentant un dé d'adversité. 
+
+> Exemple:
+> - Jauge à 0
+> - Premier conflit: heros 3 mises vs adversité 2 mises -> la jauge gagne 1 dé d'adversité (-1)
+> - Deuxième conflit:  heros 4 vs adversité 6 -> la jauge gagne 2 dés héros donc se retrouve avec un seul dé héros (+1)
+> - A un moment, le meneur ou le narrateur choisit de narrer une difficulté, on gagne donc un dé héros automatiquent. Nous voila avec 2 dés héros (+2) 
+> - Le destin est donc plutot en faveur des héros. Le prochain conflit pourrait être à leur avantage au niveau des mises donc et donc si le meneur voulait rééquilibrer le tout, il pourrait tenter un conflit avec 2 mises de moins côté adversité que les mises des héros. 
+
 ### Les dés et les mises
 
 Une fois les mises connues pour chaque camp, on perd le lien entre la mise qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
