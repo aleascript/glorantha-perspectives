@@ -129,6 +129,7 @@ Les héros s'enfuient ne se sentant pas de taille. Ils voient la tête de l'infe
 L'infernal ne quitte pas la maison. Nos héros galopent à bride rabattue dans la nuit illuminés par la Lune rouge pleine!
 
 > 🎲 Hanya enceinte? Oui!! 
+> 
 > 🎲 Fille de Cai enceinte d'Ikarnos? Non 
 
 Le groupe fuit les Ogres et ralentissent en voyant les maisons un peu plus loin qui doivent correspondre au centre du clan d'Irken. Pas le temps de regarder les cartes. Les héros ralentissent. 
