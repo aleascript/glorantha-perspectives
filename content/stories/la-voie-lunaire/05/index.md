@@ -88,11 +88,11 @@ Alors qu'ils tentent de se dissimuler, la vieille femme prend la parole :
 
 Dans un silence pesant, les héros partagent la viande rôtie proposée par la femme. Ils remarquent que la fillette, âgée d'une dizaine d'années, a le regard vide des aveugles.
 
-Elemenoria brise le silence : "Savez-vous pourquoi ce lieu est si particulier ? Avez-vous déjà vu un dragon ? Quand un vrai dragon rêve, il devient réalité, et c'est cette réalité que les mortels aperçoivent. Il y a longtemps, les hommes ont cru pouvoir se mêler à eux. Ils créèrent un Empire. L'un des leurs vint ici, et j'étais sa servante. Son rêve était de construire l'échelle la plus haute du monde pour naviguer entre le domaine des Dieux et celui des hommes. Mais qui dit rêve, dit réveil... Les dragons se sont réveillés. L'échelle fut détruite, et ses morceaux tombent encore et toujours. Voilà ce qu'est la réalité !"
+**Elemenoria** brise le silence : "Savez-vous pourquoi ce lieu est si particulier ? Avez-vous déjà vu un dragon ? Quand un vrai dragon rêve, il devient réalité, et c'est cette réalité que les mortels aperçoivent. Il y a longtemps, les hommes ont cru pouvoir se mêler à eux. Ils créèrent un Empire. L'un des leurs vint ici, et j'étais sa servante. Son rêve était de construire l'échelle la plus haute du monde pour naviguer entre le domaine des Dieux et celui des hommes. Mais qui dit rêve, dit réveil... Les dragons se sont réveillés. L'échelle fut détruite, et ses morceaux tombent encore et toujours. Voilà ce qu'est la réalité !"
 
 **Jaridan :** "Mais quel âge avez-vous ? L'Empire a disparu il y a 500 ans !"
 
-**Elemenoria :** "Les mortels meurent, mais le pouvoir se transmet. As-tu un rêve, marchand ? N'ayez crainte, l'endroit est sûr. Je peux exaucer un vœu pour chacun d'entre vous."
+**Elemenoria :** "Les mortels meurent, mais le pouvoir se transmet. As-tu un rêve, marchand ? N'ayez crainte, l'endroit est sûr. Je peux exaucer un voeu pour chacun d'entre vous. Une dernier voeu pour la longue route qui nous attend tous en quelque sorte", dit elle avec une lueur étrange dans le regard. 
 
 Elle étend la main. Un globe de lumière l'enveloppe, elle et la fillette.
 
@@ -102,26 +102,43 @@ Elle étend la main. Un globe de lumière l'enveloppe, elle et la fillette.
 
 <img src="../../../rules/runes/assets/pouvoirs/harmonie.png" width="5%"><img src="../../../rules/runes/assets/pouvoirs/mouvement.png" width="5%">
 
-* **Voeu :** Être assez rapide pour qu'aucun projectile ne puisse l'atteindre.
-* **Le prix :** Le vœu est exaucé, mais chaque projectile évité frappera quelqu'un d'autre à sa place. Hanya ressort dubitative.
+**Hanya :** "Je crois que tu n'es qu'une blague vieille folle. Prouve moi le contraire. Moi je reverais par exemple d'être assez rapide pour qu'aucun projectile ne puisse m'atteindre." Fière de son voeu impossible, elle sourit. 
 
-**Jaridan** lui succède.
+**La vieille femme** lui répond: "qu'il en soit ainsi mais sache que tout voeu a un prix. Chaque fois qu'un projectile aurait du t'atteindre, certes, tu l'éviteras mais quelque part un autre sera touché!" 
+
+Hanya quitta le globe lumineux un peu dubitative.
+
+
+**Jaridan** demande à Hanya qui lui répond: "ben va s'y tu verras bien par toi-même". Jaridan est donc le suivant à pénétrer dans le globale silencieux.
 
 <img src="../../../rules/runes/assets/pouvoirs/mouvement.png" width="5%"><img src="../../../rules/runes/assets/pouvoirs/mort.png" width="5%">
 
-* **Vœu :** Que les ennemis d'hier deviennent amis ou alliés en ces temps troublés.
-* **Le prix :** Ce lieu et ce temps existent, mais pour l'atteindre, Jaridan devra renoncer à jamais à sa famille. Il ressort bouleversé.
+**Jaridan :** "Je rêve qu'en ces temps troublés, les ennemis d'hier deviennent amis au mieux ou au moins des alliés. Je pense que c'est impossible mais j'ai toujours rêvé de cela et c'est pour cela que je suis avec ses Lunaires." 
 
-**Ikarnos le sombre** prend sa place.
+**La vieille :** "voila un noble rêve Jaridan. Il existe un lieu et un temps où ce rêve s'exaucera mais si tu veux l'atteindre il te faudra renoncer à ta famille et ne plus jamais les revoir! Es-tu prêt à cela ? Sont-ils prêts à cela?" 
+
+Et Jaridan ressort, bouleversé par ce qu'il vient d'entendre. C'est ensuite au tour d'**Ikarnos**.
 
 <img src="../../../rules/runes/assets/pouvoirs/mouvement.png" width="5%"><img src="../../../rules/runes/assets/pouvoirs/illusion.png" width="5%">
 
-* **Voeu :** Obtenir le pouvoir des Dragons pour lutter contre les ennemis de l'Empire.
-* **Le prix :** Les dragons observent. Il pourra leur parler le moment venu, mais lorsqu'il le fera, il aura irrémédiablement changé de camp. Ikarnos ressort troublé.
+**La femme :** "le temps n'est plus aux paroles mais aux révélations. Toi dis moi ce que tu désires!" 
+
+**Ikarnos :** "je souhaiterais obtenir le pouvoir des Dragons alors" dit-il en espérant ainsi mettre du côté de l'Empire un terrible pouvoir pour lutter contre ses ennemis. 
+
+**La femme sourit :** "Je m'y attendais. Soit. Les Dragons attendent de toute facon pour intervenir. Tapis, patiemment, infiniment, ils vous observent et toi tu pourras leur parler en temps et en heure. Mais .. hahaha .. ce qui est drôle c'est que quand ca arrivera, tu auras alors changer de camp!" 
+
+**Ikarnos :** "Maudite que dis tu??" 
+
+**La femme :** "Je ne dis rien, je révèle ton destin." 
+
+Et c'est ainsi qu'Ikarnos sort aussi troublé que ces trois compagnons.
 
 **Peek-ee-Peek** pénètre enfin dans le globe.
+
 Elle s'assoit et demande : "Es-tu faite de chair et d'os, ou es-tu un esprit ?"
-La vieille plisse les yeux : "Nous sommes les filles du destin, et as-tu déjà vu un esprit aveugle ?"
+
+**La vieille** plisse les yeux : "Nous sommes les filles du destin, et as-tu déjà vu un esprit aveugle ?"
+
 Soudain, Peek empoigne sa lance. "Meurs, Sorcière !!!"
 
 > 🎲 Attaque de Peek contre Elemenoria
@@ -130,7 +147,11 @@ Soudain, Peek empoigne sa lance. "Meurs, Sorcière !!!"
 >   - Clairvoyante
 > - Résultat 3 vs 1: Victoire +2
 
-La lance transperce le cœur d'Elemenoria, qui tente de murmurer une dernière malédiction. Peek enfonce la lame avec rage : "Que ta mort soit la plus rapide !" Le globe se dissipe instantanément. La petite fille aveugle se lève d'un bond et s'engouffre dans une anfractuosité du mur.
+La lance transperce le coeur d'Elemenoria, qui tente de murmurer une dernière malédiction. 
+
+**Peek** enfonce la lame avec rage : "Que ta mort soit la plus rapide !" 
+
+Le globe se dissipe instantanément. La petite fille aveugle se lève d'un bond et s'engouffre dans une anfractuosité du mur.
 
 ![Elemenoria](elemenoria-murder.png)
 
@@ -153,27 +174,37 @@ Les héros dévalent les pentes dans l'obscurité, fuyant la scène du crime. Au
 
 L'assassinat d'une étrangère empêche Peek de tuer pendant une pleine lune (contrainte de l'esprit protecteur).
 
-Lors d'une halte bien méritée, la tension explose.
+Les héros avancent en descendant depuis des heures sur un rythme soutenu mais prudent étant donné qu'il fait nuit et que la pente est escarpée. Au petit matin, ils découvrent la nouvelle géographie devant eux. C'est l'occasion de se poser un peu après une fuite anxieuse et surtout c'est l'occasion pour Ikarnos d'interroger la nomade. 
 
-**Ikarnos :** "Qu'as-tu fait, folle ! Tu l'as assassinée froidement."
+**Ikarnos :** "Qu'as tu fait fou! Tu l'as assassiné froidement". 
 
-**Jaridan :** "Chez vous, on tue ceux avec qui on partage le pain ?"
+**Jaridan :** "Chez vous, on se permet de tuer ceux qui avec qui on partage le pain?" 
 
-**Hanya :** "Les nomades restent des primitifs qu'il faut soumettre ou éliminer !"
+**Hanya :** "Je l'ai toujours dit, les barbares peuvent être civilisés mais les nomades sont encore des primitifs qu'il faut soumettre ou éliminés" 
 
-**Peek** (crachant par terre) : "C'est vous les fous. Que vous a-t-elle promis ? Dites-le-moi, et vous me remercierez d'avoir empêché qu'un autre voyageur ne fasse le vœu de détruire notre Déesse."
+**Peek crache :** "c'est vous les fous.. Je vous ai vu revenir de votre entrevue, vous aviez tous l'air différents. Ha oui, elles exaucent les voeux. Haha .. que vous a t'elle promis? Hein dites le moi et je vous dirais pourquoi je l'ai tuée et après vous me remercierez", dit la nomade sans se démonter.
 
-Chacun révèle la nature empoisonnée de son vœu. Peek, convaincue de son bon droit, s'enferme dans le mutisme. Pendant que ses trois compagnons délibèrent sur son sort, Peek encoche une flèche et tire à bout portant sur Hanya !
+**Hanya :** "plus aucune flèche ne sera capable de m'atteindre". 
+
+**Jaridan :** "la paix sera possible entre les ennemis d'hier" 
+
+**Ikarnos :** "je pourrais maîtriser les pouvoirs des Dragons" 
+
+**Peek :** "Hahaha.. voilà qui est bien alors! Soit c'est une folle et sa mort ne sera regrettée de personne, soit elle dit vrai et j'ai ainsi empêché qu'un autre ne vienne avec le voeu de détruire la Déesse. Voilà pourquoi je l'ai tuée. Vous savez tout.. vous ne pensez qu'à votre gloire sans voir le danger que cette femme représentait." 
+
+Puis elle s'inscrit dans un mutisme. Ikarnos, Hanya et Jaridan se mettent à délibérer. Soudain une flèche est lancée contre Hanya !! C'est Peek.
 
 > 🎲 La flèche de Peek 
 > - Conflit:
 >   - Très bon archer (2), surprise (1) 
 >   - Armure (1).
-> - Résultat 3 vs 1 : Victoire +2 (L'effet du vœu s'active).
+> - Résultat 3 vs 1 : Victoire +2 (L'effet du voeu s'active).
 
-Le tir est parfait, mais Hanya effectue un mouvement imperceptible : la flèche la frôle... et va se ficher dans l'œil d'un jeune dinosaure caché dans les arbres environnants. Un râle d'agonie résonne.
+Peek ajuste son tir calmement et met tout son savoir dans ce tir pour blesser à l'épaule Hanya et le tir est parfait mais il se passe quelque chose d'étrange, au dernier moment Hanya bouge presque imperceptiblement et la flèche la frôle et continue son chemin. On entend plus loin un râle et les têtes des trois se tournent du côté de Peek puis du côté des arbres qui boisent les contreforts de la montagne. Les arbres se mettent à bouger. Et soudain une tête monstrueuse apparaît : un gazzam !
 
-Les arbres s'agitent, révélant une dizaine de créatures titanesques : des Gazzams !
+Mais ce n'est pas tout, d'autres monstruosités apparaissent. Des sortes de dragons antiques : il y en a une dizaine et leurs cris stridents explosent les oreilles des héros.
+
+**Ikarnos :** "Vite aux montures, fuyons, ils sont trop grands et trop nombreux!"
 
 > 🎲 La Fuite 
 > - Conflit:
@@ -181,28 +212,32 @@ Les arbres s'agitent, révélant une dizaine de créatures titanesques : des Gaz
 >   - Charge des Gazzams, colère, cris (3).
 > - Résultat 3 vs 3 : Victoire +1
 
-**Ikarnos :** "Vite, aux montures !"
+Les héros décident de fuir en passant par une route qui monte à travers les montagnes en espérant que les monstres trop gros n'arriveront pas à la suivre. En se retournant ils voient un petit dinosaure mort avec la flèche de Peek dans l'oeil. Cela explique leur colère. Heureusement, ils arrivent à s'enfuir mais c'était moins une et maintenant ils doivent continuer sur un promontoire à la queue-leu-leu en faisant attention aux pas de leurs montures.
 
-Le groupe s'élance sur une piste de montagne escarpée, espérant que les monstres massifs ne pourront pas les suivre. En regardant derrière eux, ils comprennent l'ampleur du désastre provoqué par le "miracle" d'Hanya.
+**Peek:** "la sorcière semble avoir dit vrai. Je voulais juste vérifier. Vous pouvez encore une fois me remercier." 
 
-**Peek :** "La sorcière disait vrai. Je voulais juste vérifier."
+**Hanya:** "Ikarnos, traitons cette primitive comme elle le mérite et enchainons-la.La mort serait trop noble pour elle".
 
-**Hanya :** "Ikarnos, enchaînons cette primitive."
+**Ikarnos:** "Il suffit. Nous devons avancer et nous parlerons tout ça ce soir au bivouac."
 
-**Ikarnos :** "Il suffit. Avançons. Nous réglerons ça au bivouac."
+Et c'est ainsi que nos héros ne peuvent pas descendre vers les collines de la Passe du Dragon et doivent continuer à longer les montagnes vers le Nord dans un silence de glace.
 
-## Bivouac et lendemain
+Un peu avant la tombée de la nuit, les héros s'arrêtent pour monter un camp. La tension est vive. Le repas est maigre également car ils doivent se contenter de leurs réserves.
 
-Contraints de longer les montagnes vers le Nord, les héros montent un camp de fortune avant la tombée de la nuit. L'ambiance est glaciale, le repas frugal.
+**Jaridan:** "si Peek dit vrai, la sorcière a bel et bien exaucé nos souhaits."
 
-**Jaridan :** "Si Peek dit vrai, nos vœux sont liés à nous, même après la mort de la sorcière."
+**Peek:** "on dirait bien. Tu devrais me remercier Hanya, non?" 
 
-**Ikarnos :** "Nous sommes des observateurs. Nous ne devons plus intervenir comme tu le fais, Peek. Nous devons trouver une couverture pour traverser ces terres."
+**Hanya:** "et donc Ikarnos peut parler aux Dragons? Pourtant des sortes de Dragons nous ont attaqués!" 
 
-Durant la nuit, Peek subit le contrecoup de ses actes. En abattant le jeune dinosaure, elle a brisé le tabou de son esprit protecteur (*Tuer l'Étranger*). L'esprit l'assaille dans ses cauchemars avant de recouvrer sa liberté, laissant la nomade en sueur et diminuée.
+**Ikarnos:** "La Sorcière m'a prédit que je pourrais un jour leur parler mais n'a pas dit quand." Jaridan: "comme moi, la paix à laquelle j'aspire n'arrivera que si je sacrifie ma famille pour cela. Est-ce que cela en vaut vraiment la peine?" 
 
-Au petit matin, Ikarnos étudie les cartes. La voie du sud, vers l'Oeil du Dragon, leur est fermée. Ils devront passer par le nord, vers la **Mine de Nain**. Une occasion d'en apprendre plus sur le peuple de Mostal. Ensuite, il faudra rejoindre la route d'Aldachur en territoire Orlanthi, et négocier prudemment avec les clans Vantatos et Tovtaros avant de mettre le cap sur Pavis.
+**Peek:** "Vous voilà liés à cette sorcière. Et apparemment sa mort n'a pas délié les voeux. Donc ne me tenez pas rigueur de tout ce qui se passe. Sur ce, bonne nuit. J'assurerais la dernière garde." 
 
-Mais pour l'heure, la survie du groupe repose sur la traversée de la Mine de Nain.
+**Ikarnos:** "Nous devons rester soudés et demain nous parlerons de la mission. Nous ne devons pas intervenir comme tu le fais Peek. Nous sommes des observateurs. Nous devons trouver une couverture plausible pour traverser ses terres et arriver jusqu'en Prax. Nous avons la nuit pour réfléchir."
+
+Or cette nuit là, le sommeil de Peek est agité. En effet, l'esprit Tuer l'Etranger lui impose de ne pas tuer pendant une lune et en tuant le jeune dinosaure, elle a rompu le lien. L'esprit la visite et étreint son âme. Peek est en sueur et à son réveil, l'esprit n'est plus là, il a repris sa liberté.
+
+Au petit matin, Ikarnos étudie les cartes. Ils n'ont pu redescendre vers le sud comme il l'escompait. Il a un petit pincement au coeur car il aurait aimé approcher l'Oeil du Dragon, une cité draconique qui lui aurait peut etre révélé un peu plus son destin mais ils doivent passer au nord vers Mine de Nain. Les Lunaires ne sont pas en froid avec le peuple de Mostal mais ne sont pas pour autant alliés. Pourtant l'Empire en a brulé des forêts Elfes, ils pourraient être reconnaissants mais ces créatures étranges semblent intéressées par autre chose, c'est peut-être l'occasion d'en savoir en peu plus. Il faudra ensuite rejoindre la route d'Aldachur et voyager en territoire Orlanthi. Il faudrait en savoir plus sur les tribus Vantatos et Tovtaros pour savoir s'il faut aborder Aldachur par le sud ou par le nord. Ils seront alors sur la route de Pavis direction Prax. Pour l'heure, nos héros doivent donc poursuivre et négocier un passage par Mine de Nain.
 
 | [Précédent](../04) | [Suivant](../06/) |
