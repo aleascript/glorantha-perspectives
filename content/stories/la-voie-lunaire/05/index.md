@@ -113,7 +113,7 @@ Hanya quitta le globe lumineux un peu dubitative.
 
 <img src="../../../rules/runes/assets/pouvoirs/mouvement.png" width="5%"><img src="../../../rules/runes/assets/pouvoirs/mort.png" width="5%">
 
-**Jaridan :** "Je rêve qu'en ces temps troublés, les ennemis d'hier deviennent amis au mieux ou au moins des alliés. Je pense que c'est impossible mais j'ai toujours rêvé de cela et c'est pour cela que je suis avec ses Lunaires." 
+**Jaridan :** "Je rêve qu'en ces temps troublés, les ennemis d'hier deviennent amis au mieux ou au moins des alliés. Je pense que c'est impossible mais j'ai toujours rêvé de cela et c'est pour cela que je suis avec ces Lunaires." 
 
 **La vieille :** "voila un noble rêve Jaridan. Il existe un lieu et un temps où ce rêve s'exaucera mais si tu veux l'atteindre il te faudra renoncer à ta famille et ne plus jamais les revoir! Es-tu prêt à cela ? Sont-ils prêts à cela?" 
 
@@ -151,7 +151,7 @@ La lance transperce le coeur d'Elemenoria, qui tente de murmurer une dernière m
 
 **Peek** enfonce la lame avec rage : "Que ta mort soit la plus rapide !" 
 
-Le globe se dissipe instantanément. La sorcière a disparu. Il ne rese que la petite fille aveugle qui se lève d'un bond et s'engouffre dans une anfractuosité du mur.
+Le globe se dissipe instantanément. La sorcière a disparu. Il ne reste que la petite fille aveugle qui se lève d'un bond et s'engouffre dans une anfractuosité du mur.
 
 ![Elemenoria](elemenoria-murder.png)
 
@@ -180,7 +180,7 @@ Les héros avancent en descendant depuis des heures sur un rythme soutenu mais p
 
 **Jaridan :** "Chez vous, on se permet de tuer ceux qui avec qui on partage le pain?" 
 
-**Hanya :** "Je l'ai toujours dit, les barbares peuvent être civilisés mais les nomades sont encore des primitifs qu'il faut soumettre ou éliminés" 
+**Hanya :** "Je l'ai toujours dit, les barbares peuvent être civilisés mais les nomades sont encore des primitifs qu'il faut soumettre ou éliminer" 
 
 **Peek crache :** "c'est vous les fous.. Je vous ai vu revenir de votre entrevue, vous aviez tous l'air différents. Ha oui, elles exaucent les voeux. Haha .. que vous a t'elle promis? Hein dites le moi et je vous dirais pourquoi je l'ai tuée et après vous me remercierez", dit la nomade sans se démonter.
 
@@ -200,7 +200,7 @@ Puis elle s'inscrit dans un mutisme. Ikarnos, Hanya et Jaridan se mettent à dé
 >   - Armure (1).
 > - Résultat 3 vs 1 : Victoire +2 (L'effet du voeu s'active).
 
-Peek ajuste son tir calmement et met tout son savoir dans ce tir pour blesser à l'épaule Hanya et le tir est parfait mais il se passe quelque chose d'étrange, au dernier moment Hanya bouge presque imperceptiblement et la flèche la frôle et continue son chemin. On entend plus loin un râle et les têtes des trois se tournent du côté de Peek puis du côté des arbres qui boisent les contreforts de la montagne. Les arbres se mettent à bouger. Et soudain une tête monstrueuse apparaît : un gazzam !
+Le tir est parfait mais il se passe quelque chose d'étrange, au dernier moment Hanya bouge presque imperceptiblement et la flèche la frôle et continue son chemin. On entend plus loin un râle et les têtes des trois se tournent du côté de Peek puis du côté des arbres qui boisent les contreforts de la montagne. Les arbres se mettent à bouger. Et soudain une tête monstrueuse apparaît : un gazzam !
 
 Mais ce n'est pas tout, d'autres monstruosités apparaissent. Des sortes de dragons antiques : il y en a une dizaine et leurs cris stridents explosent les oreilles des héros.
 
