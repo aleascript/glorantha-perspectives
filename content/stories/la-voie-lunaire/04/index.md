@@ -37,7 +37,9 @@ L'étau se resserrait dangereusement autour de nous. Heureusement, la proximité
 
 Ikarnos et Jiridan tentèrent de s'éloigner du coeur de l'affrontement. Ikarnos se rapprocha de Jiridan et lui saisit les poignets : par magie, des menottes apparurent.
 
-> *"Ils croiront que tu es notre prisonnier si ça tourne mal. Tu en profiteras pour intervenir. Un mot de ma part et les liens disparaîtront."* Une corde apparut ensuite, reliant le cheval de Jiridan à celui d'Ikarnos. Ce dernier éperonna sa monture pour s'extraire du combat. Malheureusement, cette manœuvre attira le feu des archers sur eux.
+**Ikarnos** : "Ils croiront que tu es notre prisonnier si ça tourne mal. Tu en profiteras pour intervenir. Un mot de ma part et les liens disparaîtront."
+
+Une corde apparut ensuite, reliant le cheval de Jiridan à celui d'Ikarnos. Ce dernier éperonna sa monture pour s'extraire du combat. Malheureusement, cette manoeuvre attira le feu des archers sur eux.
 
 > 🎲 **Résolution - Les archers contre Ikarnos & Jiridan :**
 > * **Conflit :** 
@@ -45,7 +47,7 @@ Ikarnos et Jiridan tentèrent de s'éloigner du coeur de l'affrontement. Ikarnos
 >   - Héros : `1` (Montés) + `1` (Ruse de Jiridan : *"Ne tirez pas !"*)
 > * **Résultat 2 vs 2 :** Victoire des héros à `+2`.
 
-Jiridan comprit immédiatement l'avantage tactique qu'Ikarnos venait de lui offrir. Il s'écria en langue Orlanthi : **"Ne tirez pas ! Libérez-moi, je suis leur prisonnier !"** Cela fit hésiter les archers, qui interrompirent aussitôt leurs tirs.
+**Jiridan** comprit immédiatement l'avantage tactique qu'Ikarnos venait de lui offrir. Il s'écria en langue Orlanthi : "Ne tirez pas ! Libérez-moi, je suis leur prisonnier !" Cela fit hésiter les archers, qui interrompirent aussitôt leurs tirs.
 
 ## La danse de mort de la Lune Rouge
 
@@ -61,27 +63,39 @@ Hanya et Peek-ee-Peek firent une démonstration magistrale de leur talent. L'ant
 
 Le sang rouge giclait, offrant un écho esthétique saisissant, en parfait accord avec la **Lune Rouge** qui brillait fièrement dans le ciel. Peek revint à la charge à trois reprises pour éliminer les rebelles restants. Pris de panique, les archers s'enfuirent.
 
-Hanya rangea son arme : *"Devons-nous les poursuivre ?"* Ikarnos secoua la tête : *"Non. Leur couardise sera une nouvelle fois la preuve de la supériorité de la Déesse."*
+**Hanya** rangea son arme : "Devons-nous les poursuivre ?"
+
+**Ikarnos** secoua la tête : "Non. Leur couardise sera une nouvelle fois la preuve de la supériorité de la Déesse."
 
 ## L'interrogatoire et le sort d'oubli
 
-Nous descendîmes de nos montures. Ikarnos adressa un clin d'œil à Jiridan : *"Maintenons l'illusion tant que nous ne sommes pas certains d'être hors de danger."* Jiridan resta donc en selle, faisant mine d'être entravé, tout en examinant les corps des assaillants.
+Nous descendîmes de nos montures. **Ikarnos** adressa un clin d'oeil à Jiridan : "Maintenons l'illusion tant que nous ne sommes pas certains d'être hors de danger."
 
-Il y avait 4 morts, 3 mourants et 1 gravement blessé. Hanya acheva froidement les mourants. Jiridan murmura alors à l'oreille d'Ikarnos : *"J'ai reconnu certains visages. Je les ai vus au marché de Bagnot. Les rebelles sont donc aussi présents en ville, et pas seulement dans les montagnes..."*
+**Jiridan** resta donc en selle, faisant mine d'être entravé, tout en examinant les corps des assaillants.
 
-Ikarnos s'approcha du seul survivant : *"Tu veux vivre ou mourir ?"* L'homme balbutia : *"Gloire à Orlanth !"*, avant de cracher d'autres mots en Orlanthi. Ses yeux s'agrandirent de stupeur lorsqu'il vit Jiridan traduire ses paroles.
+Il y avait 4 morts, 3 mourants et 1 gravement blessé. Hanya acheva froidement les mourants. 
+
+**Jiridan** murmura alors à l'oreille d'Ikarnos : "J'ai reconnu certains visages. Je les ai vus au marché de Bagnot. Les rebelles sont donc aussi présents en ville, et pas seulement dans les montagnes..."
+
+**Ikarnos**s'approcha du seul survivant : "Tu veux vivre ou mourir ?" 
+
+L'homme balbutia : "Gloire à Orlanth !", avant de cracher d'autres mots en Orlanthi. Ses yeux s'agrandirent de stupeur lorsqu'il vit Jiridan traduire ses paroles.
 
 > 🎲 **Inspiration** : <img src="../../../rules/runes/assets/pouvoirs/illusion.png" width="5%" valign="bottom"> Révélation
 
-Le prisonnier avait dit : **"La Guerre des Héros a commencé, et Argrath fera plier la Déesse."**
+Le prisonnier avait dit : "La Guerre des Héros a commencé, et Argrath fera plier la Déesse."
 
-* **Ikarnos :** *"Intéressant. Et où pouvons-nous trouver cet Argrath ?"*
-* **L'homme :** *"C'est lui qui te trouvera. Il t'arrachera les tripes, fils de chien !"*
-* **Ikarnos :** *"C'est courageux de ta part de ne pas implorer ton salut. Ton bras est salement amoché... Tu aurais pu faire un esclave utile dans les jardins d'un patricien. Seulement, nous ne sommes pas là pour ça. Mon choix est délicat, comprends-tu ? Que faire d'un ennemi vaincu : le tuer, ou le laisser vivre pour qu'il continue le combat ?"*
+**Ikarnos :** "Intéressant. Et où pouvons-nous trouver cet Argrath ?"
+
+**L'homme :** "C'est lui qui te trouvera. Il t'arrachera les tripes, fils de chien !"
+
+**Ikarnos :** "C'est courageux de ta part de ne pas implorer ton salut. Ton bras est salement amoché... Tu aurais pu faire un esclave utile dans les jardins d'un patricien. Seulement, nous ne sommes pas là pour ça. Mon choix est délicat, comprends-tu ? Que faire d'un ennemi vaincu : le tuer, ou le laisser vivre pour qu'il continue le combat ?"
 
 Jiridan comprit qu'Ikarnos jouait avec sa proie. D'un côté, cela lui semblait cruel ; de l'autre, il était fasciné par cette faculté typiquement Lunaire à ne jamais rendre les choses simples ou binaires.
 
-Une lueur de terreur passa enfin dans le regard du rebelle, comme s'il prenait soudainement conscience de la noirceur de son sort. Ikarnos murmura alors quelques phrases en **Vieux Dara-happien**, puis demanda doucement à l'homme : *"Rappelle-moi, l'ami... Quel est donc le Dieu que tu sers ? Et comment s'appelle ce "héros" qui doit vaincre la Grande Déesse ?"*
+Une lueur de terreur passa enfin dans le regard du rebelle, comme s'il prenait soudainement conscience de la noirceur de son sort. 
+
+**Ikarnos** murmura alors quelques phrases en **Vieux Dara-happien**, puis demanda doucement à l'homme : "Rappelle-moi, l'ami... Quel est donc le Dieu que tu sers ? Et comment s'appelle ce "héros" qui doit vaincre la Grande Déesse ?"
 
 > 🎲 **Résolution - Sort "Oublier les noms" contre le survivant :**
 > * **Conflit :** 
@@ -89,11 +103,11 @@ Une lueur de terreur passa enfin dans le regard du rebelle, comme s'il prenait s
 >   - `1` (Volonté du Rebelle)
 > * **Résultat 2 vs 1 :** Victoire d'Ikarnos à `+1`.
 
-Le prisonnier balbutia : *"Gloire à... Il... vaincra..."* Soudain, des larmes coulèrent sur ses joues. Il venait de se rendre compte, avec horreur, qu'il était incapable de prononcer le nom de ses Dieux et de ses Héros. L'oubli magique était total.
+Le prisonnier balbutia : "Gloire à... Il... vaincra..." Soudain, des larmes coulèrent sur ses joues. Il venait de se rendre compte, avec horreur, qu'il était incapable de prononcer le nom de ses Dieux et de ses Héros. L'oubli magique était total.
 
 ![Oubli du nom d'Orlanth](oubli-du-nom.png)
 
-Ikarnos sourit : *"Si tu survis, va à Bagnot, au temple de Danfive Xaron. Tu y trouveras une nouvelle vie. Ou alors, retourne parmi les tiens, et demande-leur grâce pour ne plus être capable d'adorer tes propres Dieux..."*
+**Ikarnos** sourit : "Si tu survis, va à Bagnot, au temple de Danfive Xaron. Tu y trouveras une nouvelle vie. Ou alors, retourne parmi les tiens, et demande-leur grâce pour ne plus être capable d'adorer tes propres Dieux..."
 
 Nous abandonnâmes le prisonnier sur place, lui laissant un peu d'eau et quelques vivres, avant de reprendre notre route vers la montagne, redoublant de vigilance.
 
@@ -138,9 +152,9 @@ Alors que le ton montait dangereusement, Ikarnos intervint. Il leur rappela ferm
 
 Contrainte à la réflexion, Peek-ee-Peek dut reconnaître qu'elle ne connaissait encore rien du vaste monde. Ikarnos réussit à apaiser les deux femmes en faisant promettre à Peek de rencontrer un chaman ou une chaman de Jakaleel dès que l'occasion se présenterait. Ainsi, elle ne renierait pas sa nature, continuerait d'honorer la voie des esprits, tout en se rapprochant de la Déesse pour guider, un jour, le **Peuple Sable** vers sa réalisation.
 
-Peek-ee-Peek se détendit et partagea avec nous une vieille histoire : comment, il y a cinq siècles, le Peuple Sable (qui possédait initialement la rune de la Terre) abandonna cette dernière pour adopter celle de la **Lune Naissante**, car elle leur rappelait les cornes des antilopes qu'ils montaient.
+Peek-ee-Peek se détendit et partagea avec nous une vieille histoire : comment, il y a plusieurs siècles, le Peuple Sable (qui possédait initialement la rune de la Terre) abandonna cette dernière pour adopter celle de la **Lune Naissante**, car elle leur rappelait les cornes des antilopes qu'ils montaient.
 
-*"C'est ainsi que, tout naturellement, l'Empire devint leur allié lors de la grande bataille de Prax"*, conclut Ikarnos, qui avait étudié en détail les chroniques de la campagne de Fazzur. Grâce à cette alliance, ils étaient aujourd'hui la tribu la plus puissante des cinq tribus praxiennes.
+"C'est ainsi que, tout naturellement, l'Empire devint leur allié lors de la grande bataille de Prax", conclut **Ikarnos**, qui avait étudié en détail les chroniques de la campagne de Fazzur. Grâce à cette alliance, ils étaient aujourd'hui la tribu la plus puissante des cinq tribus praxiennes.
 
 Ikarnos flatta un peu l'orgueil de Peek-ee-Peek en lui laissant entendre qu'elle pourrait bien être l'une de ces héroïnes promises à changer le destin de tout un peuple. La soirée se termina ainsi dans une atmosphère nettement plus sereine qu'elle n'avait commencé.
 
