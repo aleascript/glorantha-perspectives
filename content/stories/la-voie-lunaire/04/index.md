@@ -71,7 +71,7 @@ Il y avait 4 morts, 3 mourants et 1 gravement blessé. Hanya acheva froidement l
 
 Ikarnos s'approcha du seul survivant : *"Tu veux vivre ou mourir ?"* L'homme balbutia : *"Gloire à Orlanth !"*, avant de cracher d'autres mots en Orlanthi. Ses yeux s'agrandirent de stupeur lorsqu'il vit Jiridan traduire ses paroles.
 
-> 🎲 **Inspiration** : <img src="../../../rules/runes/assets/pouvoirs/illusion.png" width="3%" valign="bottom"> Révélation
+> 🎲 **Inspiration** : <img src="../../../rules/runes/assets/pouvoirs/illusion.png" width="5%" valign="bottom"> Révélation
 
 Le prisonnier avait dit : **"La Guerre des Héros a commencé, et Argrath fera plier la Déesse."**
 
@@ -117,7 +117,7 @@ Nous voyagions désormais en marge de la route, sur nos gardes. Peek-ee-Peek par
 
 
 
-> 🎲 <img src="../../../rules/runes/assets/pouvoirs/mort.png" width="3%" valign="bottom"><img src="../../../rules/runes/assets/pouvoirs/harmonie.png" width="3%" valign="bottom"> Ennemi et relations. Ce qui est différent menace notre cohésion.
+> 🎲 <img src="../../../rules/runes/assets/pouvoirs/mort.png" width="5%" valign="bottom"><img src="../../../rules/runes/assets/pouvoirs/harmonie.png" width="5%" valign="bottom"> Ennemi et relations. Ce qui est différent menace notre cohésion.
 
 Lors d'un bivouac au pied des montagnes, alors que Peek psalmodiait des incantations chamaniques en jouant avec un caillou rond et peint, Hanya s'en prit brusquement à elle. Elle affirma que pour le bien de la mission, il serait préférable que tous les membres de la troupe soient voués à la Déesse Rouge et abandonnent leurs vieux cultes superstitieux.
 
