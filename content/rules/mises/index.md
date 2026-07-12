@@ -50,13 +50,15 @@ Déjà signalons que certains facteurs sont des facteurs cadre. Ils sont telleme
 
 Pour autant si on veut s'entêter quand même a jouer hors cadre, on pourrait voir apparaître un delta de puissance entre les deux parties. 
 
-Plutôt que d'exprimer cela par des multiplication de dés, on va voir plus loin que chaque cadre de pensée possède un mode affaibli et un mode héroïque. 
+Plutôt que d'exprimer cela par des multiplication de dés, on peut aussi utiliser les modes **affaiblis** ou **héroïques**. 
 
 Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des mises qui est en jeu. Une partie aura juste beaucoup plus de dés de son côté que l’autre.
 
+#### Ou bien utiliser une jauge pour le Destin
+
 Vous pouvez aussi aussi bien en solo qu'en groupe, envisager d'utiliser une **jauge de Destin**. Cela permet d'improviser des mises suivant la situation pour équilibrer les difficultés selon ce qui s'est déroulé précédemment et ainsi créer une respiration narrative. On n'est absolument pas obligé d'équilibrer la jauge à chaque conflit. C'est juste un marqueur (très utile si on improvise ou si on joue en solo). 
 
-Principe: la jauge démarre à zero, et peut avoir une valeur négative (le destin finira par se retourner contre les héros) ou positive (le destin finira par jouer en faveur des héros). 
+> Principe: la jauge démarre à zero, et peut avoir une valeur négative (le destin finira par se retourner contre les héros) ou positive (le destin finira par jouer en faveur des héros). 
 
 Concrétement on peut la représenter par des dés de deux couleurs: une couleur pour les héros et une couleur pour l'adversité. Quand un conflit a lieu, on complète la jauge par les dés qui équilibrerait le conflit. Deux dés de meme couleur s'annulent donc on a toujours soit aucun dé, soit des dés d'une seule couleur. Ces dés permettent de jauger les difficultés des conflits. 
 

@@ -25,4 +25,6 @@ Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi
 - [Les quêtes héroïques](heroquests)
 - [L'inspiration runique](runes/inspiration)
 
-> <a id="note1"></a>*(1) Le mécanisme est assez similaire à HeroWars, HeroQuest sauf que là cela fonctionne de manière plus ouverte puisque les mises ne sont pas forcément hiérarchisées.*
+Plusieurs [modes de jeu](games) sont proposés mais à vous d'en inventer d'autres si vous le souhaitez.
+
+> <a id="note1"></a>*(1) Le mécanisme est assez similaire à HeroWars, HeroQuest sauf que là cela fonctionne de manière plus ouverte puisque les mises ne sont pas forcément hiérarchisées et quantifiées*
