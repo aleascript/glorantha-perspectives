@@ -70,7 +70,7 @@ Notes:
 > - Jauge à 0
 > - Premier conflit: héros 3 mises vs adversité 2 mises -> la jauge gagne 1 dé d'adversité (-1)
 > - Deuxième conflit:  héros 4 vs adversité 6 -> la jauge gagne 2 dés héros donc se retrouve avec un seul dé héros (+1)
-> - A un moment, le meneur ou le narrateur choisit de narrer une difficulté, on gagne donc un dé héros automatiquent. Nous voila avec 2 dés héros (+2) 
+> - A un moment, le meneur ou le narrateur choisit de narrer une difficulté, on gagne donc un dé héros automatiquement. Nous voila avec 2 dés héros (+2) 
 > - Le destin est donc plutot en faveur des héros. Le prochain conflit pourrait être à leur avantage au niveau des mises donc et donc si le meneur voulait rééquilibrer le tout, il pourrait tenter un conflit avec 2 mises de moins côté adversité que les mises des héros. 
 
 ### Les dés et les mises
