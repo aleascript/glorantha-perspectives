@@ -12,23 +12,23 @@ title: "Les préludes"
 
 La Rune de Maîtrise bat avec force dans mes veines ; elle nourrit en moi l'ambition dévorante d'affronter toutes les situations, de ne jamais courber l'échine, bien qu'elle m'interdise d'agir directement sur le Destin. 
 
-Le monde bouge, et de façon brutale. Ignifer a été tué, abattu par l'infâme sauvage Harrek le Berserk, ce maudit Pirate-Loup. Mais gloire à la Déesse ! Un nouveau Masque a été révélé au monde : il s’appelle Argenteus. Gloire à l'Empereur Rouge ! Le soleil de l'Empire continue de rayonner dans les cieux, et les ombres discrètes — dont je fais partie — reprennent leur labeur souterrain pour que triomphe la Voie Lunaire. 
+Le monde bouge, et de façon brutale. Ignifer a été tué, abattu par l'infâme sauvage Harrek le Berserk, ce maudit Pirate-Loup. Mais gloire à la Déesse ! Un nouveau Masque a été révélé au monde : il s’appelle Argenteus. Gloire à l'Empereur Rouge ! Le soleil de l'Empire continue de rayonner dans les cieux, et les ombres discrètes - dont je fais partie - reprennent leur labeur souterrain pour que triomphe la Voie Lunaire. 
 
-Cependant, le vent a tourné au palais. Ce nouveau Masque a balayé d'un revers de manche le schéma bureaucratique rigide qui prévalait au temps d'Ignifer. Désormais, il propose aux habitants de l'Empire de savourer sans entrave la prospérité et le plaisir offerts par la Déesse. Grand bien leur fasse, mais je ne suis pas dupe. Les ennemis seront vaincus, certes, mais il faudra aller les chercher et les saigner. L’Ombre d'Orlanth menace toujours et encore. C'est précisément pour cela que ma mission m'ordonne de m'enfoncer chez les Barbares : je dois préparer le terrain pour nos forces de combat pendant que le peuple, insouciant, profite des fastes de l'Empire.
+Cependant, le vent a tourné au palais. Ce nouveau Masque a balayé d'un revers de manche le schéma bureaucratique rigide qui prévalait au temps d'Ignifer. Désormais, il propose aux habitants de l'Empire de savourer sans entrave la prospérité et le plaisir offerts par la Déesse. Grand bien leur fasse, mais je ne suis pas dupe. Les ennemis seront vaincus, certes, mais il faudra aller les chercher et les transformer ou les soumettre. L’Ombre d'Orlanth menace toujours et encore. C'est précisément pour cela que ma mission m'ordonne de m'enfoncer chez les barbares : je dois préparer le terrain pour nos forces de combat pendant que le peuple, insouciant, profite des fastes de l'Empire.
 
 Argenteus et son entourage de courtisans semblent royalement ignorer cet état de fait. Je suis donc allé à la rencontre de mes contacts pour leur glisser un avertissement bien senti. Le dialogue fut lunaire : pendant que mon interlocuteur se complaisait à me parler de plaisirs et de voluptés, je lui projetais au visage les dangers imminents qui grondent aux frontières. La situation s'enlisait, le dialogue était bloqué. Déboussolé par tant de légèreté, je tentai alors le tout pour le tout en faisant valoir une troisième voie...
 
 > 🎲 Victoire Marginale
 
-Il me congédia d'un geste leste, comme s'il s'en lavait les mains. C'était au moins ça : je n'avais pas leur veto officiel sur les bras. Sans perdre un instant, j'organisai mon voyage et mis le cap vers les Royaumes du Sud.
+Il me congédia d'un geste las, comme s'il s'en lavait les mains. C'était au moins ça : je n'avais pas leur veto officiel sur les bras. Sans perdre un instant, j'organisai mon voyage et mis le cap vers les Royaumes du Sud.
 
 ![Argenteus](ikarnos-moon-palace.png)
 
-## Le Prélude d’Hanya : Le Chant du Mouvement et de la Stase
+## Le Prélude d'Hanya : Le Chant du Mouvement et de la Stase
 
 ![Harmonie](../../../rules/runes/assets/pouvoirs/harmonie.png)![Stase](../../../rules/runes/assets/pouvoirs/stase.png)
 
-Après avoir scruté les eaux sacrées et achevé mes divinations au puits de Hwarin à Jillaro, mon devoir m'apparut avec la clarté du cristal. J'allai trouver sans tarder la prêtresse de l'Ordre. Le verdict du destin était paradoxal : si l'on voulait protéger Jillaro, il fallait impérativement que je quitte Jillaro, ma cité de cœur, pour m'enfoncer au-devant des périls barbares.
+Après avoir scruté les eaux sacrées et achevé mes divinations au puits de Hwarin à Jillaro, mon devoir m'apparut avec la clarté du cristal. J'allai trouver sans tarder la prêtresse de l'Ordre. Le verdict du destin était paradoxal : si l'on voulait protéger Jillaro, il fallait impérativement que je quitte Jillaro, ma cité de coeur, pour m'enfoncer au-devant des périls barbares.
 
 Face à son scepticisme institutionnel, je déployai toute mon âme pour tenter d'ouvrir son esprit à cette nécessité...
 
@@ -42,7 +42,7 @@ Le succès fut total. Non seulement la prêtresse acquiesça à mes arguments, m
 ## Le Prélude de Jaridan : L’Aigre Parfum de la Pax Lunaria
 ![Mouvement](../../../rules/runes/assets/pouvoirs/mouvement.png)![Désordre](../../../rules/runes/assets/pouvoirs/desordre.png)
 
-Le commerce est ma seconde nature, et j'ai l'aubaine d'avoir mes habitudes avec le royaume de Sartar, tout particulièrement avec les divers clans de la confédération d'AldaChur. Mais le monde change : depuis la chute de Boldhome en 1602 ST, le fier pays de Sartar est devenu une Province Lunar. 
+Le commerce est ma seconde nature, et j'ai l'aubaine d'avoir mes habitudes avec le royaume de Sartar, tout particulièrement avec les divers clans de la confédération d'AldaChur. Mais le monde change : depuis la chute de Boldhome il y a vingt ans, le fier pays de Sartar est devenu une Province Lunar. 
 
 C'était la Saison Sombre, cette période de l'année propice à s'échanger les bienfaits terrestres d'Ernalda avant que ne s'abatte la fureur de la Saison des Tempêtes. Confiant, je guidai ma petite caravane à travers les collines, prenant soin de rendre visite à mes contacts et parfois amis au sein des différents clans. Mon but était simple : vendre mes biens. Mais d'année en année, l'ambiance se dégradait sous mes yeux. Les visages se figeaient, les gens devenaient de plus en plus suspicieux à mon égard. Certains, à mon passage, crachaient même par terre. Quelle amertume ! Je suis pourtant comme eux, un vrai Orlanthi dans l'âme, mais rien n'y faisait : mon passif commercial me condamnait à leurs yeux.
 
@@ -85,7 +85,7 @@ La fureur du combat atteignait son paroxysme, l'odeur du sang se mêlait au goû
 
 Notre ligne céda, rompue par un assaut désespéré. Submergé, je criai à Fta-Ah, ma fidèle monture, de nous arracher à la mêlée pour nous mettre un instant à l'abri. 
 
-Il s'en fallait de si peu pour arracher la victoire... Fta-Ah, admirable de loyauté, me permettait de manœuvrer au cœur du chaos, faisant cabrer et tomber les cavaliers qui nous encerclaient. 
+Il s'en fallait de si peu pour arracher la victoire... Fta-Ah, admirable de loyauté, me permettait de manoeuvrer au cœur du chaos, faisant cabrer et tomber les cavaliers qui nous encerclaient. 
 
 La loi de la guerre est cruelle et ne pardonne aucun relâchement. 
 
@@ -93,10 +93,10 @@ Puis, le sursaut ! Hourra ! Voyant les rangs adverses fléchir enfin, je tentai 
 
 Mon action d'éclat ultime échoua d'un cheveu... J'aurais pu être l'héroïne légendaire de cette journée. Mais qu'importe le prestige personnel, car au bout du compte, nous avions vaincu !
 
-Ce fut une **défaite majeure** pour les assaillants. Les tribus de nomades qui s'étaient ruées à l'assaut des positions lunaires finissent durablement brisées par ce désastre — estropiées, handicapées et moralement démoralisées pour les saisons à venir.
+Ce fut une **défaite majeure** pour les assaillants. Les tribus de nomades qui s'étaient ruées à l'assaut des positions lunaires finissent durablement brisées par ce désastre - estropiées, handicapées et moralement démoralisées pour les saisons à venir.
 
 ![Bataille de Bouillon de Lune](bouillon-de-lune.png)
 
-De mon côté, je m'en sort vivante mais grandement affaiblie, le corps marqué par quelques écorchures sanglantes et l'esprit vidé par une profonde fatigue spirituelle pour avoir tant sollicité l'Esprit de la Bête. Fta-Ah, épuisée par ses prouesses, est tout aussi affaiblie. Mais qu'importe nos blessures : notre victoire lors de la Bataille du Bouillon-de-Lune reste absolue et historique.
+De mon côté, je m'en sors vivante mais grandement affaiblie, le corps marqué par quelques écorchures sanglantes et l'esprit vidé par une profonde fatigue spirituelle pour avoir tant sollicité l'Esprit de la Bête. Fta-Ah, épuisée par ses prouesses, est tout aussi affaiblie. Mais qu'importe nos blessures : notre victoire lors de la Bataille du Bouillon-de-Lune reste absolue et historique.
 
 | [Précédent](..) | [Suivant](../02/) |
