@@ -151,7 +151,7 @@ La lance transperce le coeur d'Elemenoria, qui tente de murmurer une dernière m
 
 **Peek** enfonce la lame avec rage : "Que ta mort soit la plus rapide !" 
 
-Le globe se dissipe instantanément. La petite fille aveugle se lève d'un bond et s'engouffre dans une anfractuosité du mur.
+Le globe se dissipe instantanément. La sorcière a disparu. Il ne rese que la petite fille aveugle qui se lève d'un bond et s'engouffre dans une anfractuosité du mur.
 
 ![Elemenoria](elemenoria-murder.png)
 
