@@ -230,7 +230,9 @@ Un peu avant la tombée de la nuit, les héros s'arrêtent pour monter un camp. 
 
 **Hanya:** "et donc Ikarnos peut parler aux Dragons? Pourtant des sortes de Dragons nous ont attaqués!" 
 
-**Ikarnos:** "La Sorcière m'a prédit que je pourrais un jour leur parler mais n'a pas dit quand." Jaridan: "comme moi, la paix à laquelle j'aspire n'arrivera que si je sacrifie ma famille pour cela. Est-ce que cela en vaut vraiment la peine?" 
+**Ikarnos:** "La Sorcière m'a prédit que je pourrais un jour leur parler mais n'a pas dit quand." 
+
+**Jaridan:** "comme moi, la paix à laquelle j'aspire n'arrivera que si je sacrifie ma famille pour cela. Est-ce que cela en vaut vraiment la peine?" 
 
 **Peek:** "Vous voilà liés à cette sorcière. Et apparemment sa mort n'a pas délié les voeux. Donc ne me tenez pas rigueur de tout ce qui se passe. Sur ce, bonne nuit. J'assurerais la dernière garde." 
 
