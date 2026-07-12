@@ -55,9 +55,11 @@ Fixant Fazzur, j'attendais sa réaction car j'avais employé un *mot secret*. Si
 
 Mes nouveaux compagnons n'étaient pas en reste :
 
-* **Jaridan** se lança dans une diatribe sur les dangers de la non-préparation, faisant moult gestes de la main (j'appris plus tard qu'il s'agissait de gestes pour établir un "lien gagnant-gagnant" que les initiés de son Dieu **Issaries** apprennent). 
-* **Hanya** prit un ton grandiloquent pour rappeler son engagement envers la Déesse et la cause. Elle approuva avec une moue, confirmant que le barbare avait raison : même si la rapidité d'action est souvent source de succès, bon nombre d'expéditions ont échoué faute d'avoir pris le temps nécessaire.
-* La nomade observait et ne dit rien.
+**Jaridan** se lança dans une diatribe sur les dangers de la non-préparation, faisant moult gestes de la main (j'appris plus tard qu'il s'agissait de gestes pour établir un "lien gagnant-gagnant" que les initiés de son Dieu **Issaries** apprennent). 
+
+**Hanya** prit un ton grandiloquent pour rappeler son engagement envers la Déesse et la cause. Elle approuva avec une moue, confirmant que le barbare avait raison : même si la rapidité d'action est souvent source de succès, bon nombre d'expéditions ont échoué faute d'avoir pris le temps nécessaire.
+
+La nomade observait et ne dit rien.
 
 > 🎲 Bilan de la confrontation: victoire majeure
 
@@ -71,9 +73,11 @@ Je découvrais les ressources de mes nouveaux compagnons et étais plutôt satis
 
 À l'auberge, nous fîmes connaissance et chacun exposa un peu sa vie et son rapport à la **Lune Rouge**.
 
-* **Hanya** paraissait un peu hautaine et prenait de haut Jaridan et Peek-ee-Peek, mais elle semblait digne de confiance.
-* **Jaridan** avoua vouloir que la paix triomphe avant tout. Je lui promis de tout faire dans ce sens mais, au fond de moi, je savais que *les excès étaient parfois nécessaires* pour faire triompher la cause.
-* **Peek-ee-Peek** parla peu. Elle ne maîtrisait pas bien le pélorien, mais elle parla d'une **prophétie reçue par son peuple il y a 500 pluies**, affirmant que *le vent se levait*.
+**Hanya** paraissait un peu hautaine et prenait de haut Jaridan et Peek-ee-Peek, mais elle semblait digne de confiance.
+
+**Jaridan** avoua vouloir que la paix triomphe avant tout. Je lui promis de tout faire dans ce sens mais, au fond de moi, je savais que *les excès étaient parfois nécessaires* pour faire triompher la cause.
+
+**Peek-ee-Peek** parla peu. Elle ne maîtrisait pas bien le pélorien, mais elle parla d'une **prophétie reçue par son peuple il y a plus de 50 pluies**, affirmant que *le vent se levait*.
 
 ### Le Choix de la Route
 
