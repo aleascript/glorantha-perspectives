@@ -23,6 +23,7 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 - [Bagnot](03)
 - [Vers les Ruines Tombantes](04)
 - [Les Ruines Tombantes](05)
+- [Mine de Nain](06)
 
 # Notes:
 
