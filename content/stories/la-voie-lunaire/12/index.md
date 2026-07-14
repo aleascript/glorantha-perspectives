@@ -63,6 +63,8 @@ J'ai envie de chair crue. L'ogre qui grandit dans ma chair me le rappelle régul
 
 Alors que je dévore un lapin cru que j'ai abattu d'une flèche, je sens un mouvement derrière moi. Le Nain m'a suivie et semble avoir compris quelque chose, tenant son marteau de guerre et poussant un cri en m'attaquant.
 
+![Surprise](blody-surprise.png)
+
 > 🎲 Confrontation Hanya et le Mostali
 > - Conflit:
 >   - Hache de guerre, Coup tranchant
@@ -110,6 +112,8 @@ Quand je me réveille je vois un petit attroupement sur la place. Gundar m'appre
 Je m'exclame: "Toi là bas souviens-toi des serpents ! Tu sais très bien que ce n'est pas moi qui les ai fait venir!". 
 
 Un des gardes me donne un coup avec le bois de sa lance pour que je me taise. J'encaisse en espérant que les Nains ont compris le message. D'ailleurs, je dois vraiment être fatigué car je me rends compte que l'homme torse nu a le médaillon au cou. Son adversaire est aussi torse nu, un grand costaud pleins de cicatrices. Je reconnais là un rude gaillard. Le vieux Sage entonne des chants et rappelle une loi sur l'honneur et la vérité. Apparemment un grief oppose les deux hommes et l'homme au médaillon a décidé de défier l'autre à mains nus. Il va se faire massacrer je me dis dans un premier temps. Puis le combat commence et soudain un doute m'assaille. L'homme au médaillon encaisse les coups de son adversaire sans broncher et quand il se met à répondre ses coups semblent d'une puissance surnaturelle. Finalement le gros costaud s'écroule. L'homme au médaillon lève les bras en triomphe. 
+
+![The fight](fight.png)
 
 La prêtresse Sheena et ses acolytes l'emportent pour le soigner. Puis le chef du village parle avec Gundar qui fait venir l'homme au médaillon. Je n'entends pas ce qu'ils disent mais parfois ils regardent vers moi. Finalement ils semblent se mettre d'accord. 
 
