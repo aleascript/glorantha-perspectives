@@ -100,6 +100,8 @@ Hanya: "alors je n’ai pas le choix" Elle s’avance. Hazz la fixe, la terreur 
 
 La foule détourne les yeux de l’horreur: horreur du masque de terreur qu’Hanya a invoqué, horreur de voir les deux jambes coupées au dessus des genoux, horreur d’entendre les hurlements de Hazz qui tombe inconscient. 
 
+![Hazz supplice](cut.png)
+
 Des guerriers sont admiratifs de la précision du coup tranchant de la guerrière. La femme du chef s’agenouille et sort de la calebasse une boue fumante pour l’appliquer sur les mognons du cul de jatte. 
 
 Hazz respire encore. Farindar prend la parole en s’adressant aux sbires de Hazz: "toi et toi, je vous bannis pour avoir participer à cette infamie. J’autorise quiconque à vous tuer si vous approchez des terres du clan." 
