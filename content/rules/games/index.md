@@ -12,7 +12,7 @@ Vous êtes la Destinée:
 - Ou peut être l’oeil du Dragon endormi sous la montagne?
 - Le fantôme d’un Erudit de l’Ambigu qui continue son étude et ses experimentations encore et encore, pour l'éternité ou jusqu'à la fin du Temps?
 - L’esprit d’une divinité oubliée en quête de compréhension sur le pourquoi de son exil?
-- …
+- ...
 
 Vous observez Glorantha vivre et mourir. 
 
