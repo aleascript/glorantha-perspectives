@@ -150,6 +150,8 @@ Jaridan et Ikarnos sont blessés. Cela peut empirer si l'on n'intervient pas ass
 
 Le groupe arrive à temps et repartent avec des guérisseuses à cheval. Peek choisit de suivre en courant: plutôt mourir que monter sur un cheval! De toute façon elle n'est pas guérisseuse. Les soigneuses arrivent. Les herbes sont brûlées, et avec la fumée on fait sortir le venin. Les prières envers Chalana Arroy sont envoyées. Ikarnos envoit ses pensées à Deezola une des sept mères, déesse qui soigne dans le panthéon Lunaire. Le poison est stoppé.
 
+# Retour au village
+
 > <img src="../../../rules/runes/assets/conditions/destin.png" width="5%"> Rebondissement (Illusion et Vérité)
 
 L'ambiance est lourde et des Orlanthis commencent à accuser les Lunaires de leur avoir caché des choses, ce qui est ridicule puisque eux-mêmes ont eu à en pâtir mais ils argumentent en disant qu'ils ont peut-être fait semblant. On les accuse d'être de mêche avec les Ogres.
