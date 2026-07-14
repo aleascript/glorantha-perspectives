@@ -27,6 +27,14 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 - [Cai et Visa Delli](07)
 - [Le clan des pommiers](08)
 - [Camping forcé dans la Passe du Dragon](09)
+- [Le chemin de la falaise (Peek & Jaridan)](10)
+- [Les Marches Naines (Ikarnos & Hanya)](11)
+- [Une alliance décevante (Ikarnos & Hanya)](12)
+- [Glasswall (Jaridan & Peek)](13)
+- [Esclavagistes (Ikarnos & Hanya)](14)
+- [En route vers Alda-Chur (Jaridan & Peek)](15)
+- [Accusés à tort (Ikarnos & Hanya)](16)
+- [Rencontre avec des Aldryami (Jaridan & Peek)](17)
 
 # Notes:
 
