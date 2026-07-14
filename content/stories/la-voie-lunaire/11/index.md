@@ -47,6 +47,8 @@ Ikarnos et Hanya remontent donc avec méthode la piste en interrogeant discréte
 
 Or un jour, alors qu'ils longent les Marches Naines en remontant vers le Nord, ils apercoivent un petit groupe de quatre nains qui semblent discuter un peu plus loin entre eux. Un des nains est en robe, deux autres ont l'air de soldats, et un autre semble très âgé. Les Nains les repèrent et les soldats lèvent leurs arbalètes dans leur direction. Ils s'approchent en levant les mains: "Paix mes amis!" Les Nains les laissent avancer et finalement les deux groupes se font face à 5m l'un de l'autre. Les soldats toujours méfiants crispés sur leurs arbalètes. 
 
+![Groupe de Mostali](mostali-globe-oil.png)
+
 Le Nain en robe se met à parler: "Salutations hommes, je suis Goundar de Mine de Nain et nous aussi, arpentons les terres des hommes en paix." 
 
 Le Nain qui semble âgé (presque de pierre) tient une boule translucide entre ses mains dans laquelle son regard semble plongé. 

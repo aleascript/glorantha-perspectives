@@ -1,5 +1,5 @@
 ---
-title: "Le procès (Ikarnos & Hanya)
+title: "Le procès (Ikarnos & Hanya)"
 ---
 
 *Suite des aventures d'Ikarnos & Hanya*

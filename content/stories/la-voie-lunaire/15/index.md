@@ -1,5 +1,5 @@
 ---
-title: "Vers AldaChur (Jaridan & Peek)"
+title: "Vers Alda-Chur (Jaridan & Peek)"
 ---
 
 *Suite des aventures de Jaridan & Peek*
