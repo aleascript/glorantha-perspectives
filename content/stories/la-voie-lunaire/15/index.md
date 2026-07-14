@@ -29,6 +29,8 @@ Interrogeant Gomax à ce sujet, celui-ci déclare qu'ils ne sont pas là pour s'
 
 Au moment où Jaridan discute avec Gomax, au détour d'un virage, la troupe se fige devant un spectacle monstrueux. Une créature à tête humaine avec une crinière et un corps de lion et une queue de scorpion est en train de dévorer un sanglier géant ! La troupe s'arrête et Gomax organise sa tactique. Pendant ce temps Jaridan recule pour se rapprocher de la queue et donc des prisonniers. Les lunaires sont occupés à autre chose. Il est temps d'agir. 
 
+![Manticore](manticore.png)
+
 > 🎲 Réussir à libérer les prisonniers
 > - Conflit:
 >   - profiter de la diversion avec la Manticore, couper les liens, passer les dagues aux prisonniers

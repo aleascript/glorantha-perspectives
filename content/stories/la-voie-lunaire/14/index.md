@@ -126,7 +126,7 @@ Les hommes les entourent. Ils sont trop nombreux et trop armés pour tenter quel
  
  Puis il voit d'autres Sartarites sortir des bois en trainant Hazz blessé et amoché ainsi que deux hommes à lui. Les deux autres manquants ont peut-être réussi à s'échapper ou leurs cadavres gisent maintenant dans les bois. Le guerrier à l'épée: "ne t'inquiète pas, ton complice est là et toute la vérité sera faite sur vos sinistres affaires qui ont trop duré maintenant. Le vent se lève et Lankhor Mhy voit tout. Allez embarquez-les".
 
-![Arrêtés](arrested.png)
+![Arrêtés](arrestation.png)
 
 Nous quittons les héros attachés et désarmés trainés par la troupe sartarite à travers la lande pour rejoindre le domaine du clan. 
 
