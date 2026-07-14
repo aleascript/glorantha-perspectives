@@ -1,5 +1,5 @@
 ---
-title: "Vers Alda-Chur (Jaridan & Peek)"
+title: "Vers AldaChur (Jaridan & Peek)"
 ---
 
 *Suite des aventures de Jaridan & Peek*
@@ -8,7 +8,7 @@ title: "Vers Alda-Chur (Jaridan & Peek)"
 
 L'aurore n'est même pas levée qu'on sort Peek et les trois jeunes rebelles du cachot. 
 
-Gomax l'officier lunaire prend à part Peek et lui dit: "tu vas reprendre les rangs maintenant. Nous t'avons à l'oeil et bientôt tu rejoindras le régiment des Sables d'Alda-Chur. Ton compagnon trouvera un autre guide une fois là-bas. Nous l'escorterons jusqu'à la cité. Pas de faux pas si tu veux vivre." 
+Gomax l'officier lunaire prend à part Peek et lui dit: "tu vas reprendre les rangs maintenant. Nous t'avons à l'oeil et bientôt tu rejoindras le régiment des Sables d'AldaChur. Ton compagnon trouvera un autre guide une fois là-bas. Nous l'escorterons jusqu'à la cité. Pas de faux pas si tu veux vivre." 
 
 Hanya retrouve donc Fta-Ah puis Jaridan. Heureusement on ne l'empêche pas de lui parler et les hommes sont plus occupés à préparer l'escorte des prisonniers. 
 
@@ -18,7 +18,7 @@ Jaridan: "Je te comprends mais calme-toi. Mais si nous ne parvenons pas à les l
 
 Comment libérer les trois rebelles ? La situation de fait semble compliquée pour nos héros. Cernés de soldats lunaires, avec peu de marge de manoeuvre et pris par le temps vu que le voyage va être très court. Peut-être qu'une approche violente est finalement la seule option même si cela  implique de lourds sacrifices. 
 
-La petite équipée quitte Glasswall au moment où Yelm apparaît à l'horizon. Jaridan remarque qu'un des prisonniers regarde désespérément vers les murs du fort le visage fermé et tendu mais rien ne paraît. Au bout d'une heure de route le fort a disparu et ils avancent au pas sur la route qui mène à Alda-Chur. En tête du cortège, quatre lunaires à pied, ensuite Gomax à cheval, puis 3 autres lunaires qui encadrent les prisonniers. Derrière Jaridan à cheval et Peek sur son antilope. A l'arrière, deux lunaires à cheval. Jaridan prépare discrétement trois dagues de son stock de marchandises qu'il trimballe toujours avec lui. Nos deux héros n'attendent que le bon moment pour agir. 
+La petite équipée quitte Glasswall au moment où Yelm apparaît à l'horizon. Jaridan remarque qu'un des prisonniers regarde désespérément vers les murs du fort le visage fermé et tendu mais rien ne paraît. Au bout d'une heure de route le fort a disparu et ils avancent au pas sur la route qui mène à AldaChur. En tête du cortège, quatre lunaires à pied, ensuite Gomax à cheval, puis 3 autres lunaires qui encadrent les prisonniers. Derrière Jaridan à cheval et Peek sur son antilope. A l'arrière, deux lunaires à cheval. Jaridan prépare discrétement trois dagues de son stock de marchandises qu'il trimballe toujours avec lui. Nos deux héros n'attendent que le bon moment pour agir. 
 
 La matinée se passe sans encombre et après le déjeuner, l'équipe repart. 
 Jaridan et Peek sont toujours à l'affut du moindre signe. Les Lunaires sont sur le qui-vive car la proximité du Creux du Serpent Pipe peut toujours être une source d'un danger chaotique. 

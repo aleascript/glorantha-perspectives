@@ -32,7 +32,7 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 - [Une alliance décevante (Ikarnos & Hanya)](12)
 - [Glasswall (Jaridan & Peek)](13)
 - [Esclavagistes (Ikarnos & Hanya)](14)
-- [En route vers Alda-Chur (Jaridan & Peek)](15)
+- [En route vers AldaChur (Jaridan & Peek)](15)
 - [Accusés à tort (Ikarnos & Hanya)](16)
 - [Rencontre avec des Aldryami (Jaridan & Peek)](17)
 

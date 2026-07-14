@@ -40,7 +40,7 @@ Un vieil homme se lève et regardent les prisonniers. Il tend devant lui un bât
 
 Urulvir s'éclaircit voix et s'exprime: "Ils disent vrais mais je n'arrive pas à voir clairement toute la situation. Hazz est coupable en tout cas. Les autres sont innocents pour les esclaves mais ne sont pas fiables pour autant.". Il se rassoit.
 
-Farindar: "Je vois que tu es blessé Lunar, tu pourras te soigner et seras notre hôte le temps qu'on éclaircisse un peu mieux vos intentions. Hynir trouve leur un logement. Quant à toi Hazz je te condamne à devenir esclave. Tu seras amené au marché des esclaves d'Alda-Chur"
+Farindar: "Je vois que tu es blessé Lunar, tu pourras te soigner et seras notre hôte le temps qu'on éclaircisse un peu mieux vos intentions. Hynir trouve leur un logement. Quant à toi Hazz je te condamne à devenir esclave. Tu seras amené au marché des esclaves d'AldaChur"
 
 Ikarnos: "si je peux me permettre, si Hazz est citoyen lunaire, il risque d'échapper à votre jugement, noble chef. Laissez la guerrière mettre fin à sa piteuse vie."
 
@@ -58,7 +58,7 @@ Ikarnos s’assoit sur un banc et se délasse les jambes: "voilà encore un fâc
 
 Hanya répond amèrement "ce sont des barbares querelleurs, capables de changer d’avis comme le fait le vent, comme leur maître Orlanth". 
 
-Ikarnos: "c’est pour cela que nous devons faire en sorte de représenter quelque chose d’intéressant. Nous pourrions les aider à chercher les vrais commanditaires de ce trafic même si cela nous éloignera hélas encore un peu plus d’Alda-Chur." 
+Ikarnos: "c’est pour cela que nous devons faire en sorte de représenter quelque chose d’intéressant. Nous pourrions les aider à chercher les vrais commanditaires de ce trafic même si cela nous éloignera hélas encore un peu plus d’AldaChur." 
 
 Hanya se renfrogne: "je pense pour ma part que ce ne sont pas nos affaires. Essayons plutôt d’en profiter pour soigner ta blessure". 
 

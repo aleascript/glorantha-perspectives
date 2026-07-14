@@ -77,7 +77,7 @@ Jaridan: "attendez le clan s'appelait le clan des pommiers, leurs pommes sont sa
 
 Les héros doivent encore continuer mais cette fois ils ont réparti les affaires sur le dos du seul cheval restant. Fta-Ah est trop faible pour porter quoique ce soit. 
 
-Ikarnos: "nous pourrons acheter des chevaux à Alda-Chur, si nous arrivons jusque là."
+Ikarnos: "nous pourrons acheter des chevaux à AldaChur, si nous arrivons jusque là."
 
 ## La traversée du ruisseau 
 
@@ -87,7 +87,7 @@ Hanya: "Déjà qu'ils en avaient contre nous, ils vont pas nous aimer en découv
 
 Jaridan: "c'est pour cela qu'il faut s'éloigner, surtout s'ils ont avec eux un adepte d'Odayla capable de se changer en ours avec eux. Espérons que les carcasses soient vite trouvées et évacuées du verger avant qu'elles ne polluent ce lieu qui a mon avis est sacré pour eux." 
 
-Ils s'enfoncent donc de plus en plus loin et remontent le ruisseau qui s'élargit bondissant de rochers en rochers dans un paysage valloné fait d'herbe lisse et de pierrailles. Au loin à l'est, ils voient au loin la crête de la falaise dont ils savent que derrière se trouve Alda-Chur sur le plateau, leur destination et sans doute un peu de repos, l'espèrent-ils. 
+Ils s'enfoncent donc de plus en plus loin et remontent le ruisseau qui s'élargit bondissant de rochers en rochers dans un paysage valloné fait d'herbe lisse et de pierrailles. Au loin à l'est, ils voient au loin la crête de la falaise dont ils savent que derrière se trouve AldaChur sur le plateau, leur destination et sans doute un peu de repos, l'espèrent-ils. 
 
 Soudain Peek lève la main et désigne un promontoire un peu plus haut de l'autre côté du ruisseau. "Ca peut faire un abri qu'en pensez-vous?" Ikarnos: "allons-voir".
 
@@ -176,7 +176,7 @@ Ikarnos écrit une lettre à codée à Fazzur
 > - Le clan des Pommiers ne semble pas spécialement ouverts à la Pax Lunar sans être hostile pour autant. 
 > - N'avons pas eu le temps de rester plus longtemps pour détecter d'éventuels groupes de rebelles."
 
-Ikarnos ne conclut pas car il sait qu'il aura sans doute d'autres choses à écrire d'ici leur arrivée à Alda-Chur et de dater le document. Il réfléchit un instant en se demandant s'il doit vraiment tout transmettre. Le masque de la déesse lui a dit d'aider Fazzur mais il sait que cela signifie qu'il faut qu'il l'espionne aussi quelque part et que par conséquent il ne doit pas donner des informations qui pourraient par le biais des étranges combinaisons du destin nuire à l'Empereur. En particulier, il omet les prophéties et le fait qu'Hanya porte un petit d'ogre dans son ventre.
+Ikarnos ne conclut pas car il sait qu'il aura sans doute d'autres choses à écrire d'ici leur arrivée à AldaChur et de dater le document. Il réfléchit un instant en se demandant s'il doit vraiment tout transmettre. Le masque de la déesse lui a dit d'aider Fazzur mais il sait que cela signifie qu'il faut qu'il l'espionne aussi quelque part et que par conséquent il ne doit pas donner des informations qui pourraient par le biais des étranges combinaisons du destin nuire à l'Empereur. En particulier, il omet les prophéties et le fait qu'Hanya porte un petit d'ogre dans son ventre.
 
 La semaine se passe sans incident majeur. Ikarnos a demandé aux chasseurs de ne pas trop s'éloigner pour ne pas se faire détecter car d'après Jaridan, il est possible que le clan les recherchent par rapport aux chevaux morts du verger, même si à son avis, ils se contenteront de cette mésaventure qui devra bien les réjouir. Les héros s'entrainent: Jaridan au baton, Peek à la lance ou à l'arc, Hanya à sa hache. Jaridan et Ikarnos discutent itinéraire et cartes. Des libations sont faites aussi pour leurs Dieux respectifs. Mais un soir, lors du repas, Hanya déclare que la viande est trop cuite !
 

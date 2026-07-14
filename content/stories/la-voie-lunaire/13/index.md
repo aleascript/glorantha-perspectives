@@ -18,7 +18,7 @@ Une table pas très loin semble particulièrement agitée. Les hommes parlent en
 
 "Bonjour, étrangers. Je vous souhaite la bienvenue. Puis-je vous offrir à boire quelque chose ? Nous avons un excellent vin ici à Glasswall. Si si, vous allez voir." Il fait un signe au serveur, un molosse qui leur amène un grand pichet qu'il sert à nos héros ainsi qu'à lui-même. "Alors voyageurs, que venez-vous faire dans nos contrées lointaines?"
 
-Jaridan répond: "Nous allons à Alda-Chur mais en fait nous faisons route pour Pavis. Comme tu peux le voir j'ai avec moi un guide et une garde du corps pour Prax. Je compte y faire du commerce. Sais-tu si la route est sûre en ce moment?"
+Jaridan répond: "Nous allons à AldaChur mais en fait nous faisons route pour Pavis. Comme tu peux le voir j'ai avec moi un guide et une garde du corps pour Prax. Je compte y faire du commerce. Sais-tu si la route est sûre en ce moment?"
 
 L'homme répond: "Rien n'est sûr dans ce monde avec le chaos, tu le sais bien, l'ami mais le danger est parfois plus de l'intérieur que de l'extérieur." Il a un air énigmatique.
 

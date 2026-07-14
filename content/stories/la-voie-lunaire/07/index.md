@@ -148,6 +148,6 @@ Peek: "tu as vu ce que j'ai vu, ces gens pactisent avec le Diable. Nous, nomades
 
 Ikarnos: "tu as sans doute raison et merci de nous avoir sauvés." 
 
-Mais il n'en pense pas moins et a bien l'intention d'en relater à Fazzur dès qu'il pourra retrouver un réseau d'informations à Alda-Chur. Hanya esquisse un merci également envers Peek.
+Mais il n'en pense pas moins et a bien l'intention d'en relater à Fazzur dès qu'il pourra retrouver un réseau d'informations à AldaChur. Hanya esquisse un merci également envers Peek.
 
 | [Précédent](../06) | [Suivant](../08/) |

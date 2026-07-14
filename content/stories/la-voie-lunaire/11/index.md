@@ -41,7 +41,7 @@ S'ils rencontrent des Lunaires, leur dire qu'ils cherchent deux fugitifs. S'ils 
 
 Ikarnos et Hanya se faufilent sans problème dans les terres et arrivent au domaine. La villa a été brûlée. Quel gachis, pensent Ikarnos et Hanya. Ils remontent la route de fuite que semble avoir pris les Ogres.
 
-Ikarnos et Hanya remontent donc avec méthode la piste en interrogeant discrétement toute personne rencontrée. Malheureusement personne n'a vu le couple fugitif mais cela ne désespère pas Ikarnos qui sait que la patience paie toujours dans le renseignement. Les options de Cai sont sans doute limitées également: soit il retourne vers Tarsh, soit il bifurque à l'est vers Alda-Chur, soit il remonte vers le Creux-Serpent-Pipe. Il leur faut trouver la petite trace qui pourra leur permettre de déduire la direction qu'ils ont choisis. 
+Ikarnos et Hanya remontent donc avec méthode la piste en interrogeant discrétement toute personne rencontrée. Malheureusement personne n'a vu le couple fugitif mais cela ne désespère pas Ikarnos qui sait que la patience paie toujours dans le renseignement. Les options de Cai sont sans doute limitées également: soit il retourne vers Tarsh, soit il bifurque à l'est vers AldaChur, soit il remonte vers le Creux-Serpent-Pipe. Il leur faut trouver la petite trace qui pourra leur permettre de déduire la direction qu'ils ont choisis. 
 
 ## Les Marches Naines
 
