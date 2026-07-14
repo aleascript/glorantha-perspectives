@@ -43,6 +43,8 @@ Elle s'adosse à un arbre et ses yeux se révulsent.
 >   - "Ours"
 > - Résultat 2 vs 1: Victoire +2
 
+![Odayla](odayla-vision.png)
+
 Une petite fumée sort du sac puis se mêle dans l'air ambiant. L'esprit cherche et finit par trouver l'ours gigantesque, au poil noir qui hume l'air ambiant mais l'esprit n'a pas d'odeur et l'esprit relaie l'image à Peek qui voit également l'ours, ainsi que l'endroit où il se trouve. De plus l'esprit sent une chose étrange et une aura d'homme se superpose sur l'aura de l'ours dans la vision de Peek. Cet ours serait également un homme. C'est incompréhensible. Les traditions praxiennes n'ont pas l'habitude d'incarner des animaux. Mais c'est un fait. Elles en savent un peu plus sur leur proie maintenant.
 
 Hanya et Peek retournent au camp et ce faisant font croire à un repli éventuel pour rassurer la bête. Jaridan explique qu'il y a des hommes qui vénèrent le dieu de la chasse Odayla et qu'il parait que certains peuvent même se transformer en ours géant. Les compagnons décident d'en rester là étant donné que sans doute l'homme en question appartient au clan qu'ils viennent de quitter. Il nous faut trouver un autre endroit mais si nous restons dans le coin, nous pourrons voir cet homme pour lui parler en espérant qu'il aura alors sa forme humaine.
@@ -108,6 +110,8 @@ Hanya est projetée contre un rocher. Une créature féminine se lève d'un bass
 > - Résultat 3 vs 3: Défaite -1
 
 La créature envoie un courant pour tenter de noyer Hanya mais celle-ci arrive à l'éviter et se sort de l'eau éreintée mais sauve. La créature regarde de ses grands yeux le groupe. Elle ne comprend pas. On dirait que les esprits contenus dans les fétiches de Peek l'ont apaisée. 
+
+![Potaméïde](potameide-metal.png)
 
 Peek porte ses doigts à ses tempes et reçoit le message de la créature par l'intermédiaire des esprits qui reviennent dans ses fétiches. Ce n'est pas vraiment un langage. C'est entre le rêve et la pensée avec des images et des sensations. 
 
