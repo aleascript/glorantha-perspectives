@@ -25,6 +25,7 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 - [Les Ruines Tombantes](05)
 - [Mine de Nain](06)
 - [Cai et Visa Delli](07)
+- [Le clan des pommiers](08)
 
 # Notes:
 

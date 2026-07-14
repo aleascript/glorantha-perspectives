@@ -52,6 +52,8 @@ Une femme du cercle s'exprime: "meme le lunaire n'a rien vu, ces ogres sont pass
 
 Le conseil se termine et l'expédition se prépare. A pieds. Il faudra compter 4h de marche pour retourner la-bas.
 
+## Retour à la villa des Delli
+
 Finalement, le groupe est un peu plus nombreux. Il y a bien les 20 thanes mais se sont greffés des jeunes donc Irken : une dizaine en tout, dont certains étaient déjà là avec leurs torches". Ils arrivent devant la grande demeure. Le silence règne. Malgré le temps ensoleillé, l'angoisse est bien présente dans l'assemblée. La troupe encercle la demeure puis un petit groupe dont les héros pénètre par la grande porte. On voit des traces de sang là où le combat a eu lieu mais il n'y a plus aucun corps. D'après Peek, il manque 3 chevaux dans les écuries. 
 
 "Ils ont du fuir" 
@@ -76,6 +78,8 @@ Ikarnos rappelle: "ce n'est peut être pas la priorité du moment. S'ils ont fui
 
 La fouille s'organise. Les Orlanthis adoptent la méthode de l'Air. Ils procèdent en faisant comme une sorte d'escargot représentant la rune de l'Air ce qui est une manière assez efficace pour fouiller les alentours. Les lunaires utilisent plutôt la méthode du quadrillage et les Dara happiens utilisent une méthode solaire en lancant des groupes dans toutes les directions (rayons).
 
+
+## La fouille des vignes
 
 > <img src="../../../rules/runes/assets/conditions/destin.png" width="5%"> Les ogres ont lâchés des serpents dans leur fuite pour les ralentir. C'est l'occasion de se renseigner ce que Glorantha compte comme serpents.
 
