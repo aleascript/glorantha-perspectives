@@ -26,6 +26,7 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 - [Mine de Nain](06)
 - [Cai et Visa Delli](07)
 - [Le clan des pommiers](08)
+- [Camping forcé dans la Passe du Dragon](09)
 
 # Notes:
 
