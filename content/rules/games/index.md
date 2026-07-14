@@ -46,6 +46,7 @@ Vous voulez voir le monde avec les yeux d'un trollinet ou d’un broo, allez y.
 - J'imagine l'**interaction** et leurs **objectifs** 
 - S'il y a incertitude dans les choix, je procède à des **oppositions**
 - J'utilise la [**jauge de Destin**](../mises/index.md#ou-bien-utiliser-une-jauge-pour-le-destin)
+- Le destin me permet aussi de négocier certains gains et certaines pertes de manière équilibrée. Lorsqu'en dehors d'un conflit, j'avantage les protagonistes, j'avantage l'adversité au niveau du destin et vice versa.
 - Pour moi une situation doit aboutir sur au moins un **conflit** pour qu'il soit intéressant à jouer
 - J'essaie de jouer la **scène** jusqu'au bout
 - Et à la fin, je fais même un jet sous la valeur du Destin (le nombre de dés ou la valeur absolue du Destin): si le résultat est strictement inférieur, alors un **rebondissement** a lieu.
