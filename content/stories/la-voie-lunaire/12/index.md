@@ -63,7 +63,7 @@ J'ai envie de chair crue. L'ogre qui grandit dans ma chair me le rappelle régul
 
 Alors que je dévore un lapin cru que j'ai abattu d'une flèche, je sens un mouvement derrière moi. Le Nain m'a suivie et semble avoir compris quelque chose, tenant son marteau de guerre et poussant un cri en m'attaquant.
 
-![Surprise](blody-surprise.png)
+![Surprise](bloody-surprise.png)
 
 > 🎲 Confrontation Hanya et le Mostali
 > - Conflit:

@@ -14,6 +14,8 @@ Les héros devrait donc bien rejoindre la route de Pavis. Géographiquement parl
 
 Nos deux héros finissent par rejoindre la route de Pavis, une des routes royales du temps du Roi Sartar qui ironie du comble a bien servi l'armée lunaire pour ses incursions et invasions en Passe du Dragon. En avançant vers l'est, ils pénètrent sur une terre aride faite de morceaux de verre pilées sur laquelle rien ne pousse puis finissent par apercevoir un fort circulaire aux étranges murs de verre sombre, Glasswall. Jaridan y a déjà séjourné et Peek y est passé quand elle est venue en Tarsh l'année dernière. Ils se dirigent donc sans encombre vers l'entrée du fort, bien contents d'être arrivé avant la nuit car la nuit dans cette région est souvent synonyme d'incursion du chaos qui rampe au niveau du Creux Serpent-Pipe, une meurtrissure de la Terre située plus au nord et qui vomit des hordes de monstruosités à intervalle régulier. Si on peut parler de régularité avec le chaos! La nuit tombant, ils décident de prendre une chambre à l'auberge de l'Arbre Blanc. Les temps sont calmes et l'auberge n'est pas bondée. Ils s'installent alors pour un dîner copieux et sont à l'écoute des nouvelles du coin.
 
+![Taverne de l'arbre blanc](white-tree-tavern.png)
+
 Une table pas très loin semble particulièrement agitée. Les hommes parlent entre eux à voix basse. D'après leur allure, ce sont plutôt des guerriers si l'on en juge à leurs épées qu'ils portent à leur flanc. Ils remarquent des coups d'oeil vers eux et soudain un des hommes se lèvent et vient les voir.
 
 "Bonjour, étrangers. Je vous souhaite la bienvenue. Puis-je vous offrir à boire quelque chose ? Nous avons un excellent vin ici à Glasswall. Si si, vous allez voir." Il fait un signe au serveur, un molosse qui leur amène un grand pichet qu'il sert à nos héros ainsi qu'à lui-même. "Alors voyageurs, que venez-vous faire dans nos contrées lointaines?"
@@ -117,6 +119,8 @@ Peek pénètre dans la geôle et en voyant trois jeunes hommes enchaînés aux r
 > - Résultat 1 vs 2: défaite -2
 
 Alors qu'un des jeunes semble sur le point de parler, soudain un autre l'arrête. "Ne vois-tu pas que c'est un coup de Gomax ou de Perandal pour nous tirer les vers du nez ? Tais-toi. C'est une Sable, elle doit être avec eux." 
+
+![Cachot](cachot.png)
 
 Le jeune se tait aussitôt et Peek n'en apprendra pas plus pendant cette nuit et se rend compte que finalement l'évasion risque d'être passablement compliquée si les trois jeunes ne lui font pas confiance et la croient même dans le camp ennemi et évidemment impossible d'en savoir plus sur leurs capacités qui pourraient être utiles pour faciliter l'opération. Les trois jeunes étant enchaînés, elle se trouve un coin éloigné d'eux pour dormir d'un oeil. 
 

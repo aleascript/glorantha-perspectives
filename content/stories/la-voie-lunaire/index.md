@@ -16,6 +16,10 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 - [Hanya, gardienne de Jillaro, mercenaire investie](heroes/hanya)
 - [Peek-ee-peek, fille de chef, fière nomade Sable](heroes/peek-ee-peek)
 
+# Les autres
+
+Ils sont regroupés dans un [glossaire](others) par ordre alphabétique.
+
 # L'histoire
 
 - [Les préludes](01)
