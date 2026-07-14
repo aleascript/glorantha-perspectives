@@ -30,4 +30,4 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 
 <a id="note1"></a>(1) Mon projet initial était d'explorer un peu plus la vision lunaire du monde mais l'incursion des héros en Sartar finit par les faire évoluer. Et au fil du récit, j'ai l'impression qu'ils finiront peut-être à s'éloigner totalement de la Voie Lunaire, en tout cas, certains. Comme quoi, les personnages finissent à échapper à leur créateur.
 
-<a id="note2"></a>(2) Les héros ont été construits à la façon HeroQuest: culture, occupation, croyances, relations, ... Que des mots-clés qui pourront servir de mises (en plus des mises obtenues selon la situation)
+<a id="note2"></a>(2) Les héros ont été construits à la façon HeroQuest/Glorantha et remaniés à la sauce [Coeur de Runes](https://uzzgame.wordpress.com/coeur-de-runes/): runes, culture, occupation, croyances, relations, ... Que des mots-clés qui pourront servir de mises (en plus des mises obtenues selon la situation)

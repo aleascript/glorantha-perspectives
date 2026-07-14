@@ -7,13 +7,31 @@ title: "Peek-ee-peek"
 ![Peek](peek.png)
 
 * Femme, 22 pluies
-* **Personnalité**: fière, libre, sûre d'elle, impulsive
 * **Niveau de vie**: pauvre (relativement)
 * **Equipement**: arc, lance, casque, fétiches
 
+# Runes
+
+<img src="../../../../rules/runes/assets/elements/lune.png" width="10%">
+
+* Sentiment de supériorité
+* Curieuse
+
+<img src="../../../../rules/runes/assets/pouvoirs/mort.png" width="10%">
+
+* Flèche sûre
+* Avis tranchés
+* Impulsive
+
+<img src="../../../../rules/runes/assets/mondes/spirits.png" width="10%">
+
+* Sensible
+* Ressentir, voir les esprits
+* Marchander avec les esprits
+
 # Nomade Sable
 
-* Monter une Antilope
+* Monter une Antilope (ne fait qu'un avec Fta-Ah)
 * Mépris des chevaux
 * Mépris des sédentaires
 * Survie dans la Désolation
@@ -23,8 +41,9 @@ title: "Peek-ee-peek"
 * Lire les noeuds Praxiens
 * Animisme Praxien : Waha & Eiritha
 * **Relations** 
+  - Tribu
   - Fille de Khan 
-
+* **Vertus** : fierté, liberté
 # Eclaireuse
 
 * Discrète

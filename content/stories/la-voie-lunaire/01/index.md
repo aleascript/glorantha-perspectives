@@ -36,7 +36,7 @@ Face à son scepticisme institutionnel, je déployai toute mon âme pour tenter 
 
 > 🎲 Victoire Majeure
 
-Le succès fut total. Non seulement la prêtresse acquiesça à mes arguments, mais l'Ordre décida d'appuyer pleinement et totalement ma démarche.
+Le succès fut total. Non seulement la prêtresse acquiesça à mes arguments, mais l'Ordre décida d'appuyer pleinement et totalement ma démarche. Cela allait m'éloigner de ma quête vers la Déesse Rouge mais la défense de la Civilisation doit primer. Mon cas personnel n'est pas le plus important et cet argument fit sourire la Grande Soeur comme si elle y voyait un début de quelque chose. 
 
 
 ## Le Prélude de Jaridan : L’Aigre Parfum de la Pax Lunaria
