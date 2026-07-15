@@ -35,11 +35,10 @@ Nous fûmes donc surpris par une volée de flèches qui, fort heureusement, n'at
 
 L'étau se resserrait dangereusement autour de nous. Heureusement, la proximité de la mêlée empêchait désormais les archers ennemis de tirer vers nous sans risquer de toucher les leurs.
 
-Ikarnos et Jiridan tentèrent de s'éloigner du coeur de l'affrontement. Ikarnos se rapprocha de Jiridan et lui saisit les poignets : par magie, des menottes apparurent.
+Ikarnos et Jiridan tentèrent de s'éloigner du coeur de l'affrontement. Ikarnos se rapprocha de Jiridan, lui saisit les poignets et lui passa une cordelette autour.
 
-**Ikarnos** : "Ils croiront que tu es notre prisonnier si ça tourne mal. Tu en profiteras pour intervenir. Un mot de ma part et les liens disparaîtront."
-
-Une corde apparut ensuite, reliant le cheval de Jiridan à celui d'Ikarnos. Ce dernier éperonna sa monture pour s'extraire du combat. Malheureusement, cette manoeuvre attira le feu des archers sur eux.
+**Ikarnos** : "Ils croiront que tu es notre prisonnier si ça tourne mal. Tu en profiteras pour intervenir."
+Ikarnos attacha ensuite une corde entre son cheval et celui de Jiridan. La manoeuvre qui se fit discrètement attira malheureusement la suspection des exilés et le feu des archers sur eux.
 
 > 🎲 **Résolution - Les archers contre Ikarnos & Jiridan :**
 > * **Conflit :** 
