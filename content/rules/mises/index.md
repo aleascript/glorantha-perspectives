@@ -54,6 +54,8 @@ Plutôt que d'exprimer cela par des multiplication de dés, on peut aussi utilis
 
 Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des mises qui est en jeu. Une partie aura juste beaucoup plus de dés de son côté que l’autre.
 
+Notons également que la difficulté est aussi une difficulté narrative, pour réaliser une chose impossible ou difficile, on devra passer par des tas de tests avant d'y arriver. Ces tests ne sont pas forcément impossibles en soi mais il y a de forte change qu'on échoue sur l'un et que cela change du tout au tout l'objectif initial. 
+
 #### Ou bien utiliser une jauge pour le Destin
 
 Vous pouvez aussi aussi bien en solo qu'en groupe, envisager d'utiliser une **jauge de Destin**. Cela permet d'improviser des mises suivant la situation pour équilibrer les difficultés selon ce qui s'est déroulé précédemment et ainsi créer une respiration narrative. On n'est absolument pas obligé d'équilibrer la jauge à chaque conflit. C'est juste un marqueur (très utile si on improvise ou si on joue en solo). 
