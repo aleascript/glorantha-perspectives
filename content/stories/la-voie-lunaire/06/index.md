@@ -131,6 +131,8 @@ Peek suit donc les Nains. Les trois autres restent dans la salle et attendent. L
 
 Au bout d'une nuit, on vient chercher Ikarnos, Jaridan et Hanya. On les fait passer par des halls. Il fait parfois très chaud. Le Nain qui les guide leur répond que ce sont les Forges qui participent à réparer la Machine que les hommes ont cassés. Ils voient étrangement quelques humains qui portent un collier de fer au cou. Ils comprennent que ce sont des esclaves. Mais à part cela ils ont l'air d'aller et venir librement en exécutant leurs tâches: des porteurs pour l'essentiel. 
 
+![Mine de Nain](mine-de-nain.png)
+
 Avant d'arriver devant une immense porte, les nains leur demandent de laisser leurs armes et ils sont ensuite fouillés. Puis ils arrivent dans un immense hall, magnifiquement ouvragé. Chaque cm de roche est ciselé de motifs géométriques, des têtes de Nain sculptées ornent les hauts de colonnes, une lumière chaude et jaune irradie de la voûte et de globes sur pied. Il y a devant eux, un Nain assis sur un trône portant une couronne dorée d'un or pur presqu'aveuglant, son armure l'est tout autant mais dans un autre métal. Autour de lui des Nains de toute sorte, en armure mais aussi en robe, et d'autres dans des matières indéterminables. L'instant est solennel. 
 
 Les héros avancent et Ikarnos montre l'exemple en s'agenouillant devant le monarque Nain. "Votre majesté, merci de nous recevoir" et attend la réponse. 
