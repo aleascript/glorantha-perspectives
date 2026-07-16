@@ -2,7 +2,7 @@
 title: "Mysticism: Illumination"
 ---
 
-![Mystical world: the center, the void](../../assets/rules/runes/mondes/void.png)
+![Mystical world: the center, the void](../../../assets/rules/runes/mondes/void.png)
 
 > A mystic has a vision of the world founded on an inner but real deconstruction of the illusion of reality, of the senses, etc... They know there is no absolute truth. They see transformations. In this way, they can interpret, decide, and act upon the world.
 
