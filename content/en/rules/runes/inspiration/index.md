@@ -2,7 +2,7 @@
 title: "Runic Inspiration"
 ---
 
-![Destiny](../../assets/rules/runes/conditions/destin.png)
+![Destiny](../../../../assets/rules/runes/conditions/destin.png)
 
 Runes are the building blocks of the world. They weave reality. They seep everywhere. They draw the fabric of Destiny.
 
@@ -26,14 +26,14 @@ _Table of power runes:_
 
 | **Number** | **Rune** | **Themes** | **Examples** | **Body** | **Question** |
 | --- | --- | --- | --- | --- | --- |
-| **[1]** | ![Movement](../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... | legs | where? |
-| **[2]** | ![Death](../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... | arms | who? |
-| **[3️]** | ![Harmony](../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... | heart | what? |
-| **[4️]** | ![Stasis](../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... | torso | how? |
-| **[5️]** | ![Life](../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... | genitalia | how much? |
-| **[6️]** | ![Disorder](../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... | arms | when? |
-| **[7️]** | ![Truth](../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... | head | why? |
-| **[8️]** | ![Illusion](../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | for what? |
+| **[1]** | ![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... | legs | where? |
+| **[2]** | ![Death](../../../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... | arms | who? |
+| **[3️]** | ![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... | heart | what? |
+| **[4️]** | ![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... | torso | how? |
+| **[5️]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... | genitalia | how much? |
+| **[6️]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... | arms | when? |
+| **[7️]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... | head | why? |
+| **[8️]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | for what? |
 
 Left hand and right hand (2d8 or 8 cards)
 
@@ -49,4 +49,4 @@ At the beginning of a season, at the beginning of a situation, or when you feel 
 
 Indeed, the narrative is centered on the characters' objectives above all. This allows thoroughly exploring their motivations and ways of thinking and acting. But that is not enough to write a story. The characters are plunged into a complex world (Glorantha) that moves, and this movement of the world is expressed by the Runes. It is as simple as that in a Gloranthian logic.
 
-*Happy [meditation on the runes](../../../notes/runes-meditation) of power*
+*Happy [meditation on the runes](../../../../../notes/runes-meditation) of power*
