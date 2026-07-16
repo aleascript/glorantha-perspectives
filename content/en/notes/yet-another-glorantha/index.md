@@ -12,6 +12,6 @@ The more veined the egg, the more different the version, with minor or even majo
 
 Thus the HeroWars are totally open within this framework.
 
-Furthermore, the Glorantha that hatches can also be very different (see for example the approach of putting runes everywhere in the shapes of everyday objects: books, fields, coins... or the approach regarding skin colors based on the birth rune).
+Furthermore, the Glorantha that hatches can also be very different (see for example the approach of putting runes everywhere in the [shapes](../runic-forms/) of everyday objects: books, fields, coins... or the approach regarding skin [colors](../runic-colors/) based on the birth rune).
 
-The players are unaware that they are a version of the world born from an egg.
+Nobody is aware that they are a version of the world born from an egg.

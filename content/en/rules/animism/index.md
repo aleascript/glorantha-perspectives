@@ -18,7 +18,7 @@ title: "Animism: the world of spirits"
     - 1s cancel a success of 6 (the great spirits are very fickle and hard to convince)
 - In case of victory, the net number of successes serves as exchange currency to materialize a spiritual gain:
     - For 1 difference in successes: the spirit leaves but leaves behind a *blessing* (a free one-time positive factor to use later).
-    - For 2 differences in successes: the spirit is temporarily *bound to an object/fetish* (it becomes a persistent factor until a failure in which it is used). This is why animism always involves carrying a bunch of strange things to potentially house a spirit.
+    - For 2 differences in successes: the spirit is temporarily *bound to an object/fetish* (it becomes a persistent factor until a failure in which it is used or by negotiating a related taboo).
     - The fetish may be given away if the protagonist has advanced knowledge of shamanism.
 
 **Power modes**
@@ -33,6 +33,8 @@ When an animist faces a difficulty, they seek to channel the energies of surroun
 We could almost see each die as representing a spirit.
 
 Great spirits are fickle and hard to convince, hence the impact of the 1.
+
+This is why animists always carry a bunch of strange things to potentially house a spirit and do rather bizarre things in search of spiritual support they can use.
 
 [And why not a spirit bag?](spirit-bag)
 

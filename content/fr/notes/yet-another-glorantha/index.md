@@ -12,6 +12,6 @@ Plus l'oeuf est nervuré, plus la version est différente et avoir des différen
 
 Ainsi la Guerre des Héros est totalement ouverte dans ce cadre là.
 
-De plus, le Glorantha qui éclot peut aussi être très différent (voir par exemple le parti pris de mettre des runes partout dans les formes des objets usuels: livres, champs, monnaie... ou encore le parti pris sur les couleurs de peau concernant la rune de naissance).
+De plus, le Glorantha qui éclot peut aussi être très différent (voir par exemple le parti pris de mettre des runes partout dans les [formes](../runic-forms/) des objets usuels: livres, champs, monnaie... ou encore le parti pris sur les [couleurs](../runic-colors/) de peau concernant la rune de naissance).
 
-Les joueurs n'ont pas conscience d'être une version du monde issue d'un oeuf.
+Personne n'a évidemment conscience d'être une version du monde issue d'un oeuf.
