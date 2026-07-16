@@ -40,7 +40,7 @@ Vous voulez voir le monde avec les yeux d'un trollinet ou d’un broo, allez y.
 
 - Je choisis un **cadre** que je veux explorer
 - Je crée ensuite les **protagonistes** (succinctement ou de manière détaillée selon mon projet de jeu solo: court ou long)
-- J'utilise les **runes** de pouvoir dès que je dois répondre à une question: qui, quoi, pourquoi, comment, etc...
+- J'utilise les **runes** de pouvoir dès que je dois répondre à une question: qui, quoi, pourquoi, comment, etc... ou bien je traduis l'incertitude par un conflit cosmique entre un ou plusieurs pôles (1 vs 1 la plupart du temps)
 - Je me **documente** sur la partie de l'univers dans laquelle on est pour voir s'il n'y a pas des incontournables à explorer et qui mettraient en avant le monde
 - J'imagine alors un embryon de **situation** dans laquelle je plonge les protagonistes
 - J'imagine l'**interaction** et leurs **objectifs** 

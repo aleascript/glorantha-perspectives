@@ -26,16 +26,18 @@ _Table des runes de pouvoir:_
 
 | **Chiffre** | **Rune** | **Thèmes** | **Exemples** |
 | --- | --- | --- | --- |
-| **[1]** | ![Mouvement](../assets/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations… |
-| **[2]** | ![Mort](../assets/pouvoirs/mort.png) | **Menace** | ce qui est différent, l’autre, l’ennemi… |
-| **[3️]** | ![Harmonie](../assets/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… |
-| **[4️]** | ![Stase](../assets/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… |
-| **[5️]** | ![Vie](../assets/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… |
-| **[6️]** | ![Désordre](../assets/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… |
-| **[7️]** | ![Vérité](../assets/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… |
-| **[8️]** | ![Illusion](../assets/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… |
+| **[1]** | ![Mouvement](../assets/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations… | jambes | où? |
+| **[2]** | ![Mort](../assets/pouvoirs/mort.png) | **Menace** | ce qui est différent, l’autre, l’ennemi… | bras | qui? |
+| **[3️]** | ![Harmonie](../assets/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… | coeur  | quoi? | 
+| **[4️]** | ![Stase](../assets/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… | tronc | comment? |
+| **[5️]** | ![Vie](../assets/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… | parties génitales | combien? |
+| **[6️]** | ![Désordre](../assets/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… | organes internes | quand? |
+| **[7️]** | ![Vérité](../assets/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… | tête | pourquoi? |
+| **[8️]** | ![Illusion](../assets/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… | bras | pour quoi? |
 
 Main gauche et main droite (2d8 ou 8 cartes)
+
+> Les lettrés Gloranthiens de culture diverses ont beaucoup glosé sur les liens entre les runes de pouvoir et les éléments constitutifs du monde, que ce soit au niveau des éléments corporels, que des grandes questions types de l'univers, ou tout autre grande catégorisation du monde. 
 
 Cela parait abstrait mais c’est beaucoup plus facile à manier que ça en a l’air. Cela permet de contraindre votre imagination gloranthesque mais vous êtes totalement libre d’inventer ce que vous voulez. 
 

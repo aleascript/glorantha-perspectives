@@ -18,7 +18,8 @@ title: "L'animisme: le monde des esprits"
     - Les 1 annulent une réussite 6 (les grands esprits sont très versatiles et difficiles à convaincre)
 - En cas de victoire, le nombre de succès nets sert de monnaie d'échange pour matérialiser un gain spirituel :  
     - pour 1 différence de réussite: l'esprit s'en va mais laisse une *bénédiction* (un facteur positif gratuit à usage unique pour plus tard).
-    - pour 2 différences de succès**:** l'esprit est temporairement *lié à un objet/fétiche* (il devient un facteur persistant jusqu’à un échec dans lequel il est utilisé). Le fétiche peut être cédé. C’est pour cela que l’animisme a toujours des tas de trucs étranges sur lui pour héberger éventuellement un esprit.
+    - pour 2 différences de succès**:** l'esprit est temporairement *lié à un objet/fétiche* (il devient un facteur persistant jusqu’à un échec dans lequel il est utilisé). C’est pour cela que l’animisme a toujours des tas de trucs étranges sur lui pour héberger éventuellement un esprit.
+    - Le fétiche peut être cédé si le protagoniste a des connaissances avancées en chamanisme. 
 
 **Modes de puissance**
 

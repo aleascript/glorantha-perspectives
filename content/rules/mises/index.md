@@ -117,6 +117,7 @@ Celui qui a plus de réussites l’emporte. C’est aussi simple que ça.
 On peut amener de la nuance selon la différence de réussites.
 
 En cas d’égalité, on peut jouer le status quo ou faire gagner in extremis le protagoniste s’il y a un protagoniste dans le récit. 
+Si le conflit n'est pas compatible avec un status quo, on peut refaire un tirage en rajoutant une mise à chaque camp pour exprimer la **surenchère** liée à l'égalité temporaire lors du conflit. Cette mise supplémentaire pour chaque camp représente la volonté d'en finir. Les surenchères peuvent se succéder. 
 
 Dans tous les cas, les mises et les cadres de pensée servent la narration de l’interprétation. 
 
