@@ -122,20 +122,6 @@ Il va vite voir Hanya et lui dit discrètement : "je vais prendre en chasse les 
 
 Hanya lance un regard noir à Jarindar mais se plie aux ordres d’Ikarnos qui quitte le hall.
 
-Ikarnos retrouve les traces des hommes dans la boue. D’amples enjambées, signes de fuyards. Elles se dirigent vers la sortie du village. Ikarnos passe donc la porte et se retrouve au niveau des champs. Des bannis n’auraient pas risqué de fouler les champs propriété de leur Déesse terre Ernalda. Il reste donc sur le chemin et arrive dans les terres sauvages autour du clan. Mais alors qu’il essaie de se fondre dans l’obscurité, il apercoit la lueur vive d’une pointe de javelot lancé depuis les hauteurs d’un rocher !
-
-Son 6ème sens en éveil, lkarnos pressent le danger et il lui suffit d’un pas pour éviter le coup fatal et voir le javelot se ficher dans le sol. 
-
-Il sourit et déclare: "c’est comme ca que vous attaquez celui qui vous vient en aide?" 
-
-Son stratagème a marché car quatre hommes sortent de l’ombre et s’avancent doucement, méfiants: "tu n’as rien fait pour sauver Hazz". 
-
-Ikarnos répond: "comment le pouvais-je? Ce n’est pas Hazz qu’il faut sauver de toute façon. Amenez-moi à votre chef, j’ai des propositions à lui faire."
-
-Les hommes se regardent et estimant sans doute que leur
-nombre jouent en leur faveur, ils maugréent et acceptent. "Suis-nous alors".
-
-Les cinq hommes remontent sur les rochers et Ikarnos les suit en essayant tant bien que mal de suivre la cadence de ces hommes aguerris aux collines rocailleuses de leur Tula.
-
+Ikarnos retrouve les traces des hommes dans la boue. D’amples enjambées, signes de fuyards. Elles se dirigent vers la sortie du village. Ikarnos passe donc la porte et se retrouve au niveau des champs. Des bannis n’auraient pas risqué de fouler les champs propriété de leur Déesse terre Ernalda. Il reste donc sur le chemin et arrive dans les terres sauvages autour du clan et continue sa traque.
 
 | [Précédent](../15) | [Suivant](../17/) |
