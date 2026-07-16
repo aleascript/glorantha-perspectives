@@ -37,7 +37,7 @@ _Table des runes de pouvoir:_
 
 Main gauche et main droite (2d8 ou 8 cartes)
 
-> Les lettrés Gloranthiens de culture diverses ont beaucoup glosé sur les liens entre les runes de pouvoir et les éléments constitutifs du monde, que ce soit au niveau des éléments corporels, que des grandes questions types de l'univers, ou tout autre grande catégorisation du monde. 
+> Les lettrés Gloranthiens de cultures diverses ont beaucoup glosé sur les liens entre les runes de pouvoir et les éléments constitutifs du monde, que ce soit au niveau des éléments corporels, que des grandes questions types de l'univers, ou tout autre grande catégorisation du monde. 
 
 Cela parait abstrait mais c’est beaucoup plus facile à manier que ça en a l’air. Cela permet de contraindre votre imagination gloranthesque mais vous êtes totalement libre d’inventer ce que vous voulez. 
 
