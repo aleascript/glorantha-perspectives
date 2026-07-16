@@ -1,0 +1,48 @@
+---
+layout: null
+permalink: /content/en/llms.txt
+---
+
+# Glorantha Perspectives
+
+> Diegetic resources for exploring the Glorantha role-playing universe: rules, reflections, and gameplay tools aligning gameplay and roleplay.
+
+## Rules
+
+- [Rules](https://aleascript.github.io/glorantha-perspectives/content/en/rules/): Overview of diegetic rules
+- [Animism](https://aleascript.github.io/glorantha-perspectives/content/en/rules/animism/): The spirit world
+- [Spirit bag](https://aleascript.github.io/glorantha-perspectives/content/en/rules/animism/spirit-bag/): Alternative bids with a bag of stones
+- [Shamanic aptitudes](https://aleascript.github.io/glorantha-perspectives/content/en/rules/animism/aptitudes/): Spirit rune aptitudes
+- [Theism](https://aleascript.github.io/glorantha-perspectives/content/en/rules/theism/): Pantheons and cults
+- [Runic cards](https://aleascript.github.io/glorantha-perspectives/content/en/rules/theism/runic-cards/): Bids with a runic card deck
+- [Invisible God Logic](https://aleascript.github.io/glorantha-perspectives/content/en/rules/logic/): Rational worldview
+- [Mysticism](https://aleascript.github.io/glorantha-perspectives/content/en/rules/mysticism/): Deconstructing the illusion of reality
+- [Mystical marbles](https://aleascript.github.io/glorantha-perspectives/content/en/rules/mysticism/mystical-marbles/): Tool for mystics
+- [Draconic thought](https://aleascript.github.io/glorantha-perspectives/content/en/rules/draconic/): The Dragon's Dream
+- [Ars Draconis Magica](https://aleascript.github.io/glorantha-perspectives/content/en/rules/draconic/ars-draconis-magica/): Draconic magic grimoire
+- [The Lunar Way](https://aleascript.github.io/glorantha-perspectives/content/en/rules/moon/): Lunar magic and lunar cycle
+- [Illumination](https://aleascript.github.io/glorantha-perspectives/content/en/rules/illumination/): Mystical oppression and question duels
+- [Heroquests](https://aleascript.github.io/glorantha-perspectives/content/en/rules/heroquests/): Accessing the Other Side
+- [Creating myths](https://aleascript.github.io/glorantha-perspectives/content/en/rules/heroquests/myths/): Tales from the Age of Gods
+- [Runic inspiration](https://aleascript.github.io/glorantha-perspectives/content/en/rules/runes/inspiration/): Runes weave reality
+- [Camps & Bids](https://aleascript.github.io/glorantha-perspectives/content/en/rules/mises/): Gathering strength in the invisible
+- [Bid example](https://aleascript.github.io/glorantha-perspectives/content/en/rules/mises/sample/): Concrete illustration of an opposition
+- [Play modes](https://aleascript.github.io/glorantha-perspectives/content/en/rules/games/): Solo and Glorantha exploration
+
+## Optional
+
+- [Notes](https://aleascript.github.io/glorantha-perspectives/content/en/notes/): Diverse notes on Glorantha
+- [Multiple thought frameworks](https://aleascript.github.io/glorantha-perspectives/content/en/notes/multiple-referentials/): Syncretism between frameworks
+- [Chaos](https://aleascript.github.io/glorantha-perspectives/content/en/notes/chaos/): Reflections on Chaos
+- [New frameworks](https://aleascript.github.io/glorantha-perspectives/content/en/notes/new-referentials/): Creating a new thought framework
+- [On inspiration](https://aleascript.github.io/glorantha-perspectives/content/en/notes/inspiration/): Sources of inspiration for Glorantha
+- [Statistics](https://aleascript.github.io/glorantha-perspectives/content/en/notes/stats/): Rule statistics
+- [Reflections on bids](https://aleascript.github.io/glorantha-perspectives/content/en/notes/mises/): Bids and multiple frameworks
+- [Rune meditation](https://aleascript.github.io/glorantha-perspectives/content/en/notes/runes-meditation/): Order of power runes
+- [Gloranthan themes](https://aleascript.github.io/glorantha-perspectives/content/en/notes/themas/): Hero Wars themes
+- [Yet Another Glorantha](https://aleascript.github.io/glorantha-perspectives/content/en/notes/yet-another-glorantha/): Moving away from canon
+- [Runic colors](https://aleascript.github.io/glorantha-perspectives/content/en/notes/runic-colors/): Color and strong rune
+- [Runic forms](https://aleascript.github.io/glorantha-perspectives/content/en/notes/runic-forms/): Formalizing runes
+- [Currency](https://aleascript.github.io/glorantha-perspectives/content/en/notes/money/): Currencies in Glorantha
+- [Random calendar](https://aleascript.github.io/glorantha-perspectives/content/en/notes/random-calendar/): Drawing a calendar day
+- [Glorantha for newbies](https://aleascript.github.io/glorantha-perspectives/content/en/notes/gloranthix/): World introduction for new players

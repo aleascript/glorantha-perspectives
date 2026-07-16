@@ -3,14 +3,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-INPUT="$PROJECT_ROOT/full-content/index.md"
-OUTPUT="$PROJECT_ROOT/full-content/full-content.pdf"
 CSS="$SCRIPT_DIR/pdf-style.css"
-
-if [ ! -f "$INPUT" ]; then
-    echo "Erreur: $INPUT introuvable. Lance d'abord generate-full-content.sh" >&2
-    exit 1
-fi
 
 # Generate CSS if missing
 if [ ! -f "$CSS" ]; then
@@ -135,26 +128,44 @@ a {
     text-decoration: none;
 }
 CSS
-    echo "CSS créé: $CSS"
+    echo "CSS created: $CSS"
 fi
 
-# Step 1: Markdown → HTML with pandoc
-HTML=$(mktemp /tmp/full-content-XXXXX.html)
-trap "rm -f $HTML" EXIT
+generate_pdf() {
+    local INPUT="$1"
+    local OUTPUT="$2"
+    local TITLE="$3"
 
-pandoc "$INPUT" \
-    --from markdown \
-    --to html5 \
-    --standalone \
-    --metadata title="Glorantha Perspectives" \
-    --css="$CSS" \
-    --embed-resources \
-    --output="$HTML"
+    if [ ! -f "$INPUT" ]; then
+        echo "Error: $INPUT not found. Run generate-full-content.sh first" >&2
+        return 1
+    fi
 
-echo "HTML généré: $HTML"
+    HTML=$(mktemp /tmp/full-content-XXXXX.html)
 
-# Step 2: HTML → PDF with weasyprint
-weasyprint "$HTML" "$OUTPUT" --stylesheet "$CSS"
+    pandoc "$INPUT" \
+        --from markdown \
+        --to html5 \
+        --standalone \
+        --metadata title="$TITLE" \
+        --css="$CSS" \
+        --embed-resources \
+        --output="$HTML"
 
-echo "PDF généré: $OUTPUT"
-echo "Taille: $(du -h "$OUTPUT" | cut -f1)"
+    weasyprint "$HTML" "$OUTPUT" --stylesheet "$CSS"
+    rm -f "$HTML"
+
+    echo "PDF generated: $OUTPUT ($(du -h "$OUTPUT" | cut -f1))"
+}
+
+echo "--- Generating FR PDF ---"
+generate_pdf \
+    "$PROJECT_ROOT/full-content/index.md" \
+    "$PROJECT_ROOT/full-content/full-content.pdf" \
+    "Glorantha Perspectives"
+
+echo "--- Generating EN PDF ---"
+generate_pdf \
+    "$PROJECT_ROOT/content/en/full-content/index.md" \
+    "$PROJECT_ROOT/content/en/full-content/full-content.pdf" \
+    "Glorantha Perspectives - English"

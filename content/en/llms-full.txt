@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /content/en/llms-full.txt
+---
+
+# Glorantha Perspectives - Full Content (English)
+
+> Diegetic resources for exploring the Glorantha role-playing universe: rules, reflections, and gameplay tools aligning gameplay and roleplay.
+
+{% assign rules = site.pages | where_exp: "item", "item.path contains 'content/en/rules/'" | sort: "path" %}
+{% assign notes = site.pages | where_exp: "item", "item.path contains 'content/en/notes/'" | sort: "path" %}
+{% assign ai_pages = rules | concat: notes %}
+
+{% for page in ai_pages %}
+## {{ page.title | default: page.name }}
+
+{{ page.content | strip_html }}
+
+---
+{% endfor %}

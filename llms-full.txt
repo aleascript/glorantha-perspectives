@@ -7,8 +7,8 @@ permalink: /llms-full.txt
 
 > Ressources diégétiques pour explorer l'univers-jeu Glorantha : règles, réflexions et outils de jeu alignant gameplay et roleplay.
 
-{% assign rules = site.pages | where_exp: "item", "item.path contains 'content/rules/'" | sort: "path" %}
-{% assign notes = site.pages | where_exp: "item", "item.path contains 'content/notes/'" | sort: "path" %}
+{% assign rules = site.pages | where_exp: "item", "item.path contains 'content/fr/rules/'" | sort: "path" %}
+{% assign notes = site.pages | where_exp: "item", "item.path contains 'content/fr/notes/'" | sort: "path" %}
 {% assign ai_pages = rules | concat: notes %}
 
 {% for page in ai_pages %}
