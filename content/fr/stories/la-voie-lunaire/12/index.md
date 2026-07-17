@@ -150,7 +150,7 @@ Ikarnos pointe du doigt le hall qui est maintenant calme, les hommes doivent cuv
 
 Puis il s'éloigne vers le hall. 
 
-## La récupération du médaillon et du grimaoire (Ikarnos)
+## La récupération du médaillon et du grimoire (Ikarnos)
 
 Ikarnos utilise toutes ses capacités de discrétion pour se fondre dans la masse le plus discrètement possible.
 
