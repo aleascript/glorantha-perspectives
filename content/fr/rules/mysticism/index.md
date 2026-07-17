@@ -31,6 +31,8 @@ Quand un mystique affronte l’adversité, il distingue ce qui est favorable ou 
 
 Les fameux paradoxes mystiques et annihilation de la dualité!
 
+L’annulation des 6 de l’autre camp advient *après* que celui-ci a terminé son tirage complet — relances incluses. Le théiste a donc bien vécu l’invocation divine et ressenti un soutien aligné avec ses croyances. Le mystique ne nie pas cette expérience : il la révèle *a posteriori* comme une couche d’illusion que son regard transcende. C’est pourquoi la résolution se fait au moment de la comparaison, et non pendant le tirage adverse. Pratiquement, cela permet aussi à chaque camp de réaliser son tirage indépendamment.
+
 C’est une opposition mystique. Au bout d’un moment, on ne peut plus réduire et voir de nouvelles transformations. C’est la synthèse ultime qui représente le cœur de la manifestation.
 
 [Et pourquoi pas jouer avec des billes plates mystiques?](mystical-marbles)

@@ -31,6 +31,8 @@ When a mystic faces adversity, they distinguish what is favorable or can act as 
 
 The famous mystical paradoxes and the annihilation of duality!
 
+The cancellation of the opponent's 6s happens *after* they have completed their full draw — including all rerolls. The theist has genuinely experienced the divine invocation and felt a support aligned with their faith. The mystic does not deny this experience: they merely reveal it *a posteriori* as a layer of illusion that their insight transcends. This is why the cancellation is resolved at the comparison stage, not during the opponent's roll. On a practical level, it also allows each camp to resolve their draw independently.
+
 It is a mystical opposition. After a while, you can no longer reduce or see new transformations. It is the ultimate synthesis that represents the heart of the manifestation.
 
 [And why not play with mystical flat marbles?](mystical-marbles)
