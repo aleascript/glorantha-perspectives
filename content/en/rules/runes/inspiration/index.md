@@ -49,4 +49,4 @@ At the beginning of a season, at the beginning of a situation, or when you feel 
 
 Indeed, the narrative is centered on the characters' objectives above all. This allows thoroughly exploring their motivations and ways of thinking and acting. But that is not enough to write a story. The characters are plunged into a complex world (Glorantha) that moves, and this movement of the world is expressed by the Runes. It is as simple as that in a Gloranthian logic.
 
-*Happy [meditation on the runes](../../../../../notes/runes-meditation) of power*
+*Happy [meditation on the runes](../../../notes/runes-meditation) of power*
