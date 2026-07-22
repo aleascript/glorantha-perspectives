@@ -28,12 +28,12 @@ _Table des runes de pouvoir:_
 | --- | --- | --- | --- | --- | --- | --- |
 | **[1]** | ![Mouvement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations… | jambes | où? | en-dessous | 
 | **[2]** | ![Mort](../../../../assets/rules/runes/pouvoirs/mort.png) | **Menace** | ce qui est différent, l'autre, l'ennemi… | bras | qui? | à droite | 
-| **[3️]** | ![Harmonie](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… | coeur  | quoi? | à gauche | 
-| **[4️]** | ![Stase](../../../../assets/rules/runes/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… | tronc | comment? | devant | 
-| **[5️]** | ![Vie](../../../../assets/rules/runes/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… | parties génitales | combien? | derrière | 
-| **[6️]** | ![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… | les sens | quand? | au-dessus | 
-| **[7️]** | ![Vérité](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… | tête | pourquoi? | dedans | 
-| **[8️]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… | organes internes | pour quoi? | nulle part et partout | 
+| **[3]** | ![Harmonie](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme… | coeur  | quoi? | à gauche | 
+| **[4]** | ![Stase](../../../../assets/rules/runes/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité… | tronc | comment? | devant | 
+| **[5]** | ![Vie](../../../../assets/rules/runes/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… | parties génitales | combien? | derrière | 
+| **[6]** | ![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… | les sens | quand? | au-dessus | 
+| **[7]** | ![Vérité](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… | tête | pourquoi? | dedans | 
+| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… | organes internes | pour quoi? | nulle part et partout | 
 
 Main gauche et main droite (2d8 ou 8 cartes)
 
