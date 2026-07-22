@@ -24,16 +24,16 @@ This then allows pulling the threads until an idea emerges.
 
 _Table of power runes:_
 
-| **Number** | **Rune** | **Themes** | **Examples** | **Body** | **Question** |
-| --- | --- | --- | --- | --- | --- |
-| **[1]** | ![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... | legs | where? |
-| **[2]** | ![Death](../../../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... | arms | who? |
-| **[3️]** | ![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... | heart | what? |
-| **[4️]** | ![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... | torso | how? |
-| **[5️]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... | genitalia | how much? |
-| **[6️]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... | arms | when? |
-| **[7️]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... | head | why? |
-| **[8️]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | for what? |
+| **Number** | **Rune** | **Themes** | **Examples** | **Body** | **Question** | **Direction** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| **[1]** | ![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... | legs | where? | below |
+| **[2]** | ![Death](../../../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... | arms | who? | right | 
+| **[3]** | ![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png) | left | **Relations** | what connects, emotions, feelings, bonds, dilemma... | heart | what? | left |
+| **[4]** | ![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... | torso | how? | in front |
+| **[5]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... | genitalia | how much? | behind | 
+| **[6]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... | the senses | when? | above |
+| **[7]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... | head | why? | inside |
+| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | for what? | nowhere and everywhere |
 
 Left hand and right hand (2d8 or 8 cards)
 
