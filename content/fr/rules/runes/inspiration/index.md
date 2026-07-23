@@ -33,7 +33,7 @@ _Table des runes de pouvoir:_
 | **[5]** | ![Vie](../../../../assets/rules/runes/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité… | parties génitales | combien? | derrière | 
 | **[6]** | ![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable… | les sens | quand? | au-dessus | 
 | **[7]** | ![Vérité](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié… | tête | pourquoi? | dedans | 
-| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… | organes internes | pour quoi? | nulle part et/ou partout | 
+| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire… | organes internes | à moins que? | nulle part et/ou partout | 
 
 Main gauche et main droite (2d8 ou 8 cartes)
 
