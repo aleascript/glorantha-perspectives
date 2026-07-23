@@ -33,7 +33,7 @@ _Table of power runes:_
 | **[5]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... | genitalia | how much? | behind | 
 | **[6]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... | the senses | when? | above |
 | **[7]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... | head | why? | inside |
-| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | for what? | nowhere and/or everywhere |
+| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | unless? | nowhere and/or everywhere |
 
 Left hand and right hand (2d8 or 8 cards)
 
