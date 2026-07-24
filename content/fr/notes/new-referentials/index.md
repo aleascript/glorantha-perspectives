@@ -12,6 +12,6 @@ Cela peut être super stimulant de trouver les règles pour le nouveau paradigme
 
 La seule règle immuable reste a priori la balance du destin (mises de A vs mises de B) devant aboutir à un résultat. 
 
-> Le plus difficile est de faire en sorte que la régle reflète bel et bien une façon de penser et que le gameplay soit en phase avec le roleplay.
+> Le plus difficile est de faire en sorte que la règle reflète bel et bien une façon de penser et que le gameplay soit en phase avec le roleplay.
 
 > N'est ce pas là la vraie [Quête Héroïque](../../rules/heroquests) finalement?

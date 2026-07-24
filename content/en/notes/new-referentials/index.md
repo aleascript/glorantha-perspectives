@@ -10,7 +10,7 @@ We have seen the influence of the lunar rune, and the rune of Infinity with Ouro
 
 It can be incredibly stimulating to find the rules for the new paradigm introduced by the effect of this or that rune. There is even a clearly heroic aspect to it: it's not about changing the world, but about substantially changing the way we interact with the world, which can ultimately, on a large scale, literally transform the world.
 
-The only immutable rule remains, a priori, the balance of destiny (Stakes of A vs Stakes of B) leading to a result.
+The only immutable rule remains, a priori, the balance of destiny (stakes of A vs stakes of B) leading to a result.
 
 > The hardest part is ensuring that the rule truly reflects a way of thinking and that the gameplay aligns with the roleplay.
 
