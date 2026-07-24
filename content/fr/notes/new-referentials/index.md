@@ -2,7 +2,7 @@
 title: "Découvrir un nouveau cadre de pensée?"
 ---
 
-![Maitrise](../../assets/rules/runes/conditions/maitrise.png)
+![Maitrise](../../../assets/rules/runes/conditions/maitrise.png)
 
 On pourrait imaginer par exemple élaborer d'autres ajustements des règles pour ceux qui auraient des runes de condition spécifique.
 
