@@ -55,3 +55,22 @@
 .site-footer-contact a:hover {
   color: #fff;
 }
+
+/* Layout overrides */
+.main-content {
+  padding: 2rem 2rem;
+}
+
+/* Table layout overrides */
+.main-content table {
+  display: table;
+  width: 100%;
+  overflow: visible;
+  word-break: normal;
+}
+
+.main-content table th,
+.main-content table td {
+  padding: 0.3rem 0.5rem;
+  font-size: 0.9rem;
+}
