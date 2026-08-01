@@ -18,7 +18,7 @@ title: "L'animisme: le monde des esprits"
 
 **Modes de puissance :**
 
-- Mode **Affaibli :** Le lien avec le monde des esprits est rompu. Les pactes spirituels deviennent impossibles à sceller : les **"double impairs"** ne comptent plus et ne génèrent aucune réussite. Seuls les esprits indépendants (les dés pairs) continuent de se manifester. De plus, il devient impossible de lier des esprits.
+- Mode **Affaibli :** Le lien avec le monde des esprits est rompu. Les pactes spirituels deviennent impossibles à sceller : les **"double impairs"** ne comptent plus et ne génèrent aucune réussite. Seuls les esprits indépendants (les dés pairs) continuent de se manifester.
 - Mode **Héroïque :** Alignement spirituel. Si le plus petit dé et le plus grand dé tirés sont de même parité (tous deux pairs ou tous deux impairs), le personnage obtient une réussite totale sur toutes ses mises.
 
 **Commentaires**
