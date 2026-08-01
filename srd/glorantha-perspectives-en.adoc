@@ -563,33 +563,63 @@ For space, the order from 1 to 6 corresponds to what is near us and far from us:
 
 Useful for determining the influence of magic (especially Lunar), one can draw a date at random:
 
-- *The Days (2D6, keep the 1st unless double):* [1] Frost (last crescent) image:rules/runes/elements/obscurité.png[width=18], [2] Water (waning moon) image:rules/runes/elements/eau.png[width=18], [3] Clay (new moon) image:rules/runes/elements/terre.png[width=18], [4] Wind (first crescent) image:rules/runes/elements/air.png[width=18], [5] Fire (first quarter) image:rules/runes/elements/feu.png[width=18], [6] Wild (full moon) image:rules/runes/elements/lune.png[width=18], [Double] Divine (last quarter).
-- *The Weeks (1D8):* [1] Disorder image:rules/runes/pouvoirs/desordre.png[width=18], [2] Harmony image:rules/runes/pouvoirs/harmonie.png[width=18], [3] Death image:rules/runes/pouvoirs/mort.png[width=18], [4] Fertility image:rules/runes/pouvoirs/vie.png[width=18], [5] Stasis image:rules/runes/pouvoirs/stase.png[width=18], [6] Movement image:rules/runes/pouvoirs/mouvement.png[width=18], [7] Illusion image:rules/runes/pouvoirs/illusion.png[width=18], [8] Truth image:rules/runes/pouvoirs/vérité.png[width=18].
-- *The Seasons (2D20, keep the 1st unless double):* [1-4] Sea (spring), [5-8] Fire (summer), [9-12] Earth (late summer/autumn), [13-16] Dark (winter), [17-20] Storms (stormy late winter), [Double] Sacred Time (period of important rituals for the new year).
+*The Days (2D6, keep the 1st unless double):* 
+
+- [1] Frost (last crescent) image:rules/runes/elements/obscurité.png[width=18]
+- [2] Water (waning moon) image:rules/runes/elements/eau.png[width=18]
+- [3] Clay (new moon) image:rules/runes/elements/terre.png[width=18]
+- [4] Wind (first crescent) image:rules/runes/elements/air.png[width=18]
+- [5] Fire (first quarter) image:rules/runes/elements/feu.png[width=18]
+- [6] Wild (full moon) image:rules/runes/elements/lune.png[width=18]
+- [Double] Divine (last quarter)
+
+*The Weeks (1D8):* 
+
+- [1] Disorder image:rules/runes/pouvoirs/desordre.png[width=18]
+- [2] Harmony image:rules/runes/pouvoirs/harmonie.png[width=18]
+- [3] Death image:rules/runes/pouvoirs/mort.png[width=18]
+- [4] Fertility image:rules/runes/pouvoirs/vie.png[width=18]
+- [5] Stasis image:rules/runes/pouvoirs/stase.png[width=18]
+- [6] Movement image:rules/runes/pouvoirs/mouvement.png[width=18]
+- [7] Illusion image:rules/runes/pouvoirs/illusion.png[width=18]
+- [8] Truth image:rules/runes/pouvoirs/vérité.png[width=18]
+
+*The Seasons (2D20, keep the 1st unless double):* 
+
+- [1-4] Sea image:rules/runes/elements/eau.png[width=18] (spring)
+- [5-8] Fire image:rules/runes/elements/feu.png[width=18] (summer)
+- [9-12] Earth image:rules/runes/elements/terre.png[width=18] (late summer/autumn)
+- [13-16] Dark image:rules/runes/elements/obscurité.png[width=18] (winter)
+- [17-20] Storms image:rules/runes/elements/air.png[width=18] (stormy late winter)
+- [Double] Sacred Time image:rules/runes/mondes/gods.png[width=18] (period of important rituals for the new year).
 
 ==== The Economy
 
 Glorantha is a world of communities where trade remains very much regulated by certain cults. Currency is rare outside the cities.
 
-- *Divine Coins:* Regulate the great exchanges of the community.
+*Divine Coins:* Regulate the great exchanges of the community.
     - _Guilders:_ In bronze, in the form of an exchange rune, reserved for initiates of Issaries.
     - _Lunes:_ In silver, in the shape of a lunar rune, for everyone within the Empire.
     - _Wheels:_ In gold, large round coins (Yelm's rune), used by the Dara Happan elite (worth 10 guilders).
     - _Bolgs:_ Pieces of pierced lead used by the Uz (worth 1/100th of a guilder).
-- *Small change (and barter):* For the everyday use of the majority. Copper pieces (1/100th of a Guilder), aluminium stars in the Lunar Empire, clacks (pierced stones for the Uz).
+
+*Small change (and barter):* For the everyday use of the majority. Copper pieces (1/100th of a Guilder), aluminium stars in the Lunar Empire, clacks (pierced stones for the Uz).
 
 === C. The Mark of the Runes
 
 In Glorantha, runes are not mere abstract symbols, they physically mark the world and its inhabitants.
 
-- *Runic Colors:* Physical attributes (skin, eyes, hair) can be linked to the strong rune of birth, of initiation, or as a reward for a heroquest.
+*Runic Colors:* Physical attributes (skin, eyes, hair) can be linked to the strong rune of birth, of initiation, or as a reward for a heroquest.
+
     - _Air:_ image:rules/runes/elements/air.png[width=18] Orange or blue.
     - _Earth:_ image:rules/runes/elements/terre.png[width=18] Olive green or brown.
     - _Moon:_ image:rules/runes/elements/lune.png[width=18] Red or white.
     - _Water:_ image:rules/runes/elements/eau.png[width=18] Blue or white.
     - _Darkness:_ image:rules/runes/elements/obscurité.png[width=18] Dull gray or black.
     - _Fire:_ image:rules/runes/elements/feu.png[width=18] Yellow or red.
-- *Runic Shapes:* Society adapts its geometry to the runes.
+
+*Runic Shapes:* Society adapts its geometry to the runes.
+
     - Written or printed books are triangular.
     - Currency has the shape of the exchange rune (among the Orlanthi).
     - Agricultural fields are square, never rectangular.
@@ -618,8 +648,9 @@ In response to the adage _YGWV (Your Glorantha Will Vary)_, here is a well-assum
 
 The game was mainly designed for this approach. You watch Glorantha live and die; you are the hands that weigh the Runes and the voice that tells the story.
 
-- *Play as anyone:* You can play Rock Spider (the near-divine Uz priestess who knows the secrets of Arachne Solara), the eye of the Dragon sleeping under the mountain, the ghost of a Scholar of the Ambiguous pursuing their experiments for eternity, or even see the world through the eyes of a mere broo.
-- *In Practice:*
+*Play as anyone:* You can play Rock Spider (the near-divine Uz priestess who knows the secrets of Arachne Solara), the eye of the Dragon sleeping under the mountain, the ghost of a Scholar of the Ambiguous pursuing their experiments for eternity, or even see the world through the eyes of a mere broo.
+
+*In Practice:*
     1. Choose a frame to explore and create your protagonists (succinctly or in detail).
     2. Use the power runes to answer questions (who, what, why...).
     3. Imagine a situation with a clear conflict (a situation must lead to at least one conflict to be interesting).

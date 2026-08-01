@@ -563,33 +563,63 @@ Pour l'espace, l'ordre de 1 à 6 correspond à ce qui est proche de nous et loin
 
 Utile pour déterminer l'influence de la magie (notamment lunaire), on peut tirer une date au hasard :
 
-- *Les Jours (2D6, on garde le 1er sauf double) :* [1] Gel (dernier croissant) image:rules/runes/elements/obscurité.png[width=18], [2] Eau (lune mourante) image:rules/runes/elements/eau.png[width=18], [3] Argile (nouvelle lune) image:rules/runes/elements/terre.png[width=18], [4] Vent (1er croissant) image:rules/runes/elements/air.png[width=18], [5] Feu (1er quartier) image:rules/runes/elements/feu.png[width=18], [6] Sauvage (pleine lune) image:rules/runes/elements/lune.png[width=18], [Double] Divin (dernier quartier).
-- *Les Semaines (1D8) :* [1] Désordre image:rules/runes/pouvoirs/desordre.png[width=18], [2] Harmonie image:rules/runes/pouvoirs/harmonie.png[width=18], [3] Mort image:rules/runes/pouvoirs/mort.png[width=18], [4] Fertilité image:rules/runes/pouvoirs/vie.png[width=18], [5] Stase image:rules/runes/pouvoirs/stase.png[width=18], [6] Mouvement image:rules/runes/pouvoirs/mouvement.png[width=18], [7] Illusion image:rules/runes/pouvoirs/illusion.png[width=18], [8] Vérité image:rules/runes/pouvoirs/vérité.png[width=18].
-- *Les Saisons (2D20, on garde le 1er sauf double) :* [1-4] Mer (printemps), [5-8] Feu (été), [9-12] Terre (fin d'été/automne), [13-16] Sombre (hiver), [17-20] Tempêtes (fin d'hiver agitée), [Double] Temps Sacré (période de rituels importants pour la nouvelle année).
+*Les Jours (2D6, on garde le 1er sauf double) :* 
+
+- [1] Gel (dernier croissant) image:rules/runes/elements/obscurité.png[width=18] 
+- [2] Eau (lune mourante) image:rules/runes/elements/eau.png[width=18] 
+- [3] Argile (nouvelle lune) image:rules/runes/elements/terre.png[width=18] 
+- [4] Vent (1er croissant) image:rules/runes/elements/air.png[width=18] 
+- [5] Feu (1er quartier) image:rules/runes/elements/feu.png[width=18] 
+- [6] Sauvage (pleine lune) image:rules/runes/elements/lune.png[width=18] 
+- [Double] Divin (dernier quartier)
+
+*Les Semaines (1D8) :* 
+
+- [1] Désordre image:rules/runes/pouvoirs/desordre.png[width=18]
+- [2] Harmonie image:rules/runes/pouvoirs/harmonie.png[width=18]
+- [3] Mort image:rules/runes/pouvoirs/mort.png[width=18]
+- [4] Fertilité image:rules/runes/pouvoirs/vie.png[width=18]
+- [5] Stase image:rules/runes/pouvoirs/stase.png[width=18]
+- [6] Mouvement image:rules/runes/pouvoirs/mouvement.png[width=18]
+- [7] Illusion image:rules/runes/pouvoirs/illusion.png[width=18] 
+- [8] Vérité image:rules/runes/pouvoirs/vérité.png[width=18]
+
+*Les Saisons (2D20, on garde le 1er sauf double) :* 
+
+- [1-4] Mer image:rules/runes/elements/eau.png[width=18] (printemps)
+- [5-8] Feu image:rules/runes/elements/feu.png[width=18] (été)
+- [9-12] Terre image:rules/runes/elements/terre.png[width=18] (fin d'été/automne)
+- [13-16] Sombre image:rules/runes/elements/obscurité.png[width=18] (hiver)
+- [17-20] Tempêtes image:rules/runes/elements/air.png[width=18] (fin d'hiver agitée)
+- [Double] Temps Sacré image:rules/runes/mondes/gods.png[width=18] (période de rituels importants pour la nouvelle année).
 
 ==== L'Économie
 
 Glorantha est un monde de communautés où le commerce reste très encadré par certains cultes. La monnaie est rare en dehors des cités.
 
-- *Monnaies Divines :* Régulent les grands échanges de la communauté.
+*Monnaies Divines :* Régulent les grands échanges de la communauté.
     - _Guilders :_ En bronze, sous forme de rune d'échange, réservés aux initiés d'Issaries.
     - _Lunes :_ En argent, en forme de rune lunaire, pour tous au sein de l'Empire.
     - _Roues :_ En or, de grosses pièces rondes (rune de Yelm), utilisées par l'élite Dara Happienne (valent 10 guilders).
     - _Bolgs :_ Morceaux de plomb percés utilisés par les Uz (valent 1/100e de guilder).
-- *Petites Monnaies (et troc) :* Pour l'usage quotidien de la majorité. Pièces de cuivre (1/100e de Guilder), étoiles d'aluminium dans l'Empire Lunaire, clacks (pierres percées pour les Uz).
+
+*Petites Monnaies (et troc) :* Pour l'usage quotidien de la majorité. Pièces de cuivre (1/100e de Guilder), étoiles d'aluminium dans l'Empire Lunaire, clacks (pierres percées pour les Uz).
 
 === C. L'Empreinte des Runes
 
 Dans Glorantha, les runes ne sont pas de simples symboles abstraits, elles marquent physiquement le monde et ses habitants.
 
-- *Couleurs Runiques :* Les attributs physiques (peau, yeux, cheveux) peuvent être liés à la rune forte de naissance, d'initiation, ou en récompense d'une quête héroïque.
+*Couleurs Runiques :* Les attributs physiques (peau, yeux, cheveux) peuvent être liés à la rune forte de naissance, d'initiation, ou en récompense d'une quête héroïque.
+
     - _Air :_ image:rules/runes/elements/air.png[width=18] Orange ou bleu.
     - _Terre :_ image:rules/runes/elements/terre.png[width=18] Vert olive ou marron.
     - _Lune :_ image:rules/runes/elements/lune.png[width=18] Rouge ou blanc.
     - _Eau :_ image:rules/runes/elements/eau.png[width=18] Bleu ou blanc.
     - _Obscurité :_ image:rules/runes/elements/obscurité.png[width=18] Gris terne ou noir.
     - _Feu :_ image:rules/runes/elements/feu.png[width=18] Jaune ou rouge.
-- *Formes Runiques :* La société adapte sa géométrie aux runes.
+
+*Formes Runiques :* La société adapte sa géométrie aux runes.
+
     - Les livres écrits ou imprimés sont triangulaires.
     - La monnaie a la forme de la rune de l'échange (chez les Orlanthis).
     - Les champs agricoles sont carrés, jamais rectangulaires.
@@ -618,8 +648,9 @@ En réponse à l'adage _YGWV (Your Glorantha Will Vary)_, voici une justificatio
 
 Le jeu a été principalement pensé pour cette approche. Vous observez Glorantha vivre et mourir ; vous êtes les mains qui pèsent les Runes et la voix qui raconte.
 
-- *Incarner n'importe qui :* Vous pouvez jouer Araignée-Roc (la prêtresse Uz quasi divine connaissant les secrets d'Arachne Solara), l'œil du Dragon endormi sous la montagne, le fantôme d'un Érudit de l'Ambigu poursuivant ses expériences pour l'éternité, ou même voir le monde à travers les yeux d'un simple broo.
-- *En Pratique :*
+*Incarner n'importe qui :* Vous pouvez jouer Araignée-Roc (la prêtresse Uz quasi divine connaissant les secrets d'Arachne Solara), l'œil du Dragon endormi sous la montagne, le fantôme d'un Érudit de l'Ambigu poursuivant ses expériences pour l'éternité, ou même voir le monde à travers les yeux d'un simple broo.
+
+*En Pratique :*
     1. Choisissez un cadre à explorer et créez vos protagonistes (de manière succincte ou détaillée).
     2. Utilisez les runes de pouvoir pour répondre aux questions (qui, quoi, pourquoi...).
     3. Imaginez une situation avec un conflit clair (une situation doit aboutir sur au moins un conflit pour être intéressante).
