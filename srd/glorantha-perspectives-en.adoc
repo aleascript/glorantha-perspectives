@@ -68,11 +68,11 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 
 - *Identity:* Name, Age, and a *Quote / Signature line*. This line summarizes the character's philosophy and gives the player an immediate _roleplay_ hook.
 - *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
-- *Frame of Thought:* The prism through which the character sees the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Lhankor Mhy School).
+- *Frame of Thought:* The prism through which the character sees the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School).
 - *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements or Powers). In Glorantha, runes are not merely magic, *they dictate character*.
     - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] will be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] will be secretive, manipulative or mischievous. These character traits can serve as stakes (for or against the character) in a conflict.
 - *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
-- *Gauges:* Gradual states (injury, disruption, resources) marked I, II or depleted, which may weigh on the stakes of conflicts (see III.G).
+- *States:* Gradual states (injury, disruption, resources) can be added to reflect the character's evolution over the course of the game. These states can be used as stakes in conflicts.
 - *Links & Attachments:* What binds the character to others. These can be allies, enemies, or debts (e.g., _Visceral hatred of the Boar tribe, Devoted body and soul to his sister_).
 
 === B. Non-Player Characters (NPCs)
@@ -87,14 +87,21 @@ Anaxial's Ark or the HeroQuest supplements are solid bases for having keyword li
 
 ____
 *Name:* Varmand "Spearbreaker" (24 years old)
-*Quote:* _"The storm does not ask permission to blow!"_ *Origins:* Sartarite Culture, Clan of the Apple Trees.
+
+*Quote:* _"The storm does not ask permission to blow!"_ 
+
+*Origins:* Sartarite Culture, Clan of the Apple Trees.
+
 *Frame of thought:* Theist (Initiate of Orlanth Adventurous).
+
 *Runes:*
 
 - _Air:_ Impulsive, hot-tempered, loud.
 - _Movement:_ Restless, unable to stay still, hates confinement.
 - _Death:_ Ruthless toward the enemies of his clan.
+
 *Keywords:* Raid tactician, Broadsword inherited from his father, Voice that carries above the din, Cannot lie.
+
 *Links & Attachments:* Wants to avenge his brother killed by the Lunars, Secret love for the Priestess of the neighboring clan.
 ____
 
@@ -104,8 +111,11 @@ _In play: During a conflict to galvanize his troops, Varmand can bring into play
 
 ____
 *Name:* Centurion Phargos
+
 *Frame of thought:* Logic (Martial philosophy of the Empire).
+
 *Objective:* Maintain order and collect taxes.
+
 *Keywords:* Disciplined veteran, Phalanx training, Heavy hoplite armor, Imperial arrogance.
 ____
 

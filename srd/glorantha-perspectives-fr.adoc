@@ -68,11 +68,11 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 
 - *Identité :* Nom, Âge, et une *Citation / Phrase type*. Cette phrase résume la philosophie du personnage et donne une accroche de _roleplay_ immédiate au joueur.
 - *Origines & Communauté :* Les loups solitaires n'existent pas (ou survivent peu) dans Glorantha. Le personnage doit définir sa Culture (Sartarite, Tarshite, Esrolien, Uz, etc.) et sa Communauté précise (Clan, Tribu, Cité, Régiment).
-- *Cadre de Pensée :* C'est le prisme à travers lequel le personnage voit le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École de Lhankor Mhy).
+- *Cadre de Pensée :* C'est le prisme à travers lequel le personnage voit le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École Rokari).
 - *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments ou Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
     - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] sera fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] sera secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
 - *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
-- *Jauges :* Des états graduels (blessure, dérangement, ressources) notés I, II ou épuisés, qui pourront peser sur les mises des conflits (cf. III.G).
+- *Etat:* Des états graduels (blessure, dérangement, ressources) peuvent être ajoutés pour refléter l'évolution du personnage au fil de la partie. Ces états peuvent être utilisés comme mises dans les conflits.
 - *Liens & Attaches :* Ce qui relie le personnage aux autres. Ce peuvent être des alliés, des ennemis, ou des dettes (ex: _Haine viscérale de la tribu des Sangliers, Dévoué corps et âme à sa sœur_).
 
 === B. Les Personnages Non-Joueurs (PNJ)
@@ -87,14 +87,21 @@ L'Arche d'Anaxial ou les suppléments HeroQuest sont des bases solides pour avoi
 
 ____
 *Nom :* Varmand "Briselance" (24 ans)
-*Citation :* _"La tempête ne demande pas la permission pour souffler !"_ *Origines :* Culture Sartarite, Clan des Pommiers.
-*Cadre de pensée :* Théiste (Initié d'Orlanth Aventureux).
+
+*Citation :* _"La tempête ne demande pas la permission pour souffler !"_ 
+
+*Origines :* Culture Sartarite, Clan des Pommiers.
+
+*Cadre de pensée :* Théiste (Initié d'Orlanth Aventureux)
+
 *Runes :*
 
 - _Air :_ Impulsif, colérique, bruyant.
 - _Mouvement :_ Agité, incapable de rester en place, déteste l'enfermement.
 - _Mort :_ Impitoyable envers les ennemis de son clan.
+
 *Mots-clés :* Tacticien de raid, Épée large héritée de son père, Voix qui porte au-dessus du tumulte, Ne sait pas mentir.
+
 *Liens & Attaches :* Veut venger son frère tué par les Lunaires, Amour secret pour la Prêtresse du clan voisin.
 ____
 
@@ -104,8 +111,11 @@ _En jeu : Lors d'un conflit pour galvaniser ses troupes, Varmand pourra mettre e
 
 ____
 *Nom :* Centurion Phargos
+
 *Cadre de pensée :* Logique (Philosophie martiale de l'Empire).
+
 *Objectif :* Maintenir l'ordre et faire payer les taxes.
+
 *Mots-clés :* Vétéran discipliné, Formation en phalange, Armure d'hoplite lourde, Arrogance impériale.
 ____
 
