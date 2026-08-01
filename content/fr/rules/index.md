@@ -8,6 +8,10 @@ Règles diégétiques alignant gameplay et roleplay dans l'univers de Glorantha.
 
 > Glorantha Perspectives ne remplace aucunement vos lectures et réflexions sur le monde de Glorantha à partir de la somme colossale qui a été écrite sur ce monde.
 
+Vous pouvez récupérer les règles en [PDF](../srd/glorantha-perspectives-fr.pdf).
+
+*Le site contient plus ou moins ce qui est présent dans le SRD et permet de piocher dans le système de jeu certaines idées applicables peut être à votre propre système de jeu actuel.*
+
 Conformément au mono-mythe Jrusteli, voici les quatre grands cadres de pensée dans Glorantha:
 
 - [L'animisme](animism)

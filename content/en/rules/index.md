@@ -8,6 +8,10 @@ Diegetic rules aligning gameplay and roleplay in the world of Glorantha.
 
 > Glorantha Perspectives does not replace your reading and reflection on the world of Glorantha from the colossal body of work that has been written about this world.
 
+You can get the rules in [PDF](../srd/glorantha-perspectives-en.pdf).
+
+*The site contains more or less what is present in the SRD and allows you to draw from the game system certain ideas that might be applicable to your own current game system.*
+
 In accordance with the Jrusteli mono-myth, here are the four great frames of thought in Glorantha:
 
 - [Animism](animism)

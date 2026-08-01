@@ -14,26 +14,11 @@ if [ ! -f "$SRC" ]; then
     exit 1
 fi
 
-VERSION="$(grep -m1 '^:revnumber:' "$SRC" | sed -E 's/^:revnumber:[[:space:]]*//' | tr -d '[:space:]')"
-if [ -z "$VERSION" ]; then
-    echo "Error: :revnumber: not found in $SRC" >&2
-    exit 1
-fi
-
 mkdir -p "$OUT_DIR"
-OUT="$OUT_DIR/glorantha-perspectives-${SRD_LANG}-${VERSION}.pdf"
+OUT="$OUT_DIR/glorantha-perspectives-${SRD_LANG}.pdf"
 
 ruby -S asciidoctor-pdf \
     -a pdf-theme="$THEME" \
     -o "$OUT" "$SRC"
-
-if compgen -G "$OUT_DIR/glorantha-perspectives-${SRD_LANG}-*.pdf" >/dev/null; then
-    for old in "$OUT_DIR"/glorantha-perspectives-"${SRD_LANG}"-*.pdf; do
-        if [ "$old" != "$OUT" ]; then
-            rm -f "$old"
-            echo "Removed old version: $old"
-        fi
-    done
-fi
 
 echo "PDF generated: $OUT ($(du -h "$OUT" | cut -f1))"

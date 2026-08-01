@@ -110,7 +110,7 @@ Le fichier `tools/pdf-style.css` est généré automatiquement à la première e
 
 ### `generate-srd-pdf.sh`
 
-Convertit le SRD AsciiDoc `srd/glorantha-perspectives-${lang}.adoc` en PDF (page de garde, table des matières, runes intégrées) dans `content/${lang}/srd/`. La version du PDF est lue dans l'attribut `:revnumber:` du document.
+Convertit le SRD AsciiDoc `srd/glorantha-perspectives-${lang}.adoc` en PDF (page de garde, table des matières, runes intégrées) dans `content/${lang}/srd/`. Le PDF est nommé `glorantha-perspectives-${lang}.pdf` (sans version dans le nom, celle-ci étant lue dans l'attribut `:revnumber:` du document).
 
 ```bash
 # Depuis la racine du projet (français par défaut)
@@ -122,7 +122,7 @@ bash tools/generate-srd-pdf.sh en
 
 Le rendu est contrôlé par le thème `tools/srd-pdf-theme.yml` (inspiration Glorantha) qui peut être personnalisé.
 
-À chaque génération, les anciennes versions du PDF (même langue) sont supprimées : seul le PDF de la version courante reste dans `content/${lang}/srd/`.
+Le PDF `content/${lang}/srd/glorantha-perspectives-${lang}.pdf` est écrasé à chaque génération.
 
 ### Hooks git (génération automatique du PDF)
 

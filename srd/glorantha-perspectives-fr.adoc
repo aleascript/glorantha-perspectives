@@ -165,7 +165,7 @@ Une opposition peut couvrir une action isolée (un assaut, une plaidoirie) comme
 - *La Séquence :* Une série d'actions résolue en un seul tirage pour couvrir toute une scène (un raid, une cérémonie, une traversée).
 - *Le Script :* Une suite d'actions ou de scènes connus à l'avance menant à un résultat (une quête héroïque, une succession d'épreuves).
 
-*Jouer un séquence :* On joue l'opposition en un seul tirage pour connaitre le résultat global. Cela est applicable à un simple combat qu'à une immense bataille. 
+*Jouer une séquence :* On joue l'opposition en un seul tirage pour connaitre le résultat global. On peut appliquer une séquence pour résoudre un simple vol dans une maison, une négociation ou un combat mais aussi une immense bataille qui met en scène plusieurs armées.  
 
 *Résoudre un script :* On décompose l'obstacle en étapes (des actions pour une séquence, des scènes pour un script) et chaque étape représente une ou plusieurs étapes clés à franchir. On rassemble ensuite les mises de chaque camp et l'on procède au tirage normal. En cas d'échec, on compte le nombre de réussites obtenues par le camp protagoniste pour localiser l'étape qui a échoué (une réussite = une étape franchie). En cas de succès, on est nécessairement allé au bout. La suite peut ensuite être narrée collectivement.
 

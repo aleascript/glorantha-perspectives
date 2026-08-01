@@ -1,0 +1,634 @@
+= Glorantha Perspectives
+:subtitle: Diegetic rules for playing in Glorantha
+aleascript@proton.me
+:revnumber: 0.1
+:revdate: 2026-08-01
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table of Contents
+:description: diegetic rules for playing in Glorantha
+:keywords: TTRPG, Solo
+:title-logo-image: image:rules/runes/pouvoirs/power-runes-circle.png[width=120]
+:imagesdir: ../content/assets/
+
+image::../../assets/licence.png[]
+
+== I. Introduction & Intent Note
+
+=== A. The philosophy of the game
+
+*Glorantha Perspectives* offers diegetic resources for exploring the game-world of Glorantha. The main objective of this document is to provide rules, reflections and game tools that perfectly align _gameplay_ (the mechanics) and _roleplay_ (the narrative and interpretation).
+
+*The absence of statistics:* In this system, you will find no numerical statistics, no success percentages. Why? Because in real life, there are none. Nobody approaches a problem thinking they have a 75% chance of succeeding. On the other hand, everyone naturally weighs their strengths and weaknesses when facing a situation, without quantifying them. This instinctive assessment tempers our hope of success. That is exactly what this resolution system reflects: *each stake is not a number, it is a hope.*
+
+_For example, when an initiate of Orlanth charges into battle, they rather bet on the providential gust of wind that unbalances their enemy (the opportunity), on their iron broadsword, and on the "Lightning Blade" magic crackling along their weapon. Facing them, the Lunar legionnaire does not calculate percentages either. They bet on their phalanx discipline (control), on their large heavy shield, and on the blessing of the Red Moon that makes this shield exceptionally resistant. This clash of hopes translates into 3 stakes for the Orlanthi (Wind + Sword + "Lightning Blade" strengthening the weapon) against 3 stakes for the Lunar (Discipline + Shield + Blessing strengthening the defense)._
+
+The system was invented so that players keep permanently in mind that the world of Glorantha must be seen through very different prisms. It thus guarantees a strong coherence between the game mechanics used and the specific frame of thought of the characters.
+
+Mind you, these rules in no way replace your readings and reflections on this world, based on the colossal body of work already written about it.
+
+=== B. Glorantha for beginners
+
+To harmonize the expectations of a group of players and quickly present the setting, here are the essential principles of Glorantha:
+
+- Characters who do not belong to a community are extremely rare.
+- The visual setting is equivalent to the Bronze Age. One finds primitive and barbarian cultures, as well as the beginnings of civilizations such as the Lunar Empire, the Solar Empire or the West.
+- Runes are everywhere: they adorn tattoos, engravings, frescoes, armor and weapons.
+- Magic is visible: the air hums, an aura appears, and physical elements sometimes take part.
+- As a rule, one respects one's opponent and life, with the exception of Chaos.
+- Familiar, informal address is the norm throughout the world. The West is the exception, for a strict caste hierarchy exists there.
+- The world is rather colorful. Notable exceptions are the Brithini (fundamentalist and immortal Malkioni) and certain particularly wild regions.
+- Currency is used for exchanges, but it remains rare and reserved for merchants or certain adventurous professions. In everyday life, barter and small change are the rule.
+- Healing magic pushes back death and accelerates recovery. However, it does not regrow severed limbs.
+
+=== C. The great frames of thought
+
+In the world of Glorantha, the way one apprehends reality modifies reality itself. In accordance with the Jrusteli mono-myth, there are four great frames of thought:
+
+- _Animism_.
+- _Theism_.
+- _The logic of the Invisible God_.
+- _Mysticism_.
+
+To these worldviews is added a 5th particularly complex frame of thought: _Dragons and Dragonewts_.
+
+These frames of thought are fundamental: they are what allow characters to position themselves in relation to the world and to place stakes when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
+
+== II. The Protagonists
+
+In _Glorantha Perspectives_, characters are not defined by numerical characteristics (Strength, Dexterity, etc.), but by narrative *keywords*. These keywords draw directly from the "Gloranthology" (the lore of the world) and serve to justify assets and handicaps (the famous "stakes") during a conflict.
+
+A precise and colorful keyword (e.g., _Disillusioned veteran of the Sartar Rebellion_) will always be more interesting and game-generating than a generic keyword (e.g., _Warrior_).
+
+=== A. Creating Player Characters (PCs)
+
+Players create detailed protagonists, rooted in the world. The character sheet is divided into several facets:
+
+- *Identity:* Name, Age, and a *Quote / Signature line*. This line summarizes the character's philosophy and gives the player an immediate _roleplay_ hook.
+- *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
+- *Frame of Thought:* The prism through which the character sees the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Lhankor Mhy School).
+- *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements or Powers). In Glorantha, runes are not merely magic, *they dictate character*.
+    - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] will be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] will be secretive, manipulative or mischievous. These character traits can serve as stakes (for or against the character) in a conflict.
+- *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
+- *Gauges:* Gradual states (injury, disruption, resources) marked I, II or depleted, which may weigh on the stakes of conflicts (see III.G).
+- *Links & Attachments:* What binds the character to others. These can be allies, enemies, or debts (e.g., _Visceral hatred of the Boar tribe, Devoted body and soul to his sister_).
+
+=== B. Non-Player Characters (NPCs)
+
+Destiny (the gamemaster/narrator) does not need this level of detail to bring the world to life. NPCs can be created on the fly, very lightly. A frame of thought, an objective, and one or two keywords suffice to generate their stakes.
+
+Anaxial's Ark or the HeroQuest supplements are solid bases for having keyword lists already prepared.
+
+=== C. Creation Examples
+
+==== Example 1: A detailed Orlanthi PC
+
+____
+*Name:* Varmand "Spearbreaker" (24 years old)
+*Quote:* _"The storm does not ask permission to blow!"_ *Origins:* Sartarite Culture, Clan of the Apple Trees.
+*Frame of thought:* Theist (Initiate of Orlanth Adventurous).
+*Runes:*
+
+- _Air:_ Impulsive, hot-tempered, loud.
+- _Movement:_ Restless, unable to stay still, hates confinement.
+- _Death:_ Ruthless toward the enemies of his clan.
+*Keywords:* Raid tactician, Broadsword inherited from his father, Voice that carries above the din, Cannot lie.
+*Links & Attachments:* Wants to avenge his brother killed by the Lunars, Secret love for the Priestess of the neighboring clan.
+____
+
+_In play: During a conflict to galvanize his troops, Varmand can bring into play his "Voice that carries", his Air rune (passion) and his "Inherited sword" (symbol of legitimacy) to place 3 additional stakes._
+
+==== Example 2: A Lunar NPC (Light)
+
+____
+*Name:* Centurion Phargos
+*Frame of thought:* Logic (Martial philosophy of the Empire).
+*Objective:* Maintain order and collect taxes.
+*Keywords:* Disciplined veteran, Phalanx training, Heavy hoplite armor, Imperial arrogance.
+____
+
+_In play: Phargos is a solid obstacle. Facing rebels, he will use his discipline, his formation and his armor to easily generate 3 additional stakes._
+
+== III. The Narrative Engine: Camps, Stakes & Resolutions
+
+The system is designed to resort to dice only when destiny is uncertain and a potential narrative fork appears. The central idea is simple: facing adversity, one stakes everything that could serve them in this situation, and the obstacle or adversary does the same.
+
+=== A. Determining Camps and Stakes
+
+To determine the assets that will weigh in the balance (the "stakes"), one must analyze the objectives of each camp present:
+
+- *Camp A's stakes:* They are made up of the elements that favor A's objective (A+) to which are added the weaknesses or obstacles that thwart B's objective (B-).
+- *Camp B's stakes:* They are made up of the elements that favor B's objective (B+) to which are added the weaknesses or elements that thwart A's objective (A-).
+- *The Gauges:* A degraded gauge (injury, resource, state) naturally aligns against its own camp and may bring additional stakes to the adversity (see III.G).
+
+*The art of seeking stakes:* The search for stakes is totally free and guided by common sense as well as knowledge of Glorantha. Above all, do not limit yourself to the keywords on the character sheet! These are primarily reservoirs and sources of inspiration. The imagination of the players and the gamemaster (Destiny) must be stimulated by immersion in the world in order to unearth any relevant diegetic asset.
+
+The opposition then comes down to confronting these two groups of stakes. Once the total number of stakes is known for each camp, one loses the mental link between the narrative element (the factor) and the die it brings. From then on, only the final number of successes of each camp matters.
+
+=== B. The Focus and Framework Factors
+
+Determining stakes is not a simple list of attributes. By immersing themselves in the situation, each party determines what is truly important at that moment: this is the Focus. Furthermore, the environment may impose a Framework Factor, an element so impactful that it expresses what will be impossible to attempt and forces the stakes to align.
+
+____
+*Example of an opposition: Kallyr against Yanela*
+
+- *The situation:* Kallyr (Theist) wants to convince Yanela (High Priestess of Ernalda) to entrust her with the relic of the Earth-Trembling Staff to protect her clan. Yanela refuses, wanting to preserve the relic in the stasis of the temple.
+- *The Focus:* Since the opposition is purely political and rhetorical, Kallyr's physical assets (such as Lightning-fast swordswoman or Long iron sword) are not taken into account in her stakes.
+- *The Framework Factor:* The scene takes place in the Holy of Holies of Ernalda, governed by the myth of Ernalda's Peace. Any form of aggression is metaphysically stifled there. Kallyr therefore cannot resort to her Hot-Tempered trait or to intimidation, on pain of being paralyzed by the magic of the place.
+- *Outcome:* The conflict weighs Kallyr's arguments (Royal lineage, Eloquence, Urgency, hampered by her youthful Impatience) against those of Yanela (Sacred Duty, Temple Stasis, Cultural Distrust, hampered by her Love of community). The opposition resolves on a strict 4 stakes against 4 stakes.
+____
+
+=== C. Managing Difficulty: The Destiny Gauge
+
+To balance narrative difficulties throughout the game (group or solo), Destiny can use a global gauge.
+
+- The gauge starts at zero.
+- It can be represented by dice or tokens: one color marked with the Luck rune image:rules/runes/conditions/chance.png[width=18] for the heroes (+1), and one color marked with the Destiny rune image:rules/runes/conditions/destin.png[width=18] for adversity (-1).
+- If the heroes face a conflict with fewer stakes than the adversity, the gauge gains one Hero token per stake difference to compensate for this imbalance (destiny will soon turn in their favor). And conversely.
+- If the gamemaster imposes a free narrative difficulty, they grant a Hero token. Conversely, an advantage without conflict for the heroes will make the gauge gain an Adversity token.
+- These accumulated points serve as a guide to adjust the stakes of future conflicts and create "breathing room" in the narrative.
+
+=== D. Abstract Obstacles
+
+How to resolve a draw against an obstacle not tied to a frame of thought (climbing a mountain, resisting the climate)? Two options are available to you:
+
+- *The Mirror mode:* The obstacle is resolved with the same frame of thought as the protagonist (e.g., the rules of mysticism for a mystic). This is the recommended frame when the stakes represent a true self-transcendence.
+- *The Agnostic mode (The Middle World):* even numbers (2, 4, 6) are successes and odd numbers (1, 3, 5) are failures, without any other adjustment rule. This frame is used when the stakes are minor and do not involve the character emotionally.
+
+=== E. The Resolution Zoom: Action, Sequence or Script
+
+An opposition can cover an isolated action (an assault, a plea) as well as a whole series of actions spread over time (a plan). This is called a resolution *zoom*, and the choice of this zoom is often implicit. In case of ambiguity, it is the protagonist involved who chooses the level.
+
+- *The Action:* The default opposition, a local and unique action.
+- *The Sequence:* A series of actions resolved in a single draw to cover an entire scene (a raid, a ceremony, a crossing).
+- *The Script:* A sequence of actions or scenes known in advance leading to a result (a heroic quest, a succession of trials).
+
+*Playing a sequence:* The opposition is played in a single draw to know the overall result. A sequence can be used to resolve a simple house burglary, a negotiation or a fight, but also an immense battle involving several armies.
+
+*Resolving a script:* One breaks down the obstacle into steps (actions for a sequence, scenes for a script) and each step represents one or more key milestones to cross. Then the stakes of each camp are gathered and the normal draw is made. In case of failure, count the number of successes obtained by the protagonist camp to locate the step that failed (one success = one step crossed). In case of success, one has necessarily gone all the way. The rest can then be narrated collectively.
+
+=== F. Keyed Obstacles: Solving a Problem
+
+Some obstacles are real problems to solve: a riddle, an investigation, a complex craft, something to repair. On the obstacle side, one then defines a number of *keys* that will have to be discovered or crossed to succeed. _Examples: an investigation (the culprit, the motive, the modus operandi) or a potion to brew (the laboratory, the ingredients, the recipe)._
+
+The opposition is then made against the number of keys to discover.
+
+=== H. Resolution, Interpretation and Retributions
+
+Each camp makes its dice draw according to the specific rules of its Frame of Thought (Theism, Animism, Logic, Mysticism). The one who obtains the most successes wins the conflict.
+
+*Graduation of the Result:*
+
+- *Difference of 2 successes or more:* The action ends in a Feat (or a Fiasco).
+- *Difference of 1 success:* The action ends in a Victory/Success (or a Defeat/Failure).
+- *Tie:* The action ends in a Status quo (or Reversal). If it is impossible to remain on a narrative status quo, each camp adds one additional stake symbolizing the escalation, and a new draw is made.
+
+*The Retributions:*
+
+The system avoids meta-game as much as possible: there are no mechanical bonuses or penalties at the end of the game. Characters evolve diegetically, that is, through narration. Over the course of adventures, Destiny grants them narrative retributions such as new links, attachments, gifts, a new power or an epiphany.
+
+== IV. The Frames of Thought
+
+In Glorantha, magic is not a simple list of spells, it is a way of seeing the world and interacting with it. Everything is magical in a way. Magic is the way of seeing the world. The resolution mechanic therefore adapts to the character's philosophy.
+
+=== A. Theism: The Way of the Gods
+
+image::rules/runes/mondes/gods.png[width=100]
+
+*Philosophy:* A theist interprets the world through the exemplary deeds of the Gods of their pantheon and their cult. Facing an obstacle, they mold themselves into a pre-existing frame, reproducing standardized acts and thoughts, in the hope of obtaining divine support or manifestation.
+
+Derogatory names given by the other cultures: slaves, sheep, worshippers of false gods.
+
+*Resolution rules:* One recalls one's own exploits and the glory of our Gods, and lets the latter judge who is worthy of triumphing.
+
+- The dice *even (2, 4, 6)* are successes.
+- *The Divine Intervention:* The 6s allow rerolling odd dice (divine support). This effect is cumulative if the new draw yields another 6. If the player has no more odd dice to reroll, a 6 allows them to gain new dice to roll (a true divine manifestation).
+
+*Power modes:*
+
+- *Weakened:* The 6s no longer have an explosive effect.
+- *Heroic:* Any even die allows rerolling an odd die.
+
+*Accessory (The Runic Cards):* For total immersion, replace the dice with a deck of 60 cards: 10 cards of the God's major Rune (the 6s), 20 cards of minor runes (the 2s and 4s), 20 neutral cards (the 3s and 5s) and 10 cards of the rune most opposed to the God (the 1s).
+
+=== B. Animism: The World of Spirits
+
+image::rules/runes/mondes/spirits.png[width=100]
+
+*Philosophy:* An animist constantly feels the link between the visible and invisible worlds. They stand on the threshold, between the mundane and the spiritual, trading with the surrounding spirits to capture their energies. The specific focus on odd draws represents the character's permanent attention turned towards the spirit world.
+
+*Derogatory names given by the other cultures:* primitives, savages.
+
+*Resolution rules:* One calls upon the spirits of the place and our invisible allies, then listens to see if the world chooses to answer us.
+
+- The even dice (2, 4, 6) count as a success (the spirits answer).
+- *The Spiritual Pact (Double odd):* The odd dice represent local spirits, erratic by nature. However, if two dice show exactly the same odd face (e.g., two "3s" or two "5s"), together they form 1 success. This reflects a spiritual resonance between the character's own spiritual strength (one of the dice) and a specific spirit (the other die). A temporary pact is then sealed to gain support. Orphaned odds remain indifferent.
+- *The Fetish:* The relationship with spirits is free and spontaneous. It is possible to bind a spirit into a fetish (or conversely, suffer the departure of a bound spirit), but this only happens in the case of a decisive narrative outcome. This requires achieving a *Feat* (to bind) or the occurrence of a *Fiasco* (the spirit flees).
+
+*Power modes:*
+
+- *Weakened:* The link with the spirit world is broken. Spiritual pacts become impossible to seal: "double odds" no longer count and generate no successes. Only the independent spirits (the even dice) continue to manifest. Moreover, it becomes impossible to bind spirits.
+- *Heroic:* Spiritual alignment. If the lowest die and the highest die rolled share the same parity (both even or both odd), the character obtains a total success on all their stakes.
+
+*Accessory (The Spirit Bag):* Replace the dice with a bag containing 60 objects (pebbles, bones, bits of wood) marked with red runes (the successes), with green/black marks to distinguish the odds and look for doubles.
+
+=== C. Logic: The Invisible God
+
+image::rules/runes/mondes/logic.png[width=100]
+
+*Philosophy:* A logician has a "scientific" and rational vision of the world: cause and effect, ingredients and recipe. Their God is invisible and does not manifest; one approaches it only through study, quantification and reason.
+
+Derogatory names given by the other cultures: sorcery, sorcerers, materialists, vampires.
+
+*Resolution rules:* Facing a problem, one aligns one's knowledge and resources, and measures accurately whether the sum of one's forces overcomes the obstacle.
+
+- One simply adds up the value of all the dice rolled, then *divides the total sum by 5*.
+- The result (rounded down) gives the number of successes. This is the only mode where even numbers are not intrinsically successes, symbolizing the fact that one can only rely on oneself, without miracles.
+
+*Power modes:*
+
+- *Weakened:* One divides the sum by 6.
+- *Heroic:* The stage is gradual according to mastery. One divides by 4, then by 3, 2, even 1 for a being like Zzabur.
+
+=== D. Mysticism: Illumination
+
+image::rules/runes/mondes/void.png[width=100]
+
+*Philosophy:* A mystic perceives the illusion of the real and of duality. They do not fight against the world, they observe how wills intertwine to reveal transformations, knowing that there is no absolute truth.
+
+Derogatory names given by the other cultures: nihilists, charlatans.
+
+*Resolution rules:*
+
+- The dice *even (2, 4, 6)* are successes.
+- *The Annihilation:* The mystic's 1s make the _other camp's_ 6s disappear, and disappear at the same time. The resolution always happens _after_ the opponent's full draw (including rerolls), because the mystic reveals _a posteriori_ the illusion of their enemy's success. Thus, a seemingly weak draw can turn into an immense mystical success.
+
+*Power modes:*
+
+- *Weakened:* One must use two mystical "1s" to cancel a single opposing "6".
+- *Heroic:* The mystic chooses: either they automatically obtain as many successes as their adversary without justification, or they roll normally but their "1s" can "steal" any opposing die to take its value (the adversary is faced with their own vanity).
+
+*Accessory (The Mystical Marbles):* A bag of 60 colored marbles. 10 black (the 6s), 20 gray (pairs), 20 white (odds) and 10 two-colored or red (the annihilating 1s).
+
+=== E. Draconic Thought: The Dragon's Dream
+
+image:rules/runes/formes/dragonewt.png[width=60] image:rules/runes/conditions/infini.png[width=60] image:rules/runes/formes/dragon.png[width=60]
+
+*Philosophy:* Draconic magic uses the Rune of Infinity as a gauge. An adept reads the world through paradoxes. They know that forcing reality with their magic (the _Wyrm_) delays their own evolution toward the True Dragon stage. Their true power lies in their ability to renounce victory (the _Utuma_).
+
+Derogatory names given by the other cultures: monsters, incomprehensible.
+
+*Resolution rules:* Draconic stakes are played with *D8s* (representing the 8 power runes).
+
+- *The Standardized Action (Materialism):* Every even die (2, 4, 6, 8) counts as a classic success, without spiritual consequence.
+- *The Draconic Rend:* If the draw reveals a higher pattern — _The Egg's Stasis_ (dice of identical value) or _The Ouroboros_ (a 1 and an 8 simultaneously) — a strict choice is imposed on the player:
+    - _The Wyrm:_ The pattern is converted into successes to crush the adversary. But the character twists reality: they win the material conflict, but regress spiritually and gain a negative attachment.
+    - _The Utuma (The Sacrifice):_ The character ignores the pattern to maintain their evolution. They lose the material advantage (or even their life), but rise spiritually for their next incarnation.
+
+*Power modes:*
+
+- *Weakened:* Numbed by matter, the character is forced to assign their complex patterns to the Wyrm and suffer the regression.
+- *Heroic (The Awakening):* The paradox fades. The character no longer has to choose: their patterns (Stasis and Ouroboros) count as dazzling successes _AND_ they gain the spiritual benefits of the Utuma. They twist reality without binding themselves to it, understanding that the world is but their own dream.
+
+=== F. External Influences: The Lunar Way
+
+image:rules/runes/elements/lune.png[width=60]
+
+Lunar magic is subject to the lunar cycle when practiced outside the Brilliant Line. Inside this border that encircles the Lunar Empire, the moon is always full and magic is therefore not subject to these fluctuations.
+
+Outside the Full Moon and New Moon phases, the normal resolution rules apply for all frames of thought.
+
+_Note: Adepts of Mysticism and Draconic Thought are never affected by these rules; for them, the lunar cycles are only an illusory reality to transcend_.
+
+*The Full Moon*
+
+During this phase, one witnesses an incursion of mysticism into the other modes of thought: one looks toward the 1, unity and inclusion. Although this is not a true heroic mode, feeling the effects of the full moon brings within reach the possibility of transcendence for a Lunarian.
+
+- *Logic:* One adds 1 to each die.
+- *Theism:* One may reroll the 1s.
+- *Animism:* The presence of the Moon exacerbates the resonance of the Spiritual Pact with the most unfathomable spirits. "Double 1s" no longer form a simple success, but exceptionally generate *2 successes*.
+
+*The New Moon*
+
+This phase represents the trough of magical power for mortals subject to the cycles.
+
+- *Logic:* The frame of thought switches to weakened mode.
+- *Theism:* The frame of thought switches to weakened mode.
+- *Animism:* The frame of thought switches to weakened mode.
+
+=== G. Illumination: Freeing Oneself from the Web
+
+In Glorantha, Illumination is a stunning realization, often initiated by the riddles of Nysalor or Lunar philosophy. It is the deep understanding that cosmic laws, the separation of the elements, and even the strict duality between Cosmos and Chaos, are only relative concepts. An Illumined one understands the vast joke of the universe: Arachne Solara's Web exists, but there is nothing behind it.
+
+*The Rule of Awakening: The choice of the "1"*
+
+Illumination is not acquired through experience points or at character creation. It occurs during play, at a moment of crisis where the character decides to transgress their own nature.
+
+During a conflict resolution, a player using a classic frame of thought (Theism, Animism or Logic) can decide to "play their 1s".
+
+By making this conscious choice, the player declares that their character frees themselves from the limits of their faith or their science. They perceive the illusion of the opposing victory.
+
+- *The Immediate Effect (The Annihilation):* Like the rules of the Mystical frame of thought, the "1s" drawn by the player make the "6s" of the opposing camp disappear, and disappear at the same time. This action can overturn the outcome of a conflict that seemed lost in advance.
+- *The Revelation:* From this instant, the character is permanently Illumined.
+
+*The Consequences of Illumination*
+
+Becoming Illumined irremediably modifies the character's relationship to the world. They benefit from a new freedom, but pay a heavy price for it.
+
+- *The Legacy of the Frame:* The character does not change their frame of thought. A Theist continues to pray to their gods and resolve their conflicts with the rules of Theism (rerolling odds on a 6). However, they forever keep the mystical ability to use their "1s" to cancel opposing "6s".
+- *The Permeability to Contradictions:* The character is no longer constrained by the contradictions of their cult. They can, on the narrative level, combine opposing forces (use Stasis and Movement magic simultaneously) without suffering the usual backlash, because they have understood that they are one.
+- *The Heretic's Taint:* Illumination has a smell. Fanatical, dogmatic beings or those bound to absolute principles (such as initiates of the Storm Bull, inquisitors or very ancient spirits) intuitively feel this absence of moral and cosmic limits. For them, the Illumined one exudes an unnatural aura, often assimilated to Chaos itself. The character gains a permanent negative trait such as _Heretic_, _Abomination in the eyes of fanatics_, or _Aura of Nysalor_, which will systematically serve as a stake against them during social or spiritual conflicts with these factions.
+
+=== H. The Taint of Chaos: The Anti-Rule
+
+image::rules/runes/conditions/chaos.png[width=100]
+
+____
+_"Chaos is not strong because it has better weapons. Chaos is strong because it does not play the same game as we do."_
+
+— An initiate of the Storm Bull, before charging a horde of Broos.
+____
+
+Chaos is the force of entropy and of the destruction of the Cosmos. Mechanically, consorting with Chaos (willingly or out of despair) allows one to break the fundamental rules of the game, but the price to pay is a permanent physical or spiritual corruption: the Taint.
+
+*The Chaotic Temptation (The Cheat)*
+
+When a character faces certain death, a bitter failure, or is blocked by a Framework Factor (such as the stasis of a temple), the player can invoke the force of Chaos to get out of it. This is translated narratively by an unnatural act (absorbing the energy of an impious artifact, sacrificing an ally, or letting corruption express itself).
+
+Mechanically, the player grants themselves an absolute advantage that violates the resolution engine:
+
+- They can *instantly convert* any die from their draw into a critical success (a 6, an even, etc., according to their frame).
+- Or they can *totally ignore a Framework Factor* to impose their own Stakes.
+
+*The Counterpart: The Taint*
+
+Chaos always gives, but it corrupts everything it touches. In exchange for this cosmic cheat, the character gains a Taint Keyword (e.g., _Tentacular arm_, _Pus-covered skin_, _Thirst for fresh flesh_, _Voice from beyond the grave_).
+
+*The Weight of Chaos (Mechanic of the Taint)*
+
+Unlike the character's other Keywords, a Taint can *never* be used by the player to generate a positive Stake in their favor. The Cosmos viscerally rejects Chaos.
+
+- *The Hostility of the World:* From now on, each time the character undertakes an action involving nature, the gods, or healthy society, Destiny (the gamemaster) uses this Taint Keyword *automatically* as an *additional Stake for the adversity*.
+- *The Spiral:* The more a character cheats using Chaos, the more Taints they accumulate, constantly increasing the number of Stakes against them in their daily life, until they can no longer survive within the Cosmos and become an unplayable monster.
+
+== V. High Magic: Myths and Heroquests
+
+The world of Glorantha is forged by myths: the stories of what happened during the Gods' Time. These myths continue to have an impact on the real world, and knowledge of the origin myth often provides the solution to present-day problems.
+
+=== A. Heroquesting
+
+A Heroquest does not simply consist of accomplishing a physical feat, but of physically or spiritually walking in the footsteps of the Gods.
+
+- *The Principle:* One must succeed in accessing the Other Side (the Otherworld) and then complete the successive stages of a myth.
+- *Stakes and Synchronicity:* A heroquest creates absolute synchronicity between the divine world and the real world (in both directions). The resolution system (the "stakes") allows one to narratively determine the level of victory of the quest and, above all, to describe the concrete and lasting effects on the real world.
+- *The Price to Pay:* The hero very often pledges one of their aptitudes before starting the quest. If they access the Other Side, their frame of thought switches to "Heroic Mode", but they will face entities benefiting from the same advantage.
+- *The Path of the Myth:* Heroes have every interest in following the marked path of the myth, for it shapes and confirms reality as it is. But it is possible to deviate from it, at one's own risks and perils: succeeding a deviation allows one to literally change the reality of the real world!
+
+=== B. Creating Myths (Tool for Destiny)
+
+As Destiny, you will be led to invent myths to feed your players (or your solo game) with knowledge. Every initiate of a God knows at least the myth associated with their initiation.
+
+*The ingredients of a myth:*
+
+1. A deity (or a major Hero if the myth dates from the Age of History).
+2. Elements of everyday life.
+3. A precise problematic.
+4. The resolution of the problematic, which explains _why things are now as they are_.
+
+*The construction (The childish and mythological approach):*
+
+- *Why?:* Ask a simple, even childish assertion (e.g., _"Why do dogs and cats not get along?"_). The corollary of this question is the acceptance of a different initial state (_"At the beginning, they were brothers"_).
+- *How?:* Build the myth by explaining how we got there, involving divine elements (e.g., _"Yinkin was attacked by wolves and saved by alynxes, and has since sworn a hatred for canids"_). A rich myth will include deities of rival pantheons.
+
+*The Rule of Three:*
+
+Like tales, Gloranthan myths are often composed according to the rule of three: three trials, three stages, three objects. For example, it was at the fourth trial (that of weapons) that Orlanth killed Emperor Yelm, after having "failed" the first three (the dance, the magic, the music).
+
+=== C. The Ultimate Quest: Discovering a New Frame of Thought
+
+It is entirely possible to imagine a Heroquest whose goal is not to replay the past, but to elaborate brand-new adjustments to the rules of the world for those who would hold a specific Rune (as was the case for the Lunar Rune or Infinity with Ouroboros).
+
+- *Transforming the world:* The act is profoundly heroic, for it is not only about changing the world, but about substantially changing _the way one acts with the world_. On a large scale, this is what literally transforms Gloranthan reality.
+- *The design challenge:* The only immutable rule of Glorantha Perspectives remains the balance of destiny (A's stakes against B's stakes having to lead to a result). The most difficult — and the real achievement of this quest — is to create a rule that perfectly reflects this new way of thinking, so that the _gameplay_ (the dice draw) is perfectly in phase with the _roleplay_ (the nascent philosophy). Is that not, after all, the true Heroquest?
+
+== VI. Destiny's Toolbox (Exploration & Inspiration)
+
+This last part gathers the diegetic resources allowing one to infuse the very particular color of Glorantha into your sessions, whether to generate twists, anchor the story in the everyday, or define the format of your gaming table.
+
+=== A. Runic Inspiration
+
+Runes are the building blocks of the world; they weave reality, insinuate themselves everywhere and draw the web of Destiny. At the start of a season, at the beginning of a situation, or during an inspiration drought, Destiny can draw two Power runes (via 2D8 or 8 cards) and combine their concepts to make an idea emerge.
+
+_Note on numerology: The numerical correspondence from 1 to 8 with the power runes has been lost in the winding paths of time. Some scholars whisper that it came from an ancient group of Logicians or a forgotten mystical current seeking to quantify the ineffable._
+
+==== Summary Table of the Power Runes
+
+[cols="1,2,3,2,2", options="header"]
+|===
+| Number | Rune | Main Theme | Question | Direction
+
+| *[1]* | image:rules/runes/pouvoirs/mouvement.png[width=25] *Movement* (Discovery) | What is around, the world, places | Where? | Below
+| *[2]* | image:rules/runes/pouvoirs/mort.png[width=25] *Death* (Threat) | What is different, the other, the enemy | Who? | To the right
+| *[3]* | image:rules/runes/pouvoirs/harmonie.png[width=25] *Harmony* (Relationships) | What connects, emotions, feelings | What? | To the left
+| *[4]* | image:rules/runes/pouvoirs/stase.png[width=25] *Stasis* (Law) | What is frozen, morality, authority | How? | Ahead
+| *[5]* | image:rules/runes/pouvoirs/vie.png[width=25] *Life* (Resources) | What is necessary, material | How much? | Behind
+| *[6]* | image:rules/runes/pouvoirs/desordre.png[width=25] *Disorder* (Revelation) | What surprises, twist | When? | Above
+| *[7]* | image:rules/runes/pouvoirs/vérité.png[width=25] *Truth* (Knowledge) | What must be sought, studied | Why? | Inside
+| *[8]* | image:rules/runes/pouvoirs/illusion.png[width=25] *Illusion* (Mystery) | What is hidden, deception, vain | Unless? | Nowhere / Everywhere
+|===
+
+==== Detailed description of the runic correspondences
+
+image:rules/runes/pouvoirs/mouvement.png[width=20] *[1] Discovery (Movement)*
+
+    - *Body:* Legs.
+    - *The Moment (The Transit):* The time that flows, the ephemeral, the urgency of the action in progress.
+    - *Distance (The Approach):* The dynamic distance, the one being crossed (the journey).
+    - *Relationship (The Passer-by):* The stranger met along the way, the scout, the furtive or nomadic contact.
+    - *Objects:* Map, compass, spyglass, boots, vehicle.
+    - *Dwelling:* Vestibule, corridor, observatory, balconies.
+    - *Personalities:* Curious, explorer, restless, unstable.
+    - *Military options:* Scouting, patrol, flanking maneuver.
+    - *Music:* D, the Dorian mode
+
+image:rules/runes/pouvoirs/mort.png[width=20] *[2] Threat (Death)*
+
+    - *Body:* Arms.
+    - *The Moment (The Deadline):* Counted time (the countdown), the abrupt end, the dead past.
+    - *Distance (The Abyss):* The radical separation, the uncrossable border, the distance that isolates.
+    - *Relationship (The Outcast):* The sworn enemy, the banished, the breaking of the ban, the relationship broken forever.
+    - *Objects:* Weapon, poison, trap, warning symbol.
+    - *Dwelling:* Armory, dungeon, pit, encircling wall.
+    - *Personalities:* Aggressive, cruel, paranoid, protective.
+    - *Military options:* Frontal assault, intimidation, destructive raid.
+    - *Music:* B, the Locrian mode
+
+image:rules/runes/pouvoirs/harmonie.png[width=20] *[3] Relationships (Harmony)*
+
+    - *Body:* Heart.
+    - *The Moment (Synchronicity):* The "Kairos" (the right moment), shared time, being "in phase".
+    - *Distance (Proximity):* The intimately shared space, the network (distance abolished by the bond).
+    - *Relationship (The Intimate Ally):* The soulmate, the clan member, total synergy and mutual aid.
+    - *Objects:* Contract, alliance (jewelry), gift, instrument.
+    - *Dwelling:* Living room, dining room.
+    - *Personalities:* Empathic, diplomat, charmer, dependent.
+    - *Military options:* Truce negotiation, mutual support, coalition.
+    - *Music:* F, the Lydian mode
+
+image:rules/runes/pouvoirs/stase.png[width=20] *[4] Law (Stasis)*
+
+    - *Body:* Torso.
+    - *The Moment (Routine):* Eternity, suspended time, the immutable and repetitive cycle.
+    - *Distance (Anchoring):* The absolute fixed point ("Here"), immobility, the immutable landmark.
+    - *Relationship (The Institution):* The formal bond (hierarchy, family duty), the superior, the vassal.
+    - *Objects:* Torque, fetish, ceremonial clothes, scales, scepter.
+    - *Dwelling:* Consultation room, central courtyard, agora.
+    - *Personalities:* Rigid, traditionalist, authoritarian, inflexible.
+    - *Military options:* Strict formation (phalanx), siege, garrison.
+    - *Music:* C, the Ionian mode
+
+image:rules/runes/pouvoirs/vie.png[width=20] *[5] Resources (Life)*
+
+    - *Body:* Genitals.
+    - *The Moment (Growth):* The time needed to mature, rewarded patience, the cycle of seasons.
+    - *Distance (Expansion):* The radiance around a center, the area of influence, the domain.
+    - *Relationship (The Nurturer):* The protector, the member of the extended family, the creditor/debtor.
+    - *Objects:* Purse, provisions, harvest tool.
+    - *Dwelling:* Kitchen, pantry, granary, safe.
+    - *Personalities:* Pragmatic, hard-working, generous, materialistic.
+    - *Military options:* Logistics, supply, plunder, war of attrition.
+    - *Music:* G, the Mixolydian mode
+
+image:rules/runes/pouvoirs/desordre.png[width=20] *[6] Revelation (Disorder)*
+
+    - *Body:* The senses.
+    - *The Moment (The Interruption):* The stunning instant, the unexpected, the brutal rupture of chronology.
+    - *Distance (The Labyrinth):* Erratic distance, disorientation, the broken or chaotic path.
+    - *Relationship (The Traitor):* The disruptor, the unpredictable antagonist, the toxic rival.
+    - *Objects:* Broken object, rare object.
+    - *Dwelling:* Unexpected room, damaged or destroyed area.
+    - *Personalities:* Unpredictable, visionary, mad, rebel.
+    - *Military options:* Shock tactics, element of surprise.
+    - *Music:* E, the Phrygian mode
+
+image:rules/runes/pouvoirs/vérité.png[width=20] *[7] Knowledge (Truth)*
+
+    - *Body:* Head.
+    - *The Moment (Clarity):* The decisive instant, the immutable historical fact, the exact timeline.
+    - *Distance (The Straight Line):* The shortest path, the measured and absolute trajectory.
+    - *Relationship (The Guarantor):* The reliable witness, the transparent relationship without ulterior motive.
+    - *Objects:* Book, parchment, measuring instrument, relic.
+    - *Dwelling:* Library, scriptorium, study, altar.
+    - *Personalities:* Scholar, rational, observant, pedantic.
+    - *Military options:* Intelligence, cryptography, calculated strategy.
+    - *Music:* A, the Aeolian mode
+
+image:rules/runes/pouvoirs/illusion.png[width=20] *[8] Mystery (Illusion)*
+
+    - *Body:* Internal organs.
+    - *The Moment (The Setback):* The false memory, lost time, the deceptive loop (the vain wait).
+    - *Distance (The Mirage):* Deceptive space (what seems close is far, and vice versa), the dead end.
+    - *Relationship (The Mask):* The unknown, the manipulator, the relationship based on an unspoken or a secret.
+    - *Objects:* Mask, false bottom, counterfeit money, cape.
+    - *Dwelling:* Hidden passage, labyrinth, concealed room.
+    - *Personalities:* Secretive, enigmatic, manipulative, lying.
+    - *Military options:* Camouflage, psychological warfare, feint, diversion.
+    - *Music:* the unison
+
+==== Temporal and Spatial Landmarks
+
+By observing reality, scholars have established these scales to constrain the Gloranthan imagination or generate ideas.
+
+[cols="1,4,4", options="header"]
+|===
+| Draw | Temporal Landmark (Time) | Spatial Landmark (Space)
+
+| *[1]* | image:rules/runes/elements/obscurité.png[width=25] *Long before:* The time of origins. | image:rules/runes/elements/obscurité.png[width=25] *Here:* The intimate, the proximity of shadow.
+| *[2]* | image:rules/runes/elements/eau.png[width=25] *Not long ago:* Recent past, fluctuation. | image:rules/runes/elements/terre.png[width=25] *Near:* Where one lives, what carries our steps.
+| *[3]* | image:rules/runes/elements/terre.png[width=25] *Now:* Emotional time, the present. | image:rules/runes/elements/eau.png[width=25] *Separated:* The Separator, the border.
+| *[4]* | image:rules/runes/elements/feu.png[width=25] *Past-Present-Future:* Societal time. | image:rules/runes/elements/air.png[width=25] *Around:* The Vast, the space beside.
+| *[5]* | image:rules/runes/elements/air.png[width=25] *Tomorrow:* Near future, change. | image:rules/runes/elements/lune.png[width=25] *Far:* Elsewhere, the moon in the sky.
+| *[6]* | image:rules/runes/elements/lune.png[width=25] *Future:* Long cycles, distant future. | image:rules/runes/elements/feu.png[width=25] *Very far:* The Absolute, Yelm the distant.
+|===
+
+For time, the order from 1 to 6 corresponds to the order of arrival of the Elements: darkness, water, earth, fire, air, moon.
+
+For space, the order from 1 to 6 corresponds to what is near us and far from us: darkness, earth (or water for the Triolini), water (or earth for the Triolini), air, moon, sky.
+
+=== B. The Gloranthan Daily Life
+
+==== The Random Calendar
+
+Useful for determining the influence of magic (especially Lunar), one can draw a date at random:
+
+- *The Days (2D6, keep the 1st unless double):* [1] Frost (last crescent) image:rules/runes/elements/obscurité.png[width=18], [2] Water (waning moon) image:rules/runes/elements/eau.png[width=18], [3] Clay (new moon) image:rules/runes/elements/terre.png[width=18], [4] Wind (first crescent) image:rules/runes/elements/air.png[width=18], [5] Fire (first quarter) image:rules/runes/elements/feu.png[width=18], [6] Wild (full moon) image:rules/runes/elements/lune.png[width=18], [Double] Divine (last quarter).
+- *The Weeks (1D8):* [1] Disorder image:rules/runes/pouvoirs/desordre.png[width=18], [2] Harmony image:rules/runes/pouvoirs/harmonie.png[width=18], [3] Death image:rules/runes/pouvoirs/mort.png[width=18], [4] Fertility image:rules/runes/pouvoirs/vie.png[width=18], [5] Stasis image:rules/runes/pouvoirs/stase.png[width=18], [6] Movement image:rules/runes/pouvoirs/mouvement.png[width=18], [7] Illusion image:rules/runes/pouvoirs/illusion.png[width=18], [8] Truth image:rules/runes/pouvoirs/vérité.png[width=18].
+- *The Seasons (2D20, keep the 1st unless double):* [1-4] Sea (spring), [5-8] Fire (summer), [9-12] Earth (late summer/autumn), [13-16] Dark (winter), [17-20] Storms (stormy late winter), [Double] Sacred Time (period of important rituals for the new year).
+
+==== The Economy
+
+Glorantha is a world of communities where trade remains very much regulated by certain cults. Currency is rare outside the cities.
+
+- *Divine Coins:* Regulate the great exchanges of the community.
+    - _Guilders:_ In bronze, in the form of an exchange rune, reserved for initiates of Issaries.
+    - _Lunes:_ In silver, in the shape of a lunar rune, for everyone within the Empire.
+    - _Wheels:_ In gold, large round coins (Yelm's rune), used by the Dara Happan elite (worth 10 guilders).
+    - _Bolgs:_ Pieces of pierced lead used by the Uz (worth 1/100th of a guilder).
+- *Small change (and barter):* For the everyday use of the majority. Copper pieces (1/100th of a Guilder), aluminium stars in the Lunar Empire, clacks (pierced stones for the Uz).
+
+=== C. The Mark of the Runes
+
+In Glorantha, runes are not mere abstract symbols, they physically mark the world and its inhabitants.
+
+- *Runic Colors:* Physical attributes (skin, eyes, hair) can be linked to the strong rune of birth, of initiation, or as a reward for a heroquest.
+    - _Air:_ image:rules/runes/elements/air.png[width=18] Orange or blue.
+    - _Earth:_ image:rules/runes/elements/terre.png[width=18] Olive green or brown.
+    - _Moon:_ image:rules/runes/elements/lune.png[width=18] Red or white.
+    - _Water:_ image:rules/runes/elements/eau.png[width=18] Blue or white.
+    - _Darkness:_ image:rules/runes/elements/obscurité.png[width=18] Dull gray or black.
+    - _Fire:_ image:rules/runes/elements/feu.png[width=18] Yellow or red.
+- *Runic Shapes:* Society adapts its geometry to the runes.
+    - Written or printed books are triangular.
+    - Currency has the shape of the exchange rune (among the Orlanthi).
+    - Agricultural fields are square, never rectangular.
+    - Swords have the shape of the Death rune.
+
+=== D. Gloranthan Themes & Multiverse (YAG)
+
+==== Hero Wars Themes
+
+The world is complex enough to deal with many themes. Here are some founding axes for your campaigns:
+
+- *Man and myth:* The Hero must find their place among the Gods: conform, negotiate, or go against them by replaying or modifying the myths.
+- *I have fought, We have won:* Orlanthi motto designating the freedom to choose one's enemies. This individual fight is a liberation for all (like Orlanth killing Yelm to free the gods).
+- *Orlanth and the Red Goddess:* Orlanth is change and the free winds. The Red Goddess seeks to stifle this freedom to impose her deceptive peace.
+- *Tradition and Progress:* Upstarts call into question the old ways of life that ensured peace. The elders rebel against this social explosion, while the young see themselves as innovators.
+- *Cosmos and Chaos:* The gods keep the Cosmos (the Eternal Order) against the Chaos that gathers everything that does not adapt to it and seeks to corrupt or destroy it.
+- *The Inclusive Empire vs Tribal Cultures:* The Empire of Sedenya attempts to impose a total peace by absorbing the ways of life of its enemies. Many fight so that their culture is not disintegrated.
+
+==== YAG (Yet Another Glorantha)
+
+In response to the adage _YGWV (Your Glorantha Will Vary)_, here is a well-assumed justification for moving away from canon: In a distant future, a Heroquest led to the mating of a Dragon with Arachne Solara. From this union, she laid thousands of eggs. Each egg that hatches corresponds to a parallel version of Glorantha. The more veined the egg, the further the version strays from the "official story". Obviously, nobody is aware of being a version of the world born from an egg. You are therefore totally free in your biases!
+
+=== E. Game Modes
+
+==== Solo Play (You are Destiny)
+
+The game was mainly designed for this approach. You watch Glorantha live and die; you are the hands that weigh the Runes and the voice that tells the story.
+
+- *Play as anyone:* You can play Rock Spider (the near-divine Uz priestess who knows the secrets of Arachne Solara), the eye of the Dragon sleeping under the mountain, the ghost of a Scholar of the Ambiguous pursuing their experiments for eternity, or even see the world through the eyes of a mere broo.
+- *In Practice:*
+    1. Choose a frame to explore and create your protagonists (succinctly or in detail).
+    2. Use the power runes to answer questions (who, what, why...).
+    3. Imagine a situation with a clear conflict (a situation must lead to at least one conflict to be interesting).
+    4. If there is uncertainty, proceed to the oppositions using the *Destiny gauge* to balance gains and losses.
+    5. At the end of the scene, make a roll under the absolute value of Destiny: if the result is strictly lower, a twist occurs before moving on to the next scene.
+
+==== Group Play
+
+Although designed for solo, the system also shines in a group, provided one shows pedagogy to teach players the art of proposing stakes consistent with the lore.
+
+- *The Classic TTRPG Mode:* One of the players takes on the role of Destiny (the Game Master), and the others each embody a character. The GM has the final say on the acceptance of stakes and can improvise the story from the rune draws.
+- *The Shared Mode:* All the players around the table play Destiny in turn. One starts with a player who presents their idea, draws the runes and starts the story. If there are several NPCs/Obstacles, the roles are shared to determine the stakes. Destiny changes at the end of each scene (clockwise, for example). This is an excellent way to mix lore experts with players discovering the universe.
