@@ -26,19 +26,148 @@ This then allows pulling the threads until an idea emerges.
 
 _Table of power runes:_
 
-| **Number** | **Rune** | **Themes** | **Examples** | **Body** | **Question** | **Direction** | **The Moment** | **Distance** | **Relationship** | **Objects** | **Dwelling** | **Personalities** | **Military options** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **[1]** | ![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... | legs | where? | below | The Transit: time flowing, the ephemeral, the urgency of the current action | The Approach: the dynamic distance, the one being crossed (the journey) | The Passer-by: the stranger met along the way, the scout, the fleeting or nomadic contact | card, compass, spyglass, boots, vehicle... | vestibule, corridor, observatory, balconies... | curious, explorer, agitated, unstable... | lighting, patrol, flanking maneuver... |
-| **[2]** | ![Death](../../../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... | arms | who? | right | The Deadline: counted time (the countdown), the abrupt end, the dead past | The Abyss: the radical separation, the impassable border, the distance that isolates | The Outcast: the sworn enemy, the banished one, the broken bond forever | weapon, poison, trap, warning symbol... | armory, dungeon, pit, perimeter wall... | aggressive, cruel, paranoid, protective... | frontal assault, intimidation, destructive raid... |
-| **[3]** | ![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... | heart | what? | left | The Synchronicity: the "Kairos" (the right moment), shared time, being "in sync" | The Proximity: the space intimately shared, the network (distance abolished by the bond) | The Intimate Ally: the soulmate, the clan member, total synergy and mutual aid | contract, alliance (jewel), gift, instrument... | salon, dining room... | empathetic, diplomat, charmer, dependent... | negotiating a truce, mutual support, coalition... |
-| **[4]** | ![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... | torso | how? | in front | The Routine: eternity, suspended time, the immutable and repetitive cycle | The Anchor: the absolute fixed point ("Here"), immobility, the unchanging landmark | The Institution: the formal bond (hierarchy, family duty), the superior, the vassal | torque, fetish, ceremonial clothes, balance, scepter... | consultation room, central courtyard, agora... | rigid, traditionalist, authoritarian, inflexible... | strict formation (phalanx), siege, garrison... |
-| **[5]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... | genitalia | how much? | behind | The Growth: the time needed to mature, patience rewarded, the cycle of seasons | The Expansion: the radiation around a center, the area of influence, the domain | The Provider: the protector, the extended family member, the creditor/debtor | purse, provisions, harvesting tool... | kitchen, cellar, pantry, safe... | pragmatic, worker, generous, materialist... | logistics, supply, plunder, war of attrition... |
-| **[6]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... | the senses | when? | above | The Interruption: the lightning instant, the unforeseen, the brutal rupture of chronology | The Labyrinth: the erratic distance, the disorientation, the broken or chaotic path | The Traitor: the disruptor, the unpredictable antagonist, the toxic rival | broken object, rare object... | unexpected room, disaster zone or destroyed area... | unpredictable, visionary, mad, rebel... | shock tactics, surprise effect... |
-| **[7]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... | head | why? | inside | The Clarity: the decisive instant, the immutable historical fact, the exact timeline | The Straight Line: the shortest path, the measured and absolute trajectory | The Guarantor: the reliable witness, the transparent relationship without ulterior motive | book, parchment, measuring instrument, relic... | library, scriptorium, office, altar... | intelligence, cryptography, calculated strategy... | scholar, rational, observer, pedant... |
-| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... | internal organs | unless? | nowhere and/or everywhere | The Mistiming: the false memory, the lost time, the deceptive loop (the vain wait) | The Mirage: the deceptive space (what seems close is far, and vice versa), the dead end | The Mask: the unknown, the manipulator, the relationship founded on the unspoken or a secret | mask, false bottom, counterfeit money, cape... | hidden passage, labyrinth, hidden room... | secret, enigmatic, manipulator, liar... | camouflage, psychological warfare, feint, diversion... |
+> Note on numerology: The numerical correspondence from 1 to 8 with the power runes has been lost in the meanders of time. Some scholars whisper that it comes from an ancient group of Logicians or a forgotten mystical current that meditated on numbers.
 
+| **Number** | **Rune** | **Themes** | **Examples** |
+| --- | --- | --- | --- |
+| **[1]** | ![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... |
+| **[2]** | ![Death](../../../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... |
+| **[3]** | ![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... |
+| **[4]** | ![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... |
+| **[5]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... |
+| **[6]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... |
+| **[7]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... |
+| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... |
 
 > Gloranthian scholars of diverse cultures have written extensively about the links between the power runes and the constituent elements of the world, whether at the level of bodily elements, the great universal questions, or any other grand categorization of the world.
+
+### [1] <img src="../../../../assets/rules/runes/pouvoirs/mouvement.png" width="5%" valign="bottom"> Movement
+
+- **Themes:** Discovery
+- **Examples:** what is around, the world, places, information...
+- **Body:** legs
+- **Question:** where?
+- **Direction:** below
+- **The Moment:** The Transit: time flowing, the ephemeral, the urgency of the current action
+- **Distance:** The Approach: the dynamic distance, the one being crossed (the journey)
+- **Relationship:** The Passer-by: the stranger met along the way, the scout, the fleeting or nomadic contact
+- **Objects:** card, compass, spyglass, boots, vehicle...
+- **Dwelling:** vestibule, corridor, observatory, balconies...
+- **Personalities:** curious, explorer, agitated, unstable...
+- **Military options:** lighting, patrol, flanking maneuver...
+- **Music:** the note D, the Dorian mode
+
+### [2] <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"> Death
+
+- **Themes:** Threat
+- **Examples:** what is different, the other, the enemy...
+- **Body:** arms
+- **Question:** who?
+- **Direction:** right
+- **The Moment:** The Deadline: counted time (the countdown), the abrupt end, the dead past
+- **Distance:** The Abyss: the radical separation, the impassable border, the distance that isolates
+- **Relationship:** The Outcast: the sworn enemy, the banished one, the broken bond forever
+- **Objects:** weapon, poison, trap, warning symbol...
+- **Dwelling:** armory, dungeon, pit, perimeter wall...
+- **Personalities:** aggressive, cruel, paranoid, protective...
+- **Military options:** frontal assault, intimidation, destructive raid...
+- **Music:** the note B, the Locrian mode
+
+### [3] <img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Harmony
+
+- **Themes:** Relations
+- **Examples:** what connects, emotions, feelings, bonds, dilemma...
+- **Body:** heart
+- **Question:** what?
+- **Direction:** left
+- **The Moment:** The Synchronicity: the "Kairos" (the right moment), shared time, being "in sync"
+- **Distance:** The Proximity: the space intimately shared, the network (distance abolished by the bond)
+- **Relationship:** The Intimate Ally: the soulmate, the clan member, total synergy and mutual aid
+- **Objects:** contract, alliance (jewel), gift, instrument...
+- **Dwelling:** salon, dining room...
+- **Personalities:** empathetic, diplomat, charmer, dependent...
+- **Military options:** negotiating a truce, mutual support, coalition...
+- **Music:** the note F, the Lydian mode
+
+### [4] <img src="../../../../assets/rules/runes/pouvoirs/stase.png" width="5%" valign="bottom"> Stasis
+
+- **Themes:** Law
+- **Examples:** what is frozen, morality, society, group, authority...
+- **Body:** torso
+- **Question:** how?
+- **Direction:** in front
+- **The Moment:** The Routine: eternity, suspended time, the immutable and repetitive cycle
+- **Distance:** The Anchor: the absolute fixed point ("Here"), immobility, the unchanging landmark
+- **Relationship:** The Institution: the formal bond (hierarchy, family duty), the superior, the vassal
+- **Objects:** torque, fetish, ceremonial clothes, balance, scepter...
+- **Dwelling:** consultation room, central courtyard, agora...
+- **Personalities:** rigid, traditionalist, authoritarian, inflexible...
+- **Military options:** strict formation (phalanx), siege, garrison...
+- **Music:** the note C, the Ionian mode
+
+### [5] <img src="../../../../assets/rules/runes/pouvoirs/vie.png" width="5%" valign="bottom"> Life
+
+- **Themes:** Resources
+- **Examples:** what is necessary, material, reality...
+- **Body:** genitalia
+- **Question:** how much?
+- **Direction:** behind
+- **The Moment:** The Growth: the time needed to mature, patience rewarded, the cycle of seasons
+- **Distance:** The Expansion: the radiation around a center, the area of influence, the domain
+- **Relationship:** The Provider: the protector, the extended family member, the creditor/debtor
+- **Objects:** purse, provisions, harvesting tool...
+- **Dwelling:** kitchen, cellar, pantry, safe...
+- **Personalities:** pragmatic, worker, generous, materialist...
+- **Military options:** logistics, supply, plunder, war of attrition...
+- **Music:** the note G, the Mixolydian mode
+
+### [6] <img src="../../../../assets/rules/runes/pouvoirs/desordre.png" width="5%" valign="bottom"> Disorder
+
+- **Themes:** Revelation
+- **Examples:** what surprises, shakes, twist, surprise, what is outside norms, improbable...
+- **Body:** the senses
+- **Question:** when?
+- **Direction:** above
+- **The Moment:** The Interruption: the lightning instant, the unforeseen, the brutal rupture of chronology
+- **Distance:** The Labyrinth: the erratic distance, the disorientation, the broken or chaotic path
+- **Relationship:** The Traitor: the disruptor, the unpredictable antagonist, the toxic rival
+- **Objects:** broken object, rare object...
+- **Dwelling:** unexpected room, disaster zone or destroyed area...
+- **Personalities:** unpredictable, visionary, mad, rebel...
+- **Military options:** shock tactics, surprise effect...
+- **Music:** the note E, the Phrygian mode
+
+### [7] <img src="../../../../assets/rules/runes/pouvoirs/vérité.png" width="5%" valign="bottom"> Truth
+
+- **Themes:** Knowledge, Knowing
+- **Examples:** what must be sought, searched, studied...
+- **Body:** head
+- **Question:** why?
+- **Direction:** inside
+- **The Moment:** The Clarity: the decisive instant, the immutable historical fact, the exact timeline
+- **Distance:** The Straight Line: the shortest path, the measured and absolute trajectory
+- **Relationship:** The Guarantor: the reliable witness, the transparent relationship without ulterior motive
+- **Objects:** book, parchment, measuring instrument, relic...
+- **Dwelling:** library, scriptorium, office, altar...
+- **Personalities:** scholar, rational, observer, pedant...
+- **Military options:** intelligence, cryptography, calculated strategy...
+- **Music:** the note A, the Aeolian mode
+
+### [8] <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Illusion
+
+- **Themes:** Mystery
+- **Examples:** what is hidden, deception, illusion, vain, illusory...
+- **Body:** internal organs
+- **Question:** unless?
+- **Direction:** nowhere and/or everywhere
+- **The Moment:** The Mistiming: the false memory, the lost time, the deceptive loop (the vain wait)
+- **Distance:** The Mirage: the deceptive space (what seems close is far, and vice versa), the dead end
+- **Relationship:** The Mask: the unknown, the manipulator, the relationship founded on the unspoken or a secret
+- **Objects:** mask, false bottom, counterfeit money, cape...
+- **Dwelling:** hidden passage, labyrinth, hidden room...
+- **Personalities:** secret, enigmatic, manipulator, liar...
+- **Military options:** camouflage, psychological warfare, feint, diversion...
+- **Music:** unison
 
 This may seem abstract but it is much easier to handle than it appears. It constrains your Gloranthian imagination but you are totally free to invent whatever you want.
 
