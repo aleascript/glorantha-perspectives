@@ -365,6 +365,17 @@ Mechanically, the player grants themselves an absolute advantage that violates t
 
 Chaos always gives, but it corrupts everything it touches. In exchange for this cosmic cheat, the character gains a Taint Keyword (e.g., _Tentacular arm_, _Pus-covered skin_, _Thirst for fresh flesh_, _Voice from beyond the grave_).
 
+*The Evolution of the Taint*
+
+The Taint is not a fixed mark: it is a living Keyword of Chaos, which evolves at the pace of its use. Each cheat, each pact, each manifestation of corruption can make an existing Taint mutate rather than create a new one. Destiny makes the Keyword evolve in stages, from the most discreet sign to the most monstrous:
+
+- *The first sign:* the Taint is discreet, almost benign, but already against nature. _Example: a strange lump, a passing craving._
+- *The sign asserts itself:* the Taint becomes visible and constraining. _Example: the lump opens into a small tentacle; the craving becomes a thirst for human blood once a month._
+- *The hold grows:* the Taint invades daily life. _Example: the tentacle grows; the thirst becomes weekly, then daily._
+- *Total hold:* the Taint leaves no room for the human anymore. _Example: the mutation spreads across the whole body; the thirst becomes permanent and unquenchable._
+
+Each stage strengthens the Keyword: Destiny uses it as an additional Stake for the adversity, and its new intensity lends itself to new Stakes in conflicts involving nature, the gods or healthy society.
+
 *The Weight of Chaos (Mechanic of the Taint)*
 
 Unlike the character's other Keywords, a Taint can *never* be used by the player to generate a positive Stake in their favor. The Cosmos viscerally rejects Chaos.

@@ -22,6 +22,7 @@ permalink: /llms.txt
 - [Ars Draconis Magica](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/draconic/ars-draconis-magica/): Grimoire de magie draconique
 - [La Voie Lunaire](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/moon/): Magie lunaire et cycle lunaire
 - [L'Illumination](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/illumination/): Oppression mystique et duel de questions
+- [Le Chaos](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/chaos/): La souillure du Chaos et son évolution
 - [Quêtes héroïques](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/heroquests/): Accéder à l'Autre Côté
 - [Créer des mythes](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/heroquests/myths/): Histoires du temps des Dieux
 - [Inspiration runique](https://aleascript.github.io/glorantha-perspectives/content/fr/rules/runes/inspiration/): Les runes tissent la réalité
@@ -33,7 +34,6 @@ permalink: /llms.txt
 
 - [Notes](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/): Notes diverses sur Glorantha
 - [Plusieurs cadres de pensée](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/multiple-referentials/): Syncretismes entre cadres
-- [Le Chaos](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/chaos/): Réflexions sur le Chaos
 - [Nouveaux cadres](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/new-referentials/): Créer un nouveau cadre de pensée
 - [De l'inspiration](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/inspiration/): Sources d'inspiration pour Glorantha
 - [Statistiques](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/stats/): Stats des règles

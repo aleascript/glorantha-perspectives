@@ -106,7 +106,7 @@ Briser un lien n'est pas un simple échec: c'est un retournement.
 
 **La malédiction du parjure**: le parjure ne trouve pas la paix. *"La mort ne libère pas le traître."* Son esprit reste lié, ne peut ni rejoindre les ancêtres ni se réincarner: il devient fantôme ou mort-vivant, au service de celui qu'il a trahi.
 
-**La spirale**: comme la [Souillure du Chaos](../../notes/chaos), le parjure est un mot-clé négatif permanent. Il ne peut jamais être utilisé pour générer une mise en sa faveur; la Destinée l'emploie automatiquement contre le personnage dans les situations de confiance, de justice et d'honneur.
+**La spirale**: comme la [Souillure du Chaos](../chaos), le parjure est un mot-clé négatif permanent. Il ne peut jamais être utilisé pour générer une mise en sa faveur; la Destinée l'emploie automatiquement contre le personnage dans les situations de confiance, de justice et d'honneur.
 
 ## Mécanique
 

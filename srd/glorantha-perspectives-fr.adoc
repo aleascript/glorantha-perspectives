@@ -365,6 +365,17 @@ Mécaniquement, le joueur s'octroie un avantage absolu qui viole le moteur de r�
 
 Le Chaos donne toujours, mais il corrompt tout ce qu'il touche. En échange de cette triche cosmique, le personnage gagne un Mot-Clé de Souillure (ex: _Bras tentaculaire_, _Peau purulente_, _Soif de chair fraîche_, _Voix d'outre-tombe_).
 
+*L'Évolution de la Souillure*
+
+La Souillure n'est pas une tare figée : c'est un Mot-Clé de Chaos vivant, qui évolue au rythme de son usage. Chaque triche, chaque pacte, chaque manifestation de la corruption peut faire muter une Souillure existante plutôt que d'en créer une nouvelle. La Destinée fait évoluer le Mot-Clé par paliers, du signe le plus discret au plus monstrueux :
+
+- *Le premier signe :* la Souillure est discrète, presque bénigne, mais déjà contre-nature. _Exemple : une bosse étrange, une envie passagère._
+- *Le signe s'affirme :* la Souillure devient visible et contraignante. _Exemple : la bosse s'ouvre en un mini-tentacule ; l'envie devient une soif de sang humain une fois par mois._
+- *L'emprise s'accroît :* la Souillure envahit le quotidien. _Exemple : le tentacule grandit ; la soif devient hebdomadaire, puis quotidienne._
+- *L'emprise totale :* la Souillure ne laisse plus de place à l'humain. _Exemple : la mutation s'étend au corps entier ; la soif devient permanente et inextinguible._
+
+Chaque palier renforce le Mot-Clé : la Destinée l'utilise comme une Mise d'adversité supplémentaire, et son intensité nouvelle se prête à de nouvelles Mises dans les conflits impliquant la nature, les dieux ou la société saine.
+
 *Le Poids du Chaos (Mécanique de la Tare)*
 
 Contrairement aux autres Mots-Clés du personnage, une Souillure ne peut *jamais* être utilisée par le joueur pour générer une Mise positive en sa faveur. Le Cosmos rejette viscéralement le Chaos.

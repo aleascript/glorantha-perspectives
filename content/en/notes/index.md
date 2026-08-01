@@ -10,8 +10,6 @@ Some thoughts on the rules as well.
 
 [Multiple frameworks of thought for the same character?](multiple-referentials)
 
-[Chaos](chaos)
-
 [Going beyond frameworks?](new-referentials)
 
 [Finding inspiration in a setting like Glorantha?](inspiration)

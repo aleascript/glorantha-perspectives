@@ -22,6 +22,7 @@ permalink: /content/en/llms.txt
 - [Ars Draconis Magica](https://aleascript.github.io/glorantha-perspectives/content/en/rules/draconic/ars-draconis-magica/): Draconic magic grimoire
 - [The Lunar Way](https://aleascript.github.io/glorantha-perspectives/content/en/rules/moon/): Lunar magic and lunar cycle
 - [Illumination](https://aleascript.github.io/glorantha-perspectives/content/en/rules/illumination/): Mystical oppression and question duels
+- [Chaos](https://aleascript.github.io/glorantha-perspectives/content/en/rules/chaos/): The Taint of Chaos and its evolution
 - [Heroquests](https://aleascript.github.io/glorantha-perspectives/content/en/rules/heroquests/): Accessing the Other Side
 - [Creating myths](https://aleascript.github.io/glorantha-perspectives/content/en/rules/heroquests/myths/): Tales from the Age of Gods
 - [Runic inspiration](https://aleascript.github.io/glorantha-perspectives/content/en/rules/runes/inspiration/): Runes weave reality
@@ -33,7 +34,6 @@ permalink: /content/en/llms.txt
 
 - [Notes](https://aleascript.github.io/glorantha-perspectives/content/en/notes/): Diverse notes on Glorantha
 - [Multiple thought frameworks](https://aleascript.github.io/glorantha-perspectives/content/en/notes/multiple-referentials/): Syncretism between frameworks
-- [Chaos](https://aleascript.github.io/glorantha-perspectives/content/en/notes/chaos/): Reflections on Chaos
 - [New frameworks](https://aleascript.github.io/glorantha-perspectives/content/en/notes/new-referentials/): Creating a new thought framework
 - [On inspiration](https://aleascript.github.io/glorantha-perspectives/content/en/notes/inspiration/): Sources of inspiration for Glorantha
 - [Statistics](https://aleascript.github.io/glorantha-perspectives/content/en/notes/stats/): Rule statistics

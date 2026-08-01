@@ -106,7 +106,7 @@ Breaking a bond is not a simple failure: it is a reversal.
 
 **The curse of the perjurer**: the perjurer finds no peace. *"Death does not free the traitor."* Their spirit remains bound, can neither join the ancestors nor be reincarnated: it becomes a ghost or an undead, in the service of the one they betrayed.
 
-**The spiral**: like the [Chaos Taint](../../notes/chaos), perjury is a permanent negative keyword. It can never be used to generate a stake in one's favor; the Fate uses it automatically against the character in situations of trust, justice and honor.
+**The spiral**: like the [Chaos Taint](../chaos), perjury is a permanent negative keyword. It can never be used to generate a stake in one's favor; the Fate uses it automatically against the character in situations of trust, justice and honor.
 
 ## Mechanics
 
