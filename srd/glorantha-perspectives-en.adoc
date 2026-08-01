@@ -228,6 +228,15 @@ Derogatory names given by the other cultures: slaves, sheep, worshippers of fals
 
 *Accessory (The Runic Cards):* For total immersion, replace the dice with a deck of 60 cards: 10 cards of the God's major Rune (the 6s), 20 cards of minor runes (the 2s and 4s), 20 neutral cards (the 3s and 5s) and 10 cards of the rune most opposed to the God (the 1s).
 
+____
+Coming soon, but you can totally play without these rules for now, as these new rules will only formalize what we already know about Glorantha:
+
+- Rules for creating immersive and memorable initiations for players. Indeed, a cult is not a grab-bag list of powers. Initiation is a revelation for the character, and it must be experienced as such.
+- This will help better understand how magical powers are revealed and then acquired during initiation, but also during play.
+- We will also see the usefulness of sacrifices to obtain an additional stake to prepare for an important trial.
+____
+
+
 === B. Animism: The World of Spirits
 
 image::rules/runes/mondes/spirits.png[width=100]
@@ -249,6 +258,14 @@ image::rules/runes/mondes/spirits.png[width=100]
 
 *Accessory (The Spirit Bag):* Replace the dice with a bag containing 60 objects (pebbles, bones, bits of wood) marked with red runes (the successes), with green/black marks to distinguish the odds and look for doubles.
 
+____
+Coming soon, but you can totally play without these rules for now, as these new rules will only formalize what we already know about Glorantha:
+
+- Rules recalling the different shamanic abilities and how they are acquired by characters.
+- Rules for the basic animist (non-shaman).
+- Rules on spirits of reprisal.
+____
+
 === C. Logic: The Invisible God
 
 image::rules/runes/mondes/logic.png[width=100]
@@ -266,6 +283,13 @@ Derogatory names given by the other cultures: sorcery, sorcerers, materialists, 
 
 - *Weakened:* One divides the sum by 6.
 - *Heroic:* The stage is gradual according to mastery. One divides by 4, then by 3, 2, even 1 for a being like Zzabur.
+
+____
+Coming soon, but you can totally play without these rules for now, as these new rules will only formalize what we already know about Glorantha:
+
+- Rules on the different prayers and rituals, as well as on how logicians can use them to gain additional stakes.
+- Rules on grimoires and enchantments.
+____
 
 === D. Mysticism: Illumination
 
@@ -286,6 +310,12 @@ Derogatory names given by the other cultures: nihilists, charlatans.
 - *Heroic:* The mystic chooses: either they automatically obtain as many successes as their adversary without justification, or they roll normally but their "1s" can "steal" any opposing die to take its value (the adversary is faced with their own vanity).
 
 *Accessory (The Mystical Marbles):* A bag of 60 colored marbles. 10 black (the 6s), 20 gray (pairs), 20 white (odds) and 10 two-colored or red (the annihilating 1s).
+
+____
+Coming soon, but you can totally play without these rules for now, as these new rules will only formalize what we already know about Glorantha:
+
+- A presentation of the different ways of being a mystic in Glorantha: the Kralori mystical schools, Lunar mysticism, Dayzatar mysticism, Draconic mysticism, Nysalor mysticism...
+____
 
 === E. Draconic Thought: The Dragon's Dream
 

@@ -228,6 +228,15 @@ Noms péjoratifs donnés par les autres cultures : esclaves, moutons, adorateurs
 
 *Accessoire (Les Cartes Runiques) :* Pour une immersion totale, remplacez les dés par un paquet de 60 cartes : 10 cartes de la Rune majeure du Dieu (les 6), 20 cartes de runes mineures (les 2 et 4), 20 cartes neutres (les 3 et 5) et 10 cartes de la rune la plus opposée au Dieu (les 1).
 
+____
+ A venir, mais on peut tout à fait jouer sans ces règles pour l'instant car ces nouvelles règles ne feront que formaliser ce que l'on sait déjà de Glorantha: 
+
+- Des règles pour créer des initiations immersives et marquantes pour les joueurs. En effet, un culte n'est pas une liste à la Prévert de pouvoirs. L'initiation est en effet une révélation pour le personnage, et elle doit être vécue comme telle. 
+- Cela permettra de mieux comprendre comment les pouvoirs magiques sont révélés puis acquis pendant l'initiation mais aussi pendant le jeu. 
+- On verra aussi de l'utilité des sacrifices pour obtenir une mise supplémentaire pour préparer une épreuve importante.
+____
+
+
 === B. L'Animisme : Le Monde des Esprits
 
 image::rules/runes/mondes/spirits.png[width=100]
@@ -249,6 +258,14 @@ image::rules/runes/mondes/spirits.png[width=100]
 
 *Accessoire (Le Spirit Bag) :* Remplacez les dés par un sac contenant 60 objets (cailloux, os, bouts de bois) marqués de runes rouges (les succès), de marques vertes/noires pour distinguer les impairs et chercher les doubles.
 
+____
+ A venir, mais on peut tout à fait jouer sans ces règles pour l'instant car ces nouvelles règles ne feront que formaliser ce que l'on sait déjà de Glorantha: 
+
+- Des règles rappelant les différentes aptitudes chamaniques et la façon dont ils sont acquis par les personnages. 
+- Des règles pour l'animiste de base (non chaman) 
+- Des règles sur les esprits de représaille
+____
+
 === C. La Logique : Le Dieu Invisible
 
 image::rules/runes/mondes/logic.png[width=100]
@@ -266,6 +283,13 @@ Noms péjoratifs donnés par les autres cultures : sorcellerie, sorciers, matér
 
 - *Affaibli :* On divise la somme par 6.
 - *Héroïque :* Le stade est graduel selon la maîtrise. On divise par 4, puis par 3, 2, voire 1 pour un être comme Zzabur.
+
+____
+ A venir, mais on peut tout à fait jouer sans ces règles pour l'instant car ces nouvelles règles ne feront que formaliser ce que l'on sait déjà de Glorantha: 
+
+- Des règles sur les différentes prières et rituels, ainsi que sur la façon dont les logiciens peuvent les utiliser pour obtenir des mises supplémentaires.
+- Des règles sur les grimoires et les enchantements.
+____
 
 === D. Le Mysticisme : L'Illumination
 
@@ -286,6 +310,12 @@ Noms péjoratifs donnés par les autres cultures : nihilistes, charlatans.
 - *Héroïque :* Le mystique choisit : soit il obtient automatiquement autant de réussites que son adversaire sans justification, soit il tire normalement mais ses "1" peuvent "voler" n'importe quel dé adverse pour en prendre la valeur (l'adversaire est mis face à sa propre vanité).
 
 *Accessoire (Les Billes Mystiques) :* Un sac de 60 billes colorées. 10 noires (les 6), 20 grises (paires), 20 blanches (impaires) et 10 bicolores ou rouges (les 1 annulateurs).
+
+____
+ A venir, mais on peut tout à fait jouer sans ces règles pour l'instant car ces nouvelles règles ne feront que formaliser ce que l'on sait déjà de Glorantha: 
+
+- Des présentation des différentes façons d'être mystique dans Glorantha: les écoles mystiques Kralori, le mysticisme Lunaire, le mysticisme de Dayzatar, le mysticisme Draconique, le mysticisme de Nysalor...
+____
 
 === E. La Pensée Draconique : Le Rêve du Dragon
 
