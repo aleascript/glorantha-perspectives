@@ -122,6 +122,23 @@ bash tools/generate-srd-pdf.sh en
 
 Le rendu est contrôlé par le thème `tools/srd-pdf-theme.yml` (inspiration Glorantha) qui peut être personnalisé.
 
+À chaque génération, les anciennes versions du PDF (même langue) sont supprimées : seul le PDF de la version courante reste dans `content/${lang}/srd/`.
+
+### Hooks git (génération automatique du PDF)
+
+Un hook `pre-commit` versionné (`git-hooks/pre-commit`) régénère automatiquement les PDF SRD lorsque les fichiers AsciiDoc sont modifiés. Pour l'activer sur un clone :
+
+```bash
+bash tools/install-hooks.sh
+```
+
+Le hook s'exécute au moment du commit :
+- il détecte les `srd/*.adoc` en staging,
+- lance `tools/generate-srd-pdf.sh <lang>` pour chacun,
+- stage les PDF régénérés (et les suppressions d'anciennes versions).
+
+Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf` (voir `install-hooks.sh`, qui le vérifie).
+
 ## Structure du projet
 
 ```
@@ -139,10 +156,15 @@ Le rendu est contrôlé par le thème `tools/srd-pdf-theme.yml` (inspiration Glo
 ├── full-content/        # Document consolidé (généré)
 │   ├── index.md
 │   └── full-content.pdf
+├── git-hooks/           # Hooks git versionnés
+│   └── pre-commit       # Régénère les PDF SRD
 ├── tools/               # Scripts utilitaires
 │   ├── generate-full-content.sh
 │   ├── generate-pdf.sh
-│   └── pdf-style.css
+│   ├── generate-srd-pdf.sh
+│   ├── install-hooks.sh
+│   ├── pdf-style.css
+│   └── srd-pdf-theme.yml
 ├── index.md             # Page d'accueil
 ├── Gemfile              # Dépendances Ruby
 ├── .gitignore           # Fichiers ignorés par Git

@@ -1,0 +1,21 @@
+#!/bin/bash
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+CHANGED_ADCOS="$(git -C "$PROJECT_ROOT" diff --cached --name-only --diff-filter=ACMR -- 'srd/*.adoc')"
+if [ -z "$CHANGED_ADCOS" ]; then
+    exit 0
+fi
+
+for src in $CHANGED_ADCOS; do
+    lang="$(basename "$src" | sed -E 's/^glorantha-perspectives-([a-z]{2})\.adoc$/\1/')"
+    if [ "$lang" = "$(basename "$src")" ]; then
+        echo "[pre-commit] Nom de fichier SRD non reconnu: $src" >&2
+        continue
+    fi
+    echo "[pre-commit] Régénération du PDF SRD ($lang)..."
+    bash "$PROJECT_ROOT/tools/generate-srd-pdf.sh" "$lang"
+    git -C "$PROJECT_ROOT" add -- "content/${lang}/srd/"
+done
