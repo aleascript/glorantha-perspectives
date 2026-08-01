@@ -8,7 +8,7 @@ title: "Statistiques"
 
 Ces stats ont ete faites à la louche par IA
 
-### 📊 Tableau Comparatif des Succès Moyens (1D à 10D)
+### 📊 Tableau comparatif du nombre moyen de réussites (1D à 10D)
 
 | Nombre de mises | Théisme *(Pairs + Relances des 6)* | Logique *(Somme / 5)* | Mysticisme ou Utuma *(Pairs de base)* | Animisme *(Pairs + Double impairs)* | Wyrm *(motifs: Stase de l'oeuf et Ouroboros)* |
 | :--- | :--- | :--- | :--- | :--- | :--- |
