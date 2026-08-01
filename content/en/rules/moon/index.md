@@ -16,7 +16,7 @@ Mystics and draconic thought are not affected: cycles are an illusory reality to
 
 - Logic: add 1 to each die
 - Theism: you may reroll 1s
-- Animism: the 1 no longer has an effect
+- Animism: The presence of the Moon exacerbates the resonance of the Spiritual Pact with the most unfathomable spirits. "Double 1s" no longer form a simple success, but exceptionally generate 2 successes.
 
 **Comments**
 

@@ -10,18 +10,18 @@ Ces stats ont ete faites à la louche par IA
 
 ### 📊 Tableau Comparatif des Succès Moyens (1D à 10D)
 
-| Nombre de mises | Théisme *(Pairs + Relances des 6)* | Logique *(Somme / 5)* | Mysticisme ou Utuma *(Pairs de base)* | Animisme *(4,5,6 / 1 annule 6)* | Wyrm *(motifs: Stase de l'oeuf et Ouroboros)* |
+| Nombre de mises | Théisme *(Pairs + Relances des 6)* | Logique *(Somme / 5)* | Mysticisme ou Utuma *(Pairs de base)* | Animisme *(Pairs + Double impairs)* | Wyrm *(motifs: Stase de l'oeuf et Ouroboros)* |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1D** | 0,55 | 0,33 | 0,50 | 0,50 | 0,50 |
-| **2D** | 1,13 | 1,00 | 1,00 | 0,94 | 1,16 |
-| **3D** | 1,75 | 1,70 | 1,50 | 1,40 | 1,93 |
-| **4D** | 2,38 | 2,40 | 2,00 | 1,75 | 2,78 |
-| **5D** | 3,00 | 3,10 | 2,50 | 2,10 | 3,68 |
-| **6D** | 3,60 | 3,80 | 3,00 | 2,48 | 4,63 |
-| **7D** | 4,20 | 4,50 | 3,50 | 2,86 | 5,60 |
-| **8D** | 4,80 | 5,20 | 4,00 | 3,24 | 6,57 |
-| **9D** | 5,40 | 5,90 | 4,50 | 3,62 | 7,56 |
-| **10D** | 6,00 | 6,60 | 5,00 | 4,00 | 8,54 |
+| **2D** | 1,13 | 1,00 | 1,00 | 1,08 | 1,16 |
+| **3D** | 1,75 | 1,70 | 1,50 | 1,72 | 1,93 |
+| **4D** | 2,38 | 2,40 | 2,00 | 2,40 | 2,78 |
+| **5D** | 3,00 | 3,10 | 2,50 | 3,10 | 3,68 |
+| **6D** | 3,60 | 3,80 | 3,00 | 3,82 | 4,63 |
+| **7D** | 4,20 | 4,50 | 3,50 | 4,54 | 5,60 |
+| **8D** | 4,80 | 5,20 | 4,00 | 5,28 | 6,57 |
+| **9D** | 5,40 | 5,90 | 4,50 | 6,02 | 7,56 |
+| **10D** | 6,00 | 6,60 | 5,00 | 6,76 | 8,54 |
 
 Notons les stats 1D intéressantes. 
 

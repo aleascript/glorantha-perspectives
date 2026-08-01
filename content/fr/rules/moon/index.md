@@ -16,7 +16,7 @@ Les mystiques et la pensée draconique ne sont pas concernés: les cycles sont u
 
 - Logique: on ajoute 1 a chaque dé
 - Théisme: on peut relancer les 1
-- Animisme: le 1 n’a plus d’effet
+- Animisme : La présence de la Lune exacerbe la résonance du Pacte Spirituel avec les esprits les plus insondables. Les "double 1" ne forment plus une simple réussite, mais génèrent exceptionnellement 2 réussites.
 
 **Commentaires**
 
