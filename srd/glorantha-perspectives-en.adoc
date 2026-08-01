@@ -372,6 +372,78 @@ Unlike the character's other Keywords, a Taint can *never* be used by the player
 - *The Hostility of the World:* From now on, each time the character undertakes an action involving nature, the gods, or healthy society, Destiny (the gamemaster) uses this Taint Keyword *automatically* as an *additional Stake for the adversity*.
 - *The Spiral:* The more a character cheats using Chaos, the more Taints they accumulate, constantly increasing the number of Stakes against them in their daily life, until they can no longer survive within the Cosmos and become an unplayable monster.
 
+=== I. Taboos, Geasa & Oaths
+
+image::rules/runes/pouvoirs/stase.png[width=60] image::rules/runes/pouvoirs/vérité.png[width=60] image::rules/runes/pouvoirs/mort.png[width=60]
+
+*Philosophy:* Glorantha is woven from bonds: the Web of Arachne Solara, the Great Compromise, the clan oaths, the spirit pacts. Nothing is gained without a prohibition coming in return. Some cults only reveal their secrets in exchange for a *geas*; a shaman who binds a spirit without a Feat receives a *taboo*; the Brithini have made the *prohibition* their immortality. The rule is simple: *no power without a bond, no bond without a price.*
+
+*The family of bonds:*
+
+- *Taboo:* a prohibition imposed by a spirit, a sacred place or a pact (the taboo of the fetish).
+- *Geas:* an obligation or prohibition voluntarily accepted in exchange for power, often a secret (the bond of the cult).
+- *Vow:* a promise made before a god, most often unilateral.
+- *Oath:* a mutual bond between two parties, sealed before a divine witness (Humakt is the god of oaths).
+- *Prohibition:* a ritual, legal or ancestral ban, which does not depend on an individual will (the prohibition of the Brithini).
+- *Curse:* an involuntary and destructive geas, often the consequence of perjury.
+- *Wyrm / Utuma:* the draconic bond, choosing to bind reality (the Wyrm) or to renounce it (Utuma).
+- *The secret name:* a taboo of naming; revealing one's secret name is giving power over oneself.
+
+These bonds are held by the runes of *Stasis* (the frozen commitment), *Truth* (the testimony) and *Death* (the ultimate price).
+
+*Theism: cult geasa*
+
+The model is *Humakt*, god of Death and oaths. Access to runic mysteries is paid with a geas: never refuse a single combat challenge, never flee a battle, never strike an enemy who cannot see you, never break an oath, never lie, never be healed by the gods of other cults, and chastity for the highest ranks. Each geas opens a secret of the Death rune; breaking it means losing the secret and incurring the god's wrath.
+
+Other cults have their own bonds: Yelmalio (chastity, no alcohol), Babeester Gor (never back down from vengeance), Ernalda (the Peace of Ernalda), Storm Bull (never flee the Chaos), Issaries (fair measure), and Eurmal who *reverses* geasa (where others forbid themselves, he must lie, steal and break).
+
+*Animism: the fetish taboo*
+
+When a shaman seeks to *bind* a spirit without having obtained a *Feat*, the bond is not strong enough to be shared: the spirit lets itself be enclosed in a *fetish*, but the bond imposes a *taboo*. The fetish is personal (it cannot be shared, lent or resold) and the taboo is specific to each spirit (not eating a certain meat, not crossing running water, not lying...). If the taboo is broken, the spirit flees — and may even turn against the shaman. Add to this the totemic taboos of the Hsunchen (never kill one's totem, rules of the hunt) and ghosts, spirits *bound* by an unfulfilled oath.
+
+*Logic: the prohibition of the Brithini*
+
+The Brithini (the immortal Malkioni) must not *innovate*: as long as they follow the ancestral Law of Brithos to the letter, they remain immortal. The slightest deviation, the slightest innovation, makes them mortal. Immortality is not a gift: it is a prohibition one respects. Sorcerers also bind themselves to their grimoire with vows of method and non-disclosure.
+
+*Mysticism: the illusory vow*
+
+The mystic knows that bonds are only illusions and can therefore *transcend* them. Voluntary asceticism remains a tool of self-overcoming (heroic mode); the Illumined one combines opposites without suffering the usual backlash.
+
+*Draconic Thought: Wyrm and Utuma*
+
+The *Wyrm* binds to matter (one gains, but regresses), the *Utuma* unbinds (one renounces, but evolves). It is the geas of dragons: power is obtained by binding, and true freedom by renouncing.
+
+*The oath: the mutual bond*
+
+The oath binds *two camps* before a divine witness. Perjury is a cosmic crime: it releases the other camp from its obligations and makes the perjurer a cursed being. Even the gods are bound: the *Great Compromise* is the greatest oath of all, and the Red Goddess has learned to circumvent its letter without breaking the bond.
+
+*Transgression*
+
+Breaking a bond is a reversal: the god turns away (theist), the spirit flees and may attack (animist), the practice unbalances and the grimoire closes (logician), the asceticism is lost (mystic), the regression is immediate (draconic). The perjurer finds no peace: _"Death does not free the traitor."_ Their spirit remains bound, can neither join the ancestors nor be reincarnated: it becomes a ghost or an undead. Like the Taint, the *Perjurer* keyword is a permanent negative keyword, used automatically by Destiny against the character.
+
+*Mechanics: the double-edged keyword*
+
+- *In its domain, a geas or a taboo is always a stake in the character's favor:* it is a source of power, not a weakness.
+- *But it is a lever for Destiny:* the temptation to break it, the moment when it forces the character against their own interest, becomes a frame factor or a stake of the adversity.
+
+*Swearing is a ritual* that can be resolved as an opposition (an oath sworn in haste is a trap; sworn at the right moment, a feat). *Perjury* causes the loss of the favor (the secret, the spirit, the immortality) and the appearance of the *Perjurer* keyword.
+
+*Tool for Destiny: bond generator by rune*
+
+[cols="1,4", options="header"]
+|===
+| Rune | Geas, taboo or prohibition
+
+| *Movement* | Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
+| *Death* | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
+| *Harmony* | Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
+| *Stasis* | Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
+| *Life* | Never eat meat. / Chastity. / Never let a creature die without permission.
+| *Disorder* | Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind.
+| *Truth* | Never lie, even by omission. / Reveal any secret you are asked for. / Never steal.
+| *Illusion* | Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask.
+|===
+
 == V. High Magic: Myths and Heroquests
 
 The world of Glorantha is forged by myths: the stories of what happened during the Gods' Time. These myths continue to have an impact on the real world, and knowledge of the origin myth often provides the solution to present-day problems.

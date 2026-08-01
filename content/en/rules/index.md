@@ -25,6 +25,7 @@ And of course, since Glorantha is a complex world, we must also address the foll
 - [The influence of the Red Moon](moon)
 - [Dragons and Dragonewts (a 5th frame of thought)](draconic)
 - [Illumination](illumination)
+- [Taboos, Geasa & Oaths](taboos)
 - [Heroquests](heroquests)
 - [Runic inspiration](runes/inspiration)
 

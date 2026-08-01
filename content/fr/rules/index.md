@@ -26,6 +26,7 @@ Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi
 - [L'influence de la Lune Rouge](moon)
 - [Les Dragons et les Dragonewts (un 5ème cadre de pensée)](draconic)
 - [L'Illumination](illumination)
+- [Tabous, Geis & Serments](taboos)
 - [Les quêtes héroïques](heroquests)
 - [L'inspiration runique](runes/inspiration)
 

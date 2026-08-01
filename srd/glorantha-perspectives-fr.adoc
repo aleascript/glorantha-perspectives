@@ -372,6 +372,78 @@ Contrairement aux autres Mots-Clés du personnage, une Souillure ne peut *jamais
 - *L'Hostilité du Monde :* Désormais, chaque fois que le personnage entreprend une action impliquant la nature, les dieux, ou la société saine, la Destinée (le meneur) utilise _automatiquement_ ce Mot-Clé de Souillure comme une *Mise supplémentaire pour l'adversité*.
 - *La Spirale :* Plus un personnage triche en utilisant le Chaos, plus il accumule de Souillures, augmentant constamment le nombre de Mises contre lui dans sa vie quotidienne, jusqu'à ce qu'il ne puisse plus survivre au sein du Cosmos et devienne un monstre injouable.
 
+=== I. Les Tabous, Geis & Serments
+
+image::rules/runes/pouvoirs/stase.png[width=60] image::rules/runes/pouvoirs/vérité.png[width=60] image::rules/runes/pouvoirs/mort.png[width=60]
+
+*Philosophie :* Glorantha est tissée de liens : la Toile d'Arachne Solara, le Grand Compromis, les serments de clan, les pactes d'esprits. Rien ne se gagne sans qu'une interdiction ne vienne en contrepartie. Certains cultes ne révèlent leurs secrets qu'en échange d'un *geis*; un chaman qui lie un esprit sans exploit reçoit un *tabou*; les Brithini ont fait de l'*interdit* leur immortalité. La règle est simple : *pas de puissance sans lien, pas de lien sans prix.*
+
+*La famille des liens :*
+
+- *Tabou :* une interdiction imposée par un esprit, un lieu sacré ou un pacte (le tabou du fétiche).
+- *Geis :* une obligation ou une interdiction volontairement acceptée en échange d'une puissance, souvent un secret (le lien du culte).
+- *Vœu :* une promesse faite devant un dieu, le plus souvent unilatérale.
+- *Serment :* un lien mutuel entre deux parties, scellé devant un témoin divin (Humakt est le dieu des serments).
+- *Interdit :* une prohibition rituelle, légale ou ancestrale, qui ne dépend pas d'une volonté individuelle (l'interdit des Brithini).
+- *Malédiction :* un geis involontaire et destructeur, souvent la conséquence d'un parjure.
+- *Wyrm / Utuma :* le lien draconique, choisir de lier la réalité (le Wyrm) ou de renoncer à elle (l'Utuma).
+- *Le nom secret :* un tabou de nomination ; révéler son nom secret, c'est donner du pouvoir sur soi.
+
+Ces liens sont tenus par les runes de *Stase* (l'engagement figé), de *Vérité* (le témoignage) et de *Mort* (le prix ultime).
+
+*Le Théisme : les geis de culte*
+
+Le modèle en est *Humakt*, dieu de la Mort et des serments. L'accès aux mystères runiques se paie d'un geis : ne jamais refuser un défi en combat singulier, ne jamais fuir un combat, ne jamais frapper un ennemi qui ne te voit pas, ne jamais briser un serment, ne jamais mentir, ne jamais se faire soigner par les dieux des autres cultes, et pour les plus hauts rangs la chasteté. Chaque geis ouvre un secret de la rune de Mort ; le rompre, c'est perdre le secret et encourir la colère du dieu.
+
+D'autres cultes ont leurs propres liens : Yelmalio (chasteté, pas d'alcool), Babeester Gor (ne jamais reculer devant la vengeance), Ernalda (la Paix d'Ernalda), Storm Bull (ne jamais fuir le Chaos), Issaries (juste mesure), et Eurmal qui *inverse* les geis (là où les autres s'interdisent, il doit mentir, voler et briser).
+
+*L'Animisme : le tabou du fétiche*
+
+Quand un chaman cherche à *lier* un esprit sans avoir obtenu d'*Exploit*, le lien n'est pas assez fort pour être partagé : l'esprit se laisse enfermer dans un *fétiche*, mais le lien impose un *tabou*. Le fétiche est personnel (il ne peut être partagé, prêté ni revendu) et le tabou est propre à chaque esprit (ne pas manger de telle chair, ne pas traverser l'eau vive, ne pas mentir...). Si le tabou est brisé, l'esprit s'enfuit — et peut même se retourner contre le chaman. S'ajoutent les tabous totémiques des Hsunchen (ne jamais tuer son totem, règles de chasse) et les fantômes, esprits *liés* par un serment non tenu.
+
+*La Logique : l'interdit des Brithini*
+
+Les Brithini (les Malkioni immortels) ne doivent pas *innover* : tant qu'ils suivent à la lettre la Loi ancestrale de Brithos, ils restent immortels. Le moindre écart, la moindre innovation, les rend mortels. L'immortalité n'est pas un don : c'est un interdit que l'on respecte. Les sorciers se lient aussi à leur grimoire par des vœux de méthode et de non-divulgation.
+
+*Le Mysticisme : le vœu illusoire*
+
+Le mystique sait que les liens ne sont que des illusions et peut donc les *transcender*. L'ascèse volontaire reste un outil de dépassement (mode héroïque) ; l'Illuminé allie les contraires sans en subir les chocs en retour.
+
+*La Pensée Draconique : Wyrm et Utuma*
+
+Le *Wyrm* lie à la matière (on gagne, mais on régresse), l'*Utuma* délie (on renonce, mais on évolue). C'est le geis des dragons : la puissance s'obtient en se liant, et la vraie liberté en renonçant.
+
+*Le serment : le lien mutuel*
+
+Le serment engage *deux camps* devant un témoin divin. Le parjure est un crime cosmique : il libère l'autre camp de ses obligations et fait du parjure un être maudit. Même les dieux sont liés : le *Grand Compromis* est le plus grand serment de tous, et la Déesse Rouge a appris à en contourner la lettre sans briser le lien.
+
+*La transgression*
+
+Briser un lien est un retournement : le dieu se détourne (théiste), l'esprit s'enfuit et peut attaquer (animiste), la pratique se dérègle et le grimoire se referme (logicien), l'ascèse se perd (mystique), la régression est immédiate (draconique). Le parjure ne trouve pas la paix : _"La mort ne libère pas le traître."_ Son esprit reste lié, ne peut ni rejoindre les ancêtres ni se réincarner : il devient fantôme ou mort-vivant. Comme la Souillure, le mot-clé *Parjure* est un mot-clé négatif permanent, employé automatiquement par la Destinée contre le personnage.
+
+*Mécanique : le mot-clé à double tranchant*
+
+- *Dans son domaine, un geis ou un tabou est toujours une mise en faveur* du personnage : c'est une source de puissance, pas une faiblesse.
+- *Mais il est un levier pour la Destinée :* la tentation de le briser, le moment où il oblige le personnage contre son propre intérêt, devient un facteur cadre ou une mise de l'adversité.
+
+*Jurer est un rituel* qui peut se résoudre comme une opposition (un serment prêté à la hâte est un piège ; prêté au bon moment, un exploit). *Le parjure* provoque la perte de la faveur (le secret, l'esprit, l'immortalité) et l'apparition du mot-clé *Parjure*.
+
+*Outil pour la Destinée : générateur de liens par rune*
+
+[cols="1,4", options="header"]
+|===
+| Rune | Geis, tabou ou interdit
+
+| *Mouvement* | Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône.
+| *Mort* | Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas.
+| *Harmonie* | Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié.
+| *Stase* | Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint.
+| *Vie* | Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission.
+| *Désordre* | Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient.
+| *Vérité* | Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler.
+| *Illusion* | Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque.
+|===
+
 == V. Haute Magie : Mythes et Quêtes Héroïques
 
 L'univers de Glorantha est forgé par les mythes : les histoires de ce qui s'est passé pendant le Temps des Dieux. Ces mythes continuent d'avoir un impact sur le monde réel, et la connaissance du mythe originel fournit bien souvent la solution aux problèmes du présent.
