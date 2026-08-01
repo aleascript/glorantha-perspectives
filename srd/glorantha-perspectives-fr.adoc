@@ -843,7 +843,7 @@ Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, sel
 
 === B. Exemples de Personnages Joueurs
 
-Les personnages ci-dessous, issus de la Voie Lunaire, sont des exemples complets de création, incluant les sorts de leur pratique cultuelle.
+Voici quelques exemples de personnages. 
 
 ==== 1. Hanya de Jillaro
 
@@ -1009,4 +1009,166 @@ ____
 - Apaisement des esprits (ne jamais souiller un lieu habité par un esprit).
 
 *Liens & Attaches :* Sa tribu, Fta-Ah son antilope sable (courageuse, rapide, fidèle).
+____
+
+==== 5. Irinus Solantis
+
+image::srd/irinus.png[width=120]
+____
+*Nom :* Irinus Solantis (Homme, 30 ans)
+
+*Citation :* _"Guerre organisée avec des règles, pas la boucherie"_
+
+*Issu d'une vieille famille de militaires. Envoyé en Prax pour briller.*
+
+*Origines :* Dara Happan, Décurion.
+
+*Niveau de vie & Équipement :* Standard — la bague de danger.
+
+*Cadre de pensée :* Théisme (Initié d'Urvairinus le Conquérant, Panthéon Céleste - Yelm)
+
+*Runes :*
+
+- image:rules/runes/elements/feu.png[width=18] _Feu :_ Réfléchi, homme de devoir, discipline personnelle.
+- image:rules/runes/conditions/maitrise.png[width=18] _Maîtrise :_ Impitoyable, intimidant, organiser un plan.
+- image:rules/runes/autres/war.png[width=18] _Guerre :_ Guerre organisée avec des règles, pas la boucherie.
+
+*Vertus (Dara Happan) :* Honneur, Devoir, Obéissance, Loyauté à l'Empire, Ordre et discipline.
+
+*Vertus (Initié d'Urvairinus le Conquérant) :* Guerre organisée avec des règles, pas la boucherie, Impitoyable envers les ennemis de Dara Happa, Commandement.
+
+*Mots-clés :* Décurion, Impitoyable, Intimidant, Discipline personnelle, Organiser un plan, Réfléchi, Homme de devoir, Connaissance de la culture dara happienne, Panthéon Céleste (Yelm), Tactique et commandement d'escouade, Marche au pas / guerre en formation.
+
+*Sorts de l'Initié d'Urvairinus le Conquérant :*
+
+- _Lumière de l'action :_ Courage, Démoraliser l'ennemi, Marcher au pas, Plusieurs attaques en une.
+- _Stratégie militaire :_ Gérer la nourriture, Convaincre les habitants, Recenser une armée, Envoyer des ordres de bataille.
+- _Combattre les ennemis de Dara Happa (Yelm) :_ Trolls, morts-vivants, chaos... et rebelles orlanthis.
+- _Être partout sur le champ de bataille._
+- _Commandement ultime (même aux ennemis)._
+
+*Liens & Attaches :* Honneur de la famille, Défense des intérêts de l'Empire.
+____
+
+==== 6. Fazia Hanout
+
+image::srd/fazia.png[width=120]
+____
+*Nom :* Fazia Hanout (Femme, 20 ans)
+
+*Citation :* _"Voler un voleur, ce n'est pas du vol, non ?"_
+
+*Instruite, espiègle et vive, Fazia est la fille d'Hamar, un antiquaire de la Vieille Ville. Un peu voleuse sur les bords, elle cache son appartenance au Grand Mystère — punie de la main coupée et du bannissement par la loi pavisite, et lunaire aussi — mais jusqu'à quand ?*
+
+*Origines :* Pavisite, Érudite roublarde à ses heures.
+
+*Niveau de vie & Équipement :* Standard — livres et effets d'érudite, outillage de cambrioleuse (crochets, corde, pince).
+
+*Cadre de pensée :* Théisme (Initiée du Grand Mystère, culte des voleurs de Pavis)
+
+*Runes :*
+
+- image:rules/runes/elements/obscurité.png[width=18] _Obscurité :_ Se fondre dans la foule, effacer ses traces, cachette parfaite, vol parfait.
+- image:rules/runes/pouvoirs/illusion.png[width=18] _Illusion :_ Masque méconnaissable, dissimuler la vérité, mentir avec conviction, cacher un objet.
+- image:rules/runes/conditions/echanges.png[width=18] _Échange :_ Égoïste, inventive, convaincre, voler un voleur.
+
+*Vertus (Pavisite) :* Indépendance, Débrouillardise, Esprit marchand, Méfiance envers l'Empire lunaire.
+
+*Vertus (Initiée du Grand Mystère) :* Discrétion absolue, Ne jamais trahir le Mystère, Voler les voleurs, La fin justifie les moyens.
+
+*Mots-clés :* Érudite roublarde, Rat de bibliothèque, Minutieuse, Inventive, Coup d'éclat, Égoïste, Mentir avec conviction, Convaincre, Connaissance de Pavis et de la Vieille Ville, Se fondre dans la foule, Effacer ses traces.
+
+*Sorts de l'Initiée du Grand Mystère :*
+
+- Se fondre dans la foule.
+- Masque méconnaissable.
+- Effacer ses traces.
+- Dissimuler la vérité.
+- Cacher un objet.
+- Cachette parfaite.
+- Vol parfait.
+
+*Liens & Attaches :* Son père Hamar, antiquaire de la Vieille Ville, Tuck, son contact dans le Grand Mystère.
+____
+
+==== 7. Duckita
+
+image::srd/duckita.png[width=120]
+____
+*Nom :* Duckita (Canne Durulz, « vieille », âge indéterminé)
+
+*Citation :* _"Pourrait faire peur si ce n'était pas une canne"_
+
+*Canne encapuchonnée au plumage sombre, Duckita fuit la persécution anti-Durulz de la Passe du Dragon : son clan a été décimé. Elle a appris les bases de la Nageuse de l'Ombre du clan, tuée lors de la bataille, qui l'a sauvée pour que la tradition continue. Sinistre, elle vit la nuit, entourée de ses fétiches de plumes.*
+
+*Origines :* Durulz de la Passe du Dragon, Nageuse de l'Ombre.
+
+*Niveau de vie & Équipement :* Pauvre — fétiches de plumes.
+
+*Cadre de pensée :* Animisme (Nageuse de l'Ombre, tradition des esprits durulz)
+
+*Runes :*
+
+- image:rules/runes/elements/eau.png[width=18] _Eau :_ Lunatique, perchée, vit la nuit.
+- image:rules/runes/mondes/spirits.png[width=18] _Esprits :_ Entendre, sentir le monde des esprits, négocier et combattre les esprits, voyager en esprit.
+- image:rules/runes/elements/obscurité.png[width=18] _Obscurité :_ Se glisser dans la nuit, sinistre, « voir » dans le noir, invoquer une ombre.
+
+
+*Vertus (Durulz de la Passe du Dragon) :* Survivre, Méfiance envers les humains, Fierté malgré la malédiction.
+
+*Vertus (Nageuse de l'Ombre) :* Explorer les ombres pour lever la malédiction des Durulz, Patience, Discrétion.
+
+*Mots-clés :* Lunatique, Glisser entre les doigts, Perchée, Sinistre, Très bonne ouïe, Se glisser dans la nuit, Marchander avec les esprits, Paraître inoffensive, Entendre et sentir le monde des esprits, Négocier et combattre les esprits, « Voir » dans le noir.
+
+*Prodiges de la Nageuse de l'Ombre :*
+
+- Emprisonner un esprit dans une plume.
+- Invoquer une ombre.
+- Voyager en esprit.
+
+*Faiblesse :* Sensible à la lumière — elle vit la nuit.
+
+*Liens & Attaches :* Haine des Yelmites.
+____
+
+==== 8. Korlanth La Chance
+
+image::srd/korlanth.png[width=120]
+____
+*Nom :* Korlanth La Chance (Homme, 20 ans)
+
+*Citation :* _"Je crois en mon Destin"_
+
+*Fils d'immigrés Orlanthi étant venu à Pavis après la défaite contre l'Empire Lunar, Korlanth est un touche-à-tout (chantiers, manœuvres, maraudes...). Il s'entraîne aux armes avec ses copains et suit les enseignements du Vent Secret, qu'il n'a jamais balancé. Il croit en son Destin.*
+
+*Origines :* Exilé Sartarite, Jeune rebelle.
+
+*Niveau de vie & Équipement :* Pauvre — outils de chantier et armes d'entraînement.
+
+*Cadre de pensée :* Théisme (Initié d'Orlanth, Panthéon des Tempêtes)
+
+*Runes :*
+
+- image:rules/runes/elements/air.png[width=18] _Air :_ Rebelle, agir avec énergie, liberté.
+- image:rules/runes/pouvoirs/mouvement.png[width=18] _Mouvement :_ Rapide, surprendre l'adversaire, envol, coureur d'orage.
+- image:rules/runes/conditions/chance.png[width=18] _Chance :_ Chanceux, attirer les coïncidences, attirer la sympathie, croire en son Destin.
+
+*Vertus (Exilé Sartarite) :* Courage, Liberté, Solidarité, Résistance aux Lunaires.
+
+*Vertus (Initié d'Orlanth) :* Agir avec énergie, Surprendre l'adversaire, Combattre les Lunaires.
+
+*Mots-clés :* Jeune rebelle, Touche-à-tout (chantiers, manœuvres, maraudes), Rapide, Surprendre l'adversaire, Entraînement aux armes, Enseignements du Vent Secret, Foi en son Destin.
+
+*Sorts de l'Initié d'Orlanth :*
+
+- Retrouver son souffle, insuffler du courage.
+- Préparer des pierres tonnerre (bruit et confusion).
+- Préparer de la guède (combat nu).
+- Yavor, la lance de foudre.
+- Envol.
+- Écharpe de brume.
+- Coureur d'orage.
+- Chevaucheur de lance.
+
+*Liens & Attaches :* Le Vent Secret, Sa famille, Haine des Lunaires.
 ____

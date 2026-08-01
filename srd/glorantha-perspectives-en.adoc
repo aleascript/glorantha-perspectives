@@ -843,7 +843,7 @@ The table below gives the average number of successes obtained per draw, accordi
 
 === B. Player Character Examples
 
-The characters below, from the Lunar Way, are complete creation examples, including the spells of their cultic practice.
+Here are a few character examples.
 
 ==== 1. Hanya of Jillaro
 
@@ -1008,4 +1008,165 @@ ____
 - Appeasing spirits (never defile a place inhabited by a spirit).
 
 *Links & Attachments:* Her tribe, Fta-Ah her sand antelope (brave, fast, loyal).
+____
+
+==== 5. Irinus Solantis
+
+image::srd/irinus.png[width=120]
+____
+*Name:* Irinus Solantis (Male, 30 years old)
+
+*Quote:* _"Organized war with rules, not butchery"_
+
+*From an old military family. Sent to Prax to shine.*
+
+*Origins:* Dara Happan, Decurion.
+
+*Standard of living & Equipment:* Standard — the danger ring.
+
+*Frame of thought:* Theism (Initiate of Urvairinus the Conqueror, Celestial Pantheon - Yelm)
+
+*Runes:*
+
+- image:rules/runes/elements/feu.png[width=18] _Fire:_ Thoughtful, man of duty, personal discipline.
+- image:rules/runes/conditions/maitrise.png[width=18] _Mastery:_ Ruthless, intimidating, organizing a plan.
+- image:rules/runes/autres/war.png[width=18] _War:_ Organized war with rules, not butchery.
+
+*Virtues (Dara Happan):* Honor, Duty, Obedience, Loyalty to the Empire, Order and discipline.
+
+*Virtues (Initiate of Urvairinus the Conqueror):* Organized war with rules, not butchery, Ruthless toward the enemies of Dara Happa, Command.
+
+*Keywords:* Decurion, Ruthless, Intimidating, Personal discipline, Organizing a plan, Thoughtful, Man of duty, Knowledge of Dara Happan culture, Celestial Pantheon (Yelm), Tactics and squad command, Marching in step / formation warfare.
+
+*Spells of the Initiate of Urvairinus the Conqueror:*
+
+- _Light of action:_ Courage, Demoralizing the enemy, Marching in step, Several attacks in one.
+- _Military strategy:_ Managing food, Convincing the inhabitants, Taking stock of an army, Sending battle orders.
+- _Fighting the enemies of Dara Happa (Yelm):_ Trolls, undead, chaos... and Orlanthi rebels.
+- _Being everywhere on the battlefield._
+- _Ultimate command (even to enemies)._
+
+*Links & Attachments:* Honor of the family, Defense of the Empire's interests.
+____
+
+==== 6. Fazia Hanout
+
+image::srd/fazia.png[width=120]
+____
+*Name:* Fazia Hanout (Female, 20 years old)
+
+*Quote:* _"Stealing from a thief is not stealing, is it?"_
+
+*Educated, mischievous and lively, Fazia is the daughter of Hamar, an antique dealer of the Old Town. A bit of a thief on the side, she hides her belonging to the Grand Mystery — punished by the cutting off of the hand and banishment under Pavisite law, and Lunar too — but for how long?*
+
+*Origins:* Pavisite, Scholar rogue in her spare time.
+
+*Standard of living & Equipment:* Standard — books and scholar's effects, burglar's tools (hooks, rope, pliers).
+
+*Frame of thought:* Theism (Initiate of the Grand Mystery, cult of the thieves of Pavis)
+
+*Runes:*
+
+- image:rules/runes/elements/obscurité.png[width=18] _Darkness:_ Blending into the crowd, erasing one's tracks, perfect hiding place, perfect theft.
+- image:rules/runes/pouvoirs/illusion.png[width=18] _Illusion:_ Unrecognizable mask, concealing the truth, lying with conviction, hiding an object.
+- image:rules/runes/conditions/echanges.png[width=18] _Exchange:_ Selfish, inventive, convincing, stealing from a thief.
+
+*Virtues (Pavisite):* Independence, Resourcefulness, Merchant spirit, Distrust of the Lunar Empire.
+
+*Virtues (Initiate of the Grand Mystery):* Absolute discretion, Never betraying the Mystery, Stealing from thieves, The end justifies the means.
+
+*Keywords:* Scholar rogue, Bookworm, Meticulous, Inventive, Feat, Selfish, Lying with conviction, Convincing, Knowledge of Pavis and the Old Town, Blending into the crowd, Erasing one's tracks.
+
+*Spells of the Initiate of the Grand Mystery:*
+
+- Blending into the crowd.
+- Unrecognizable mask.
+- Erasing one's tracks.
+- Concealing the truth.
+- Hiding an object.
+- Perfect hiding place.
+- Perfect theft.
+
+*Links & Attachments:* Her father Hamar, antique dealer of the Old Town, Tuck, her contact in the Grand Mystery.
+____
+
+==== 7. Duckita
+
+image::srd/duckita.png[width=120]
+____
+*Name:* Duckita (Durulz Duck, "old", indeterminate age)
+
+*Quote:* _"Could be scary if it were not a duck"_
+
+*A hooded duck with dark plumage, Duckita flees the anti-Durulz persecution of the Dragon Pass: her clan has been decimated. She learned the basics of the clan's Shadow Swimmer, killed during the battle, who saved her so that the tradition would continue. Grim, she lives by night, surrounded by her feather fetishes.*
+
+*Origins:* Durulz of the Dragon Pass, Shadow Swimmer.
+
+*Standard of living & Equipment:* Poor — feather fetishes.
+
+*Frame of thought:* Animism (Shadow Swimmer, tradition of the durulz spirits)
+
+*Runes:*
+
+- image:rules/runes/elements/eau.png[width=18] _Water:_ Moody, perched, lives by night.
+- image:rules/runes/mondes/spirits.png[width=18] _Spirits:_ Hearing, feeling the spirit world, negotiating and fighting spirits, spirit travel.
+- image:rules/runes/elements/obscurité.png[width=18] _Darkness:_ Sliding into the night, grim, "seeing" in the dark, summoning a shadow.
+
+*Virtues (Durulz of the Dragon Pass):* Surviving, Distrust of humans, Pride despite the curse.
+
+*Virtues (Shadow Swimmer):* Exploring the shadows to lift the Durulz curse, Patience, Discretion.
+
+*Keywords:* Moody, Slipping through one's fingers, Perched, Grim, Very good hearing, Sliding into the night, Bargaining with spirits, Appearing harmless, Hearing and feeling the spirit world, Negotiating and fighting spirits, "Seeing" in the dark.
+
+*Prodigies of the Shadow Swimmer:*
+
+- Imprisoning a spirit in a feather.
+- Summoning a shadow.
+- Spirit travel.
+
+*Weakness:* Sensitive to light — she lives by night.
+
+*Links & Attachments:* Hatred of Yelmites.
+____
+
+==== 8. Korlanth the Lucky
+
+image::srd/korlanth.png[width=120]
+____
+*Name:* Korlanth La Chance (Male, 20 years old)
+
+*Quote:* _"I believe in my Destiny"_
+
+*Son of Orlanthi immigrants who came to Pavis after the defeat against the Lunar Empire, Korlanth is a jack of all trades (construction sites, odd jobs, prowling...). He trains with weapons with his friends and follows the teachings of the Secret Wind, which he has never revealed. He believes in his Destiny.*
+
+*Origins:* Sartarite Exile, Young rebel.
+
+*Standard of living & Equipment:* Poor — construction tools and training weapons.
+
+*Frame of thought:* Theism (Initiate of Orlanth, Storm Pantheon)
+
+*Runes:*
+
+- image:rules/runes/elements/air.png[width=18] _Air:_ Rebel, acting with energy, freedom.
+- image:rules/runes/pouvoirs/mouvement.png[width=18] _Movement:_ Fast, surprising the adversary, flight, storm runner.
+- image:rules/runes/conditions/chance.png[width=18] _Luck:_ Lucky, attracting coincidences, attracting sympathy, believing in one's Destiny.
+
+*Virtues (Sartarite Exile):* Courage, Freedom, Solidarity, Resistance to the Lunars.
+
+*Virtues (Initiate of Orlanth):* Acting with energy, Surprising the adversary, Fighting the Lunars.
+
+*Keywords:* Young rebel, Jack of all trades (construction sites, odd jobs, prowling), Fast, Surprising the adversary, Weapon training, Teachings of the Secret Wind, Faith in his Destiny.
+
+*Spells of the Initiate of Orlanth:*
+
+- Catching one's breath, instilling courage.
+- Preparing thunder stones (noise and confusion).
+- Preparing woad (naked combat).
+- Yavor, the lightning spear.
+- Flight.
+- Scarf of mist.
+- Storm runner.
+- Lance rider.
+
+*Links & Attachments:* The Secret Wind, His family, Hatred of the Lunars.
 ____
