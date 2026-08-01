@@ -847,7 +847,7 @@ Here are a few character examples.
 
 ==== 1. Hanya of Jillaro
 
-image::stories/la-voie-lunaire/heroes/hanya/hanya.png[width=120]
+image::srd/hanya.png[width=120]
 
 ____
 *Name:* Hanya of Jillaro (Female, 27 years old)
@@ -892,7 +892,7 @@ ____
 
 ==== 2. Ikarnos of Raibanth
 
-image::stories/la-voie-lunaire/heroes/ikarnos/ikarnos.png[width=120]
+image::srd/ikarnos.png[width=120]
 
 ____
 *Name:* Ikarnos of Raibanth (Male, 32 years old)
@@ -928,7 +928,7 @@ ____
 
 ==== 3. Jaridan
 
-image::stories/la-voie-lunaire/heroes/jaridan/jaridan.png[width=120]
+image::srd/jaridan.png[width=120]
 
 ____
 *Name:* Jaridan (Male, 48 years old)
@@ -970,7 +970,7 @@ ____
 
 ==== 4. Peek-ee-peek
 
-image::stories/la-voie-lunaire/heroes/peek-ee-peek/peek.png[width=120]
+image::srd/peek.png[width=120]
 
 ____
 *Name:* Peek-ee-peek (Female, 22 rains)

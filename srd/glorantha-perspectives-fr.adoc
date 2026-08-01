@@ -847,7 +847,7 @@ Voici quelques exemples de personnages.
 
 ==== 1. Hanya de Jillaro
 
-image::stories/la-voie-lunaire/heroes/hanya/hanya.png[width=120]
+image::srd/hanya.png[width=120]
 
 ____
 *Nom :* Hanya de Jillaro (Femme, 27 ans)
@@ -893,7 +893,7 @@ ____
 
 ==== 2. Ikarnos de Raibanth
 
-image::stories/la-voie-lunaire/heroes/ikarnos/ikarnos.png[width=120]
+image::srd/ikarnos.png[width=120]
 
 ____
 *Nom :* Ikarnos de Raibanth (Homme, 32 ans)
@@ -929,7 +929,7 @@ ____
 
 ==== 3. Jaridan
 
-image::stories/la-voie-lunaire/heroes/jaridan/jaridan.png[width=120]
+image::srd/jaridan.png[width=120]
 
 ____
 *Nom :* Jaridan (Homme, 48 ans)
@@ -971,7 +971,7 @@ ____
 
 ==== 4. Peek-ee-peek
 
-image::stories/la-voie-lunaire/heroes/peek-ee-peek/peek.png[width=120]
+image::srd/peek.png[width=120]
 
 ____
 *Nom :* Peek-ee-peek (Femme, 22 pluies)
