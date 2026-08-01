@@ -651,6 +651,7 @@ Le jeu a été principalement pensé pour cette approche. Vous observez Gloranth
 *Incarner n'importe qui :* Vous pouvez jouer Araignée-Roc (la prêtresse Uz quasi divine connaissant les secrets d'Arachne Solara), l'œil du Dragon endormi sous la montagne, le fantôme d'un Érudit de l'Ambigu poursuivant ses expériences pour l'éternité, ou même voir le monde à travers les yeux d'un simple broo.
 
 *En Pratique :*
+
     1. Choisissez un cadre à explorer et créez vos protagonistes (de manière succincte ou détaillée).
     2. Utilisez les runes de pouvoir pour répondre aux questions (qui, quoi, pourquoi...).
     3. Imaginez une situation avec un conflit clair (une situation doit aboutir sur au moins un conflit pour être intéressante).

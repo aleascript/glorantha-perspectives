@@ -651,6 +651,7 @@ The game was mainly designed for this approach. You watch Glorantha live and die
 *Play as anyone:* You can play Rock Spider (the near-divine Uz priestess who knows the secrets of Arachne Solara), the eye of the Dragon sleeping under the mountain, the ghost of a Scholar of the Ambiguous pursuing their experiments for eternity, or even see the world through the eyes of a mere broo.
 
 *In Practice:*
+
     1. Choose a frame to explore and create your protagonists (succinctly or in detail).
     2. Use the power runes to answer questions (who, what, why...).
     3. Imagine a situation with a clear conflict (a situation must lead to at least one conflict to be interesting).
@@ -662,4 +663,5 @@ The game was mainly designed for this approach. You watch Glorantha live and die
 Although designed for solo, the system also shines in a group, provided one shows pedagogy to teach players the art of proposing stakes consistent with the lore.
 
 - *The Classic TTRPG Mode:* One of the players takes on the role of Destiny (the Game Master), and the others each embody a character. The GM has the final say on the acceptance of stakes and can improvise the story from the rune draws.
+
 - *The Shared Mode:* All the players around the table play Destiny in turn. One starts with a player who presents their idea, draws the runes and starts the story. If there are several NPCs/Obstacles, the roles are shared to determine the stakes. Destiny changes at the end of each scene (clockwise, for example). This is an excellent way to mix lore experts with players discovering the universe.
