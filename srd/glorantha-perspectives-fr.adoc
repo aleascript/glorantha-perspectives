@@ -304,7 +304,7 @@ Noms péjoratifs donnés par les autres cultures : monstres, incompréhensibles.
 
 === F. Les Influences Extérieures : La Voie Lunaire
 
-image::rules/runes/elements/lune.png[width=60]
+image::rules/runes/elements/lune.png[width=100]
 
 La magie lunaire est soumise au cycle lunaire lorsqu'elle est pratiquée en dehors de la ligne brillante. À l'intérieur de cette frontière qui encercle l'Empire Lunaire, la lune est toujours pleine et la magie n'est donc pas soumise à ces fluctuations.
 
@@ -418,7 +418,13 @@ Contrairement aux autres Mots-Clés du personnage, une Souillure ne peut *jamais
 
 === I. Les Tabous, Geis & Serments
 
-image:rules/runes/pouvoirs/stase.png[width=63] image:rules/runes/pouvoirs/vérité.png[width=60] image:rules/runes/pouvoirs/mort.png[width=60]
+[cols="^,^,^", frame="none", grid="none", options="autowidth", align=center]
+|===
+| image:rules/runes/pouvoirs/stase.png[width=104]
+| image:rules/runes/pouvoirs/vérité.png[width=100]
+| image:rules/runes/pouvoirs/mort.png[width=100]
+|===
+
 
 *Philosophie :* Glorantha est tissée de liens : la Toile d'Arachne Solara, le Grand Compromis, les serments de clan, les pactes d'esprits. Rien ne se gagne sans qu'une interdiction ne vienne en contrepartie. Certains cultes ne révèlent leurs secrets qu'en échange d'un *geis*; un chaman qui lie un esprit sans exploit reçoit un *tabou*; les Brithini ont fait de l'*interdit* leur immortalité. La règle est simple : *pas de puissance sans lien, pas de lien sans prix.*
 

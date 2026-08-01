@@ -304,7 +304,7 @@ Derogatory names given by the other cultures: monsters, incomprehensible.
 
 === F. External Influences: The Lunar Way
 
-image::rules/runes/elements/lune.png[width=60]
+image::rules/runes/elements/lune.png[width=100]
 
 Lunar magic is subject to the lunar cycle when practiced outside the Brilliant Line. Inside this border that encircles the Lunar Empire, the moon is always full and magic is therefore not subject to these fluctuations.
 
@@ -418,7 +418,12 @@ Unlike the character's other Keywords, a Taint can *never* be used by the player
 
 === I. Taboos, Geasa & Oaths
 
-image:rules/runes/pouvoirs/stase.png[width=63] image:rules/runes/pouvoirs/vérité.png[width=60] image:rules/runes/pouvoirs/mort.png[width=60]
+[cols="^,^,^", frame="none", grid="none", options="autowidth", align=center]
+|===
+| image:rules/runes/pouvoirs/stase.png[width=104]
+| image:rules/runes/pouvoirs/vérité.png[width=100]
+| image:rules/runes/pouvoirs/mort.png[width=100]
+|===
 
 *Philosophy:* Glorantha is woven from bonds: the Web of Arachne Solara, the Great Compromise, the clan oaths, the spirit pacts. Nothing is gained without a prohibition coming in return. Some cults only reveal their secrets in exchange for a *geas*; a shaman who binds a spirit without a Feat receives a *taboo*; the Brithini have made the *prohibition* their immortality. The rule is simple: *no power without a bond, no bond without a price.*
 
