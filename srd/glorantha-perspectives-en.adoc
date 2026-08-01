@@ -812,3 +812,200 @@ Although designed for solo, the system also shines in a group, provided one show
 - *The Classic TTRPG Mode:* One of the players takes on the role of Destiny (the Game Master), and the others each embody a character. The GM has the final say on the acceptance of stakes and can improvise the story from the rune draws.
 
 - *The Shared Mode:* All the players around the table play Destiny in turn. One starts with a player who presents their idea, draws the runes and starts the story. If there are several NPCs/Obstacles, the roles are shared to determine the stakes. Destiny changes at the end of each scene (clockwise, for example). This is an excellent way to mix lore experts with players discovering the universe.
+
+== VII. Appendix: Statistics & Character Examples
+
+This appendix gathers two tools: a comparative table of the average number of successes of each frame of thought, and a gallery of complete player characters for inspiration or direct play.
+
+=== A. Comparative table of the average number of successes
+
+The table below gives the average number of successes obtained per draw, according to the number of stakes (from 1D to 10D) and the frame of thought used.
+
+[cols="1,2,2,2,2,2", options="header"]
+|===
+| Number of stakes | Theism *(Evens + rerolls of 6s)* | Animism *(Evens + double odds)* | Logic *(Sum / 5)* | Mysticism / Utuma *(Base evens)* | Dragonewt (Wyrm) *(The Egg's Stasis + Ouroboros)*
+
+| **1D** | 0.55 | 0.50 | 0.33 | 0.50 | 0.50
+| **2D** | 1.13 | 1.08 | 1.00 | 1.00 | 1.16
+| **3D** | 1.75 | 1.72 | 1.70 | 1.50 | 1.93
+| **4D** | 2.38 | 2.40 | 2.40 | 2.00 | 2.78
+| **5D** | 3.00 | 3.10 | 3.10 | 2.50 | 3.68
+| **6D** | 3.60 | 3.82 | 3.80 | 3.00 | 4.63
+| **7D** | 4.20 | 4.54 | 4.50 | 3.50 | 5.60
+| **8D** | 4.80 | 5.28 | 5.20 | 4.00 | 6.57
+| **9D** | 5.40 | 6.02 | 5.90 | 4.50 | 7.56
+| **10D** | 6.00 | 6.76 | 6.60 | 5.00 | 8.54
+|===
+
+*The interesting 1D stats:* Logic is not efficient at resolving trivial cases. That explains why it wants to complicate things: getting more dice, splitting hairs. Those blasted rationalists!
+
+*The draconic stats:* They crush everyone, but that is well deserved. However, if the dragonewt chooses the Utuma and thus the materialist way, one finds the mysticism stats again.
+
+=== B. Player Character Examples
+
+The characters below, from the Lunar Way, are complete creation examples, including the spells of their cultic practice.
+
+==== 1. Hanya of Jillaro
+
+image::stories/la-voie-lunaire/heroes/hanya/hanya.png[width=120]
+
+____
+*Name:* Hanya of Jillaro (Female, 27 years old)
+
+*Quote:* _"We must help the Goddess and preserve civilization"_
+
+> Hanya is somewhat of an odd Guardian, for she does not carry the Moon rune. No matter: she is fully invested.
+
+> For her, the Red Moon is more an object of fear and coercion used to impose civilization. She is not initiated into the inclusive mysteries.
+
+> Not gifted for constructions like some of her sisters, she nonetheless grasped their essence through her ability to "see the long term", as if she could sense the plans unfolding.
+
+*An exalted warrior woman devoted to the cause of the Goddess and of her Conquering Daughter, Hwarin Dalthippa had a vision of the Orlanthi defeating a Lunar army. Somewhat set apart among the Sisters, she worked on including the Moon rune, which she had tattooed on her forehead, but did not succeed. Her vision then led her away from the current teachings.*
+
+*Origins:* Lunar citizen, Guardian of Jillaro.
+
+*Standard of living & Equipment:* Standard — double-bladed axe, bow, mercury armor (does not sink), horse (thoroughbred).
+
+*Frame of thought:* Theism (Novice of Hwarin Dalthippa, Celestial Pantheon - Sylila)
+
+*Runes:*
+
+- image:rules/runes/elements/feu.png[width=18] _Fire:_ Disciplined, uncompromising, haughty toward barbarians.
+- image:rules/runes/pouvoirs/harmonie.png[width=18] _Harmony:_ Calming tensions, taking things in stride, riding horses.
+- image:rules/runes/pouvoirs/mouvement.png[width=18] _Movement:_ Fast, razor-sharp axe blow, invested (the Empire is in danger!).
+
+*Virtues (Lunar/Sylila):* Fight against the Storm Pantheon, Never harm the Goddess, the Emperor and the Empire, We are one, Tithe reversal, Can only be judged by an imperial tribunal.
+
+*Virtues (Guardian of Jillaro):* Honor, Sacrifice, Unwavering faith, Beauty, Sylila first.
+
+*Keywords:* Combat with the great double-bladed axe, Archery, Forced march, Going without sleep, Tactics, Horsemanship, Aesthete, War paint, Shaved head (moon-shaped), Knowledge of the Empire's laws, Knowledge of the City of Jillaro's laws.
+
+*Spells of the Novice of Hwarin Dalthippa (magic subject to the lunar cycle):*
+
+- _Learned from the goddess:_ Safe road, Seeing the long term, Intimidating barbarians, Sensing the enemy's weakness, Razor-sharp axe blow, Red Mask of Terror.
+- _Construction:_ Blessing a construction, Blessing a tool, Beautifying a work, Beautifying a garden, Strengthening a wall, Steady hand, Impassable gate.
+- _Conquest:_ Intimidation of barbarians, Red Mask of Terror, Sensing the enemy's weakness, Cutting blow, Trampling (horse) the barbarians.
+- _Stewardship:_ Blessing the family, Authority of the lady of the house, Harmony of the hearth, Managing a household.
+
+*Links & Attachments:* The fort of the Conquering Sister, some Silver Shields (regiment).
+____
+
+==== 2. Ikarnos of Raibanth
+
+image::stories/la-voie-lunaire/heroes/ikarnos/ikarnos.png[width=120]
+
+____
+*Name:* Ikarnos of Raibanth (Male, 32 years old)
+
+*Quote:* _"The Lunar Way will inevitably triumph"_
+
+*An orphan from the slums of Raibanth who, very young, became a Lunar informer, then a spy, then an Imperial Shadow, solar creations in the service of the hidden power. Since the death of Ignifer, he finds himself distanced by the Tharkalites of Argenteus, the new Imperial Mask.*
+
+*Origins:* Orphan of the slums of Raibanth, Imperial Shadow.
+
+*Standard of living & Equipment:* Standard — poisoned dagger, travel gear, books and writing material, horse.
+
+*Frame of thought:* Logic (Pelorian of the Celestial Pantheon; Imperial Shadow, Diplomatica Scriptoriae grimoire)
+
+*Runes:*
+
+- image:rules/runes/elements/obscurité.png[width=18] _Darkness:_ Enigmatic, secretive, elusive, slipping through the night.
+- image:rules/runes/pouvoirs/vérité.png[width=18] _Truth:_ Perceptive, appealing to reason, honest.
+- image:rules/runes/conditions/maitrise.png[width=18] _Mastery:_ Ambitious, charismatic, inferiority complex.
+
+*Virtues (Pelorian):* Adaptable, Tolerant, Inclusive, Fight against the Storm Pantheon.
+
+*Virtues (Imperial Shadow):* Omerta, Self-sacrifice, Impersonal.
+
+*Keywords:* Discretion, Reconnaissance, Observation, Detecting a lie, Sensing a secret, Extracting information, Memorization, Coded language, Dagger fighting, Reading/Writing New Pelorian, Knowing the Empire's rules and myths (Lunar and Dara Happan), Blending into the crowd, Having a cover.
+
+*Spells of the Diplomatica Scriptoriae grimoire (subject to the lunar cycle):* Finding the path of the solution, Making the 3rd way triumph, Understanding any text, Making names forgotten.
+
+*Lunar charm (fetish, subject to the lunar cycle):* Seeing in Darkness (medallion).
+
+*Links & Attachments:* The Secret Phrases (informant network), Knowledge of the underworld, the Emperor (unwavering), Fazzur (loyalty), Anti-Durulz (far-fetched theory about ducks).
+____
+
+==== 3. Jaridan
+
+image::stories/la-voie-lunaire/heroes/jaridan/jaridan.png[width=120]
+
+____
+*Name:* Jaridan (Male, 48 years old)
+
+*Quote:* _"War is never good for trade"_
+
+> Jaridan has long been an accomplished initiate. He therefore has enough experience to attempt such or such prodigy as taught by Issaries or Gultha.
+
+*A wealthy merchant who has succeeded and wants to try to preserve his clan and his family from the troubles to come. His wife, sons and daughters manage his business in his absence. An entrepreneur at heart, he also hopes to develop new markets by traveling.*
+
+*Origins:* Tarshite (Thane), merchant clan and family.
+
+*Standard of living & Equipment:* Affluent — a mule, a horse, sacks, wares to sell, dagger, staff.
+
+*Frame of thought:* Theism (Initiate of Issaries and of Gultha Languedor, Storm Pantheon without Orlanth)
+
+*Runes:*
+
+- image:rules/runes/elements/terre.png[width=18] _Earth:_ Pragmatic, enduring, pacifist, good-natured, benevolent.
+- image:rules/runes/pouvoirs/mouvement.png[width=18] _Movement:_ Traveling discreetly, energetic, curious.
+- image:rules/runes/conditions/echanges.png[width=18] _Exchange:_ Diplomat, empathetic.
+
+*Virtues (Tarshite):* Courage, Generosity, Personal honor, Social justice, Piety, Wisdom, Vassalage.
+
+*Virtues (Gultha Languedor):* Spirit of adventure.
+
+*Keywords:* Merchant, Many contacts, Negotiating, Bookkeeping, Thrifty, Appraising goods, Merchant language, Organizing a caravan, Cartography, Orator, Staff fighting, Speaks New Pelorian and Sartarite, Basic knowledge of culture and livestock, Geography of Tarsh, Alakoring Customs & Myths, Knowledge of the Tula, Knowledge of neighboring cultures & cults (Empire + Sartar), Singing.
+
+*Spells of Issaries - Communication:* Shouting with a clear voice, Impressive speech, Convincing buyer or seller, Sweet language, Speaking with one's hands.
+
+*Spells of Issaries - Merchant:* Blessing a market, Creating a win-win bond, Appraising a currency, Spotting a thief, Locking a box, Recognizing a magic object.
+
+*Spells of Gultha Languedor - Travel:* Covering one's tracks, Detecting an ambush, Finding an alternate route, Finding a path, Protection during sleep.
+
+*Spells of Gultha Languedor - Communication:* Making oneself understood, Friendly greetings.
+
+*Links & Attachments:* His family (wife, sons and daughters who manage his business in his absence), his clan.
+____
+
+==== 4. Peek-ee-peek
+
+image::stories/la-voie-lunaire/heroes/peek-ee-peek/peek.png[width=120]
+
+____
+*Name:* Peek-ee-peek (Female, 22 rains)
+
+*Quote:* _"The prophecy is coming true and our tribe was chosen long ago to be the guardians of the Moon"_
+
+*Being the only daughter of Paak-the-cunning, he spoils her more than her brothers and allowed her to follow the guardians and hunters, though as a scout. It is she who decided to head toward the Empire, hoping to carve a destiny for her people, which she deems in danger of corruption by the Empire.*
+
+*Origins:* Praxian Sand Nomad, Khan's daughter (Paak-the-cunning), tribe.
+
+*Standard of living & Equipment:* Poor (relatively) — bow, spear, helmet, fetishes.
+
+*Frame of thought:* Animism (Tradition of Waha the Butcher, Praxian animism Waha & Eiritha)
+
+*Runes:*
+
+- image:rules/runes/elements/lune.png[width=18] _Moon:_ Sense of superiority, curious.
+- image:rules/runes/pouvoirs/mort.png[width=18] _Death:_ Sure arrow, strong opinions, impulsive.
+- image:rules/runes/mondes/spirits.png[width=18] _Spirits:_ Sensitive, sensing and seeing spirits, bargaining with spirits.
+
+*Virtues (Sand Nomad):* Pride, Freedom.
+
+*Virtues (Tradition of Waha):* Eliminating Chaos, Soul appeasement (slain animal), Feeding, defending, alerting the tribe.
+
+*Keywords:* Scout, Discreet, Keen eyesight, Bow, Spear, Riding an antelope (one with Fta-Ah), Contempt for horses, Contempt for the settled, Survival in the Wastes, Finding one's way, Reading Praxian knots, Customs, myths and geography of Prax.
+
+*Prodigies of Waha:* Spear of Death.
+
+*Fetishes of Waha (with their taboos):*
+
+- Slaying the stranger (do not kill for a moon afterwards).
+- Knowing the lineage (sacrifice to the ancestors at every full moon).
+- Beast above man (vegetarian).
+- Water-seeking spirit (drink nothing but water).
+- Appeasing spirits (never defile a place inhabited by a spirit).
+
+*Links & Attachments:* Her tribe, Fta-Ah her sand antelope (brave, fast, loyal).
+____

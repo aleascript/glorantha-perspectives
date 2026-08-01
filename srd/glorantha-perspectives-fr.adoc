@@ -812,3 +812,201 @@ Bien que pensé pour le solo, le système brille également en groupe, à condit
 
 - *Le Mode JDR Classique :* Un des joueurs endosse le rôle de la Destinée (le Meneur de Jeu), et les autres incarnent chacun un personnage. Le MJ a le dernier mot sur l'acceptation des mises et peut improviser l'histoire à partir des jets de runes.
 - *Le Mode Partagé :* Tous les joueurs autour de la table jouent à tour de rôle la Destinée. On commence par un joueur qui expose son idée, tire les runes et démarre l'histoire. S'il y a plusieurs PNJ/Obstacles, on se répartit les rôles pour déterminer les mises. On change de Destinée à chaque fin de scène (dans le sens des aiguilles d'une montre, par exemple). C'est un excellent moyen de mêler des experts du lore avec des joueurs découvrant l'univers.
+
+== VII. Annexe : Statistiques & Exemples de Personnages
+
+Cette annexe rassemble deux outils : un tableau comparatif du nombre moyen de réussites de chaque cadre de pensée, et une galerie de personnages joueurs complets pour s'inspirer ou jouer directement.
+
+=== A. Tableau comparatif du nombre moyen de réussites
+
+Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, selon le nombre de mises (de 1D à 10D) et le cadre de pensée utilisé.
+
+[cols="1,2,2,2,2,2", options="header"]
+|===
+| Nombre de mises | Théisme *(Pairs + relances des 6)* | Animisme *(Pairs + double impairs)* | Logique *(Somme / 5)* | Mysticisme / Utuma *(Pairs de base)* | Dragonewt (Wyrm) *(Stase de l'Œuf + Ouroboros)*
+
+| **1D** | 0,55 | 0,50 | 0,33 | 0,50 | 0,50
+| **2D** | 1,13 | 1,08 | 1,00 | 1,00 | 1,16
+| **3D** | 1,75 | 1,72 | 1,70 | 1,50 | 1,93
+| **4D** | 2,38 | 2,40 | 2,40 | 2,00 | 2,78
+| **5D** | 3,00 | 3,10 | 3,10 | 2,50 | 3,68
+| **6D** | 3,60 | 3,82 | 3,80 | 3,00 | 4,63
+| **7D** | 4,20 | 4,54 | 4,50 | 3,50 | 5,60
+| **8D** | 4,80 | 5,28 | 5,20 | 4,00 | 6,57
+| **9D** | 5,40 | 6,02 | 5,90 | 4,50 | 7,56
+| **10D** | 6,00 | 6,76 | 6,60 | 5,00 | 8,54
+|===
+
+*Les stats 1D intéressantes :* La Logique n'est pas efficace pour résoudre les cas triviaux. Cela explique pourquoi elle veut compliquer les choses : obtenir plus de dés, couper les cheveux en quatre. Foutus rationalistes !
+
+*Les stats draconiques :* Elles écrasent tout le monde, mais c'est bien légitime. Par contre, si le dragonewt choisit l'Utuma et donc la voie matérialiste, on retrouve les stats du mysticisme.
+
+=== B. Exemples de Personnages Joueurs
+
+Les personnages ci-dessous, issus de la Voie Lunaire, sont des exemples complets de création, incluant les sorts de leur pratique cultuelle.
+
+==== 1. Hanya de Jillaro
+
+image::stories/la-voie-lunaire/heroes/hanya/hanya.png[width=120]
+
+____
+*Nom :* Hanya de Jillaro (Femme, 27 ans)
+
+*Citation :* _"Il faut aider la Déesse et préserver la civilisation"_
+
+> Hanya est une gardienne un peu à part car elle n'a pas la rune de la lune. Pour autant, peu importe, elle est totalement investie.
+
+> Pour elle, la Lune Rouge est plus un objet de peur et de coercition pour imposer la civilisation. Elle n'est pas initiée aux mystères inclusifs.
+
+> Peu douée pour les constructions comme certains de ses sœurs, elle en a saisi l'essence à travers sa faculté de "voir le long terme", comme si elle pouvait sentir les plans qui se déroulent.
+
+*Femme guerrière exaltée vouée à la cause de la Déesse et de sa Fille Conquérante, Hwarin Dalthippa qui a vu en vision les Orlanthi vaincre une armée lunaire. Un peu à part parmi les Sœurs, elle travaillait sur l'inclusion de la rune de Lune qu'elle s'est faite tatouer sur le front mais n'a pas réussi pour autant. Sa vision l'a ensuite éloignée de l'enseignement en cours.*
+
+*Origines :* Citoyenne lunaire, Gardienne de Jillaro.
+
+*Niveau de vie & Équipement :* Standard — hache à double tranchant, arc, armure de mercure (ne coule pas), cheval (pur-sang).
+
+*Cadre de pensée :* Théisme (Novice de Hwarin Dalthippa, Panthéon Céleste - Sylila)
+
+*Runes :*
+
+- image:rules/runes/elements/feu.png[width=18] _Feu :_ Disciplinée, intransigeante, hautaine envers les barbares.
+- image:rules/runes/pouvoirs/harmonie.png[width=18] _Harmonie :_ Calmer les tensions, prendre sur soi, monter à cheval.
+- image:rules/runes/pouvoirs/mouvement.png[width=18] _Mouvement :_ Rapide, coup de hache tranchant, investie (l'Empire est en danger !).
+
+*Vertus (Lunaire/Sylila) :* Lutte contre le Panthéon des Tempêtes, Ne jamais nuire à la Déesse, l'Empereur et l'Empire, Nous ne faisons qu'un, Reversement de dîme, Ne peut être jugée que par un tribunal impérial.
+
+*Vertus (Gardienne de Jillaro) :* Honneur, Sacrifice, Foi sans faille, Beauté, Sylila d'abord.
+
+*Mots-clés :* Combat à la grande hache à double tranchant, Tir à l'arc, Marche forcée, Ne pas dormir, Tactique, Equitation, Esthète, Peinture de guerre, Crâne rasé (façon lune), Connaissance des lois de l'Empire, Connaissance des lois de la Cité de Jillaro.
+
+*Sorts de la Novice de Hwarin Dalthippa (magie soumise au cycle lunaire) :*
+
+- _Appris de la déesse :_ Route sûre, Voir le long-terme, Intimider les barbares, Sentir la faiblesse de l'ennemi, Coup de hache tranchant, Masque Rouge de la Terreur.
+- _Construction :_ Bénir une construction, Bénir un outil, Embellir un ouvrage, Embellir un jardin, Solidifier un mur, Main sûre, Porte infranchissable.
+- _Conquête :_ Intimidation des barbares, Masque Rouge de la Terreur, Sentir la faiblesse de l'ennemi, Coup tranchant, Piétiner (cheval) les barbares.
+- _Intendance :_ Bénir la famille, Autorité de la maîtresse de maison, Harmonie du foyer, Gérer un foyer.
+
+*Liens & Attaches :* Le fort de la Sœur Conquérante, quelques Boucliers d'Argent (régiment).
+
+____
+
+==== 2. Ikarnos de Raibanth
+
+image::stories/la-voie-lunaire/heroes/ikarnos/ikarnos.png[width=120]
+
+____
+*Nom :* Ikarnos de Raibanth (Homme, 32 ans)
+
+*Citation :* _"La Voie Lunaire triomphera inéluctablement"_
+
+*Orphelin des bas-fonds de Raibanth qui très jeune est devenu un informateur lunaire puis un espion puis une Ombre Impériale, créations solaires au service du pouvoir caché. Depuis la mort d'Ignifer, il se retrouve éloigné par les Tharkalites d'Argenteus le nouveau Masque Impérial.*
+
+*Origines :* Orphelin des bas-fonds de Raibanth, Ombre Impériale.
+
+*Niveau de vie & Équipement :* Standard — dague empoisonnée, matériel de voyage, livres et de quoi écrire, cheval.
+
+*Cadre de pensée :* Logique (Pélorien du Panthéon Céleste ; Ombre Impériale, grimoire Diplomatica Scriptoriae)
+
+*Runes :*
+
+- image:rules/runes/elements/obscurité.png[width=18] _Obscurité :_ Enigmatique, secret, insaisissable, se glisser dans la nuit.
+- image:rules/runes/pouvoirs/vérité.png[width=18] _Vérité :_ Perspicace, faire appel à la raison, honnête.
+- image:rules/runes/conditions/maitrise.png[width=18] _Maîtrise :_ Ambitieux, charismatique, complexe d'infériorité.
+
+*Vertus (Pélorien) :* Adaptable, Tolérant, Inclusif, Lutte contre le Panthéon des Tempêtes.
+
+*Vertus (Ombre impériale) :* Omerta, Abnégation, Impersonnel.
+
+*Mots-clés :* Discrétion, Repérage, Observation, Déceler un mensonge, Sentir un secret, Soutirer des informations, Mémoriser, Langage codé, Combat à la dague, Lire/Écrire le Nouveau Pélorien, Connaître les règles et mythes de l'Empire (lunaires et dara happiennes), Se fondre dans la masse, Avoir une couverture.
+
+*Sorts du grimoire Diplomatica Scriptoriae (soumis au cycle lunaire) :* Trouver le chemin de la solution, Faire triompher la 3ème voie, Comprendre n'importe quel texte, Faire oublier les noms.
+
+*Charme lunaire (fétiche, soumis au cycle lunaire) :* Voir dans les Ténèbres (médaillon).
+
+*Liens & Attaches :* Les Phrases Secrètes (réseau d'informateurs), Connaissance des marginaux, l'Empereur (indéfectible), Fazzur (loyauté), Anti-Durulz (théorie farfelue sur les canards).
+____
+
+==== 3. Jaridan
+
+image::stories/la-voie-lunaire/heroes/jaridan/jaridan.png[width=120]
+
+____
+*Nom :* Jaridan (Homme, 48 ans)
+
+*Citation :* _"La guerre n'est jamais bonne pour le commerce"_
+
+> Jaridan est un initié accompli de longue date. Il a donc suffisamment d'expérience pour tenter tel ou tel prodige tel qu'enseigné par Issaries ou Gultha.
+
+*Riche marchand qui a réussi et veut tenter de préserver son clan, sa famille des futurs troubles à venir. Sa femme, fils et filles gèrent son commerce en son absence. Entrepreneur dans l'âme également il espère pouvoir développer des débouchés en voyageant.*
+
+*Origines :* Tarshite (Thane), clan et famille de marchands.
+
+*Niveau de vie & Équipement :* Aisé — une mule, un cheval, des sacs, des articles à vendre, dague, bâton.
+
+*Cadre de pensée :* Théisme (Initié d'Issaries et de Gultha Languedor, Panthéon des Tempêtes sans Orlanth)
+
+*Runes :*
+
+- image:rules/runes/elements/terre.png[width=18] _Terre :_ Pragmatique, endurant, pacifiste, débonnaire, bienveillant.
+- image:rules/runes/pouvoirs/mouvement.png[width=18] _Mouvement :_ Voyager discrètement, énergique, curieux.
+- image:rules/runes/conditions/echanges.png[width=18] _Échange :_ Diplomate, empathique.
+
+*Vertus (Tarshite) :* Courage, Générosité, Honneur personnel, Justice sociale, Piété, Sagesse, Vassalité.
+
+*Vertus (Gultha Languedor) :* Esprit d'aventure.
+
+*Mots-clés :* Marchand, Nombreux contacts, Négocier, Pointage (écriture comptable), Econome, Évaluer un bien, Langue des marchands, Organiser une caravane, Cartographie, Orateur, Combat au bâton, Parle le Nouveau Pélorien et le Sartarite, Connaissance basique de la culture et de l'élevage, Géographie de Tarsh, Coutumes & Mythes Alakoring, Connaissance du Tula, Connaissance des cultures & cultes voisins (Empire + Sartar), Chant.
+
+*Sorts d'Issaries - Communication :* Crier d'une voix claire, Discours impressionnant, Convaincre acheteur ou vendeur, Langue douce, Parler avec les mains.
+
+*Sorts d'Issaries - Marchand :* Bénir un marché, Créer un lien gagnant-gagnant, Évaluer une monnaie, Repérer un voleur, Verrouiller une boîte, Reconnaître un objet magique.
+
+*Sorts de Gultha Languedor - Voyage :* Couvrir les traces, Détecter une embuscade, Trouver une route de secours, Trouver un sentier, Protection pendant le sommeil.
+
+*Sorts de Gultha Languedor - Communication :* Se faire comprendre, Salutations amicales.
+
+*Liens & Attaches :* Sa famille (femme, fils et filles qui gèrent son commerce en son absence), son clan.
+____
+
+==== 4. Peek-ee-peek
+
+image::stories/la-voie-lunaire/heroes/peek-ee-peek/peek.png[width=120]
+
+____
+*Nom :* Peek-ee-peek (Femme, 22 pluies)
+
+*Citation :* _"La prophétie est en train de se réaliser et notre tribu a été choisie il y a fort longtemps pour être les protecteurs de la Lune"_
+
+*Étant la seule fille de Paak-le-rusé, il la gâte plus que ses frères et l'a autorisée à suivre les gardiens et les chasseurs mais en tant qu'éclaireuse. C'est elle qui a décidé d'aller vers l'Empire espérant tracer un destin pour son peuple qu'elle estime en danger de corruption par l'Empire.*
+
+*Origines :* Nomade Sable de Prax, Fille de Khan (Paak-le-rusé), tribu.
+
+*Niveau de vie & Équipement :* Pauvre (relativement) — arc, lance, casque, fétiches.
+
+*Cadre de pensée :* Animisme (Tradition de Waha le Boucher, animisme praxien Waha & Eiritha)
+
+*Runes :*
+
+- image:rules/runes/elements/lune.png[width=18] _Lune :_ Sentiment de supériorité, curieuse.
+- image:rules/runes/pouvoirs/mort.png[width=18] _Mort :_ Flèche sûre, avis tranchés, impulsive.
+- image:rules/runes/mondes/spirits.png[width=18] _Esprits :_ Sensible, ressentir et voir les esprits, marchander avec les esprits.
+
+*Vertus (Nomade Sable) :* Fierté, Liberté.
+
+*Vertus (Tradition de Waha) :* Éliminer le Chaos, Apaisement de l'âme (animal tué), Nourrir, défendre, alerter la tribu.
+
+*Mots-clés :* Éclaireuse, Discrète, Bonne vue, Arc, Lance, Monter une antilope (ne fait qu'un avec Fta-Ah), Mépris des chevaux et des sédentaires, Survie dans la Désolation, S'orienter, Lire les noeuds Praxiens, Coutumes, mythes et géographie de Prax.
+
+*Prodiges de Waha :* Lance de Mort.
+
+*Fétiches de Waha (avec leurs tabous) :*
+
+- Tuer l'étranger (ne pas tuer pendant une lune après).
+- Connaître le lignage (sacrifier aux ancêtres à chaque pleine lune).
+- Bête supérieure à l'homme (végétarienne).
+- Esprit chercheur d'eau (ne boire que de l'eau).
+- Apaisement des esprits (ne jamais souiller un lieu habité par un esprit).
+
+*Liens & Attaches :* Sa tribu, Fta-Ah son antilope sable (courageuse, rapide, fidèle).
+____
