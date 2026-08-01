@@ -434,14 +434,14 @@ Breaking a bond is a reversal: the god turns away (theist), the spirit flees and
 |===
 | Rune | Geas, taboo or prohibition
 
-| *Movement* | Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
-| *Death* | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
-| *Harmony* | Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
-| *Stasis* | Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
-| *Life* | Never eat meat. / Chastity. / Never let a creature die without permission.
-| *Disorder* | Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind.
-| *Truth* | Never lie, even by omission. / Reveal any secret you are asked for. / Never steal.
-| *Illusion* | Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask.
+| image:rules/runes/pouvoirs/mouvement.png[width=25] *Movement* | Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
+| image:rules/runes/pouvoirs/mort.png[width=25] *Death* | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
+| image:rules/runes/pouvoirs/harmonie.png[width=25] *Harmony* | Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
+| image:rules/runes/pouvoirs/stase.png[width=25] *Stasis* | Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
+| image:rules/runes/pouvoirs/vie.png[width=25] *Life* | Never eat meat. / Chastity. / Never let a creature die without permission.
+| image:rules/runes/pouvoirs/desordre.png[width=25] *Disorder* | Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind.
+| image:rules/runes/pouvoirs/vérité.png[width=25] *Truth* | Never lie, even by omission. / Reveal any secret you are asked for. / Never steal.
+| image:rules/runes/pouvoirs/illusion.png[width=25] *Illusion* | Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask.
 |===
 
 == V. High Magic: Myths and Heroquests
@@ -523,6 +523,7 @@ image:rules/runes/pouvoirs/mouvement.png[width=20] *[1] Discovery (Movement)*
     - *Personalities:* Curious, explorer, restless, unstable.
     - *Military options:* Scouting, patrol, flanking maneuver.
     - *Music:* D, the Dorian mode
+    - *Taboo:* Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
 
 image:rules/runes/pouvoirs/mort.png[width=20] *[2] Threat (Death)*
 
@@ -535,6 +536,7 @@ image:rules/runes/pouvoirs/mort.png[width=20] *[2] Threat (Death)*
     - *Personalities:* Aggressive, cruel, paranoid, protective.
     - *Military options:* Frontal assault, intimidation, destructive raid.
     - *Music:* B, the Locrian mode
+    - *Taboo:* Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
 
 image:rules/runes/pouvoirs/harmonie.png[width=20] *[3] Relationships (Harmony)*
 
@@ -547,6 +549,7 @@ image:rules/runes/pouvoirs/harmonie.png[width=20] *[3] Relationships (Harmony)*
     - *Personalities:* Empathic, diplomat, charmer, dependent.
     - *Military options:* Truce negotiation, mutual support, coalition.
     - *Music:* F, the Lydian mode
+    - *Taboo:* Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
 
 image:rules/runes/pouvoirs/stase.png[width=20] *[4] Law (Stasis)*
 
@@ -559,6 +562,7 @@ image:rules/runes/pouvoirs/stase.png[width=20] *[4] Law (Stasis)*
     - *Personalities:* Rigid, traditionalist, authoritarian, inflexible.
     - *Military options:* Strict formation (phalanx), siege, garrison.
     - *Music:* C, the Ionian mode
+    - *Taboo:* Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
 
 image:rules/runes/pouvoirs/vie.png[width=20] *[5] Resources (Life)*
 
@@ -571,6 +575,7 @@ image:rules/runes/pouvoirs/vie.png[width=20] *[5] Resources (Life)*
     - *Personalities:* Pragmatic, hard-working, generous, materialistic.
     - *Military options:* Logistics, supply, plunder, war of attrition.
     - *Music:* G, the Mixolydian mode
+    - *Taboo:* Never eat meat. / Chastity. / Never let a creature die without permission.
 
 image:rules/runes/pouvoirs/desordre.png[width=20] *[6] Revelation (Disorder)*
 
@@ -583,6 +588,7 @@ image:rules/runes/pouvoirs/desordre.png[width=20] *[6] Revelation (Disorder)*
     - *Personalities:* Unpredictable, visionary, mad, rebel.
     - *Military options:* Shock tactics, element of surprise.
     - *Music:* E, the Phrygian mode
+    - *Taboo:* Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind.
 
 image:rules/runes/pouvoirs/vérité.png[width=20] *[7] Knowledge (Truth)*
 
@@ -595,6 +601,7 @@ image:rules/runes/pouvoirs/vérité.png[width=20] *[7] Knowledge (Truth)*
     - *Personalities:* Scholar, rational, observant, pedantic.
     - *Military options:* Intelligence, cryptography, calculated strategy.
     - *Music:* A, the Aeolian mode
+    - *Taboo:* Never lie, even by omission. / Reveal any secret you are asked for. / Never steal.
 
 image:rules/runes/pouvoirs/illusion.png[width=20] *[8] Mystery (Illusion)*
 
@@ -607,6 +614,7 @@ image:rules/runes/pouvoirs/illusion.png[width=20] *[8] Mystery (Illusion)*
     - *Personalities:* Secretive, enigmatic, manipulative, lying.
     - *Military options:* Camouflage, psychological warfare, feint, diversion.
     - *Music:* the unison
+    - *Taboo:* Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask.
 
 ==== Temporal and Spatial Landmarks
 

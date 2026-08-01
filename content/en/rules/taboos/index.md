@@ -123,18 +123,18 @@ A geas or a taboo plays as a **double-edged keyword**:
 
 ### Bond Generator by Rune
 
-Draw a power rune (2D8) to invent a geas, a taboo or a prohibition:
+Draw a power rune to invent a geas, a taboo or a prohibition:
 
 | Rune | Geas, taboo or prohibition |
 | :--- | :--- |
-| *Movement* | Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne. |
-| *Death* | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you. |
-| *Harmony* | Never lie. / Never refuse hospitality. / Never break a promise made to an ally. |
-| *Stasis* | Obey the ancestral Law. / Never change your name. / Never leave the sacred place. |
-| *Life* | Never eat meat. / Chastity. / Never let a creature die without permission. |
-| *Disorder* | Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind. |
-| *Truth* | Never lie, even by omission. / Reveal any secret you are asked for. / Never steal. |
-| *Illusion* | Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask. |
+| [1] <img src="../../../assets/rules/runes/pouvoirs/mouvement.png" width="10%" valign="bottom"> *Movement* | Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne. |
+| [2] <img src="../../../assets/rules/runes/pouvoirs/mort.png" width="10%" valign="bottom"> *Death* | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you. |
+| [3] <img src="../../../assets/rules/runes/pouvoirs/harmonie.png" width="10%" valign="bottom"> *Harmony* | Never lie. / Never refuse hospitality. / Never break a promise made to an ally. |
+| [4] <img src="../../../assets/rules/runes/pouvoirs/stase.png" width="10%" valign="bottom"> *Stasis* | Obey the ancestral Law. / Never change your name. / Never leave the sacred place. |
+| [5] <img src="../../../assets/rules/runes/pouvoirs/vie.png" width="10%" valign="bottom"> *Life* | Never eat meat. / Chastity. / Never let a creature die without permission. |
+| [6] <img src="../../../assets/rules/runes/pouvoirs/desordre.png" width="10%" valign="bottom"> *Disorder* | Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind. |
+| [7] <img src="../../../assets/rules/runes/pouvoirs/vérité.png" width="10%" valign="bottom"> *Truth* | Never lie, even by omission. / Reveal any secret you are asked for. / Never steal. |
+| [8] <img src="../../../assets/rules/runes/pouvoirs/illusion.png" width="10%" valign="bottom"> *Illusion* | Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask. |
 
 ### Concrete Examples
 

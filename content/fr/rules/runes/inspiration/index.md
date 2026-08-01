@@ -57,6 +57,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** curieux, explorateur, agité, instable...
 - **Options militaires:** éclairage, patrouille, manœuvre de contournement...
 - **Musique:** la note ré, le mode dorien
+- **Tabou:** Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône.
 
 ### [2] <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"> Mort
 
@@ -74,6 +75,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** agressif, cruel, paranoïaque, protecteur...
 - **Options militaires:** assaut frontal, intimidation, raid destructeur...
 - **Musique:** la note si, le mode locrien
+- **Tabou:** Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas.
 
 ### [3] <img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Harmonie
 
@@ -90,6 +92,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** empathique, diplomate, charmeur, dépendant...
 - **Options militaires:** négociation de trêve, soutien mutuel, coalition...
 - **Musique:** la note fa, le mode lydien
+- **Tabou:** Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié.
 
 ### [4] <img src="../../../../assets/rules/runes/pouvoirs/stase.png" width="5%" valign="bottom"> Stase
 
@@ -107,6 +110,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** rigide, traditionaliste, autoritaire, inflexible...
 - **Options militaires:** formation stricte (phalange), siège, garnison...
 - **Musique:** la note do, le mode ionien
+- **Tabou:** Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint.
 
 ### [5] <img src="../../../../assets/rules/runes/pouvoirs/vie.png" width="5%" valign="bottom"> Vie
 
@@ -123,6 +127,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** pragmatique, travailleur, généreux, matérialiste...
 - **Options militaires:** logistique, ravitaillement, pillage, guerre d'usure...
 - **Musique:** la note sol, le mode mixolydien
+- **Tabou:** Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission.
 
 ### [6] <img src="../../../../assets/rules/runes/pouvoirs/desordre.png" width="5%" valign="bottom"> Désordre
 
@@ -139,6 +144,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** imprévisible, visionnaire, fou, rebelle...
 - **Options militaires:** tactique de choc, effet de surprise...
 - **Musique:** la note mi, le mode phrygien
+- **Tabou:** Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient.
 
 ### [7] <img src="../../../../assets/rules/runes/pouvoirs/vérité.png" width="5%" valign="bottom"> Vérité
 
@@ -155,6 +161,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** érudit, rationnel, observateur, pédant...
 - **Options militaires:** renseignement, cryptographie, stratégie calculée...
 - **Musique:** la note la, le mode éolien
+- **Tabou:** Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler.
 
 ### [8] <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Illusion
 
@@ -171,6 +178,7 @@ _Table des runes de pouvoir:_
 - **Personnalités:** secret, énigmatique, manipulateur, menteur...
 - **Options militaires:** camouflage, guerre psychologique, feinte, diversion...
 - **Musique:** l'unisson
+- **Tabou:** Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque.
 
 
 Cela parait abstrait mais c’est beaucoup plus facile à manier que ça en a l’air. Cela permet de contraindre votre imagination gloranthesque mais vous êtes totalement libre d’inventer ce que vous voulez. 

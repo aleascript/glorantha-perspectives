@@ -123,18 +123,18 @@ Un geis ou un tabou se joue comme un **mot-clé à double tranchant**:
 
 ### Générateur de liens par rune
 
-Tirez une rune de pouvoir (2D8) pour inventer un geis, un tabou ou un interdit:
+Tirez une rune de pouvoir pour inventer un geis, un tabou ou un interdit:
 
 | Rune | Geis, tabou ou interdit |
 | :--- | :--- |
-| *Mouvement* | Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône. |
-| *Mort* | Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas. |
-| *Harmonie* | Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié. |
-| *Stase* | Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint. |
-| *Vie* | Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission. |
-| *Désordre* | Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient. |
-| *Vérité* | Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler. |
-| *Illusion* | Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque. |
+| [1] <img src="../../../assets/rules/runes/pouvoirs/mouvement.png" width="10%" valign="bottom"> *Mouvement* | Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône. |
+| [2] <img src="../../../assets/rules/runes/pouvoirs/mort.png" width="10%" valign="bottom"> *Mort* | Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas. |
+| [3] <img src="../../../assets/rules/runes/pouvoirs/harmonie.png" width="10%" valign="bottom"> *Harmonie* | Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié. |
+| [4] <img src="../../../assets/rules/runes/pouvoirs/stase.png" width="10%" valign="bottom"> *Stase* | Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint. |
+| [5] <img src="../../../assets/rules/runes/pouvoirs/vie.png" width="10%" valign="bottom"> *Vie* | Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission. |
+| [6] <img src="../../../assets/rules/runes/pouvoirs/desordre.png" width="10%" valign="bottom"> *Désordre* | Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient. |
+| [7] <img src="../../../assets/rules/runes/pouvoirs/vérité.png" width="10%" valign="bottom"> *Vérité* | Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler. |
+| [8] <img src="../../../assets/rules/runes/pouvoirs/illusion.png" width="10%" valign="bottom"> *Illusion* | Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque. |
 
 ### Exemples concrets
 

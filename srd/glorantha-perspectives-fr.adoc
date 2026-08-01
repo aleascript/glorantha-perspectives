@@ -434,14 +434,14 @@ Briser un lien est un retournement : le dieu se détourne (théiste), l'esprit s
 |===
 | Rune | Geis, tabou ou interdit
 
-| *Mouvement* | Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône.
-| *Mort* | Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas.
-| *Harmonie* | Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié.
-| *Stase* | Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint.
-| *Vie* | Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission.
-| *Désordre* | Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient.
-| *Vérité* | Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler.
-| *Illusion* | Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque.
+| image:rules/runes/pouvoirs/mouvement.png[width=25] *Mouvement* | Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône.
+| image:rules/runes/pouvoirs/mort.png[width=25] *Mort* | Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas.
+| image:rules/runes/pouvoirs/harmonie.png[width=25] *Harmonie* | Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié.
+| image:rules/runes/pouvoirs/stase.png[width=25] *Stase* | Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint.
+| image:rules/runes/pouvoirs/vie.png[width=25] *Vie* | Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission.
+| image:rules/runes/pouvoirs/desordre.png[width=25] *Désordre* | Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient.
+| image:rules/runes/pouvoirs/vérité.png[width=25] *Vérité* | Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler.
+| image:rules/runes/pouvoirs/illusion.png[width=25] *Illusion* | Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque.
 |===
 
 == V. Haute Magie : Mythes et Quêtes Héroïques
@@ -523,6 +523,7 @@ image:rules/runes/pouvoirs/mouvement.png[width=20] *[1] Découverte (Mouvement)*
     - *Personnalités :* Curieux, explorateur, agité, instable.
     - *Options militaires :* Éclairage, patrouille, manœuvre de contournement.
     - *Musique :* le ré, le mode dorien
+    - *Tabou :* Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône.
 
 image:rules/runes/pouvoirs/mort.png[width=20] *[2] Menace (Mort)*
 
@@ -535,6 +536,7 @@ image:rules/runes/pouvoirs/mort.png[width=20] *[2] Menace (Mort)*
     - *Personnalités :* Agressif, cruel, paranoïaque, protecteur.
     - *Options militaires :* Assaut frontal, intimidation, raid destructeur.
     - *Musique :* le si, le mode locrien
+    - *Tabou :* Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas.
 
 image:rules/runes/pouvoirs/harmonie.png[width=20] *[3] Relations (Harmonie)*
 
@@ -547,6 +549,7 @@ image:rules/runes/pouvoirs/harmonie.png[width=20] *[3] Relations (Harmonie)*
     - *Personnalités :* Empathique, diplomate, charmeur, dépendant.
     - *Options militaires :* Négociation de trêve, soutien mutuel, coalition.
     - *Musique :* le fa, le mode lydien
+    - *Tabou :* Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié.
 
 image:rules/runes/pouvoirs/stase.png[width=20] *[4] Loi (Stase)*
 
@@ -559,6 +562,7 @@ image:rules/runes/pouvoirs/stase.png[width=20] *[4] Loi (Stase)*
     - *Personnalités :* Rigide, traditionaliste, autoritaire, inflexible.
     - *Options militaires :* Formation stricte (phalange), siège, garnison.
     - *Musique :* le do, le mode ionien
+    - *Tabou :* Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint.
 
 image:rules/runes/pouvoirs/vie.png[width=20] *[5] Ressources (Vie)*
 
@@ -571,6 +575,7 @@ image:rules/runes/pouvoirs/vie.png[width=20] *[5] Ressources (Vie)*
     - *Personnalités :* Pragmatique, travailleur, généreux, matérialiste.
     - *Options militaires :* Logistique, ravitaillement, pillage, guerre d'usure.
     - *Musique :* le sol, le mode mixolydien
+    - *Tabou :* Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission.
 
 image:rules/runes/pouvoirs/desordre.png[width=20] *[6] Révélation (Désordre)*
 
@@ -583,6 +588,7 @@ image:rules/runes/pouvoirs/desordre.png[width=20] *[6] Révélation (Désordre)*
     - *Personnalités :* Imprévisible, visionnaire, fou, rebelle.
     - *Options militaires :* Tactique de choc, effet de surprise.
     - *Musique :* le mi, le mode phrygien
+    - *Tabou :* Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient.
 
 image:rules/runes/pouvoirs/vérité.png[width=20] *[7] Savoir, Connaissance (Vérité)*
 
@@ -595,6 +601,7 @@ image:rules/runes/pouvoirs/vérité.png[width=20] *[7] Savoir, Connaissance (Vé
     - *Personnalités :* Érudit, rationnel, observateur, pédant.
     - *Options militaires :* Renseignement, cryptographie, stratégie calculée.
     - *Musique :* le la, le mode éolien
+    - *Tabou :* Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler.
 
 image:rules/runes/pouvoirs/illusion.png[width=20] *[8] Mystère (Illusion)*
 
@@ -607,6 +614,7 @@ image:rules/runes/pouvoirs/illusion.png[width=20] *[8] Mystère (Illusion)*
     - *Personnalités :* Secret, énigmatique, manipulateur, menteur.
     - *Options militaires :* Camouflage, guerre psychologique, feinte, diversion.
     - *Musique :* l'unisson
+    - *Tabou :* Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque.
 
 ==== Repères Temporels et Spatiaux
 

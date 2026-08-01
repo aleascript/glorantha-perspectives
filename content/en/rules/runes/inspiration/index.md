@@ -56,6 +56,7 @@ _Table of power runes:_
 - **Personalities:** curious, explorer, agitated, unstable...
 - **Military options:** lighting, patrol, flanking maneuver...
 - **Music:** the note D, the Dorian mode
+- **Taboo:** Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
 
 ### [2] <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"> Death
 
@@ -72,6 +73,7 @@ _Table of power runes:_
 - **Personalities:** aggressive, cruel, paranoid, protective...
 - **Military options:** frontal assault, intimidation, destructive raid...
 - **Music:** the note B, the Locrian mode
+- **Taboo:** Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
 
 ### [3] <img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Harmony
 
@@ -88,6 +90,7 @@ _Table of power runes:_
 - **Personalities:** empathetic, diplomat, charmer, dependent...
 - **Military options:** negotiating a truce, mutual support, coalition...
 - **Music:** the note F, the Lydian mode
+- **Taboo:** Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
 
 ### [4] <img src="../../../../assets/rules/runes/pouvoirs/stase.png" width="5%" valign="bottom"> Stasis
 
@@ -104,6 +107,7 @@ _Table of power runes:_
 - **Personalities:** rigid, traditionalist, authoritarian, inflexible...
 - **Military options:** strict formation (phalanx), siege, garrison...
 - **Music:** the note C, the Ionian mode
+- **Taboo:** Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
 
 ### [5] <img src="../../../../assets/rules/runes/pouvoirs/vie.png" width="5%" valign="bottom"> Life
 
@@ -120,6 +124,7 @@ _Table of power runes:_
 - **Personalities:** pragmatic, worker, generous, materialist...
 - **Military options:** logistics, supply, plunder, war of attrition...
 - **Music:** the note G, the Mixolydian mode
+- **Taboo:** Never eat meat. / Chastity. / Never let a creature die without permission. 
 
 ### [6] <img src="../../../../assets/rules/runes/pouvoirs/desordre.png" width="5%" valign="bottom"> Disorder
 
@@ -136,6 +141,7 @@ _Table of power runes:_
 - **Personalities:** unpredictable, visionary, mad, rebel...
 - **Military options:** shock tactics, surprise effect...
 - **Music:** the note E, the Phrygian mode
+- **Taboo:** Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind. 
 
 ### [7] <img src="../../../../assets/rules/runes/pouvoirs/vérité.png" width="5%" valign="bottom"> Truth
 
@@ -152,6 +158,7 @@ _Table of power runes:_
 - **Personalities:** scholar, rational, observer, pedant...
 - **Military options:** intelligence, cryptography, calculated strategy...
 - **Music:** the note A, the Aeolian mode
+- **Taboo:**  Never lie, even by omission. / Reveal any secret you are asked for. / Never steal. 
 
 ### [8] <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Illusion
 
@@ -168,6 +175,7 @@ _Table of power runes:_
 - **Personalities:** secret, enigmatic, manipulator, liar...
 - **Military options:** camouflage, psychological warfare, feint, diversion...
 - **Music:** unison
+- **Taboo:** Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask.
 
 This may seem abstract but it is much easier to handle than it appears. It constrains your Gloranthian imagination but you are totally free to invent whatever you want.
 
