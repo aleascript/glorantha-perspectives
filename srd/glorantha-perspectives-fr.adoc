@@ -1,6 +1,8 @@
 = Glorantha Perspectives
+:subtitle: Règles diégétiques pour jouer dans Glorantha
 aleascript@proton.me
 :revnumber: 0.1
+:revdate: 2026-08-01
 :doctype: book
 //:sectnums:
 :toc:
@@ -8,9 +10,10 @@ aleascript@proton.me
 :toc-title: Table des matières
 :description: règles diégétiques pour jouer dans Glorantha
 :keywords: JdR, Solo
-:imagesdir: ../assets/
+:title-logo-image: image:rules/runes/pouvoirs/power-runes-circle.png[width=120]
+:imagesdir: ../content/assets/
 
-image::licence.png[]
+image::../../assets/licence.png[]
 
 == I. Introduction & Note d'intention
 
@@ -67,7 +70,7 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 - *Origines & Communauté :* Les loups solitaires n'existent pas (ou survivent peu) dans Glorantha. Le personnage doit définir sa Culture (Sartarite, Tarshite, Esrolien, Uz, etc.) et sa Communauté précise (Clan, Tribu, Cité, Régiment).
 - *Cadre de Pensée :* C'est le prisme à travers lequel le personnage voit le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École de Lhankor Mhy).
 - *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments ou Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
-    - _Exemple :_ Un personnage lié à la rune de l'Air sera fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion sera secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
+    - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] sera fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] sera secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
 - *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
 - *Liens & Attaches :* Ce qui relie le personnage aux autres. Ce peuvent être des alliés, des ennemis, ou des dettes (ex: _Haine viscérale de la tribu des Sangliers, Dévoué corps et âme à sa sœur_).
 
@@ -140,7 +143,7 @@ ____
 Pour équilibrer les difficultés narratives au fil de la partie (en groupe ou en solo), la Destinée peut utiliser une jauge globale.
 
 - La jauge démarre à zéro.
-- On peut la représenter par des dés ou des jetons : une couleur marquée de la rune de la chance pour les héros (+1), et une couleur marquée de la rune du destin pour l'adversité (-1).
+- On peut la représenter par des dés ou des jetons : une couleur marquée de la rune de la chance image:rules/runes/conditions/chance.png[width=18] pour les héros (+1), et une couleur marquée de la rune du destin image:rules/runes/conditions/destin.png[width=18] pour l'adversité (-1).
 - Si les héros affrontent un conflit avec moins de mises que l'adversité, la jauge gagne un jeton Héros par différence de mises pour compenser ce déséquilibre (le destin tournera bientôt en leur faveur). Et inversement.
 - Si le meneur impose une difficulté narrative gratuite, il accorde un jeton Héros. Inversement, un avantage sans conflit pour les héros fera gagner un jeton Adversité à la jauge.
 - Ces points accumulés servent de guide pour ajuster les mises des futurs conflits et créer une "respiration" dans le récit.
@@ -172,6 +175,8 @@ Dans Glorantha, la magie n'est pas une simple liste de sorts, c'est une façon d
 
 === A. Le Théisme : La Voie des Dieux
 
+image::rules/runes/mondes/gods.png[width=100]
+
 *Philosophie :* Un théiste interprète le monde à travers les actes exemplaires des Dieux de son panthéon et de son culte. Face à un obstacle, il se moule dans un cadre préexistant, reproduisant des actes et des pensées normées, dans l'espoir d'obtenir un soutien ou une manifestation divine.
 
 Noms péjoratifs donnés par les autres cultures : esclaves, moutons, adorateurs de faux-dieux.
@@ -189,6 +194,8 @@ Noms péjoratifs donnés par les autres cultures : esclaves, moutons, adorateurs
 *Accessoire (Les Cartes Runiques) :* Pour une immersion totale, remplacez les dés par un paquet de 60 cartes : 10 cartes de la Rune majeure du Dieu (les 6), 20 cartes de runes mineures (les 2 et 4), 20 cartes neutres (les 3 et 5) et 10 cartes de la rune la plus opposée au Dieu (les 1).
 
 === B. L'Animisme : Le Monde des Esprits
+
+image::rules/runes/mondes/spirits.png[width=100]
 
 *Philosophie :* Un animiste ressent en permanence le lien entre le monde visible et invisible. Il se tient sur le seuil, entre le mondain et le spirituel, troquant avec les esprits environnants pour capter leurs énergies. Le focus spécifique sur les tirages impairs représente l'attention permanente du personnage tournée vers le monde spirituel.
 
@@ -209,6 +216,8 @@ Noms péjoratifs donnés par les autres cultures : esclaves, moutons, adorateurs
 
 === C. La Logique : Le Dieu Invisible
 
+image::rules/runes/mondes/logic.png[width=100]
+
 *Philosophie :* Un logicien a une vision "scientifique" et rationnelle du monde : cause et effet, ingrédients et recette. Son Dieu est invisible et ne se manifeste pas ; on s'en approche uniquement par l'étude, la quantification et la raison.
 
 Noms péjoratifs donnés par les autres cultures : sorcellerie, sorciers, matérialistes, vampires.
@@ -224,6 +233,8 @@ Noms péjoratifs donnés par les autres cultures : sorcellerie, sorciers, matér
 - *Héroïque :* Le stade est graduel selon la maîtrise. On divise par 4, puis par 3, 2, voire 1 pour un être comme Zzabur.
 
 === D. Le Mysticisme : L'Illumination
+
+image::rules/runes/mondes/void.png[width=100]
 
 *Philosophie :* Un mystique perçoit l'illusion du réel et de la dualité. Il ne lutte pas contre le monde, il observe comment les volontés s'entremêlent pour révéler les transformations, sachant qu'il n'y a pas de vérité absolue.
 
@@ -243,6 +254,8 @@ Noms péjoratifs donnés par les autres cultures : nihilistes, charlatans.
 
 === E. La Pensée Draconique : Le Rêve du Dragon
 
+image:rules/runes/formes/dragonewt.png[width=60] image:rules/runes/conditions/infini.png[width=60] image:rules/runes/formes/dragon.png[width=60]
+
 *Philosophie :* La magie draconique utilise la Rune de l'Infini comme une jauge. Un adepte lit le monde à travers des paradoxes. Il sait que forcer la réalité avec sa magie (le _Wyrm_) retarde sa propre évolution vers le stade de Vrai Dragon. Son véritable pouvoir réside dans sa capacité à renoncer à la victoire (l'_Utuma_).
 
 Noms péjoratifs donnés par les autres cultures : monstres, incompréhensibles.
@@ -260,6 +273,8 @@ Noms péjoratifs donnés par les autres cultures : monstres, incompréhensibles.
 - *Héroïque (L'Éveil) :* Le paradoxe s'efface. Le personnage n'a plus à choisir : ses motifs (Stase et Ouroboros) comptent comme des réussites éclatantes _ET_ il gagne les bénéfices spirituels de l'Utuma. Il tord la réalité sans s'y lier, comprenant que le monde n'est que son propre rêve.
 
 === F. Les Influences Extérieures : La Voie Lunaire
+
+image:rules/runes/elements/lune.png[width=60]
 
 La magie lunaire est soumise au cycle lunaire lorsqu'elle est pratiquée en dehors de la ligne brillante. À l'intérieur de cette frontière qui encercle l'Empire Lunaire, la lune est toujours pleine et la magie n'est donc pas soumise à ces fluctuations.
 
@@ -307,6 +322,8 @@ Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. 
 - *La Tare de l'Hérétique :* L'Illumination a une odeur. Les êtres fanatiques, dogmatiques ou liés à des principes absolus (comme les initiés du Taureau Tempête, les inquisiteurs ou les esprits très anciens) ressentent intuitivement cette absence de limites morales et cosmiques. Pour eux, l'Illuminé dégage une aura contre-nature, souvent assimilée au Chaos lui-même. Le personnage gagne un trait négatif permanent tel que _Hérétique_, _Abomination aux yeux des fanatiques_, ou _Aura de Nysalor_, qui servira systématiquement de mise contre lui lors de conflits sociaux ou spirituels avec ces factions.
 
 === H. La Souillure du Chaos : L'Anti-Règle
+
+image::rules/runes/conditions/chaos.png[width=100]
 
 ____
 _"Le Chaos n'est pas fort parce qu'il a de meilleures armes. Le Chaos est fort parce qu'il ne joue pas au même jeu que nous."_
@@ -392,19 +409,19 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
 |===
 | Chiffre | Rune | Thème Principal | Question | Direction
 
-| *[1]* | *Mouvement* (Découverte) | Ce qui est autour, le monde, lieux | Où ? | En-dessous
-| *[2]* | *Mort* (Menace) | Ce qui est différent, l'autre, l'ennemi | Qui ? | À droite
-| *[3]* | *Harmonie* (Relations) | Ce qui relie, émotions, sentiments | Quoi ? | À gauche
-| *[4]* | *Stase* (Loi) | Ce qui est figé, moralité, autorité | Comment ? | Devant
-| *[5]* | *Vie* (Ressources) | Ce qui est nécessaire, matériel | Combien ? | Derrière
-| *[6]* | *Désordre* (Révélation) | Ce qui surprend, rebondissement | Quand ? | Au-dessus
-| *[7]* | *Vérité* (Savoir) | Ce qui doit être cherché, étudié | Pourquoi ? | Dedans
-| *[8]* | *Illusion* (Mystère) | Ce qui est caché, tromperie, vain | À moins que ? | Nulle part / Partout
+| *[1]* | image:rules/runes/pouvoirs/mouvement.png[width=25] *Mouvement* (Découverte) | Ce qui est autour, le monde, lieux | Où ? | En-dessous
+| *[2]* | image:rules/runes/pouvoirs/mort.png[width=25] *Mort* (Menace) | Ce qui est différent, l'autre, l'ennemi | Qui ? | À droite
+| *[3]* | image:rules/runes/pouvoirs/harmonie.png[width=25] *Harmonie* (Relations) | Ce qui relie, émotions, sentiments | Quoi ? | À gauche
+| *[4]* | image:rules/runes/pouvoirs/stase.png[width=25] *Stase* (Loi) | Ce qui est figé, moralité, autorité | Comment ? | Devant
+| *[5]* | image:rules/runes/pouvoirs/vie.png[width=25] *Vie* (Ressources) | Ce qui est nécessaire, matériel | Combien ? | Derrière
+| *[6]* | image:rules/runes/pouvoirs/desordre.png[width=25] *Désordre* (Révélation) | Ce qui surprend, rebondissement | Quand ? | Au-dessus
+| *[7]* | image:rules/runes/pouvoirs/vérité.png[width=25] *Vérité* (Savoir) | Ce qui doit être cherché, étudié | Pourquoi ? | Dedans
+| *[8]* | image:rules/runes/pouvoirs/illusion.png[width=25] *Illusion* (Mystère) | Ce qui est caché, tromperie, vain | À moins que ? | Nulle part / Partout
 |===
 
 ==== Description détaillée des correspondances runiques
 
-*[1] Découverte (Mouvement)*
+image:rules/runes/pouvoirs/mouvement.png[width=20] *[1] Découverte (Mouvement)*
 
     - *Corps :* Jambes.
     - *L'instant (Le Transit) :* Le temps qui s'écoule, l'éphémère, l'urgence de l'action en cours.
@@ -416,7 +433,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Éclairage, patrouille, manœuvre de contournement.
     - *Musique :* le ré, le mode dorien
 
-*[2] Menace (Mort)*
+image:rules/runes/pouvoirs/mort.png[width=20] *[2] Menace (Mort)*
 
     - *Corps :* Bras.
     - *L'instant (L'Échéance) :* Le temps compté (le compte à rebours), la fin abrupte, le passé mort.
@@ -428,7 +445,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Assaut frontal, intimidation, raid destructeur.
     - *Musique :* le si, le mode locrien
 
-*[3] Relations (Harmonie)*
+image:rules/runes/pouvoirs/harmonie.png[width=20] *[3] Relations (Harmonie)*
 
     - *Corps :* Cœur.
     - *L'instant (La Synchronicité) :* Le "Kairos" (le bon moment), le temps partagé, être "en phase".
@@ -440,7 +457,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Négociation de trêve, soutien mutuel, coalition.
     - *Musique :* le fa, le mode lydien
 
-*[4] Loi (Stase)*
+image:rules/runes/pouvoirs/stase.png[width=20] *[4] Loi (Stase)*
 
     - *Corps :* Tronc.
     - *L'instant (La Routine) :* L'éternité, le temps suspendu, le cycle immuable et répétitif.
@@ -452,7 +469,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Formation stricte (phalange), siège, garnison.
     - *Musique :* le do, le mode ionien
 
-*[5] Ressources (Vie)*
+image:rules/runes/pouvoirs/vie.png[width=20] *[5] Ressources (Vie)*
 
     - *Corps :* Parties génitales.
     - *L'instant (La Croissance) :* Le temps qu'il faut pour mûrir, la patience récompensée, le cycle des saisons.
@@ -464,7 +481,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Logistique, ravitaillement, pillage, guerre d'usure.
     - *Musique :* le sol, le mode mixolydien
 
-*[6] Révélation (Désordre)*
+image:rules/runes/pouvoirs/desordre.png[width=20] *[6] Révélation (Désordre)*
 
     - *Corps :* Les sens.
     - *L'instant (L'Interruption) :* L'instant foudroyant, l'imprévu, la rupture brutale de la chronologie.
@@ -476,7 +493,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Tactique de choc, effet de surprise.
     - *Musique :* le mi, le mode phrygien
 
-*[7] Savoir, Connaissance (Vérité)*
+image:rules/runes/pouvoirs/vérité.png[width=20] *[7] Savoir, Connaissance (Vérité)*
 
     - *Corps :* Tête.
     - *L'instant (La Clarté) :* L'instant décisif, le fait historique immuable, la ligne temporelle exacte.
@@ -488,7 +505,7 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Renseignement, cryptographie, stratégie calculée.
     - *Musique :* le la, le mode éolien
 
-*[8] Mystère (Illusion)*
+image:rules/runes/pouvoirs/illusion.png[width=20] *[8] Mystère (Illusion)*
 
     - *Corps :* Organes internes.
     - *L'instant (Le Contretemps) :* Le faux souvenir, le temps perdu, la boucle trompeuse (l'attente vaine).
@@ -508,12 +525,12 @@ En observant la réalité, les érudits ont établi ces échelles pour contraind
 |===
 | Tirage | Repère Temporel (Le Temps) | Repère Spatial (L'Espace)
 
-| *[1]* | *Bien avant :* Le temps des origines. | *Ici :* L'Intime, la proximité de l'ombre.
-| *[2]* | *Il n'y a pas longtemps :* Passé proche, fluctuation. | *Proche :* Là où l'on vit, ce qui porte nos pas.
-| *[3]* | *Maintenant :* Le temps émotionnel, le présent. | *Séparé :* Le Séparateur, la frontière.
-| *[4]* | *Passé-Présent-Futur :* Le temps sociétal. | *Autour :* Le Vaste, l'espace à côté.
-| *[5]* | *Demain :* Futur proche, le changement. | *Loin :* L'Ailleurs, la lune dans le ciel.
-| *[6]* | *Futur :* Les longs cycles, futur lointain. | *Très loin :* L'Absolu, Yelm le lointain.
+| *[1]* | image:rules/runes/elements/obscurité.png[width=25] *Bien avant :* Le temps des origines. | image:rules/runes/elements/obscurité.png[width=25] *Ici :* L'Intime, la proximité de l'ombre.
+| *[2]* | image:rules/runes/elements/eau.png[width=25] *Il n'y a pas longtemps :* Passé proche, fluctuation. | image:rules/runes/elements/terre.png[width=25] *Proche :* Là où l'on vit, ce qui porte nos pas.
+| *[3]* | image:rules/runes/elements/terre.png[width=25] *Maintenant :* Le temps émotionnel, le présent. | image:rules/runes/elements/eau.png[width=25] *Séparé :* Le Séparateur, la frontière.
+| *[4]* | image:rules/runes/elements/feu.png[width=25] *Passé-Présent-Futur :* Le temps sociétal. | image:rules/runes/elements/air.png[width=25] *Autour :* Le Vaste, l'espace à côté.
+| *[5]* | image:rules/runes/elements/air.png[width=25] *Demain :* Futur proche, le changement. | image:rules/runes/elements/lune.png[width=25] *Loin :* L'Ailleurs, la lune dans le ciel.
+| *[6]* | image:rules/runes/elements/lune.png[width=25] *Futur :* Les longs cycles, futur lointain. | image:rules/runes/elements/feu.png[width=25] *Très loin :* L'Absolu, Yelm le lointain.
 |===
 
 Pour le temps, l'ordre de 1 à 6 correspond à l'ordre d'arrivée des Eléments: obscurité, eau, terre, feu, air, lune.
@@ -526,8 +543,8 @@ Pour l'espace, l'ordre de 1 à 6 correspond à ce qui est proche de nous et loin
 
 Utile pour déterminer l'influence de la magie (notamment lunaire), on peut tirer une date au hasard :
 
-- *Les Jours (2D6, on garde le 1er sauf double) :* [1] Gel (dernier croissant), [2] Eau (lune mourante), [3] Argile (nouvelle lune), [4] Vent (1er croissant), [5] Feu (1er quartier), [6] Sauvage (pleine lune), [Double] Divin (dernier quartier).
-- *Les Semaines (1D8) :* [1] Désordre, [2] Harmonie, [3] Mort, [4] Fertilité, [5] Stase, [6] Mouvement, [7] Illusion, [8] Vérité.
+- *Les Jours (2D6, on garde le 1er sauf double) :* [1] Gel (dernier croissant) image:rules/runes/elements/obscurité.png[width=18], [2] Eau (lune mourante) image:rules/runes/elements/eau.png[width=18], [3] Argile (nouvelle lune) image:rules/runes/elements/terre.png[width=18], [4] Vent (1er croissant) image:rules/runes/elements/air.png[width=18], [5] Feu (1er quartier) image:rules/runes/elements/feu.png[width=18], [6] Sauvage (pleine lune) image:rules/runes/elements/lune.png[width=18], [Double] Divin (dernier quartier).
+- *Les Semaines (1D8) :* [1] Désordre image:rules/runes/pouvoirs/desordre.png[width=18], [2] Harmonie image:rules/runes/pouvoirs/harmonie.png[width=18], [3] Mort image:rules/runes/pouvoirs/mort.png[width=18], [4] Fertilité image:rules/runes/pouvoirs/vie.png[width=18], [5] Stase image:rules/runes/pouvoirs/stase.png[width=18], [6] Mouvement image:rules/runes/pouvoirs/mouvement.png[width=18], [7] Illusion image:rules/runes/pouvoirs/illusion.png[width=18], [8] Vérité image:rules/runes/pouvoirs/vérité.png[width=18].
 - *Les Saisons (2D20, on garde le 1er sauf double) :* [1-4] Mer (printemps), [5-8] Feu (été), [9-12] Terre (fin d'été/automne), [13-16] Sombre (hiver), [17-20] Tempêtes (fin d'hiver agitée), [Double] Temps Sacré (période de rituels importants pour la nouvelle année).
 
 ==== L'Économie
@@ -546,12 +563,12 @@ Glorantha est un monde de communautés où le commerce reste très encadré par 
 Dans Glorantha, les runes ne sont pas de simples symboles abstraits, elles marquent physiquement le monde et ses habitants.
 
 - *Couleurs Runiques :* Les attributs physiques (peau, yeux, cheveux) peuvent être liés à la rune forte de naissance, d'initiation, ou en récompense d'une quête héroïque.
-    - _Air :_ Orange ou bleu.
-    - _Terre :_ Vert olive ou marron.
-    - _Lune :_ Rouge ou blanc.
-    - _Eau :_ Bleu ou blanc.
-    - _Obscurité :_ Gris terne ou noir.
-    - _Feu :_ Jaune ou rouge.
+    - _Air :_ image:rules/runes/elements/air.png[width=18] Orange ou bleu.
+    - _Terre :_ image:rules/runes/elements/terre.png[width=18] Vert olive ou marron.
+    - _Lune :_ image:rules/runes/elements/lune.png[width=18] Rouge ou blanc.
+    - _Eau :_ image:rules/runes/elements/eau.png[width=18] Bleu ou blanc.
+    - _Obscurité :_ image:rules/runes/elements/obscurité.png[width=18] Gris terne ou noir.
+    - _Feu :_ image:rules/runes/elements/feu.png[width=18] Jaune ou rouge.
 - *Formes Runiques :* La société adapte sa géométrie aux runes.
     - Les livres écrits ou imprimés sont triangulaires.
     - La monnaie a la forme de la rune de l'échange (chez les Orlanthis).

@@ -56,13 +56,14 @@ Les fichiers générés se trouvent dans le dossier `_site/`.
 
 ## Outils
 
-Deux scripts dans `tools/` permettent de générer un document unique contenant tout le contenu du site.
+Plusieurs scripts dans `tools/` permettent de générer un document unique contenant tout le contenu du site.
 
 ### Prérequis techniques
 
 - **Python** 3.x (pour `generate-full-content.sh`)
 - **pandoc** (pour `generate-pdf.sh`)
 - **weasyprint** (pour `generate-pdf.sh`)
+- **asciidoctor-pdf** (pour `generate-srd-pdf.sh`)
 
 ```bash
 # Ubuntu / Debian
@@ -70,6 +71,11 @@ sudo apt install pandoc weasyprint
 
 # macOS (Homebrew)
 brew install pandoc weasyprint
+```
+
+```bash
+# Installation d'asciidoctor-pdf (gem Ruby)
+gem install asciidoctor-pdf
 ```
 
 ### `generate-full-content.sh`
@@ -101,6 +107,20 @@ cd tools && bash generate-pdf.sh
 ```
 
 Le fichier `tools/pdf-style.css` est généré automatiquement à la première exécution et peut être personnalisé.
+
+### `generate-srd-pdf.sh`
+
+Convertit le SRD AsciiDoc `srd/glorantha-perspectives-${lang}.adoc` en PDF (page de garde, table des matières, runes intégrées) dans `content/${lang}/srd/`. La version du PDF est lue dans l'attribut `:revnumber:` du document.
+
+```bash
+# Depuis la racine du projet (français par défaut)
+bash tools/generate-srd-pdf.sh
+
+# Autre langue (ex: anglais une fois le SRD traduit)
+bash tools/generate-srd-pdf.sh en
+```
+
+Le rendu est contrôlé par le thème `tools/srd-pdf-theme.yml` (inspiration Glorantha) qui peut être personnalisé.
 
 ## Structure du projet
 
