@@ -1,0 +1,599 @@
+= Glorantha Perspectives
+aleascript@proton.me
+:revnumber: 0.1
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: règles diégétiques pour jouer dans Glorantha
+:keywords: JdR, Solo
+:imagesdir: ../assets/
+
+image::licence.png[]
+
+[part]
+= I. Introduction & Note d'intention
+
+== A. La philosophie du jeu
+
+*Glorantha Perspectives* propose des ressources diégétiques pour explorer l'univers-jeu de Glorantha. L'objectif principal de ce document est de fournir des règles, des réflexions et des outils de jeu permettant d'aligner parfaitement le _gameplay_ (les mécaniques) et le _roleplay_ (la narration et l'interprétation).
+
+*L'absence de statistiques :* Dans ce système, vous ne trouverez aucune statistique chiffrée, ni de pourcentage de réussite. Pourquoi ? Car dans la vraie vie, il n'y en a pas. Personne n'aborde un problème en pensant qu'il a 75% de chance de réussir. Par contre, tout le monde envisage de manière naturelle ses forces et ses faiblesses face à une situation, sans pour autant les quantifier. Cette évaluation instinctive pondère notre espoir de succès. C'est exactement ce que reflète ce système de résolution : *chaque mise n'est pas un chiffre, c'est un espoir.*
+
+_Par exemple, quand un initié d'Orlanth charge au combat, il mise plutôt sur la bourrasque de vent providentielle qui déséquilibre son ennemi (l'opportunité), sur son épée large en fer, et sur la magie "Lame de Foudre" qui crépite sur son arme. En face, le légionnaire lunaire ne calcule pas non plus de pourcentages. Il mise sur sa discipline de phalange (le contrôle), sur son grand bouclier lourd, et sur la bénédiction de la Lune Rouge qui rend ce bouclier exceptionnellement résistant. Cette confrontation d'espoirs se traduit par 3 mises pour l'Orlanthi (Vent + Épée + "Lame de Foudre" qui renforce l'arme) contre 3 mises pour le Lunaire (Discipline + Bouclier + Bénédiction qui renforce la défense)._
+
+Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde de Glorantha doit être vu par des prismes très différents. Il garantit ainsi une cohérence forte entre les mécaniques de jeu utilisées et le cadre de pensée spécifique des personnages.
+
+Attention, ces règles ne remplacent aucunement vos lectures et réflexions sur ce monde, basées sur la somme colossale qui a déjà été écrite à son sujet.
+
+== B. Glorantha pour les débutants
+
+Pour harmoniser les attentes d'un groupe de joueurs et présenter rapidement l'univers, voici les grands principes incontournables de Glorantha :
+
+- Les personnages n'appartenant pas à une communauté sont rarissimes.
+- Le cadre visuel est équivalent à l'Âge de Bronze. On y trouve des cultures primitives, barbares, ainsi que des débuts de civilisations comme l'Empire Lunaire, l'Empire Solaire ou l'Occident.
+- Les runes sont partout : elles ornent les tatouages, les gravures, les fresques, les armures et les armes.
+- La magie est visible : l'air bourdonne, une aura apparaît, et les éléments physiques y participent parfois.
+- En règle générale, on respecte son adversaire et la vie, à l'exception du Chaos.
+- Le tutoiement est généralisé dans le monde. L'Ouest fait figure d'exception, car il y existe une stricte hiérarchie de castes.
+- Le monde est plutôt chatoyant. Les exceptions notables sont les Brithinis (des Malkioni intégristes et immortels) et certaines régions particulièrement sauvages.
+- La monnaie est utilisée pour les échanges, mais elle demeure rare et réservée aux marchands ou à certaines professions aventureuses. Dans la vie de tous les jours, c'est le troc et la petite monnaie qui sont de mise.
+- La magie de soins repousse la mort et accélère une guérison. Cependant, elle ne fait pas repousser les membres amputés.
+
+== C. Les grands cadres de pensée
+
+Dans l'univers de Glorantha, la façon d'appréhender la réalité modifie la réalité elle-même. Conformément au mono-mythe Jrusteli, il existe quatre grands cadres de pensée :
+
+- _L'animisme_.
+- _Le théisme_.
+- _La logique du Dieu Invisible_.
+- _Le mysticisme_.
+
+À ces visions du monde s'ajoute un 5ème cadre de pensée particulièrement complexe : _les Dragons et les Dragonewts_.
+
+Ces cadres de pensée sont fondamentaux : ce sont eux qui permettent aux personnages de se positionner par rapport au monde et de poser des mises lorsqu'ils sont face à un conflit ou un obstacle. C'est ensuite la narration qui définit ce qui va concrètement rentrer en jeu dans la résolution de l'action.
+
+[part]
+= II. Les Protagonistes
+
+Dans _Glorantha Perspectives_, les personnages ne sont pas définis par des caractéristiques chiffrées (Force, Dextérité, etc.), mais par des *mots-clés* narratifs. Ces mots-clés puisent directement dans la "Gloranthologie" (le lore du monde) et servent à justifier les atouts et les handicaps (les fameuses "mises") lors d'un conflit.
+
+Un mot-clé précis et coloré (ex: _Vétéran désabusé de la Rébellion de Sartar_) sera toujours plus intéressant et générateur de jeu qu'un mot-clé générique (ex: _Guerrier_).
+
+== A. La Création des Personnages Joueurs (PJ)
+
+Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fiche de personnage se découpe en plusieurs facettes :
+
+- *Identité :* Nom, Âge, et une *Citation / Phrase type*. Cette phrase résume la philosophie du personnage et donne une accroche de _roleplay_ immédiate au joueur.
+- *Origines & Communauté :* Les loups solitaires n'existent pas (ou survivent peu) dans Glorantha. Le personnage doit définir sa Culture (Sartarite, Tarshite, Esrolien, Uz, etc.) et sa Communauté précise (Clan, Tribu, Cité, Régiment).
+- *Cadre de Pensée :* C'est le prisme à travers lequel le personnage voit le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École de Lhankor Mhy).
+- *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments ou Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
+    - _Exemple :_ Un personnage lié à la rune de l'Air sera fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion sera secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
+- *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
+- *Liens & Attaches :* Ce qui relie le personnage aux autres. Ce peuvent être des alliés, des ennemis, ou des dettes (ex: _Haine viscérale de la tribu des Sangliers, Dévoué corps et âme à sa sœur_).
+
+== B. Les Personnages Non-Joueurs (PNJ)
+
+La Destinée (le meneur/narrateur) n'a pas besoin de ce niveau de détail pour faire vivre le monde. Les PNJ peuvent être créés à la volée, de manière très légère. Un cadre de pensée, un objectif, et un ou deux mots-clés suffisent pour générer leurs mises.
+
+L'Arche d'Anaxial ou les suppléments HeroQuest sont des bases solides pour avoir des listes de mots clés déjà près.
+
+== C. Exemples de Création
+
+=== Exemple 1 : Un PJ Orlanthi détaillé
+
+____
+*Nom :* Varmand "Briselance" (24 ans)
+*Citation :* _"La tempête ne demande pas la permission pour souffler !"_ *Origines :* Culture Sartarite, Clan des Pommiers.
+*Cadre de pensée :* Théiste (Initié d'Orlanth Aventureux).
+*Runes :*
+
+- _Air :_ Impulsif, colérique, bruyant.
+- _Mouvement :_ Agité, incapable de rester en place, déteste l'enfermement.
+- _Mort :_ Impitoyable envers les ennemis de son clan.
+*Mots-clés :* Tacticien de raid, Épée large héritée de son père, Voix qui porte au-dessus du tumulte, Ne sait pas mentir.
+*Liens & Attaches :* Veut venger son frère tué par les Lunaires, Amour secret pour la Prêtresse du clan voisin.
+____
+
+_En jeu : Lors d'un conflit pour galvaniser ses troupes, Varmand pourra mettre en jeu sa "Voix qui porte", sa rune d'Air (passion) et son "Épée héritée" (symbole de légitimité) pour poser 3 mises de plus._
+
+=== Exemple 2 : Un PNJ Lunaire (Light)
+
+____
+*Nom :* Centurion Phargos
+*Cadre de pensée :* Logique (Philosophie martiale de l'Empire).
+*Objectif :* Maintenir l'ordre et faire payer les taxes.
+*Mots-clés :* Vétéran discipliné, Formation en phalange, Armure d'hoplite lourde, Arrogance impériale.
+____
+
+_En jeu : Phargos est un obstacle solide. Face à des rebelles, il utilisera sa discipline, sa formation et son armure pour générer facilement 3 mises de plus._
+
+[part]
+= III. Le Moteur Narratif: Camps, Mises & Résolutions
+
+Le système est conçu pour ne recourir aux dés que lorsque le destin est incertain et qu'une potentielle bifurcation narrative apparaît. L'idée centrale est simple : face à l'adversité, on mise sur tout ce qui pourrait nous servir dans cette situation, et l'obstacle ou l'adversaire fait de même.
+
+== A. Déterminer les Camps et les Mises
+
+Pour déterminer les atouts qui vont peser dans la balance (les "mises"), il faut analyser les objectifs de chaque camp en présence :
+
+- *Les mises du Camp A :* Elles sont constituées des éléments qui favorisent l'objectif de A (A+) auxquels on ajoute les faiblesses ou obstacles qui contrecarrent l'objectif de B (B-).
+- *Les mises du Camp B :* Elles sont constituées des éléments qui favorisent l'objectif de B (B+) auxquels on ajoute les faiblesses ou éléments qui contrecarrent l'objectif de A (A-).
+
+*L'art de chercher des mises :* La recherche de mises est totalement libre et guidée par le bon sens ainsi que la connaissance de Glorantha. Il ne faut surtout pas se limiter aux mots-clés de la fiche du personnage ! Ces derniers sont avant tout des réservoirs et des sources d'inspiration. L'imagination des joueurs et du meneur (la Destinée) doit être stimulée par l'immersion dans le monde afin de dénicher n'importe quel atout diégétique pertinent.
+
+L'opposition se résume alors à confronter ces deux groupes de mises. Une fois le nombre total de mises connu pour chaque camp, on perd le lien mental entre l'élément narratif (le facteur) et le dé qu'il apporte. On ne s'intéressera plus qu'au nombre de réussites finales de chaque camp.
+
+== B. Le Focus et les Facteurs Cadres
+
+La détermination des mises n'est pas une simple liste d'attributs. En s'immergeant dans la situation, chaque partie détermine ce qui est réellement important à ce moment-là : c'est le Focus. De plus, l'environnement peut imposer un Facteur Cadre, un élément tellement impactant qu'il exprime ce qu'il sera impossible de tenter et force les mises à s'aligner.
+
+____
+*Exemple d'opposition : Kallyr face à Yanela*
+
+- *La situation :* Kallyr (Théiste) veut convaincre Yanela (Grande Prêtresse d'Ernalda) de lui confier la relique du Bâton Tremble-Terre pour protéger son clan. Yanela refuse, voulant préserver la relique dans la stase du temple.
+- *Le Focus :* L'opposition étant purement politique et rhétorique, les atouts physiques de Kallyr (comme Épéiste fulgurante ou Épée longue en fer) ne sont pas pris en compte dans ses mises.
+- *Le Facteur Cadre :* La scène se déroule dans le Saint des Saints d'Ernalda, régi par le mythe de La Paix d'Ernalda. Toute forme d'agression y est métaphysiquement étouffée. Kallyr ne peut donc recourir à son trait Colérique ou à l'intimidation sous peine d'être paralysée par la magie du lieu.
+- *Bilan :* Le conflit met en balance les arguments de Kallyr (Lignée royale, Éloquence, Urgence, desservis par son Impatience juvénile) face à ceux de Yanela (Devoir Sacré, Stase du Temple, Méfiance culturelle, desservis par son Amour de la communauté). L'opposition se résout sur un strict 4 mises contre 4 mises.
+____
+
+== C. Gérer la Difficulté : La Jauge de Destin
+
+Pour équilibrer les difficultés narratives au fil de la partie (en groupe ou en solo), la Destinée peut utiliser une jauge globale.
+
+- La jauge démarre à zéro.
+- On peut la représenter par des dés ou des jetons : une couleur marquée de la rune de la chance pour les héros (+1), et une couleur marquée de la rune du destin pour l'adversité (-1).
+- Si les héros affrontent un conflit avec moins de mises que l'adversité, la jauge gagne un jeton Héros par différence de mises pour compenser ce déséquilibre (le destin tournera bientôt en leur faveur). Et inversement.
+- Si le meneur impose une difficulté narrative gratuite, il accorde un jeton Héros. Inversement, un avantage sans conflit pour les héros fera gagner un jeton Adversité à la jauge.
+- Ces points accumulés servent de guide pour ajuster les mises des futurs conflits et créer une "respiration" dans le récit.
+
+== D. Les Obstacles Abstraits
+
+Comment résoudre un tirage face à un obstacle non rattaché à un cadre de pensée (escalader une montagne, résister au climat) ? Deux options s'offrent à vous :
+
+- *Le mode Miroir :* L'obstacle est résolu avec le même cadre de pensée que le protagoniste (ex: les règles du mysticisme pour un mystique). C'est le cadre recommandé quand l'enjeu représente un véritable dépassement de soi.
+- *Le mode Agnostique (Le monde médian) :* Les pairs (2, 4, 6) sont des réussites et les impairs (1, 3, 5) sont des échecs, sans aucune autre règle d'ajustement. Ce cadre est utilisé lorsque l'enjeu est mineur et n'implique pas le personnage émotionnellement.
+
+== E. Résolution, Interprétation et Rétributions
+
+Chaque camp effectue son tirage de dés selon les règles spécifiques de son Cadre de Pensée (Théisme, Animisme, Logique, Mysticisme). Celui qui obtient le plus de réussites remporte le conflit.
+
+*Graduation du Résultat :*
+
+- *Différence de 2 réussites ou plus :* L'action se solde par un Exploit (ou un Fiasco).
+- *Différence de 1 réussite :* L'action se solde par une Victoire ou Succès (ou une Défaite ou Échec).
+- *Égalité :* L'action aboutit à un Status-quo (ou Revers). S'il est impossible de rester sur un status quo narratif, chaque camp rajoute une mise supplémentaire symbolisant la surenchère, et l'on procède à un nouveau tirage.
+
+*Les Rétributions :*
+
+Le système évite au maximum le méta-jeu : il n'y a pas de bonus ou de malus mécaniques de fin de partie. Les personnages évoluent de manière diégétique, c'est-à-dire par la narration. Au cours des aventures, la Destinée leur accorde des rétributions narratives comme de nouveaux liens, des attaches, des cadeaux, un nouveau pouvoir ou une prise de conscience.
+
+[part]
+= IV. Les Cadres de Pensée
+
+Dans Glorantha, la magie n'est pas une simple liste de sorts, c'est une façon de voir le monde et d'interagir avec lui. Tout est magique en quelque sorte. La magie c'est la façon de voir le monde. La mécanique de résolution s'adapte donc à la philosophie du personnage.
+
+== A. Le Théisme : La Voie des Dieux
+
+*Philosophie :* Un théiste interprète le monde à travers les actes exemplaires des Dieux de son panthéon et de son culte. Face à un obstacle, il se moule dans un cadre préexistant, reproduisant des actes et des pensées normées, dans l'espoir d'obtenir un soutien ou une manifestation divine.
+
+Noms péjoratifs donnés par les autres cultures : esclaves, moutons, adorateurs de faux-dieux.
+
+*Règles de résolution :* On rappelle nos propres exploits et la gloire de nos Dieux, et on laisse ces derniers juger qui est digne de triompher.
+
+- Les dés *pairs (2, 4, 6)* sont des réussites.
+- *L'Intervention Divine :* Les 6 permettent de relancer des dés impairs (soutien divin). Cet effet est cumulatif si le nouveau tirage donne encore un 6. Si le joueur n'a plus de dés impairs à relancer, un 6 lui permet de gagner de nouveaux dés à lancer (une véritable manifestation divine).
+
+*Modes de puissance :*
+
+- *Affaibli :* Les 6 n'ont plus d'effet explosif.
+- *Héroïque :* N'importe quel dé pair permet de relancer un dé impair.
+
+*Accessoire (Les Cartes Runiques) :* Pour une immersion totale, remplacez les dés par un paquet de 60 cartes : 10 cartes de la Rune majeure du Dieu (les 6), 20 cartes de runes mineures (les 2 et 4), 20 cartes neutres (les 3 et 5) et 10 cartes de la rune la plus opposée au Dieu (les 1).
+
+== B. L'Animisme : Le Monde des Esprits
+
+*Philosophie :* Un animiste ressent en permanence le lien entre le monde visible et invisible. Il se tient sur le seuil, entre le mondain et le spirituel, troquant avec les esprits environnants pour capter leurs énergies. Le focus spécifique sur les tirages impairs représente l'attention permanente du personnage tournée vers le monde spirituel.
+
+*Noms péjoratifs donnés par les autres cultures :* primitifs, sauvages.
+
+*Règles de résolution :* On appelle à soi les esprits du lieu et nos alliés invisibles, puis on écoute si le monde choisit de nous répondre.
+
+- Les dés pairs (2, 4, 6) comptent comme une réussite (les esprits répondent).
+- *Le Pacte Spirituel (Double impair) :* Les dés impairs représentent les esprits locaux, erratiques par nature. Cependant, si deux dés affichent exactement la même face impaire (ex : deux "3" ou deux "5"), ils forment ensemble 1 réussite. Cela traduit une résonance spirituelle entre la propre force spirituelle du personnage (l'un des dés) et un esprit spécifique (l'autre dé). Un pacte temporaire est alors scellé pour obtenir du soutien. Les impairs orphelins restent indifférents.
+- *Le Fétiche :* La relation avec les esprits est libre et spontanée. Il est possible de lier un esprit dans un fétiche (ou à l'inverse, subir le départ d'un esprit lié), mais cela ne survient qu'en cas de résultat narratif décisif. Cela demande l'obtention d'un *Exploit* (pour lier) ou la survenue d'un *Fiasco* (l'esprit s'enfuit).
+
+*Modes de puissance :*
+
+- *Affaibli :* Le lien avec le monde des esprits est rompu. Les pactes spirituels deviennent impossibles à sceller : les *"double impairs"* ne comptent plus et ne génèrent aucune réussite. Seuls les esprits indépendants (les dés pairs) continuent de se manifester. De plus, il devient impossible de lier des esprits.
+- *Héroïque :* Alignement spirituel. Si le plus petit dé et le plus grand dé tirés sont de même parité (tous deux pairs ou tous deux impairs), le personnage obtient une réussite totale sur toutes ses mises.
+
+*Accessoire (Le Spirit Bag) :* Remplacez les dés par un sac contenant 60 objets (cailloux, os, bouts de bois) marqués de runes rouges (les succès), de marques vertes/noires pour distinguer les impairs et chercher les doubles.
+
+== C. La Logique : Le Dieu Invisible
+
+*Philosophie :* Un logicien a une vision "scientifique" et rationnelle du monde : cause et effet, ingrédients et recette. Son Dieu est invisible et ne se manifeste pas ; on s'en approche uniquement par l'étude, la quantification et la raison.
+
+Noms péjoratifs donnés par les autres cultures : sorcellerie, sorciers, matérialistes, vampires.
+
+*Règles de résolution :* Face à un problème, on aligne son savoir et ses ressources, et on mesure avec justesse si la somme de nos forces surpasse l'obstacle.
+
+- On additionne simplement la valeur de tous les dés tirés, puis *on divise la somme totale par 5*.
+- Le résultat (arrondi à l'inférieur) donne le nombre de réussites. C'est le seul mode où les chiffres pairs ne sont pas intrinsèquement des réussites, symbolisant le fait que l'on ne doit compter que sur soi-même, sans miracle.
+
+*Modes de puissance :*
+
+- *Affaibli :* On divise la somme par 6.
+- *Héroïque :* Le stade est graduel selon la maîtrise. On divise par 4, puis par 3, 2, voire 1 pour un être comme Zzabur.
+
+== D. Le Mysticisme : L'Illumination
+
+*Philosophie :* Un mystique perçoit l'illusion du réel et de la dualité. Il ne lutte pas contre le monde, il observe comment les volontés s'entremêlent pour révéler les transformations, sachant qu'il n'y a pas de vérité absolue.
+
+Noms péjoratifs donnés par les autres cultures : nihilistes, charlatans.
+
+*Règles de résolution :*
+
+- Les dés *pairs (2, 4, 6)* sont des réussites.
+- *L'Annihilation :* Les 1 du mystique font disparaître les 6 de _l'autre camp_, et disparaissent en même temps. La résolution se fait toujours _après_ le tirage adverse complet (relances incluses), car le mystique révèle _a posteriori_ l'illusion du succès de son ennemi. Ainsi, un tirage semblant faible peut se transformer en immense succès mystique.
+
+*Modes de puissance :*
+
+- *Affaibli :* Il faut utiliser deux "1" mystiques pour annuler un seul "6" adverse.
+- *Héroïque :* Le mystique choisit : soit il obtient automatiquement autant de réussites que son adversaire sans justification, soit il tire normalement mais ses "1" peuvent "voler" n'importe quel dé adverse pour en prendre la valeur (l'adversaire est mis face à sa propre vanité).
+
+*Accessoire (Les Billes Mystiques) :* Un sac de 60 billes colorées. 10 noires (les 6), 20 grises (paires), 20 blanches (impaires) et 10 bicolores ou rouges (les 1 annulateurs).
+
+== E. La Pensée Draconique : Le Rêve du Dragon
+
+*Philosophie :* La magie draconique utilise la Rune de l'Infini comme une jauge. Un adepte lit le monde à travers des paradoxes. Il sait que forcer la réalité avec sa magie (le _Wyrm_) retarde sa propre évolution vers le stade de Vrai Dragon. Son véritable pouvoir réside dans sa capacité à renoncer à la victoire (l'_Utuma_).
+
+Noms péjoratifs donnés par les autres cultures : monstres, incompréhensibles.
+
+*Règles de résolution :* Les mises draconiques se jouent avec des *D8* (représentant les 8 runes de pouvoir).
+
+- *L'Action Normée (Matérialisme) :* Tout dé pair (2, 4, 6, 8) compte pour une réussite classique, sans conséquence spirituelle.
+- *Le Déchirement Draconique :* Si le tirage révèle un motif supérieur — _La Stase de l'Œuf_ (des dés de valeur identique) ou _L'Ouroboros_ (un 1 et un 8 simultanés) — un choix strict s'impose au joueur :
+    - _Le Wyrm :_ Le motif est converti en réussites pour écraser l'adversaire. Mais le personnage tord la réalité : il gagne le conflit matériel, mais régresse spirituellement et gagne une attache négative.
+    - _L'Utuma (Le Sacrifice) :_ Le personnage ignore le motif pour maintenir son évolution. Il perd l'avantage matériel (voire la vie), mais s'élève spirituellement pour sa prochaine incarnation.
+
+*Modes de puissance :*
+
+- *Affaibli :* Engourdi par la matière, le personnage est forcé d'assigner ses motifs complexes au Wyrm et de subir la régression.
+- *Héroïque (L'Éveil) :* Le paradoxe s'efface. Le personnage n'a plus à choisir : ses motifs (Stase et Ouroboros) comptent comme des réussites éclatantes _ET_ il gagne les bénéfices spirituels de l'Utuma. Il tord la réalité sans s'y lier, comprenant que le monde n'est que son propre rêve.
+
+== F. Les Influences Extérieures : La Voie Lunaire
+
+La magie lunaire est soumise au cycle lunaire lorsqu'elle est pratiquée en dehors de la ligne brillante. À l'intérieur de cette frontière qui encercle l'Empire Lunaire, la lune est toujours pleine et la magie n'est donc pas soumise à ces fluctuations.
+
+En dehors des phases de Pleine Lune et de Nouvelle Lune, les règles normales de résolution s'appliquent pour tous les cadres de pensée.
+
+_Note : Les adeptes du Mysticisme et de la Pensée Draconique ne sont jamais concernés par ces règles ; pour eux, les cycles lunaires ne sont qu'une réalité illusoire à dépasser_.
+
+*La Pleine Lune*
+
+Lors de cette phase, on assiste à une incursion du mysticisme dans les autres modes de pensée : on regarde vers le 1, l'unité et l'inclusion. Bien que ce ne soit pas un véritable mode héroïque, sentir les effets de la pleine lune fait toucher du doigt la possibilité d'un dépassement pour un Lunaire.
+
+- *Logique :* On ajoute 1 à chaque dé.
+- *Théisme :* On peut relancer les 1.
+- *Animisme :* La présence de la Lune exacerbe la résonance du Pacte Spirituel avec les esprits les plus insondables. Les *"double 1"* ne forment plus une simple réussite, mais génèrent exceptionnellement *2 réussites*.
+
+*La Nouvelle Lune*
+
+Cette phase représente le creux de la puissance magique pour les mortels soumis aux cycles.
+
+- *Logique :* Le cadre de pensée bascule en mode affaibli.
+- *Théisme :* Le cadre de pensée bascule en mode affaibli.
+- *Animisme :* Le cadre de pensée bascule en mode affaibli.
+
+== G. L'Illumination : S'affranchir de la Toile
+
+Dans Glorantha, l'Illumination est une réalisation foudroyante, souvent initiée par les énigmes de Nysalor ou la philosophie lunaire. C'est la compréhension profonde que les lois cosmiques, la séparation des éléments, et même la dualité stricte entre le Cosmos et le Chaos, ne sont que des concepts relatifs. Un Illuminé comprend la vaste blague de l'univers : la Toile d'Arachne Solara existe, mais il n'y a rien derrière.
+
+*La Règle de l'Éveil : Le choix du « 1 »*
+
+L'Illumination ne s'acquiert pas par des points d'expérience ou à la création du personnage. Elle survient en cours de jeu, lors d'un moment de crise où le personnage décide de transgresser sa propre nature.
+
+Lors d'une résolution de conflit, un joueur utilisant un cadre de pensée classique (Théisme, Animisme ou Logique) peut décider de "jouer ses 1".
+
+En faisant ce choix conscient, le joueur déclare que son personnage s'affranchit des limites de sa foi ou de sa science. Il perçoit l'illusion de la victoire adverse.
+
+- *L'Effet Immédiat (L'Annihilation) :* À l'instar des règles du cadre de pensée Mystique, les « 1 » tirés par le joueur font disparaître les « 6 » du camp adverse, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
+- *La Révélation :* Dès cet instant, le personnage est définitivement Illuminé.
+
+*Les Conséquences de l'Illumination*
+
+Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. Il bénéficie d'une liberté nouvelle, mais en paie le prix fort.
+
+- *L'Héritage du Cadre :* Le personnage ne change pas de cadre de pensée. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
+- *La Perméabilité aux Contradictions :* Le personnage n'est plus bridé par les contradictions de son culte. Il peut, sur le plan narratif, allier des forces opposées (utiliser une magie de Stase et de Mouvement simultanément) sans en subir les chocs en retour habituels, car il a compris qu'elles ne font qu'un.
+- *La Tare de l'Hérétique :* L'Illumination a une odeur. Les êtres fanatiques, dogmatiques ou liés à des principes absolus (comme les initiés du Taureau Tempête, les inquisiteurs ou les esprits très anciens) ressentent intuitivement cette absence de limites morales et cosmiques. Pour eux, l'Illuminé dégage une aura contre-nature, souvent assimilée au Chaos lui-même. Le personnage gagne un trait négatif permanent tel que _Hérétique_, _Abomination aux yeux des fanatiques_, ou _Aura de Nysalor_, qui servira systématiquement de mise contre lui lors de conflits sociaux ou spirituels avec ces factions.
+
+== H. La Souillure du Chaos : L'Anti-Règle
+
+____
+_"Le Chaos n'est pas fort parce qu'il a de meilleures armes. Le Chaos est fort parce qu'il ne joue pas au même jeu que nous."_
+
+— Un initié du Taureau Tempête, avant de charger une horde de Broos.
+____
+
+Le Chaos est la force de l'entropie et de la destruction du Cosmos. Mécaniquement, pactiser avec le Chaos (volontairement ou par désespoir) permet de briser les règles fondamentales du jeu, mais le prix à payer est une corruption physique ou spirituelle permanente : la Souillure.
+
+*La Tentation Chaotique (La Triche)*
+
+Lorsqu'un personnage fait face à une mort certaine, à un échec cuisant, ou qu'il est bloqué par un Facteur Cadre (comme la stase d'un temple), le joueur peut invoquer la force du Chaos pour s'en sortir. Cela se traduit narrativement par un acte contre-nature (absorber l'énergie d'un artefact impie, sacrifier un allié, ou laisser la corruption s'exprimer).
+
+Mécaniquement, le joueur s'octroie un avantage absolu qui viole le moteur de résolution :
+
+- Il peut *convertir instantanément* n'importe quel dé de son tirage en un succès critique (un 6, un pair, etc., selon son cadre).
+- Ou il peut *ignorer totalement un Facteur Cadre* pour imposer ses propres Mises.
+
+*La Contrepartie : La Souillure*
+
+Le Chaos donne toujours, mais il corrompt tout ce qu'il touche. En échange de cette triche cosmique, le personnage gagne un Mot-Clé de Souillure (ex: _Bras tentaculaire_, _Peau purulente_, _Soif de chair fraîche_, _Voix d'outre-tombe_).
+
+*Le Poids du Chaos (Mécanique de la Tare)*
+
+Contrairement aux autres Mots-Clés du personnage, une Souillure ne peut *jamais* être utilisée par le joueur pour générer une Mise positive en sa faveur. Le Cosmos rejette viscéralement le Chaos.
+
+- *L'Hostilité du Monde :* Désormais, chaque fois que le personnage entreprend une action impliquant la nature, les dieux, ou la société saine, la Destinée (le meneur) utilise _automatiquement_ ce Mot-Clé de Souillure comme une *Mise supplémentaire pour l'adversité*.
+- *La Spirale :* Plus un personnage triche en utilisant le Chaos, plus il accumule de Souillures, augmentant constamment le nombre de Mises contre lui dans sa vie quotidienne, jusqu'à ce qu'il ne puisse plus survivre au sein du Cosmos et devienne un monstre injouable.
+
+[part]
+= V. Haute Magie : Mythes et Quêtes Héroïques
+
+L'univers de Glorantha est forgé par les mythes : les histoires de ce qui s'est passé pendant le Temps des Dieux. Ces mythes continuent d'avoir un impact sur le monde réel, et la connaissance du mythe originel fournit bien souvent la solution aux problèmes du présent.
+
+== A. Les Quêtes Héroïques (HeroQuesting)
+
+Une Quête Héroïque ne consiste pas simplement à accomplir un exploit physique, mais à marcher physiquement ou spirituellement dans les pas des Dieux.
+
+- *Le Principe :* Il faut réussir à accéder à l'Autre Côté (l'Outremonde) puis réaliser les étapes successives d'un mythe.
+- *Enjeux et Synchronicité :* Une quête héroïque crée une synchronicité absolue entre le monde divin et le monde réel (dans les deux sens). Le système de résolution (les "mises") permet de déterminer narrativement le niveau de victoire de la quête et, surtout, de décrire les effets concrets et durables sur le monde réel.
+- *Le Prix à payer :* Le héros met très souvent en gage une de ses aptitudes avant de commencer la quête. S'il accède à l'Autre Côté, son cadre de pensée bascule en "Mode Héroïque", mais il affrontera des entités bénéficiant du même avantage.
+- *Le Chemin du Mythe :* Les héros ont tout intérêt à suivre le chemin balisé du mythe, car celui-ci façonne et confirme la réalité telle qu'elle est. Mais il est possible de s'en écarter, à ses risques et périls : réussir une déviation permet de changer littéralement la réalité du monde réel !
+
+== B. Créer des Mythes (Outil pour la Destinée)
+
+En tant que Destinée, vous serez amené à inventer des mythes pour alimenter vos joueurs (ou votre jeu solo) en connaissances. Chaque initié d'un Dieu connaît au moins le mythe associé à son initiation.
+
+*Les ingrédients d'un mythe :*
+
+1. Une divinité (ou un Héros majeur si le mythe date de l'Âge de l'Histoire).
+2. Des éléments de la vie de tous les jours.
+3. Une problématique précise.
+4. La résolution de la problématique, qui explique _pourquoi les choses sont maintenant telles qu'elles sont_.
+
+*La construction (L'approche enfantine et mythologique) :*
+
+- *Pourquoi ? :* Posez une assertion simple, voire enfantine (ex: _"Pourquoi les chiens et les chats ne s'entendent-ils pas ?"_). Le corollaire de cette question est l'acceptation d'un état initial différent (_"Au départ, ils étaient frères"_).
+- *Comment ? :* Construisez le mythe en expliquant comment on en est arrivé là, en faisant intervenir des éléments divins (ex: _"Yinkin fut attaqué par des loups et sauvé par des alynx, vouant depuis une haine aux canidés"_). Un mythe riche inclura les divinités de panthéons rivaux.
+
+*La Règle de Trois :*
+
+À l'instar des contes, les mythes gloranthiens sont souvent composés selon la règle de trois : trois épreuves, trois étapes, trois objets. Par exemple, c'est à la quatrième épreuve (celle des armes) qu'Orlanth tua l'Empereur Yelm, après avoir "échoué" aux trois premières (la danse, la magie, la musique).
+
+== C. L'Ultime Quête : Découvrir un nouveau cadre de pensée
+
+Il est tout à fait possible d'imaginer une Quête Héroïque dont le but n'est pas de rejouer le passé, mais d'élaborer de tout nouveaux ajustements des règles du monde pour ceux qui détiendraient une Rune spécifique (comme ce fut le cas pour la Rune Lunaire ou l'Infini avec Ouroboros).
+
+- *Transformer le monde :* L'acte est profondément héroïque, car il ne s'agit pas seulement de changer le monde, mais de changer substantiellement _la façon dont on agit avec le monde_. À grande échelle, c'est ce qui transforme littéralement la réalité gloranthienne.
+- *Le défi de conception :* La seule règle immuable de Glorantha Perspectives reste la balance du destin (les mises de A contre les mises de B devant aboutir à un résultat). Le plus difficile — et la vraie réussite de cette quête — est de créer une règle qui reflète parfaitement cette nouvelle façon de penser, pour que le _gameplay_ (le tirage des dés) soit parfaitement en phase avec le _roleplay_ (la philosophie naissante). N'est-ce pas là la vraie Quête Héroïque finalement ?
+
+[part]
+= VI. La Boîte à Outils de la Destinée (Exploration & Inspiration)
+
+Cette dernière partie rassemble les ressources diégétiques permettant d'insuffler la couleur si particulière de Glorantha dans vos parties, que ce soit pour générer des rebondissements, ancrer l'histoire dans le quotidien, ou définir le format de votre table de jeu.
+
+== A. L'Inspiration Runique
+
+Les Runes sont les briques du monde ; elles tissent la réalité, s'immiscent partout et dessinent la trame du Destin. En début de saison, au commencement d'une situation, ou lors d'une panne d'inspiration, la Destinée peut tirer deux Runes de pouvoir (via 2D8 ou 8 cartes) et associer leurs concepts pour faire émerger une idée.
+
+_Note sur la numérologie : La correspondance numérique de 1 à 8 avec les runes de pouvoir s'est perdue dans les méandres du temps. Certains érudits murmurent qu'elle viendrait d'un antique groupe de Logiciens ou d'un courant mystique oublié cherchant à quantifier l'indicible._
+
+=== Tableau Synthétique des Runes de Pouvoir
+
+[cols="1,2,3,2,2", options="header"]
+|===
+| Chiffre | Rune | Thème Principal | Question | Direction
+
+| *[1]* | *Mouvement* (Découverte) | Ce qui est autour, le monde, lieux | Où ? | En-dessous
+| *[2]* | *Mort* (Menace) | Ce qui est différent, l'autre, l'ennemi | Qui ? | À droite
+| *[3]* | *Harmonie* (Relations) | Ce qui relie, émotions, sentiments | Quoi ? | À gauche
+| *[4]* | *Stase* (Loi) | Ce qui est figé, moralité, autorité | Comment ? | Devant
+| *[5]* | *Vie* (Ressources) | Ce qui est nécessaire, matériel | Combien ? | Derrière
+| *[6]* | *Désordre* (Révélation) | Ce qui surprend, rebondissement | Quand ? | Au-dessus
+| *[7]* | *Vérité* (Savoir) | Ce qui doit être cherché, étudié | Pourquoi ? | Dedans
+| *[8]* | *Illusion* (Mystère) | Ce qui est caché, tromperie, vain | À moins que ? | Nulle part / Partout
+|===
+
+=== Description détaillée des correspondances runiques
+
+- *[1] Découverte (Mouvement)*
+    - *Corps :* Jambes.
+    - *L'instant (Le Transit) :* Le temps qui s'écoule, l'éphémère, l'urgence de l'action en cours.
+    - *Distance (L'Approche) :* La distance dynamique, celle qu'on est en train de franchir (le voyage).
+    - *Relation (Le Passant) :* L'étranger croisé en chemin, l'éclaireur, le contact furtif ou nomade.
+    - *Objets :* Carte, boussole, longue-vue, bottes, véhicule.
+    - *Habitation :* Vestibule, couloir, observatoire, balcons.
+    - *Personnalités :* Curieux, explorateur, agité, instable.
+    - *Options militaires :* Éclairage, patrouille, manœuvre de contournement.
+    - *Musique :* le ré, le mode dorien
+
+- *[2] Menace (Mort)*
+    - *Corps :* Bras.
+    - *L'instant (L'Échéance) :* Le temps compté (le compte à rebours), la fin abrupte, le passé mort.
+    - *Distance (L'Abîme) :* La séparation radicale, la frontière infranchissable, la distance qui isole.
+    - *Relation (L'Exclu) :* L'ennemi juré, le banni, la rupture de ban, la relation rompue à jamais.
+    - *Objets :* Arme, poison, piège, symbole d'avertissement.
+    - *Habitation :* Armurerie, cachot, fosse, mur d'enceinte.
+    - *Personnalités :* Agressif, cruel, paranoïaque, protecteur.
+    - *Options militaires :* Assaut frontal, intimidation, raid destructeur.
+    - *Musique :* le si, le mode locrien
+
+- *[3] Relations (Harmonie)*
+    - *Corps :* Cœur.
+    - *L'instant (La Synchronicité) :* Le "Kairos" (le bon moment), le temps partagé, être "en phase".
+    - *Distance (La Proximité) :* L'espace partagé intimement, le réseau (la distance est abolie par le lien).
+    - *Relation (L'Allié Intime) :* L'âme sœur, le membre du clan, la synergie totale et l'entraide.
+    - *Objets :* Contrat, alliance (bijou), cadeau, instrument.
+    - *Habitation :* Salon, salle à manger.
+    - *Personnalités :* Empathique, diplomate, charmeur, dépendant.
+    - *Options militaires :* Négociation de trêve, soutien mutuel, coalition.
+    - *Musique :* le fa, le mode lydien
+
+- *[4] Loi (Stase)*
+    - *Corps :* Tronc.
+    - *L'instant (La Routine) :* L'éternité, le temps suspendu, le cycle immuable et répétitif.
+    - *Distance (L'Ancrage) :* Le point fixe absolu ("Ici"), l'immobilité, le repère immuable.
+    - *Relation (L'Institution) :* Le lien formel (hiérarchie, devoir familial), le supérieur, le vassal.
+    - *Objets :* Torque, fétiche, habits cérémoniels, balance, sceptre.
+    - *Habitation :* Salle de consultation, cour centrale, agora.
+    - *Personnalités :* Rigide, traditionaliste, autoritaire, inflexible.
+    - *Options militaires :* Formation stricte (phalange), siège, garnison.
+    - *Musique :* le do, le mode ionien
+
+- *[5] Ressources (Vie)*
+    - *Corps :* Parties génitales.
+    - *L'instant (La Croissance) :* Le temps qu'il faut pour mûrir, la patience récompensée, le cycle des saisons.
+    - *Distance (L'Expansion) :* Le rayonnement autour d'un centre, la zone d'influence, le domaine.
+    - *Relation (Le Nourricier) :* Le protecteur, le membre de la famille élargie, le créancier/débiteur.
+    - *Objets :* Bourse, provisions, outil de récolte.
+    - *Habitation :* Cuisine, cellier, grenier, coffre-fort.
+    - *Personnalités :* Pragmatique, travailleur, généreux, matérialiste.
+    - *Options militaires :* Logistique, ravitaillement, pillage, guerre d'usure.
+    - *Musique :* le sol, le mode mixolydien
+
+- *[6] Révélation (Désordre)*
+    - *Corps :* Les sens.
+    - *L'instant (L'Interruption) :* L'instant foudroyant, l'imprévu, la rupture brutale de la chronologie.
+    - *Distance (Le Labyrinthe) :* La distance erratique, la désorientation, le chemin brisé ou chaotique.
+    - *Relation (Le Traître) :* Le perturbateur, l'antagoniste imprévisible, le rival toxique.
+    - *Objets :* Objet cassé, objet rare.
+    - *Habitation :* Pièce inattendue, zone sinistrée ou détruite.
+    - *Personnalités :* Imprévisible, visionnaire, fou, rebelle.
+    - *Options militaires :* Tactique de choc, effet de surprise.
+    - *Musique :* le mi, le mode phrygien
+
+- *[7] Savoir, Connaissance (Vérité)*
+    - *Corps :* Tête.
+    - *L'instant (La Clarté) :* L'instant décisif, le fait historique immuable, la ligne temporelle exacte.
+    - *Distance (La Ligne Droite) :* Le plus court chemin, la trajectoire mesurée et absolue.
+    - *Relation (Le Garant) :* Le témoin fiable, la relation transparente et sans arrière-pensée.
+    - *Objets :* Livre, parchemin, instrument de mesure, relique.
+    - *Habitation :* Bibliothèque, scriptorium, bureau, autel.
+    - *Personnalités :* Érudit, rationnel, observateur, pédant.
+    - *Options militaires :* Renseignement, cryptographie, stratégie calculée.
+    - *Musique :* le la, le mode éolien
+
+- *[8] Mystère (Illusion)*
+    - *Corps :* Organes internes.
+    - *L'instant (Le Contretemps) :* Le faux souvenir, le temps perdu, la boucle trompeuse (l'attente vaine).
+    - *Distance (Le Mirage) :* L'espace trompeur (ce qui semble proche est loin, et inversement), l'impasse.
+    - *Relation (Le Masque) :* L'inconnu, le manipulateur, la relation fondée sur un non-dit ou un secret.
+    - *Objets :* Masque, double-fond, fausse monnaie, cape.
+    - *Habitation :* Passage dérobé, labyrinthe, pièce dissimulée.
+    - *Personnalités :* Secret, énigmatique, manipulateur, menteur.
+    - *Options militaires :* Camouflage, guerre psychologique, feinte, diversion.
+    - *Musique :* l'unisson
+
+=== Repères Temporels et Spatiaux
+
+En observant la réalité, les érudits ont établi ces échelles pour contraindre l'imagination gloranthienne ou générer des idées.
+
+[cols="1,4,4", options="header"]
+|===
+| Tirage | Repère Temporel (Le Temps) | Repère Spatial (L'Espace)
+
+| *[1]* | *Bien avant :* Le temps des origines. | *Ici :* L'Intime, la proximité de l'ombre.
+| *[2]* | *Il n'y a pas longtemps :* Passé proche, fluctuation. | *Proche :* Là où l'on vit, ce qui porte nos pas.
+| *[3]* | *Maintenant :* Le temps émotionnel, le présent. | *Séparé :* Le Séparateur, la frontière.
+| *[4]* | *Passé-Présent-Futur :* Le temps sociétal. | *Autour :* Le Vaste, l'espace à côté.
+| *[5]* | *Demain :* Futur proche, le changement. | *Loin :* L'Ailleurs, la lune dans le ciel.
+| *[6]* | *Futur :* Les longs cycles, futur lointain. | *Très loin :* L'Absolu, Yelm le lointain.
+|===
+
+Pour le temps, l'ordre de 1 à 6 correspond à l'ordre d'arrivée des Eléments: obscurité, eau, terre, feu, air, lune.
+
+image::image.png[]
+
+Pour l'espace, l'ordre de 1 à 6 correspond à ce qui est proche de nous et loin de nous.
+
+image::image.png[]
+
+== B. Le Quotidien Gloranthien
+
+=== Le Calendrier Aléatoire
+
+Utile pour déterminer l'influence de la magie (notamment lunaire), on peut tirer une date au hasard :
+
+- *Les Jours (2D6, on garde le 1er sauf double) :* [1] Gel (dernier croissant), [2] Eau (lune mourante), [3] Argile (nouvelle lune), [4] Vent (1er croissant), [5] Feu (1er quartier), [6] Sauvage (pleine lune), [Double] Divin (dernier quartier).
+- *Les Semaines (1D8) :* [1] Désordre, [2] Harmonie, [3] Mort, [4] Fertilité, [5] Stase, [6] Mouvement, [7] Illusion, [8] Vérité.
+- *Les Saisons (2D20, on garde le 1er sauf double) :* [1-4] Mer (printemps), [5-8] Feu (été), [9-12] Terre (fin d'été/automne), [13-16] Sombre (hiver), [17-20] Tempêtes (fin d'hiver agitée), [Double] Temps Sacré (période de rituels importants pour la nouvelle année).
+
+=== L'Économie
+
+Glorantha est un monde de communautés où le commerce reste très encadré par certains cultes. La monnaie est rare en dehors des cités.
+
+- *Monnaies Divines :* Régulent les grands échanges de la communauté.
+    - _Guilders :_ En bronze, sous forme de rune d'échange, réservés aux initiés d'Issaries.
+    - _Lunes :_ En argent, en forme de rune lunaire, pour tous au sein de l'Empire.
+    - _Roues :_ En or, de grosses pièces rondes (rune de Yelm), utilisées par l'élite Dara Happienne (valent 10 guilders).
+    - _Bolgs :_ Morceaux de plomb percés utilisés par les Uz (valent 1/100e de guilder).
+- *Petites Monnaies (et troc) :* Pour l'usage quotidien de la majorité. Pièces de cuivre (1/100e de Guilder), étoiles d'aluminium dans l'Empire Lunaire, clacks (pierres percées pour les Uz).
+
+== C. L'Empreinte des Runes
+
+Dans Glorantha, les runes ne sont pas de simples symboles abstraits, elles marquent physiquement le monde et ses habitants.
+
+- *Couleurs Runiques :* Les attributs physiques (peau, yeux, cheveux) peuvent être liés à la rune forte de naissance, d'initiation, ou en récompense d'une quête héroïque.
+    - _Air :_ Orange ou bleu.
+    - _Terre :_ Vert olive ou marron.
+    - _Lune :_ Rouge ou blanc.
+    - _Eau :_ Bleu ou blanc.
+    - _Obscurité :_ Gris terne ou noir.
+    - _Feu :_ Jaune ou rouge.
+- *Formes Runiques :* La société adapte sa géométrie aux runes.
+    - Les livres écrits ou imprimés sont triangulaires.
+    - La monnaie a la forme de la rune de l'échange (chez les Orlanthis).
+    - Les champs agricoles sont carrés, jamais rectangulaires.
+    - Les épées ont la forme de la rune de Mort.
+
+== D. Thèmes Gloranthiens & Multi-vers (YAG)
+
+=== Thèmes de la Guerre des Héros
+
+Le monde est suffisamment complexe pour traiter de nombreux thèmes. Voici quelques axes fondateurs pour vos campagnes :
+
+- *L'homme et le mythe :* Le Héros doit trouver sa place parmi les Dieux : se conformer, négocier, ou aller à leur encontre en rejouant ou modifiant les mythes.
+- *J'ai combattu, Nous avons vaincu :* Devise Orlanthi désignant la liberté de choisir ses ennemis. Ce combat individuel est une libération pour tous (comme Orlanth tuant Yelm pour libérer les dieux).
+- *Orlanth et la Déesse Rouge :* Orlanth est le changement et les vents libres. La Déesse Rouge cherche à étouffer cette liberté pour imposer sa paix trompeuse.
+- *Tradition et Progrès :* Des arrivistes remettent en cause les anciens modes de vie qui assuraient la paix. Les anciens s'insurgent contre cette explosion sociale, tandis que les jeunes se voient en novateurs.
+- *Cosmos et Chaos :* Les dieux gardent le Cosmos (l'Ordre Éternel) face au Chaos qui rassemble tout ce qui ne s'y adapte pas et cherche à le corrompre ou le détruire.
+- *L'Empire inclusif vs Cultures tribales :* L'Empire de Sedenya tente d'imposer une paix totale en absorbant les modes de vie de ses ennemis. Beaucoup luttent pour ne pas voir leur culture désintégrée.
+
+=== YAG (Yet Another Glorantha)
+
+En réponse à l'adage _YGWV (Your Glorantha Will Vary)_, voici une justification assumée pour s'éloigner du canon : Dans un futur lointain, une Quête Héroïque a débouché sur l'accouplement d'un Dragon avec Arachne Solara. De cette union, elle a pondu des milliers d'œufs. Chaque œuf qui éclot correspond à une version parallèle de Glorantha. Plus l'œuf est nervuré, plus la version s'éloigne de "l'histoire officielle". Personne n'a évidemment conscience d'être une version du monde issue d'un œuf. Vous êtes donc totalement libre de vos partis pris !
+
+== E. Les Modes de Jeu
+
+=== Jeu en Solo (Vous êtes la Destinée)
+
+Le jeu a été principalement pensé pour cette approche. Vous observez Glorantha vivre et mourir ; vous êtes les mains qui pèsent les Runes et la voix qui raconte.
+
+- *Incarner n'importe qui :* Vous pouvez jouer Araignée-Roc (la prêtresse Uz quasi divine connaissant les secrets d'Arachne Solara), l'œil du Dragon endormi sous la montagne, le fantôme d'un Érudit de l'Ambigu poursuivant ses expériences pour l'éternité, ou même voir le monde à travers les yeux d'un simple broo.
+- *En Pratique :*
+    1. Choisissez un cadre à explorer et créez vos protagonistes (de manière succincte ou détaillée).
+    2. Utilisez les runes de pouvoir pour répondre aux questions (qui, quoi, pourquoi...).
+    3. Imaginez une situation avec un conflit clair (une situation doit aboutir sur au moins un conflit pour être intéressante).
+    4. S'il y a incertitude, procédez aux oppositions en utilisant la *Jauge de Destin* pour équilibrer les gains et les pertes.
+    5. À la fin de la scène, faites un jet sous la valeur absolue du Destin : si le résultat est strictement inférieur, un rebondissement a lieu avant de passer à la scène suivante.
+
+=== Jeu en Groupe
+
+Bien que pensé pour le solo, le système brille également en groupe, à condition de faire preuve de pédagogie pour transmettre aux joueurs l'art de proposer des mises cohérentes avec le lore.
+
+- *Le Mode JDR Classique :* Un des joueurs endosse le rôle de la Destinée (le Meneur de Jeu), et les autres incarnent chacun un personnage. Le MJ a le dernier mot sur l'acceptation des mises et peut improviser l'histoire à partir des jets de runes.
+- *Le Mode Partagé :* Tous les joueurs autour de la table jouent à tour de rôle la Destinée. On commence par un joueur qui expose son idée, tire les runes et démarre l'histoire. S'il y a plusieurs PNJ/Obstacles, on se répartit les rôles pour déterminer les mises. On change de Destinée à chaque fin de scène (dans le sens des aiguilles d'une montre, par exemple). C'est un excellent moyen de mêler des experts du lore avec des joueurs découvrant l'univers.
