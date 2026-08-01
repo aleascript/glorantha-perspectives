@@ -56,57 +56,16 @@ Les fichiers générés se trouvent dans le dossier `_site/`.
 
 ## Outils
 
-Plusieurs scripts dans `tools/` permettent de générer un document unique contenant tout le contenu du site.
+Des scripts dans `tools/` permettent de générer le PDF du SRD.
 
 ### Prérequis techniques
 
-- **Python** 3.x (pour `generate-full-content.sh`)
-- **pandoc** (pour `generate-pdf.sh`)
-- **weasyprint** (pour `generate-pdf.sh`)
 - **asciidoctor-pdf** (pour `generate-srd-pdf.sh`)
-
-```bash
-# Ubuntu / Debian
-sudo apt install pandoc weasyprint
-
-# macOS (Homebrew)
-brew install pandoc weasyprint
-```
 
 ```bash
 # Installation d'asciidoctor-pdf (gem Ruby)
 gem install asciidoctor-pdf
 ```
-
-### `generate-full-content.sh`
-
-Génère `full-content/index.md` en concaténant toutes les pages Markdown de `content/rules/` et `content/notes/`. Le fichier inclut un front matter Jekyll pour être rendu comme page du site.
-
-```bash
-# Depuis la racine du projet
-python3 tools/generate-full-content.sh
-
-# Depuis tools/
-cd tools && python3 generate-full-content.sh
-```
-
-L'algorithme :
-1. Page d'index de la section → liens directs (même section) → orphelins
-2. Même logique pour chaque section (rules puis notes)
-
-### `generate-pdf.sh`
-
-Convertit `full-content/index.md` en `full-content/full-content.pdf` (A4, images intégrées, styles CSS).
-
-```bash
-# Depuis la racine du projet
-bash tools/generate-pdf.sh
-
-# Depuis tools/
-cd tools && bash generate-pdf.sh
-```
-
-Le fichier `tools/pdf-style.css` est généré automatiquement à la première exécution et peut être personnalisé.
 
 ### `generate-srd-pdf.sh`
 
@@ -153,17 +112,11 @@ Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf
 │   ├── notes/           # Notes diverses
 │   ├── stories/         # Histoires et sagas
 │   └── rules/           # Règles diégétiques
-├── full-content/        # Document consolidé (généré)
-│   ├── index.md
-│   └── full-content.pdf
 ├── git-hooks/           # Hooks git versionnés
 │   └── pre-commit       # Régénère les PDF SRD
 ├── tools/               # Scripts utilitaires
-│   ├── generate-full-content.sh
-│   ├── generate-pdf.sh
 │   ├── generate-srd-pdf.sh
 │   ├── install-hooks.sh
-│   ├── pdf-style.css
 │   └── srd-pdf-theme.yml
 ├── index.md             # Page d'accueil
 ├── Gemfile              # Dépendances Ruby
