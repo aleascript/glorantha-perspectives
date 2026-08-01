@@ -121,7 +121,6 @@ Pour déterminer les atouts qui vont peser dans la balance (les "mises"), il fau
 
 - *Les mises du Camp A :* Elles sont constituées des éléments qui favorisent l'objectif de A (A+) auxquels on ajoute les faiblesses ou obstacles qui contrecarrent l'objectif de B (B-).
 - *Les mises du Camp B :* Elles sont constituées des éléments qui favorisent l'objectif de B (B+) auxquels on ajoute les faiblesses ou éléments qui contrecarrent l'objectif de A (A-).
-- *Les Jauges :* Une jauge dégradée (blessure, ressource, état) s'aligne naturellement contre son camp et peut apporter des mises supplémentaires à l'adversité (cf. III.G).
 
 *L'art de chercher des mises :* La recherche de mises est totalement libre et guidée par le bon sens ainsi que la connaissance de Glorantha. Il ne faut surtout pas se limiter aux mots-clés de la fiche du personnage ! Ces derniers sont avant tout des réservoirs et des sources d'inspiration. L'imagination des joueurs et du meneur (la Destinée) doit être stimulée par l'immersion dans le monde afin de dénicher n'importe quel atout diégétique pertinent.
 
@@ -175,7 +174,7 @@ Certains obstacles sont de véritables problèmes à résoudre : une énigme, un
 
 L'opposition se fait alors face au nombre de clés à découvrir. 
 
-=== H. Résolution, Interprétation et Rétributions
+=== G. Résolution, Interprétation et Rétributions
 
 Chaque camp effectue son tirage de dés selon les règles spécifiques de son Cadre de Pensée (Théisme, Animisme, Logique, Mysticisme). Celui qui obtient le plus de réussites remporte le conflit.
 

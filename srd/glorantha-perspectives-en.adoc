@@ -121,7 +121,6 @@ To determine the assets that will weigh in the balance (the "stakes"), one must 
 
 - *Camp A's stakes:* They are made up of the elements that favor A's objective (A+) to which are added the weaknesses or obstacles that thwart B's objective (B-).
 - *Camp B's stakes:* They are made up of the elements that favor B's objective (B+) to which are added the weaknesses or elements that thwart A's objective (A-).
-- *The Gauges:* A degraded gauge (injury, resource, state) naturally aligns against its own camp and may bring additional stakes to the adversity (see III.G).
 
 *The art of seeking stakes:* The search for stakes is totally free and guided by common sense as well as knowledge of Glorantha. Above all, do not limit yourself to the keywords on the character sheet! These are primarily reservoirs and sources of inspiration. The imagination of the players and the gamemaster (Destiny) must be stimulated by immersion in the world in order to unearth any relevant diegetic asset.
 
@@ -175,7 +174,7 @@ Some obstacles are real problems to solve: a riddle, an investigation, a complex
 
 The opposition is then made against the number of keys to discover.
 
-=== H. Resolution, Interpretation and Retributions
+=== G. Resolution, Interpretation and Retributions
 
 Each camp makes its dice draw according to the specific rules of its Frame of Thought (Theism, Animism, Logic, Mysticism). The one who obtains the most successes wins the conflict.
 
