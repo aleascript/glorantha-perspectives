@@ -344,7 +344,7 @@ ____
 L'autre camp fait un tirage qui aurait dû écraser le mystique, mais les règles mystiques finissent par inverser totalement le résultat. La stupeur ressentie peut faire naître l'Étincelle.
 ____
 
-*Exemple :* un initié d'Orlanth (rune d'Air, épée héritée, bourrasque, bénédiction du clan) charge un mystique du Collège de Magie lunaire (calme, maîtrise du vide, pleine lune, ascèse). L'initié tire 1,3,5,6, ses 6 relancent les impairs jusqu'au tirage final 6,6,6,1 (trois réussites) ; le mystique tire 1,1,1,6. Après tirage complet de l'initié (relances incluses), ses trois 6 sont effacés par les trois 1 du mystique : il ne reste que le 1 de l'initié contre le 6 du mystique. L'initié a vécu le soutien divin, et pourtant sa victoire fut anéantie : la stupeur fait naître l'Étincelle, sans pour autant illuminer.
+*Exemple :* un initié d'Orlanth (rune d'Air, épée héritée, bourrasque, bénédiction du clan) charge un mystique du Collège de Magie lunaire (calme, maîtrise du vide, placement parfait, ascèse). L'initié tire 1,3,5,6, ses 6 relancent les impairs jusqu'au tirage final 6,6,6,1 (trois réussites) ; le mystique tire 1,1,1,6. Après tirage complet de l'initié (relances incluses), ses trois 6 sont effacés par les trois 1 du mystique : il ne reste que le 1 de l'initié contre le 6 du mystique. L'initié a vécu le soutien divin, et pourtant sa victoire fut anéantie : la stupeur fait naître l'Étincelle, sans pour autant illuminer.
 
 **La révélation par le basculement : l'Illumination**
 

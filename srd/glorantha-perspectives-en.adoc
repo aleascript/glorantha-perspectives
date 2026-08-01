@@ -344,7 +344,7 @@ ____
 The other camp makes a draw that should have crushed the mystic, but the mystical rules end up completely reversing the result. The stupor felt can give birth to the Spark.
 ____
 
-*Example:* an initiate of Orlanth (Air rune, inherited sword, gust of wind, clan blessing) charges a mystic of the Lunar College of Magic (calm, mastery of the void, full moon, asceticism). The initiate rolls 1,3,5,6; their 6s reroll the odds until the final draw 6,6,6,1 (three successes); the mystic rolls 1,1,1,6. After the initiate's complete draw (rerolls included), their three 6s are erased by the mystic's three 1s: only the initiate's 1 remains against the mystic's 6. The initiate experienced divine support, and yet their victory was annihilated: the stupor gives birth to the Spark, without illuminating.
+*Example:* an initiate of Orlanth (Air rune, inherited sword, gust of wind, clan blessing) charges a mystic of the Lunar College of Magic (calm, mastery of the void, perfect placement, asceticism). The initiate rolls 1,3,5,6; their 6s reroll the odds until the final draw 6,6,6,1 (three successes); the mystic rolls 1,1,1,6. After the initiate's complete draw (rerolls included), their three 6s are erased by the mystic's three 1s: only the initiate's 1 remains against the mystic's 6. The initiate experienced divine support, and yet their victory was annihilated: the stupor gives birth to the Spark, without illuminating.
 
 **The revelation through the tilt: Illumination**
 
