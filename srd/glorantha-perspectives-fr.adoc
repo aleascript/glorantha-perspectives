@@ -332,6 +332,28 @@ En faisant ce choix conscient, le joueur déclare que son personnage s'affranchi
 - *L'Effet Immédiat (L'Annihilation) :* À l'instar des règles du cadre de pensée Mystique, les « 1 » tirés par le joueur font disparaître les « 6 » du camp adverse, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
 - *La Révélation :* Dès cet instant, le personnage est définitivement Illuminé.
 
+*Les Cas d'École : L'Étincelle et l'Illumination*
+
+Avant l'Illumination, les Lunaires parlent de l'Étincelle. C'est une façon de percevoir l'Illumination, de l'entrevoir, sans pour autant que celle-ci soit totalement intégrée et change de manière radicale le cadre de pensée de celui ou celle qui la vit.
+
+L'Illumination peut émerger naturellement dans une configuration de dés très spécifique. L'idée sous-jacente, c'est que l'autre camp comprend (voire se met à jouer les 1 de manière mystique) pour remporter la victoire ou arriver à égalité. Deux cas d'école se dégagent, correspondant chacun à un état différent : l'Étincelle et l'Illumination.
+
+**L'éclairante stupéfaction : la source de l'Étincelle**
+
+____
+L'autre camp fait un tirage qui aurait dû écraser le mystique, mais les règles mystiques finissent par inverser totalement le résultat. La stupeur ressentie peut faire naître l'Étincelle.
+____
+
+*Exemple :* un initié d'Orlanth (rune d'Air, épée héritée, bourrasque, bénédiction du clan) charge un mystique du Collège de Magie lunaire (calme, maîtrise du vide, pleine lune, ascèse). L'initié tire 1,3,5,6, ses 6 relancent les impairs jusqu'au tirage final 6,6,6,1 (trois réussites) ; le mystique tire 1,1,1,6. Après tirage complet de l'initié (relances incluses), ses trois 6 sont effacés par les trois 1 du mystique : il ne reste que le 1 de l'initié contre le 6 du mystique. L'initié a vécu le soutien divin, et pourtant sa victoire fut anéantie : la stupeur fait naître l'Étincelle, sans pour autant illuminer.
+
+**La révélation par le basculement : l'Illumination**
+
+____
+L'autre camp se retrouve en position de pouvoir jouer un coup mystique pour changer le résultat final. S'il le fait — le choix du « 1 » — il épouse l'Illumination.
+____
+
+*Exemple :* c'est la voie des énigmes de Nysalor. Une novice du Collège de Magie lunaire se présente au maître des énigmes pour être initiée. La rencontre se traduit par les mises suivantes : sa foi en la Déesse Rouge, sa connaissance des runes, sa volonté de comprendre, ses lectures, son ambition, sa crainte / paradoxes, silences, retournements, contradictions, la lumière de la pleine lune, le regard du maître. La novice (théiste) tire **1,2,3,4,5,6** → 3 réussites. Le maître (mystique) tire **6,1,6,1,6,1** → 3 réussites. Annihilation : les trois 1 du maître effacent les trois 6 de la novice. La novice : **1,2,3,4,5** → 2 réussites. Le maître : **6,6,6** → 3 réussites. La novice est en train d'échouer son initiation. À cet instant, elle comprend : les énigmes ne sont pas là pour être résolues, mais pour être *vues*. Le maître la laisse face à son propre 1. Si elle le joue — si elle transgresse sa foi de théiste pour faire un geste mystique — elle annule un 6 du maître. Elle joue son 1. La novice : **2,3,4,5** → 2 réussites. Le maître : **6,6** → 2 réussites. **Égalité plutôt qu'échec.** Et plus qu'une égalité : à cet instant précis, elle est Illuminée. Elle a compris la vaste blague de l'univers — questions et réponses, victoire et défaite ne font qu'un.
+
 *Les Conséquences de l'Illumination*
 
 Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. Il bénéficie d'une liberté nouvelle, mais en paie le prix fort.
