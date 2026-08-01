@@ -113,7 +113,11 @@ _In play: Phargos is a solid obstacle. Facing rebels, he will use his discipline
 
 == III. The Narrative Engine: Camps, Stakes & Resolutions
 
-image:rules/runes/conditions/maitrise.png[width=100]image:rules/runes/conditions/chance.png[width=100]
+[cols="^,^", frame="none", grid="none", options="autowidth", align=center]
+|===
+| image:rules/runes/conditions/maitrise.png[width=100]
+| image:rules/runes/conditions/chance.png[width=100]
+|===
 
 The system is designed to resort to dice only when destiny is uncertain and a potential narrative fork appears. The central idea is simple: facing adversity, one stakes everything that could serve them in this situation, and the obstacle or adversary does the same.
 
@@ -275,7 +279,12 @@ Derogatory names given by the other cultures: nihilists, charlatans.
 
 === E. Draconic Thought: The Dragon's Dream
 
-image:rules/runes/formes/dragonewt.png[width=60] image:rules/runes/conditions/infini.png[width=60] image:rules/runes/formes/dragon.png[width=60]
+[cols="^,^,^", frame="none", grid="none", options="autowidth", align=center]
+|===
+| image:rules/runes/formes/dragonewt.png[width=100]
+| image:rules/runes/conditions/infini.png[width=100]
+| image:rules/runes/formes/dragon.png[width=100]
+|===
 
 *Philosophy:* Draconic magic uses the Rune of Infinity as a gauge. An adept reads the world through paradoxes. They know that forcing reality with their magic (the _Wyrm_) delays their own evolution toward the True Dragon stage. Their true power lies in their ability to renounce victory (the _Utuma_).
 

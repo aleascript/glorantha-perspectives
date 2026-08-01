@@ -113,7 +113,11 @@ _En jeu : Phargos est un obstacle solide. Face à des rebelles, il utilisera sa 
 
 == III. Le Moteur Narratif: Camps, Mises & Résolutions
 
-image:rules/runes/conditions/maitrise.png[width=100]image:rules/runes/conditions/chance.png[width=100]
+[cols="^,^", frame="none", grid="none", options="autowidth", align=center]
+|===
+| image:rules/runes/conditions/maitrise.png[width=100]
+| image:rules/runes/conditions/chance.png[width=100]
+|===
 
 Le système est conçu pour ne recourir aux dés que lorsque le destin est incertain et qu'une potentielle bifurcation narrative apparaît. L'idée centrale est simple : face à l'adversité, on mise sur tout ce qui pourrait nous servir dans cette situation, et l'obstacle ou l'adversaire fait de même.
 
@@ -275,7 +279,12 @@ Noms péjoratifs donnés par les autres cultures : nihilistes, charlatans.
 
 === E. La Pensée Draconique : Le Rêve du Dragon
 
-image:rules/runes/formes/dragonewt.png[width=60] image:rules/runes/conditions/infini.png[width=60] image:rules/runes/formes/dragon.png[width=60]
+[cols="^,^,^", frame="none", grid="none", options="autowidth", align=center]
+|===
+| image:rules/runes/formes/dragonewt.png[width=100]
+| image:rules/runes/conditions/infini.png[width=100]
+| image:rules/runes/formes/dragon.png[width=100]
+|===
 
 *Philosophie :* La magie draconique utilise la Rune de l'Infini comme une jauge. Un adepte lit le monde à travers des paradoxes. Il sait que forcer la réalité avec sa magie (le _Wyrm_) retarde sa propre évolution vers le stade de Vrai Dragon. Son véritable pouvoir réside dans sa capacité à renoncer à la victoire (l'_Utuma_).
 
