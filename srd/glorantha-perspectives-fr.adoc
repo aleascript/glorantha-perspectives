@@ -598,6 +598,7 @@ Utile pour déterminer l'influence de la magie (notamment lunaire), on peut tire
 Glorantha est un monde de communautés où le commerce reste très encadré par certains cultes. La monnaie est rare en dehors des cités.
 
 *Monnaies Divines :* Régulent les grands échanges de la communauté.
+
     - _Guilders :_ En bronze, sous forme de rune d'échange, réservés aux initiés d'Issaries.
     - _Lunes :_ En argent, en forme de rune lunaire, pour tous au sein de l'Empire.
     - _Roues :_ En or, de grosses pièces rondes (rune de Yelm), utilisées par l'élite Dara Happienne (valent 10 guilders).

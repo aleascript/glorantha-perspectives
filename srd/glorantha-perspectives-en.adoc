@@ -598,6 +598,7 @@ Useful for determining the influence of magic (especially Lunar), one can draw a
 Glorantha is a world of communities where trade remains very much regulated by certain cults. Currency is rare outside the cities.
 
 *Divine Coins:* Regulate the great exchanges of the community.
+
     - _Guilders:_ In bronze, in the form of an exchange rune, reserved for initiates of Issaries.
     - _Lunes:_ In silver, in the shape of a lunar rune, for everyone within the Empire.
     - _Wheels:_ In gold, large round coins (Yelm's rune), used by the Dara Happan elite (worth 10 guilders).
