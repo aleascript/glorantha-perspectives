@@ -72,6 +72,7 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 - *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments ou Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
     - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] sera fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] sera secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
 - *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
+- *Jauges :* Des états graduels (blessure, dérangement, ressources) notés I, II ou épuisés, qui pourront peser sur les mises des conflits (cf. III.G).
 - *Liens & Attaches :* Ce qui relie le personnage aux autres. Ce peuvent être des alliés, des ennemis, ou des dettes (ex: _Haine viscérale de la tribu des Sangliers, Dévoué corps et âme à sa sœur_).
 
 === B. Les Personnages Non-Joueurs (PNJ)
@@ -120,6 +121,7 @@ Pour déterminer les atouts qui vont peser dans la balance (les "mises"), il fau
 
 - *Les mises du Camp A :* Elles sont constituées des éléments qui favorisent l'objectif de A (A+) auxquels on ajoute les faiblesses ou obstacles qui contrecarrent l'objectif de B (B-).
 - *Les mises du Camp B :* Elles sont constituées des éléments qui favorisent l'objectif de B (B+) auxquels on ajoute les faiblesses ou éléments qui contrecarrent l'objectif de A (A-).
+- *Les Jauges :* Une jauge dégradée (blessure, ressource, état) s'aligne naturellement contre son camp et peut apporter des mises supplémentaires à l'adversité (cf. III.G).
 
 *L'art de chercher des mises :* La recherche de mises est totalement libre et guidée par le bon sens ainsi que la connaissance de Glorantha. Il ne faut surtout pas se limiter aux mots-clés de la fiche du personnage ! Ces derniers sont avant tout des réservoirs et des sources d'inspiration. L'imagination des joueurs et du meneur (la Destinée) doit être stimulée par l'immersion dans le monde afin de dénicher n'importe quel atout diégétique pertinent.
 
@@ -155,14 +157,32 @@ Comment résoudre un tirage face à un obstacle non rattaché à un cadre de pen
 - *Le mode Miroir :* L'obstacle est résolu avec le même cadre de pensée que le protagoniste (ex: les règles du mysticisme pour un mystique). C'est le cadre recommandé quand l'enjeu représente un véritable dépassement de soi.
 - *Le mode Agnostique (Le monde médian) :* Les pairs (2, 4, 6) sont des réussites et les impairs (1, 3, 5) sont des échecs, sans aucune autre règle d'ajustement. Ce cadre est utilisé lorsque l'enjeu est mineur et n'implique pas le personnage émotionnellement.
 
-=== E. Résolution, Interprétation et Rétributions
+=== E. Le Zoom de Résolution : Action, Séquence ou Script
+
+Une opposition peut couvrir une action isolée (un assaut, une plaidoirie) comme toute une série d'actions étalées dans le temps (un plan). On parle de *zoom* de résolution, et le choix de ce zoom est souvent implicite. En cas d'ambiguïté, c'est le protagoniste impliqué qui choisit le niveau.
+
+- *L'Action :* C'est l'opposition par défaut, une action locale et unique.
+- *La Séquence :* Une série d'actions résolue en un seul tirage pour couvrir toute une scène (un raid, une cérémonie, une traversée).
+- *Le Script :* Une suite d'actions ou de scènes connus à l'avance menant à un résultat (une quête héroïque, une succession d'épreuves).
+
+*Jouer un séquence :* On joue l'opposition en un seul tirage pour connaitre le résultat global. Cela est applicable à un simple combat qu'à une immense bataille. 
+
+*Résoudre un script :* On décompose l'obstacle en étapes (des actions pour une séquence, des scènes pour un script) et chaque étape représente une ou plusieurs étapes clés à franchir. On rassemble ensuite les mises de chaque camp et l'on procède au tirage normal. En cas d'échec, on compte le nombre de réussites obtenues par le camp protagoniste pour localiser l'étape qui a échoué (une réussite = une étape franchie). En cas de succès, on est nécessairement allé au bout. La suite peut ensuite être narrée collectivement.
+
+=== F. Les Obstacles à Clés : Résoudre un Problème
+
+Certains obstacles sont de véritables problèmes à résoudre : une énigme, une enquête, une fabrication complexe, quelque chose à réparer. Côté obstacle, on définit alors un certain nombre de *clés* qu'il faudra découvrir ou franchir pour réussir. _Exemples : une enquête (le coupable, le mobile, le mode opératoire) ou une potion à fabriquer (le laboratoire, les ingrédients, la recette)._
+
+L'opposition se fait alors face au nombre de clés à découvrir. 
+
+=== H. Résolution, Interprétation et Rétributions
 
 Chaque camp effectue son tirage de dés selon les règles spécifiques de son Cadre de Pensée (Théisme, Animisme, Logique, Mysticisme). Celui qui obtient le plus de réussites remporte le conflit.
 
 *Graduation du Résultat :*
 
 - *Différence de 2 réussites ou plus :* L'action se solde par un Exploit (ou un Fiasco).
-- *Différence de 1 réussite :* L'action se solde par une Victoire ou Succès (ou une Défaite ou Échec).
+- *Différence de 1 réussite :* L'action se solde par une Victoire/Succès (ou une Défaite/Échec).
 - *Égalité :* L'action aboutit à un Status-quo (ou Revers). S'il est impossible de rester sur un status quo narratif, chaque camp rajoute une mise supplémentaire symbolisant la surenchère, et l'on procède à un nouveau tirage.
 
 *Les Rétributions :*
