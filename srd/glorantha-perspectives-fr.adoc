@@ -410,7 +410,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
 
 === Description détaillée des correspondances runiques
 
-- *[1] Découverte (Mouvement)*
+*[1] Découverte (Mouvement)*
+
     - *Corps :* Jambes.
     - *L'instant (Le Transit) :* Le temps qui s'écoule, l'éphémère, l'urgence de l'action en cours.
     - *Distance (L'Approche) :* La distance dynamique, celle qu'on est en train de franchir (le voyage).
@@ -421,7 +422,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Éclairage, patrouille, manœuvre de contournement.
     - *Musique :* le ré, le mode dorien
 
-- *[2] Menace (Mort)*
+*[2] Menace (Mort)*
+
     - *Corps :* Bras.
     - *L'instant (L'Échéance) :* Le temps compté (le compte à rebours), la fin abrupte, le passé mort.
     - *Distance (L'Abîme) :* La séparation radicale, la frontière infranchissable, la distance qui isole.
@@ -432,7 +434,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Assaut frontal, intimidation, raid destructeur.
     - *Musique :* le si, le mode locrien
 
-- *[3] Relations (Harmonie)*
+*[3] Relations (Harmonie)*
+
     - *Corps :* Cœur.
     - *L'instant (La Synchronicité) :* Le "Kairos" (le bon moment), le temps partagé, être "en phase".
     - *Distance (La Proximité) :* L'espace partagé intimement, le réseau (la distance est abolie par le lien).
@@ -443,7 +446,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Négociation de trêve, soutien mutuel, coalition.
     - *Musique :* le fa, le mode lydien
 
-- *[4] Loi (Stase)*
+*[4] Loi (Stase)*
+
     - *Corps :* Tronc.
     - *L'instant (La Routine) :* L'éternité, le temps suspendu, le cycle immuable et répétitif.
     - *Distance (L'Ancrage) :* Le point fixe absolu ("Ici"), l'immobilité, le repère immuable.
@@ -454,7 +458,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Formation stricte (phalange), siège, garnison.
     - *Musique :* le do, le mode ionien
 
-- *[5] Ressources (Vie)*
+*[5] Ressources (Vie)*
+
     - *Corps :* Parties génitales.
     - *L'instant (La Croissance) :* Le temps qu'il faut pour mûrir, la patience récompensée, le cycle des saisons.
     - *Distance (L'Expansion) :* Le rayonnement autour d'un centre, la zone d'influence, le domaine.
@@ -465,7 +470,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Logistique, ravitaillement, pillage, guerre d'usure.
     - *Musique :* le sol, le mode mixolydien
 
-- *[6] Révélation (Désordre)*
+*[6] Révélation (Désordre)*
+
     - *Corps :* Les sens.
     - *L'instant (L'Interruption) :* L'instant foudroyant, l'imprévu, la rupture brutale de la chronologie.
     - *Distance (Le Labyrinthe) :* La distance erratique, la désorientation, le chemin brisé ou chaotique.
@@ -476,7 +482,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Tactique de choc, effet de surprise.
     - *Musique :* le mi, le mode phrygien
 
-- *[7] Savoir, Connaissance (Vérité)*
+*[7] Savoir, Connaissance (Vérité)*
+
     - *Corps :* Tête.
     - *L'instant (La Clarté) :* L'instant décisif, le fait historique immuable, la ligne temporelle exacte.
     - *Distance (La Ligne Droite) :* Le plus court chemin, la trajectoire mesurée et absolue.
@@ -487,7 +494,8 @@ _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les rune
     - *Options militaires :* Renseignement, cryptographie, stratégie calculée.
     - *Musique :* le la, le mode éolien
 
-- *[8] Mystère (Illusion)*
+*[8] Mystère (Illusion)*
+
     - *Corps :* Organes internes.
     - *L'instant (Le Contretemps) :* Le faux souvenir, le temps perdu, la boucle trompeuse (l'attente vaine).
     - *Distance (Le Mirage) :* L'espace trompeur (ce qui semble proche est loin, et inversement), l'impasse.
@@ -516,11 +524,7 @@ En observant la réalité, les érudits ont établi ces échelles pour contraind
 
 Pour le temps, l'ordre de 1 à 6 correspond à l'ordre d'arrivée des Eléments: obscurité, eau, terre, feu, air, lune.
 
-image::image.png[]
-
-Pour l'espace, l'ordre de 1 à 6 correspond à ce qui est proche de nous et loin de nous.
-
-image::image.png[]
+Pour l'espace, l'ordre de 1 à 6 correspond à ce qui est proche de nous et loin de nous: obscurité, terre (ou eau pour les triolinis), eau (ou terre pour les triolinis), air, lune, ciel
 
 == B. Le Quotidien Gloranthien
 
