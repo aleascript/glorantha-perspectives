@@ -295,7 +295,7 @@ Noms péjoratifs donnés par les autres cultures : monstres, incompréhensibles.
 
 === F. Les Influences Extérieures : La Voie Lunaire
 
-image:rules/runes/elements/lune.png[width=60]
+image::rules/runes/elements/lune.png[width=60]
 
 La magie lunaire est soumise au cycle lunaire lorsqu'elle est pratiquée en dehors de la ligne brillante. À l'intérieur de cette frontière qui encercle l'Empire Lunaire, la lune est toujours pleine et la magie n'est donc pas soumise à ces fluctuations.
 
@@ -409,7 +409,7 @@ Contrairement aux autres Mots-Clés du personnage, une Souillure ne peut *jamais
 
 === I. Les Tabous, Geis & Serments
 
-image::rules/runes/pouvoirs/stase.png[width=60] image::rules/runes/pouvoirs/vérité.png[width=60] image::rules/runes/pouvoirs/mort.png[width=60]
+image:rules/runes/pouvoirs/stase.png[width=63] image:rules/runes/pouvoirs/vérité.png[width=60] image:rules/runes/pouvoirs/mort.png[width=60]
 
 *Philosophie :* Glorantha est tissée de liens : la Toile d'Arachne Solara, le Grand Compromis, les serments de clan, les pactes d'esprits. Rien ne se gagne sans qu'une interdiction ne vienne en contrepartie. Certains cultes ne révèlent leurs secrets qu'en échange d'un *geis*; un chaman qui lie un esprit sans exploit reçoit un *tabou*; les Brithini ont fait de l'*interdit* leur immortalité. La règle est simple : *pas de puissance sans lien, pas de lien sans prix.*
 
@@ -525,7 +525,7 @@ Cette dernière partie rassemble les ressources diégétiques permettant d'insuf
 
 === A. L'Inspiration Runique
 
-image:rules/runes/conditions/destin.png[width=100]
+image::rules/runes/conditions/destin.png[width=100]
 
 Les Runes sont les briques du monde ; elles tissent la réalité, s'immiscent partout et dessinent la trame du Destin. En début de saison, au commencement d'une situation, ou lors d'une panne d'inspiration, la Destinée peut tirer deux Runes de pouvoir (via 2D8 ou 8 cartes) et associer leurs concepts pour faire émerger une idée.
 
@@ -711,7 +711,7 @@ Utile pour déterminer l'influence de la magie (notamment lunaire), on peut tire
 
 ==== L'Économie
 
-image:rules/runes/conditions/echanges.png[width=100]
+image::rules/runes/conditions/echanges.png[width=100]
 
 Glorantha est un monde de communautés où le commerce reste très encadré par certains cultes. La monnaie est rare en dehors des cités.
 
@@ -748,7 +748,7 @@ Dans Glorantha, les runes ne sont pas de simples symboles abstraits, elles marqu
 
 ==== Thèmes de la Guerre des Héros
 
-image:rules/runes/conditions/destin.png[width=100]
+image::rules/runes/conditions/destin.png[width=100]
 
 Le monde est suffisamment complexe pour traiter de nombreux thèmes. Voici quelques axes fondateurs pour vos campagnes :
 
@@ -761,7 +761,7 @@ Le monde est suffisamment complexe pour traiter de nombreux thèmes. Voici quelq
 
 ==== YAG (Yet Another Glorantha)
 
-image:rules/runes/conditions/infini.png[width=100]
+image::rules/runes/conditions/infini.png[width=100]
 
 En réponse à l'adage _YGWV (Your Glorantha Will Vary)_, voici une justification assumée pour s'éloigner du canon : Dans un futur lointain, une Quête Héroïque a débouché sur l'accouplement d'un Dragon avec Arachne Solara. De cette union, elle a pondu des milliers d'œufs. Chaque œuf qui éclot correspond à une version parallèle de Glorantha. Plus l'œuf est nervuré, plus la version s'éloigne de "l'histoire officielle". Personne n'a évidemment conscience d'être une version du monde issue d'un œuf. Vous êtes donc totalement libre de vos partis pris !
 
