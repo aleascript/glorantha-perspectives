@@ -47,10 +47,10 @@ Pour harmoniser les attentes d'un groupe de joueurs et présenter rapidement l'u
 
 Dans l'univers de Glorantha, la façon d'appréhender la réalité modifie la réalité elle-même. Conformément au mono-mythe Jrusteli, il existe quatre grands cadres de pensée :
 
-- _L'animisme_.
-- _Le théisme_.
-- _La logique du Dieu Invisible_.
-- _Le mysticisme_.
+- image:rules/runes/mondes/spirits.png[width=25] _L'animisme_.
+- image:rules/runes/mondes/gods.png[width=25] _Le théisme_.
+- image:rules/runes/mondes/logic.png[width=25] _La logique du Dieu Invisible_.
+- image:rules/runes/mondes/void.png[width=25] _Le mysticisme_.
 
 À ces visions du monde s'ajoute un 5ème cadre de pensée particulièrement complexe : _les Dragons et les Dragonewts_.
 
@@ -112,6 +112,8 @@ ____
 _En jeu : Phargos est un obstacle solide. Face à des rebelles, il utilisera sa discipline, sa formation et son armure pour générer facilement 3 mises de plus._
 
 == III. Le Moteur Narratif: Camps, Mises & Résolutions
+
+image:rules/runes/conditions/maitrise.png[width=100]image:rules/runes/conditions/chance.png[width=100]
 
 Le système est conçu pour ne recourir aux dés que lorsque le destin est incertain et qu'une potentielle bifurcation narrative apparaît. L'idée centrale est simple : face à l'adversité, on mise sur tout ce qui pourrait nous servir dans cette situation, et l'obstacle ou l'adversaire fait de même.
 
@@ -523,6 +525,8 @@ Cette dernière partie rassemble les ressources diégétiques permettant d'insuf
 
 === A. L'Inspiration Runique
 
+image:rules/runes/conditions/destin.png[width=100]
+
 Les Runes sont les briques du monde ; elles tissent la réalité, s'immiscent partout et dessinent la trame du Destin. En début de saison, au commencement d'une situation, ou lors d'une panne d'inspiration, la Destinée peut tirer deux Runes de pouvoir (via 2D8 ou 8 cartes) et associer leurs concepts pour faire émerger une idée.
 
 _Note sur la numérologie : La correspondance numérique de 1 à 8 avec les runes de pouvoir s'est perdue dans les méandres du temps. Certains érudits murmurent qu'elle viendrait d'un antique groupe de Logiciens ou d'un courant mystique oublié cherchant à quantifier l'indicible._
@@ -707,6 +711,8 @@ Utile pour déterminer l'influence de la magie (notamment lunaire), on peut tire
 
 ==== L'Économie
 
+image:rules/runes/conditions/echanges.png[width=100]
+
 Glorantha est un monde de communautés où le commerce reste très encadré par certains cultes. La monnaie est rare en dehors des cités.
 
 *Monnaies Divines :* Régulent les grands échanges de la communauté.
@@ -742,6 +748,8 @@ Dans Glorantha, les runes ne sont pas de simples symboles abstraits, elles marqu
 
 ==== Thèmes de la Guerre des Héros
 
+image:rules/runes/conditions/destin.png[width=100]
+
 Le monde est suffisamment complexe pour traiter de nombreux thèmes. Voici quelques axes fondateurs pour vos campagnes :
 
 - *L'homme et le mythe :* Le Héros doit trouver sa place parmi les Dieux : se conformer, négocier, ou aller à leur encontre en rejouant ou modifiant les mythes.
@@ -752,6 +760,8 @@ Le monde est suffisamment complexe pour traiter de nombreux thèmes. Voici quelq
 - *L'Empire inclusif vs Cultures tribales :* L'Empire de Sedenya tente d'imposer une paix totale en absorbant les modes de vie de ses ennemis. Beaucoup luttent pour ne pas voir leur culture désintégrée.
 
 ==== YAG (Yet Another Glorantha)
+
+image:rules/runes/conditions/infini.png[width=100]
 
 En réponse à l'adage _YGWV (Your Glorantha Will Vary)_, voici une justification assumée pour s'éloigner du canon : Dans un futur lointain, une Quête Héroïque a débouché sur l'accouplement d'un Dragon avec Arachne Solara. De cette union, elle a pondu des milliers d'œufs. Chaque œuf qui éclot correspond à une version parallèle de Glorantha. Plus l'œuf est nervuré, plus la version s'éloigne de "l'histoire officielle". Personne n'a évidemment conscience d'être une version du monde issue d'un œuf. Vous êtes donc totalement libre de vos partis pris !
 

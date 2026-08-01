@@ -47,10 +47,10 @@ To harmonize the expectations of a group of players and quickly present the sett
 
 In the world of Glorantha, the way one apprehends reality modifies reality itself. In accordance with the Jrusteli mono-myth, there are four great frames of thought:
 
-- _Animism_.
-- _Theism_.
-- _The logic of the Invisible God_.
-- _Mysticism_.
+- image:rules/runes/mondes/spirits.png[width=25] _Animism_.
+- image:rules/runes/mondes/gods.png[width=25 ]_Theism_.
+- image:rules/runes/mondes/logic.png[width=25 ] _The logic of the Invisible God_.
+- image:rules/runes/mondes/void.png[width=25] _Mysticism_.
 
 To these worldviews is added a 5th particularly complex frame of thought: _Dragons and Dragonewts_.
 
@@ -112,6 +112,8 @@ ____
 _In play: Phargos is a solid obstacle. Facing rebels, he will use his discipline, his formation and his armor to easily generate 3 additional stakes._
 
 == III. The Narrative Engine: Camps, Stakes & Resolutions
+
+image:rules/runes/conditions/maitrise.png[width=100]image:rules/runes/conditions/chance.png[width=100]
 
 The system is designed to resort to dice only when destiny is uncertain and a potential narrative fork appears. The central idea is simple: facing adversity, one stakes everything that could serve them in this situation, and the obstacle or adversary does the same.
 
@@ -523,6 +525,8 @@ This last part gathers the diegetic resources allowing one to infuse the very pa
 
 === A. Runic Inspiration
 
+image:rules/runes/conditions/destin.png[width=100]
+
 Runes are the building blocks of the world; they weave reality, insinuate themselves everywhere and draw the web of Destiny. At the start of a season, at the beginning of a situation, or during an inspiration drought, Destiny can draw two Power runes (via 2D8 or 8 cards) and combine their concepts to make an idea emerge.
 
 _Note on numerology: The numerical correspondence from 1 to 8 with the power runes has been lost in the winding paths of time. Some scholars whisper that it came from an ancient group of Logicians or a forgotten mystical current seeking to quantify the ineffable._
@@ -707,6 +711,8 @@ Useful for determining the influence of magic (especially Lunar), one can draw a
 
 ==== The Economy
 
+image:rules/runes/conditions/echanges.png[width=100]
+
 Glorantha is a world of communities where trade remains very much regulated by certain cults. Currency is rare outside the cities.
 
 *Divine Coins:* Regulate the great exchanges of the community.
@@ -742,6 +748,8 @@ In Glorantha, runes are not mere abstract symbols, they physically mark the worl
 
 ==== Hero Wars Themes
 
+image:rules/runes/conditions/destin.png[width=100]
+
 The world is complex enough to deal with many themes. Here are some founding axes for your campaigns:
 
 - *Man and myth:* The Hero must find their place among the Gods: conform, negotiate, or go against them by replaying or modifying the myths.
@@ -752,6 +760,8 @@ The world is complex enough to deal with many themes. Here are some founding axe
 - *The Inclusive Empire vs Tribal Cultures:* The Empire of Sedenya attempts to impose a total peace by absorbing the ways of life of its enemies. Many fight so that their culture is not disintegrated.
 
 ==== YAG (Yet Another Glorantha)
+
+image:rules/runes/conditions/infini.png[width=100]
 
 In response to the adage _YGWV (Your Glorantha Will Vary)_, here is a well-assumed justification for moving away from canon: In a distant future, a Heroquest led to the mating of a Dragon with Arachne Solara. From this union, she laid thousands of eggs. Each egg that hatches corresponds to a parallel version of Glorantha. The more veined the egg, the further the version strays from the "official story". Obviously, nobody is aware of being a version of the world born from an egg. You are therefore totally free in your biases!
 
