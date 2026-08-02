@@ -16,6 +16,8 @@ Oh, I almost forgot, it's also the story of Korlanth called Lucky, who is curren
 
 # The heroes
 
+![The heroes](../../../assets/stories/les-heritiers-de-zola-fel/heroes/heroes.png)
+
 - [Irinus Solantis, Dara Happan decurion](heroes/irinus)
 - [Fazia Hanout, young rogue scholar](heroes/fazia)
 - [Duckita, Durulz, Shadow Swimmer](heroes/duckita)
