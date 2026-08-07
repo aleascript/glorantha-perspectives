@@ -4,7 +4,7 @@ title: "Fazia Hanout"
 
 > "Stealing from a thief isn't theft, is it?"
 
-![Fazia](../../../../../assets/srd/fazia.png)
+![Fazia](../../../../../assets/srd/fazia.jpg)
 
 * Woman, 20 years old
 * **Standard of living**: average

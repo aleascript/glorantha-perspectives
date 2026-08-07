@@ -4,7 +4,7 @@ title: "Hanya of Jillaro"
 
 > "We must help the Goddess and preserve civilization"
 
-![Hanya](../../../../../assets/stories/la-voie-lunaire/heroes/hanya/hanya.png)
+![Hanya](../../../../../assets/stories/la-voie-lunaire/heroes/hanya/hanya.jpg)
 
 * Woman, 27 years old
 * **Standard of living**: average

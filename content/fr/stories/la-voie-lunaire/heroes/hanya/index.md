@@ -4,7 +4,7 @@ title: "Hanya de Jillaro"
 
 > "Il faut aider la Déesse et préserver la civilisation"
 
-![Hanya](../../../../../assets/stories/la-voie-lunaire/heroes/hanya/hanya.png)
+![Hanya](../../../../../assets/stories/la-voie-lunaire/heroes/hanya/hanya.jpg)
 
 * Femme, 27 ans
 * **Niveau de vie**: standard

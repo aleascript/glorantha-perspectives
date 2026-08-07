@@ -56,6 +56,6 @@ Jaridan et Peek ne comprennent pas mais son geste leur intime de se relever. Des
 
 Peek déclare: "tu vois Jaridan, je ne crois que ce que les grands esprits me soufflent"
 
-![Aldryami](../../../../assets/stories/la-voie-lunaire/17/aldryami.png)
+![Aldryami](../../../../assets/stories/la-voie-lunaire/17/aldryami.jpg)
 
 | [Précédent](../16) | [Suivant](../18/) |

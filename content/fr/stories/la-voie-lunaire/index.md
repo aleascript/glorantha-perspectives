@@ -10,7 +10,7 @@ Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G pu
 
 # Les héros [(2)](#note2) 
 
-![Les héros](../../../assets/stories/la-voie-lunaire/heroes/heroes.png)
+![Les héros](../../../assets/stories/la-voie-lunaire/heroes/heroes.jpg)
 
 *De gauche à droite:*
 - [Jaridan, marchand Tarshite pacifiste](heroes/jaridan)

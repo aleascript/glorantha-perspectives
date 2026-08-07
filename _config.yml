@@ -10,7 +10,7 @@ author: AleaScript
 twitter:
   card: summary
 
-logo: /assets/header.png
+logo: /assets/header.jpg
 
 plugins:
   - jekyll-seo-tag
@@ -21,4 +21,4 @@ defaults:
       path: ""
     values:
       layout: default
-      image: /assets/header.png
+      image: /assets/header.jpg

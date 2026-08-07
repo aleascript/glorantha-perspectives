@@ -4,7 +4,7 @@ title: "Peek-ee-peek"
 
 > "The prophecy is coming true and our tribe was chosen a very long time ago to be the protectors of the Moon"
 
-![Peek](../../../../../assets/stories/la-voie-lunaire/heroes/peek-ee-peek/peek.png)
+![Peek](../../../../../assets/stories/la-voie-lunaire/heroes/peek-ee-peek/peek.jpg)
 
 * Woman, 22 rains
 * **Standard of living**: poor (relatively)

@@ -56,13 +56,14 @@ Les fichiers générés se trouvent dans le dossier `_site/`.
 
 ## Outils
 
-Des scripts dans `tools/` permettent de générer le PDF du SRD.
+Des scripts dans `tools/` permettent de générer les PDF du SRD et des histoires, et d'optimiser les images.
 
 ### Prérequis techniques
 
 - **asciidoctor-pdf** (pour `generate-srd-pdf.sh` et `generate-story-pdf.sh`)
 - **pandoc** (pour `generate-story-pdf.sh` : conversion Markdown → AsciiDoc)
 - **python3** (pour `generate-story-pdf.sh` : assemblage du document)
+- **Pillow** (pour `optimize-images.py` : conversion des images)
 
 ```bash
 # Installation d'asciidoctor-pdf (gem Ruby)
@@ -70,7 +71,32 @@ gem install asciidoctor-pdf
 
 # Installation de pandoc
 sudo apt install pandoc
+
+# Installation de Pillow (Python)
+pip3 install pillow
 ```
+
+### `optimize-images.py`
+
+Convertit en JPEG les PNG volumineux (`> 150 Ko` par défaut) pour réduire la taille du dépôt, des PDF et du site. Les PNG sous `content/assets/stories/`, `content/assets/srd/` et `assets/` (racine du site, ex. `header.png`) sont concernés ; les autres (runes, icônes) restent en PNG.
+
+Pour chaque image convertie, l'original est conservé à côté sous le nom `<nom>.original.png` et les références `<nom>.png` sont réécrites en `<nom>.jpg` dans les chapitres (`content/{fr,en}/stories/**/*.md`), les documents SRD (`srd/*.adoc`), les layouts (`_layouts/`) et `_config.yml`.
+
+Paramètres par défaut : qualité JPEG 85, dimension maximale 1400 px, aplati sur le fond du thème (`FBF7EF`). Le script est idempotent : relancer ne modifie rien si tout est déjà fait.
+
+```bash
+# Prévisualisation (aucune modification)
+python3 tools/optimize-images.py --dry-run
+
+# Application
+python3 tools/optimize-images.py
+
+# Personnalisation
+python3 tools/optimize-images.py --quality 90 --max-dim 1600
+```
+
+> Les originaux `.original.png` restent versionnés (source de secours) mais ne sont référencés par aucune page.
+
 
 ### `generate-srd-pdf.sh`
 
@@ -114,7 +140,7 @@ bash tools/install-hooks.sh
 Le hook s'exécute au moment du commit :
 - il détecte les `srd/*.adoc` en staging,
 - lance `tools/generate-srd-pdf.sh <lang>` pour chacun,
-- il détecte les changements sous `content/{fr,en}/stories/<slug>/` et `content/assets/stories/<slug>/` (hors `.pdf`),
+- il détecte les changements sous `content/{fr,en}/stories/<slug>/` et `content/assets/stories/<slug>/` (hors `.pdf`), plus `content/assets/srd/` pour `les-heritiers-de-zola-fel` (portraits des héros),
 - lance `tools/generate-story-pdf.sh <slug> <lang>` pour chaque histoire concernée,
 - stage les PDF régénérés (et les suppressions d'anciennes versions).
 
@@ -131,6 +157,7 @@ Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf
 │   └── css/
 │       └── custom.scss
 ├── content/             # Contenu du site (pages Markdown)
+│   ├── assets/          # Images partagées (stories, srd, rules)
 │   ├── notes/           # Notes diverses
 │   ├── stories/         # Histoires et sagas
 │   └── rules/           # Règles diégétiques
@@ -140,6 +167,7 @@ Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf
 │   ├── generate-srd-pdf.sh
 │   ├── generate-story-pdf.sh
 │   ├── install-hooks.sh
+│   ├── optimize-images.py
 │   ├── story-pdf.py
 │   └── srd-pdf-theme.yml
 ├── index.md             # Page d'accueil

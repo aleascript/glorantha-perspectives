@@ -28,7 +28,7 @@ Récit d'Ikarnos: "Je tentais de m'entretenir avec le décurion qui commandait l
 
 Récit de Peek-ee-Peek: "Je tentais de provoquer un accident sur le soldat qui m'avait manqué de respect toute la journée. Les esprits m'accompagnent et guident ma route. Je murmurais donc à *Esprit de la Bête* d'aller faire ruer soudainement le cheval du décurion pour envoyer un coup de sabot au soldat. Le cheval rua, mais le soldat ne fut pas touché, et le décurion ne chuta pas non plus. L'événement parut étrange à tous et jeta un grand silence dans les rangs. Au moins, ils arrêtèrent de me chercher des noises et se mirent sur leurs gardes, croyant à un ennemi invisible tout proche. Des éclaireurs partirent. Nous perdîmes du temps, mais je souriais intérieurement : j'avais obtenu le calme."
 
-![De Dunstop a Bagnot](../../../../assets/stories/la-voie-lunaire/03/dunstop-to-bagnot.png)
+![De Dunstop a Bagnot](../../../../assets/stories/la-voie-lunaire/03/dunstop-to-bagnot.jpg)
 
 **Objectifs de Jaridan et Hanya :** Rien de spécial.
 
@@ -73,7 +73,7 @@ Je me fis donc annoncer aux côtés d'Hanya auprès de Pharandros. Le roi était
 
 Je présentai notre mission qui m'amenait à voyager vers les terres de Prax, récemment conquises. La vision du jeune roi était claire : en apportant les bienfaits lunaires aux populations locales, celles-ci cesseraient presque naturellement d'être une menace, tout en usant bien sûr de la force si nécessaire. 
 
-![Pharandros](../../../../assets/stories/la-voie-lunaire/03/pharandros.png)
+![Pharandros](../../../../assets/stories/la-voie-lunaire/03/pharandros.jpg)
 
 Soudain, l'un des conseillers me demanda ce que le *Masque Ondoyant* de l'Empereur penserait du culte d'Arim le Pauvre. Je reconnus immédiatement un mot secret : mon interlocuteur faisait sans doute partie de la *Société des Phrases Secrètes*. Je le fixai intensément. C'était un homme mince, presque ascétique, vêtu d'une robe et portant plusieurs étuis à parchemins. 
 
@@ -93,7 +93,7 @@ Nous allâmes nous coucher dans la vaste maison de Caius, qui se révélait un h
 
 Le lendemain, je retrouvai le conseiller aux thermes de la cité. Ces derniers, nouvellement érigés, avaient été inaugurés par le roi quelques jours plus tôt (ce qui expliquait sa venue à Bagnot, dans l'optique d'asseoir son règne par une vision civilisatrice). J'étais accompagné de Jaridan. 
 
-![Lunarium](../../../../assets/stories/la-voie-lunaire/03/lunarium.png)
+![Lunarium](../../../../assets/stories/la-voie-lunaire/03/lunarium.jpg)
 
 C'est au cœur de la fumée rouge du *Lunarium* que l'homme réapparut. Je remarquai qu'il n'y avait que très peu de locaux dans les bains. Il se présenta enfin : "**Imex Rapiis**, conseiller stratégique et tactique auprès du Roi. Pharandros est jeune et découvre encore le monde barbare. Ce n'est pas l'Empire ici, mais seulement une province. Par chance, c'est la plus riche des Provinces. Je suis là pour que la Prospérité règne, pour que les chefs barbares n'aient aucun intérêt à se rebeller et pour que la *Lunar Pax* persiste. C'est pour cela que nous avons construit ces Thermes."
 

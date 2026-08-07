@@ -4,7 +4,7 @@ title: "Korlanth La Chance"
 
 > "Je crois en mon Destin"
 
-![Korlanth](../../../../../assets/srd/korlanth.png)
+![Korlanth](../../../../../assets/srd/korlanth.jpg)
 
 * Homme, 20 ans
 * **Niveau de vie**: pauvre

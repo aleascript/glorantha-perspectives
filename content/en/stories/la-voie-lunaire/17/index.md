@@ -54,6 +54,6 @@ Jaridan and Peek do not understand but his gesture commands them to stand. Elves
 
 Peek declares: "you see Jaridan, I only believe what the great spirits whisper to me."
 
-![Aldryami](../../../../assets/stories/la-voie-lunaire/17/aldryami.png)
+![Aldryami](../../../../assets/stories/la-voie-lunaire/17/aldryami.jpg)
 
 | [Previous](../16) | [Next](../18/) |

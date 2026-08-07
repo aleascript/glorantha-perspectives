@@ -877,7 +877,7 @@ Here are a few character examples.
 
 ==== 1. Hanya of Jillaro
 
-image::srd/hanya.png[width=240]
+image::srd/hanya.jpg[width=240]
 
 ____
 *Name:* Hanya of Jillaro (Female, 27 years old)
@@ -922,7 +922,7 @@ ____
 
 ==== 2. Ikarnos of Raibanth
 
-image::srd/ikarnos.png[width=240]
+image::srd/ikarnos.jpg[width=240]
 
 ____
 *Name:* Ikarnos of Raibanth (Male, 32 years old)
@@ -958,7 +958,7 @@ ____
 
 ==== 3. Jaridan
 
-image::srd/jaridan.png[width=240]
+image::srd/jaridan.jpg[width=240]
 
 ____
 *Name:* Jaridan (Male, 48 years old)
@@ -1000,7 +1000,7 @@ ____
 
 ==== 4. Peek-ee-peek
 
-image::srd/peek.png[width=240]
+image::srd/peek.jpg[width=240]
 
 ____
 *Name:* Peek-ee-peek (Female, 22 rains)
@@ -1042,7 +1042,7 @@ ____
 
 ==== 5. Irinus Solantis
 
-image::srd/irinus.png[width=240]
+image::srd/irinus.jpg[width=240]
 ____
 *Name:* Irinus Solantis (Male, 30 years old)
 
@@ -1081,7 +1081,7 @@ ____
 
 ==== 6. Fazia Hanout
 
-image::srd/fazia.png[width=240]
+image::srd/fazia.jpg[width=240]
 ____
 *Name:* Fazia Hanout (Female, 20 years old)
 
@@ -1122,7 +1122,7 @@ ____
 
 ==== 7. Duckita
 
-image::srd/duckita.png[width=240]
+image::srd/duckita.jpg[width=240]
 ____
 *Name:* Duckita (Durulz Duck, "old", indeterminate age)
 
@@ -1161,7 +1161,7 @@ ____
 
 ==== 8. Korlanth the Lucky
 
-image::srd/korlanth.png[width=240]
+image::srd/korlanth.jpg[width=240]
 ____
 *Name:* Korlanth La Chance (Male, 20 years old)
 

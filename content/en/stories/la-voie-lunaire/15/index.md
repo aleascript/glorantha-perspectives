@@ -30,7 +30,7 @@ Questioning Gomax on this subject, he declares they are not there to bother with
 
 While Jaridan discusses with Gomax, around a bend, the group freezes before a monstrous spectacle. A creature with a human head, lion's body and mane, and a scorpion's tail is devouring a giant boar! The group stops and Gomax organizes his tactics. Meanwhile Jaridan moves back to approach the rear and thus the prisoners. The Lunars are occupied with other things. It is time to act.
 
-![Manticore](../../../../assets/stories/la-voie-lunaire/15/manticore.png)
+![Manticore](../../../../assets/stories/la-voie-lunaire/15/manticore.jpg)
 
 > 🎲 Succeed in freeing the prisoners
 > - Conflict:

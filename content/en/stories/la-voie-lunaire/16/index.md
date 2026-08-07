@@ -100,7 +100,7 @@ Hanya: "then I have no choice." She advances. Hazz stares at her, terror in his 
 
 The crowd averts their eyes from the horror: horror of the mask of terror Hanya invoked, horror of seeing the two legs cut above the knees, horror of hearing Hazz's screams as he falls unconscious.
 
-![Hazz torture](../../../../assets/stories/la-voie-lunaire/16/cut.png)
+![Hazz torture](../../../../assets/stories/la-voie-lunaire/16/cut.jpg)
 
 Warriors are admiring of the precision of the warrior's cleaving blow. The chief's wife kneels and takes from the gourd a smoking mud to apply on the stumps of the legless man.
 

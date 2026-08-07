@@ -10,7 +10,7 @@ A Gloranthan solo exploration story first using HQ/G rules, then gradually incor
 
 # The heroes [(2)](#note2) 
 
-![The heroes](../../../assets/stories/la-voie-lunaire/heroes/heroes.png)
+![The heroes](../../../assets/stories/la-voie-lunaire/heroes/heroes.jpg)
 
 *From left to right:*
 - [Jaridan, pacifist Tarshite merchant](heroes/jaridan)

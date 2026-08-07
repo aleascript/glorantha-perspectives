@@ -134,7 +134,7 @@ Et soudain on se rend compte qu'un jeune Orlanthi est en train de se faire étra
 > - Résultat 2 vs 3: Victoire +2
 >   - il y a eu plusieurs surenchères non détaillées
 
-![Serpent Arc en ciel](../../../../assets/stories/la-voie-lunaire/08/serpent-arc-en-ciel.png)
+![Serpent Arc en ciel](../../../../assets/stories/la-voie-lunaire/08/serpent-arc-en-ciel.jpg)
 
 Le combat est épique, le serpent n'hypnotise pas Hanya et tente de fuir mais celle le rattrape et doit lui asséner plusieurs coups. Se voyant attaquer le serpent tente de la mordre. Peek sait que Hanya est immunisée contre les flèches mais ne veut pas prendre le risque vu ce qui s'est passé avec les Gazzams et pour l'instant la fière gardienne de Jillaro semble s'en sortir. Les Orlanthis n'osent pas tirer et personne n'est à proximité pour intervenir au contact. Finalement après plusieurs coups, le serpent s'écroule mort!
 

@@ -126,7 +126,7 @@ The men surround them. They are too numerous and too armed to attempt anything t
 
  Then he sees other Sartarites emerge from the woods dragging Hazz wounded and battered along with two of his men. The other two missing may have managed to escape or their corpses now lie in the woods. The warrior with the sword: "do not worry, your accomplice is here and all the truth will be made about your sinister dealings that have gone on too long now. The wind rises and Lankhor Mhy sees all. Come, take them."
 
-![Arrested](../../../../assets/stories/la-voie-lunaire/14/arrestation.png)
+![Arrested](../../../../assets/stories/la-voie-lunaire/14/arrestation.jpg)
 
 We leave the heroes tied and disarmed, dragged by the Sartarite party through the heath to reach the clan's domain.
 

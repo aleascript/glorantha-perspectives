@@ -4,7 +4,7 @@ title: "Ikarnos de Raibanth"
 
 > "La Voie Lunaire triomphera inéluctablement"
 
-![Ikarnos](../../../../../assets/stories/la-voie-lunaire/heroes/ikarnos/ikarnos.png)
+![Ikarnos](../../../../../assets/stories/la-voie-lunaire/heroes/ikarnos/ikarnos.jpg)
 
 * Homme, 32 ans
 * Niveau de vie: standard 

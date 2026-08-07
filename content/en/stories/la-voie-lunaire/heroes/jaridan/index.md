@@ -4,7 +4,7 @@ title: "Jaridan"
 
 > "War is never good for trade"
 
-![Jaridan](../../../../../assets/stories/la-voie-lunaire/heroes/jaridan/jaridan.png)
+![Jaridan](../../../../../assets/stories/la-voie-lunaire/heroes/jaridan/jaridan.jpg)
 
 * Man, 48 years old
 * **Standard of living**: comfortable

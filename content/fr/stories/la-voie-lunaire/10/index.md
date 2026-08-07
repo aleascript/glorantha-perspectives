@@ -73,6 +73,6 @@ Sigmar répond: "c'est bien ce que je pensais. Dans ce cas vous comprendrez ais�
 
 Peek et Jaridan repartent en jetant un oeil à la route sinueuse qui serpente le long de la falaise. Ils voient de jeunes hommes tatoués qui s'exercent au vol Orlanthi. Le prodige est impressionnant, ils s'élancent le long de la falaise et plongent dans le vide portés par les vents. Ils comprennent que ces jeunes sont en train de les narguer par bravade mais ne voient pas comment faire autrement. Le chef a parlé.
 
-![Le village de la falaise](../../../../assets/stories/la-voie-lunaire/10/flying-orlanthi.png)
+![Le village de la falaise](../../../../assets/stories/la-voie-lunaire/10/flying-orlanthi.jpg)
 
 | [Précédent](../09) | [Suivant](../11/) |

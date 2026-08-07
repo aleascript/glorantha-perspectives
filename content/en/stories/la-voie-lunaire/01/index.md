@@ -22,7 +22,7 @@ Argenteus and his entourage of courtiers seem to royally ignore this state of af
 
 He dismissed me with a weary gesture, as if washing his hands of it. That was at least something: I did not have their official veto on my hands. Without losing a moment, I organized my journey and set course for the Southern Kingdoms.
 
-![Argenteus](../../../../assets/stories/la-voie-lunaire/01/ikarnos-moon-palace.png)
+![Argenteus](../../../../assets/stories/la-voie-lunaire/01/ikarnos-moon-palace.jpg)
 
 ## The Prelude of Hanya: The Song of Movement and Stasis
 
@@ -32,7 +32,7 @@ After scrutinizing the sacred waters and completing my divinations at the well o
 
 Facing her institutional skepticism, I poured out my entire soul in an attempt to open her mind to this necessity...
 
-![Hanya Prelude](../../../../assets/stories/la-voie-lunaire/01/hanya-prelude.png)
+![Hanya Prelude](../../../../assets/stories/la-voie-lunaire/01/hanya-prelude.jpg)
 
 > 🎲 Major Victory
 
@@ -48,7 +48,7 @@ It was the Dark Season, that time of year favorable to exchanging Ernalda's eart
 
 The breaking point came the day I arrived on the lands of the Allalone Clan to participate in the weekly market. For the very first time in my peddler's life, I was not welcome. I had to fiercely negotiate my simple spot on the public square: what absolute shame! Me, an honest Orlanthi!
 
-![Jaridan Prelude](../../../../assets/stories/la-voie-lunaire/01/jaridan-prelude.png)
+![Jaridan Prelude](../../../../assets/stories/la-voie-lunaire/01/jaridan-prelude.jpg)
 
 > 🎲 Marginal Defeat
 
@@ -95,7 +95,7 @@ My ultimate feat of glory failed by a hair... I could have been the legendary he
 
 It was a **major defeat** for the attackers. The nomad tribes that had rushed to assault the lunar positions were lastingly broken by this disaster — crippled, handicapped, and morally demoralized for the seasons to come.
 
-![Battle of Bullion of Moon](../../../../assets/stories/la-voie-lunaire/01/bouillon-de-lune.png)
+![Battle of Bullion of Moon](../../../../assets/stories/la-voie-lunaire/01/bouillon-de-lune.jpg)
 
 As for me, I came out alive but greatly weakened, my body marked by a few bloody abrasions and my mind emptied by a deep spiritual exhaustion from having called upon the Spirit of the Beast so much. Fta-Ah, exhausted by her exploits, is equally weakened. But what do our wounds matter: our victory at the Battle of Bullion-of-Moon remains absolute and historic.
 

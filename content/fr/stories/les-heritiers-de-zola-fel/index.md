@@ -18,7 +18,7 @@ Ha j’oubliais, c’est aussi l’histoire de Korlanth dit La Chance qui pourri
 
 # Les héros
 
-![Les héros](../../../assets/stories/les-heritiers-de-zola-fel/heroes/heroes.png)
+![Les héros](../../../assets/stories/les-heritiers-de-zola-fel/heroes/heroes.jpg)
 
 - [Irinus Solantis, décurion Dara Happien](heroes/irinus)
 - [Fazia Hanout, jeune érudite roublarde](heroes/fazia)

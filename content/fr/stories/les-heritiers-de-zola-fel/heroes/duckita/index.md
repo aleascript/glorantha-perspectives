@@ -4,7 +4,7 @@ title: "Duckita"
 
 > "Pourrait faire peur si ce n'était pas une canne"
 
-![Duckita](../../../../../assets/srd/duckita.png)
+![Duckita](../../../../../assets/srd/duckita.jpg)
 
 * Canne Durulz, « vieille », âge indéterminé
 * **Niveau de vie**: pauvre

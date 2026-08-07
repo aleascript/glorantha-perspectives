@@ -28,7 +28,7 @@ Ikarnos's account: "I tried to speak with the decurion commanding the squad to s
 
 Peek-ee-Peek's account: "I tried to cause an accident to the soldier who had been disrespectful to me all day. The spirits accompany me and guide my path. So I whispered to *Spirit of the Beast* to go make the decurion's horse suddenly rear and kick the soldier. The horse reared, but the soldier was not hit, and the decurion did not fall either. The event seemed strange to all and cast a great silence in the ranks. At least they stopped bothering me and became cautious, believing an invisible enemy was nearby. Scouts were dispatched. We lost time, but I smiled inwardly: I had obtained calm."
 
-![From Dunstop to Bagnot](../../../../assets/stories/la-voie-lunaire/03/dunstop-to-bagnot.png)
+![From Dunstop to Bagnot](../../../../assets/stories/la-voie-lunaire/03/dunstop-to-bagnot.jpg)
 
 **Jaridan's and Hanya's Objectives:** Nothing special.
 
@@ -73,7 +73,7 @@ So I had myself announced alongside Hanya to Pharandros. The king was young, han
 
 I presented our mission which brought me to travel to the lands of Prax, recently conquered. The young king's vision was clear: by bringing the lunar benefits to local populations, they would almost naturally cease to be a threat, while using force of course if necessary.
 
-![Pharandros](../../../../assets/stories/la-voie-lunaire/03/pharandros.png)
+![Pharandros](../../../../assets/stories/la-voie-lunaire/03/pharandros.jpg)
 
 Suddenly, one of the advisors asked me what the Emperor's *Undulating Mask* would think of the cult of Arim the Poor. I immediately recognized a secret word: my interlocutor was no doubt a member of the *Society of Secret Phrases*. I stared at him intently. He was a thin, almost ascetic man, wearing a robe and carrying several scroll cases.
 
@@ -93,7 +93,7 @@ We went to sleep in Caius's spacious house, who proved to be an exceedingly cons
 
 The next day, I met the advisor at the city's thermal baths. The latter, newly erected, had been inaugurated by the king a few days earlier (which explained his visit to Bagnot, as a way to establish his reign through a civilizing vision). I was accompanied by Jaridan.
 
-![Lunarium](../../../../assets/stories/la-voie-lunaire/03/lunarium.png)
+![Lunarium](../../../../assets/stories/la-voie-lunaire/03/lunarium.jpg)
 
 It was in the heart of the red smoke of the *Lunarium* that the man reappeared. I noticed there were very few locals in the baths. He finally introduced himself: "**Imex Rapiis**, strategic and tactical advisor to the King. Pharandros is young and still discovering the barbarian world. This is not the Empire here, but merely a province. Fortunately, it is the richest of the Provinces. I am here so that Prosperity reigns, so that barbarian chiefs have no interest in rebelling, and so that the *Lunar Pax* persists. That is why we built these Thermal Baths."
 

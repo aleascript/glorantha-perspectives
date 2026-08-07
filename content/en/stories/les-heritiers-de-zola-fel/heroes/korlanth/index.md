@@ -4,7 +4,7 @@ title: "Korlanth Lucky"
 
 > "I believe in my Destiny"
 
-![Korlanth](../../../../../assets/srd/korlanth.png)
+![Korlanth](../../../../../assets/srd/korlanth.jpg)
 
 * Man, 20 years old
 * **Standard of living**: poor

@@ -104,7 +104,7 @@ Peek en allant à l'écurie remarque des yeux rouges et découvre une statuette 
 >   - ne se doutent de rien
 > - Résultat 2 vs 1: Réussite +2
 
-![Cacodemon](../../../../assets/stories/la-voie-lunaire/07/cacodemon.png)
+![Cacodemon](../../../../assets/stories/la-voie-lunaire/07/cacodemon.jpg)
 
 Elle voit les occupants de la maison : deux servantes, l'éphèbe, Cai et Visa faire un rituel avec la statuette. Ils sont nus. Elle voit leurs crocs et entend le nom Cacodemon. Elle voit un sablier et comprend qu'à la fin ce sera la fin. Elle comprend même le gaz. Elle file dans les chambres et traîne ses compagnons dehors. Ils reprennent vie dans les écuries mais c'est ce moment que les ogres choisissent pour les attaquer et se ruer sur eux.
 
@@ -116,7 +116,7 @@ Peek tue l'ephèbe! Jaridan et Ikarnos sont entourés par les ogres restants.
 
 Cai invoque un infernal! Le Chaos s'abat sur la maison.
 
-![Infernal](../../../../assets/stories/la-voie-lunaire/07/infernal.png)
+![Infernal](../../../../assets/stories/la-voie-lunaire/07/infernal.jpg)
 
 Peek isole la servante. L'autre servante rejoint son père. L'infernal apparaît! Il fait 5m de haut, sent le souffre!!
 

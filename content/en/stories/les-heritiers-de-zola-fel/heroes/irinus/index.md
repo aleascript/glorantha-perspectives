@@ -4,7 +4,7 @@ title: "Irinus Solantis"
 
 > "Organized war with rules, not butchery"
 
-![Irinus](../../../../../assets/srd/irinus.png)
+![Irinus](../../../../../assets/srd/irinus.jpg)
 
 * Man, 30 years old
 * **Standard of living**: average

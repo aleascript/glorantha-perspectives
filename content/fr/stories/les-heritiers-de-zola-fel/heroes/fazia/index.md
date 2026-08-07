@@ -4,7 +4,7 @@ title: "Fazia Hanout"
 
 > "Voler un voleur, ce n'est pas du vol, non ?"
 
-![Fazia](../../../../../assets/srd/fazia.png)
+![Fazia](../../../../../assets/srd/fazia.jpg)
 
 * Femme, 20 ans
 * **Niveau de vie**: standard

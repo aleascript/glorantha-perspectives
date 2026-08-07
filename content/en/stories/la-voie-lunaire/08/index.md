@@ -134,7 +134,7 @@ And suddenly they realize a young Orlanthi is being strangled by a strange rainb
 > - Result 2 vs 3: Victory +2
 >   - there were several unrecorded escalations
 
-![Rainbow Serpent](../../../../assets/stories/la-voie-lunaire/08/serpent-arc-en-ciel.png)
+![Rainbow Serpent](../../../../assets/stories/la-voie-lunaire/08/serpent-arc-en-ciel.jpg)
 
 The combat is epic, the serpent does not hypnotize Hanya and tries to flee but she catches up with it and must deal it several blows. Seeing itself attacked the serpent tries to bite her. Peek knows that Hanya is immune to arrows but does not want to take the risk given what happened with the Gazzams and for now the proud guardian of Jillaro seems to be managing. The Orlanthis do not dare shoot and nobody is nearby to intervene in close combat. Finally after several blows, the serpent collapses dead!
 

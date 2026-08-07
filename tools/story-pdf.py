@@ -214,6 +214,8 @@ def main():
     out.append(":toclevels: 2")
     out.append(":toc-title: %s" % labels["toc"])
     cover = os.path.join(ASSETS_DIR, "stories", slug, "heroes", "heroes.png")
+    if not os.path.isfile(cover):
+        cover = os.path.join(ASSETS_DIR, "stories", slug, "heroes", "heroes.jpg")
     if os.path.isfile(cover):
         rel_cover = os.path.relpath(cover, sdir)
         out.append(":title-logo-image: image:%s[width=250]" % rel_cover)

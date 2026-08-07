@@ -4,7 +4,7 @@ title: "Irinus Solantis"
 
 > "Guerre organisée avec des règles, pas la boucherie"
 
-![Irinus](../../../../../assets/srd/irinus.png)
+![Irinus](../../../../../assets/srd/irinus.jpg)
 
 * Homme, 30 ans
 * **Niveau de vie**: standard

@@ -104,7 +104,7 @@ Peek going to the stable notices red eyes and discovers a statuette with wings a
 >   - suspect nothing
 > - Result 2 vs 1: Success +2
 
-![Cacodemon](../../../../assets/stories/la-voie-lunaire/07/cacodemon.png)
+![Cacodemon](../../../../assets/stories/la-voie-lunaire/07/cacodemon.jpg)
 
 She sees the occupants of the house: two servants, the ephebe, Cai and Visa performing a ritual with the statuette. They are naked. She sees their fangs and hears the name Cacodemon. She sees an hourglass and understands that when it ends it will be the end. She even understands the gas. She rushes to the rooms and drags her companions outside. They come back to life in the stables but that is the moment the ogres choose to attack them and rush upon them.
 
@@ -116,7 +116,7 @@ Peek kills the ephebe! Jaridan and Ikarnos are surrounded by the remaining ogres
 
 Cai summons an infernal! Chaos falls upon the house.
 
-![Infernal](../../../../assets/stories/la-voie-lunaire/07/infernal.png)
+![Infernal](../../../../assets/stories/la-voie-lunaire/07/infernal.jpg)
 
 Peek isolates the servant. The other servant joins her father. The infernal appears! It is 5m tall, smelling of sulfur!!
 

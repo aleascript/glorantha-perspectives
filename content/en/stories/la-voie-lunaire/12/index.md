@@ -62,7 +62,7 @@ I crave raw flesh. The ogre growing in my flesh reminds me regularly. I try not 
 
 As I devour a raw rabbit I felled with an arrow, I sense movement behind me. The Dwarf has followed me and seems to have understood something, holding his war hammer and letting out a cry as he attacks me.
 
-![Surprise](../../../../assets/stories/la-voie-lunaire/12/bloody-surprise.png)
+![Surprise](../../../../assets/stories/la-voie-lunaire/12/bloody-surprise.jpg)
 
 > 🎲 Hanya confrontation with the Mostali
 > - Conflict:
@@ -112,7 +112,7 @@ I exclaim: "You there, remember the snakes! You know very well it was not me who
 
 One of the guards strikes me with the butt of his lance to make me shut up. I take the blow, hoping the Dwarves understood the message. Besides, I must really be tired because I realize the bare-chested man is wearing the medallion around his neck. His opponent is also bare-chested, a big strong man full of scars. I recognize a tough fellow there. The old Sage begins chanting and recalls a law of honor and truth. Apparently a grievance opposes the two men and the man with the medallion has decided to challenge the other to bare hands. He is going to be massacred I think at first. Then the combat begins and suddenly doubt assails me. The man with the medallion takes his opponent's blows without flinching and when he starts to retaliate his blows seem of supernatural strength. Finally the big fellow collapses. The man with the medallion raises his arms in triumph.
 
-![The fight](../../../../assets/stories/la-voie-lunaire/12/fight.png)
+![The fight](../../../../assets/stories/la-voie-lunaire/12/fight.jpg)
 
 The priestess Sheena and her acolytes carry him away to heal him. Then the village chief speaks with Gundar who brings the man with the medallion. I do not hear what they say but sometimes they look toward me. Finally they seem to reach an agreement.
 

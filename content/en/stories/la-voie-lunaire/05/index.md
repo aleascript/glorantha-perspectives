@@ -63,7 +63,7 @@ The group realizes that the chaotic layout of the city is not only due to the ec
 
 Taking advantage of a brief lull, Ikarnos keeps his composure, Hanya and Jaridan slip through with agility, and Peek launches her antelope through the debris. After a frantic 200-meter run, they reach an elevated district. Stupefied, they watch the stones continue to crash exactly where they just left. Without trying to understand this marvel, Ikarnos orders to move away as quickly as possible to find the pass.
 
-![Falling stones](../../../../assets/stories/la-voie-lunaire/05/falling-stones.png)
+![Falling stones](../../../../assets/stories/la-voie-lunaire/05/falling-stones.jpg)
 
 ## The witch of the Ruins
 
@@ -153,7 +153,7 @@ The lance pierces Elemenoria's heart, who tries to whisper a final curse.
 
 The globe dissipates instantly. The witch has disappeared. Only the blind little girl remains who jumps up and rushes into a crevice in the wall.
 
-![Elemenoria](../../../../assets/stories/la-voie-lunaire/05/elemenoria-murder.png)
+![Elemenoria](../../../../assets/stories/la-voie-lunaire/05/elemenoria-murder.jpg)
 
 > 🎲 Stop the girl
 > - Conflict:

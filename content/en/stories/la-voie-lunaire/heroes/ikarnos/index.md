@@ -4,7 +4,7 @@ title: "Ikarnos of Raibanth"
 
 > "The Lunar Way will triumph inevitably"
 
-![Ikarnos](../../../../../assets/stories/la-voie-lunaire/heroes/ikarnos/ikarnos.png)
+![Ikarnos](../../../../../assets/stories/la-voie-lunaire/heroes/ikarnos/ikarnos.jpg)
 
 * Man, 32 years old
 * Standard of living: average 

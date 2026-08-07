@@ -4,7 +4,7 @@ title: "Duckita"
 
 > "Could be scary if it weren't a duck"
 
-![Duckita](../../../../../assets/srd/duckita.png)
+![Duckita](../../../../../assets/srd/duckita.jpg)
 
 * Durulz duck, "old", indeterminate age
 * **Standard of living**: poor

@@ -21,8 +21,12 @@ fi
 STORY_SLUGS="la-voie-lunaire les-heritiers-de-zola-fel"
 for slug in $STORY_SLUGS; do
     for lang in fr en; do
+        STORY_ASSETS="content/assets/stories/${slug}/"
+        if [ "$slug" = "les-heritiers-de-zola-fel" ]; then
+            STORY_ASSETS="$STORY_ASSETS content/assets/srd/"
+        fi
         CHANGED_STORY="$(git -C "$PROJECT_ROOT" diff --cached --name-only --diff-filter=ACMR \
-            -- "content/${lang}/stories/${slug}/" "content/assets/stories/${slug}/" \
+            -- "content/${lang}/stories/${slug}/" $STORY_ASSETS \
             | grep -v '\.pdf$' || true)"
         if [ -z "$CHANGED_STORY" ]; then
             continue

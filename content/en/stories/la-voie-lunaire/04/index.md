@@ -104,7 +104,7 @@ A glimmer of terror finally passed through the rebel's gaze, as if he suddenly r
 
 The prisoner stammered: "Glory to... He... will conquer..." Suddenly, tears flowed down his cheeks. He had just realized, with horror, that he was unable to pronounce the names of his Gods and his Heroes. The magical forgetting was total.
 
-![Forgetting of Orlanth's Name](../../../../assets/stories/la-voie-lunaire/04/oubli-du-nom.png)
+![Forgetting of Orlanth's Name](../../../../assets/stories/la-voie-lunaire/04/oubli-du-nom.jpg)
 
 **Ikarnos** smiled: "If you survive, go to Bagnot, to the temple of Danfive Xaron. You will find a new life there. Or else, return among your people, and beg them for mercy for no longer being able to worship your own Gods..."
 

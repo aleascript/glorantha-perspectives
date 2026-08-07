@@ -47,7 +47,7 @@ Ikarnos and Hanya thus methodically follow the trail, discreetly questioning eve
 
 Now one day, as they follow the Dwarf Marches heading north, they spot a small group of four dwarves who seem to be discussing a bit further on. One of the dwarves is in a robe, two others look like soldiers, and another seems very old. The Dwarves spot them and the soldiers raise their crossbows in their direction. They approach with raised hands: "Peace my friends!" The Dwarves let them advance and finally the two groups face each other at 5m apart. The soldiers still suspicious, gripping their crossbows.
 
-![Mostali Group](../../../../assets/stories/la-voie-lunaire/11/mostali-globe-oil.png)
+![Mostali Group](../../../../assets/stories/la-voie-lunaire/11/mostali-globe-oil.jpg)
 
 The Dwarven robed one begins to speak: "Greetings men, I am Goundar of Dwarf Mine and we too, traverse the lands of men in peace."
 

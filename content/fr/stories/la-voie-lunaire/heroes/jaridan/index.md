@@ -4,7 +4,7 @@ title: "Jaridan"
 
 > "La guerre n'est jamais bonne pour le commerce"
 
-![Jaridan](../../../../../assets/stories/la-voie-lunaire/heroes/jaridan/jaridan.png)
+![Jaridan](../../../../../assets/stories/la-voie-lunaire/heroes/jaridan/jaridan.jpg)
 
 * Homme, 48 ans
 * **Niveau de vie**: aisé

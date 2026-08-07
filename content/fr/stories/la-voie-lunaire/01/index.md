@@ -22,7 +22,7 @@ Argenteus et son entourage de courtisans semblent royalement ignorer cet état d
 
 Il me congédia d'un geste las, comme s'il s'en lavait les mains. C'était au moins ça : je n'avais pas leur veto officiel sur les bras. Sans perdre un instant, j'organisai mon voyage et mis le cap vers les Royaumes du Sud.
 
-![Argenteus](../../../../assets/stories/la-voie-lunaire/01/ikarnos-moon-palace.png)
+![Argenteus](../../../../assets/stories/la-voie-lunaire/01/ikarnos-moon-palace.jpg)
 
 ## Le Prélude d'Hanya : Le Chant du Mouvement et de la Stase
 
@@ -32,7 +32,7 @@ Après avoir scruté les eaux sacrées et achevé mes divinations au puits de Hw
 
 Face à son scepticisme institutionnel, je déployai toute mon âme pour tenter d'ouvrir son esprit à cette nécessité...
 
-![Hanya Prélude](../../../../assets/stories/la-voie-lunaire/01/hanya-prelude.png)
+![Hanya Prélude](../../../../assets/stories/la-voie-lunaire/01/hanya-prelude.jpg)
 
 > 🎲 Victoire Majeure
 
@@ -48,7 +48,7 @@ C'était la Saison Sombre, cette période de l'année propice à s'échanger les
 
 Le point de rupture survint le jour où j'arrivai sur les terres du Clan Tout-Seul pour participer au marché hebdomadaire. Pour la toute première fois de ma vie de colporteur, je n'étais pas le bienvenu. J'ai dû âprement négocier ma simple place sur la place publique : quelle honte absolue ! Moi, un honnête Orlanthi !
 
-![Prélude de Jaridan](../../../../assets/stories/la-voie-lunaire/01/jaridan-prelude.png)
+![Prélude de Jaridan](../../../../assets/stories/la-voie-lunaire/01/jaridan-prelude.jpg)
 
 > 🎲 Défaite Marginale
 
@@ -95,7 +95,7 @@ Mon action d'éclat ultime échoua d'un cheveu... J'aurais pu être l'héroïne 
 
 Ce fut une **défaite majeure** pour les assaillants. Les tribus de nomades qui s'étaient ruées à l'assaut des positions lunaires finissent durablement brisées par ce désastre - estropiées, handicapées et moralement démoralisées pour les saisons à venir.
 
-![Bataille de Bouillon de Lune](../../../../assets/stories/la-voie-lunaire/01/bouillon-de-lune.png)
+![Bataille de Bouillon de Lune](../../../../assets/stories/la-voie-lunaire/01/bouillon-de-lune.jpg)
 
 De mon côté, je m'en sors vivante mais grandement affaiblie, le corps marqué par quelques écorchures sanglantes et l'esprit vidé par une profonde fatigue spirituelle pour avoir tant sollicité l'Esprit de la Bête. Fta-Ah, épuisée par ses prouesses, est tout aussi affaiblie. Mais qu'importe nos blessures : notre victoire lors de la Bataille du Bouillon-de-Lune reste absolue et historique.
 

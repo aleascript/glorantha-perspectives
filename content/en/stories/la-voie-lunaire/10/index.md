@@ -73,6 +73,6 @@ Sigmar replies: "that is indeed what I thought. In that case you will easily und
 
 Peek and Jaridan leave, casting an eye at the winding road that snakes along the cliff. They see young tattooed men practicing the Orlanthi sky-surfing. The marvel is impressive, they launch themselves along the cliff and dive into the void carried by the winds. They understand these young men are taunting them out of bravado but see no other way. The chief has spoken.
 
-![The cliff village](../../../../assets/stories/la-voie-lunaire/10/flying-orlanthi.png)
+![The cliff village](../../../../assets/stories/la-voie-lunaire/10/flying-orlanthi.jpg)
 
 | [Previous](../09) | [Next](../11/) |
