@@ -60,11 +60,16 @@ Des scripts dans `tools/` permettent de générer le PDF du SRD.
 
 ### Prérequis techniques
 
-- **asciidoctor-pdf** (pour `generate-srd-pdf.sh`)
+- **asciidoctor-pdf** (pour `generate-srd-pdf.sh` et `generate-story-pdf.sh`)
+- **pandoc** (pour `generate-story-pdf.sh` : conversion Markdown → AsciiDoc)
+- **python3** (pour `generate-story-pdf.sh` : assemblage du document)
 
 ```bash
 # Installation d'asciidoctor-pdf (gem Ruby)
 gem install asciidoctor-pdf
+
+# Installation de pandoc
+sudo apt install pandoc
 ```
 
 ### `generate-srd-pdf.sh`
@@ -83,9 +88,24 @@ Le rendu est contrôlé par le thème `tools/srd-pdf-theme.yml` (inspiration Glo
 
 Le PDF `content/${lang}/srd/glorantha-perspectives-${lang}.pdf` est écrasé à chaque génération.
 
-### Hooks git (génération automatique du PDF)
+### `generate-story-pdf.sh`
 
-Un hook `pre-commit` versionné (`git-hooks/pre-commit`) régénère automatiquement les PDF SRD lorsque les fichiers AsciiDoc sont modifiés. Pour l'activer sur un clone :
+Convertit l'histoire Markdown `content/${lang}/stories/${slug}/` en un PDF consolidé dans le même dossier. Le PDF contient, dans l'ordre : la présentation (`index.md`), les héros (`heroes/`), le récit (chapitres `NN/`) et le glossaire en annexe (`others/`), avec les images et une page de garde (`heroes.png`).
+
+```bash
+# Depuis la racine du projet (français par défaut)
+bash tools/generate-story-pdf.sh la-voie-lunaire
+bash tools/generate-story-pdf.sh les-heritiers-de-zola-fel
+
+# Autre langue (ex: anglais)
+bash tools/generate-story-pdf.sh la-voie-lunaire en
+```
+
+Les slugs disponibles sont `la-voie-lunaire` et `les-heritiers-de-zola-fel`. Le rendu réutilise le thème `tools/srd-pdf-theme.yml` (inspiration Glorantha). Le PDF `content/${lang}/stories/${slug}/${slug}.pdf` est écrasé à chaque génération ; il est référencé depuis la page d'accueil de l'histoire.
+
+### Hooks git (génération automatique des PDF)
+
+Un hook `pre-commit` versionné (`git-hooks/pre-commit`) régénère automatiquement les PDF SRD et les PDF des histoires lorsque leurs fichiers sources sont modifiés. Pour l'activer sur un clone :
 
 ```bash
 bash tools/install-hooks.sh
@@ -94,9 +114,11 @@ bash tools/install-hooks.sh
 Le hook s'exécute au moment du commit :
 - il détecte les `srd/*.adoc` en staging,
 - lance `tools/generate-srd-pdf.sh <lang>` pour chacun,
+- il détecte les changements sous `content/{fr,en}/stories/<slug>/` et `content/assets/stories/<slug>/` (hors `.pdf`),
+- lance `tools/generate-story-pdf.sh <slug> <lang>` pour chaque histoire concernée,
 - stage les PDF régénérés (et les suppressions d'anciennes versions).
 
-Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf` (voir `install-hooks.sh`, qui le vérifie).
+Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf`, `pandoc` et `python3` (voir `install-hooks.sh`, qui les vérifie).
 
 ## Structure du projet
 
@@ -113,10 +135,12 @@ Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf
 │   ├── stories/         # Histoires et sagas
 │   └── rules/           # Règles diégétiques
 ├── git-hooks/           # Hooks git versionnés
-│   └── pre-commit       # Régénère les PDF SRD
+│   └── pre-commit       # Régénère les PDF SRD et des histoires
 ├── tools/               # Scripts utilitaires
 │   ├── generate-srd-pdf.sh
+│   ├── generate-story-pdf.sh
 │   ├── install-hooks.sh
+│   ├── story-pdf.py
 │   └── srd-pdf-theme.yml
 ├── index.md             # Page d'accueil
 ├── Gemfile              # Dépendances Ruby

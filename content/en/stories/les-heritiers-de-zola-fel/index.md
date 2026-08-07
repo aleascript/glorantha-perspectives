@@ -4,6 +4,8 @@ title: "The Heirs of Zola Fel"
 
 Exploration of the Multisim campaign released in 2001 for HeroWars, freely adapted.
 
+**Download the consolidated PDF: [les-heritiers-de-zola-fel.pdf](les-heritiers-de-zola-fel.pdf)**
+
 # Premise
 
 This is the story of Fazia, who stole a map of the mythical Puzzle Canal from adventurers returning from the Big Rubble. But stealing from thieves isn't really stealing, right?

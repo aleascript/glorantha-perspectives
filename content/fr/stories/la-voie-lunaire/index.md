@@ -6,6 +6,8 @@ title: "La Voie Lunaire"
 
 Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G puis petit à petit avec des tests d'autres règles qui ont fini par aboutir à **Glorantha Perspectives**.
 
+**Télécharger le PDF consolidé : [la-voie-lunaire.pdf](la-voie-lunaire.pdf)**
+
 # Les héros [(2)](#note2) 
 
 ![Les héros](../../../assets/stories/la-voie-lunaire/heroes/heroes.png)

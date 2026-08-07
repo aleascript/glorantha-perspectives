@@ -6,6 +6,8 @@ title: "The Lunar Way"
 
 A Gloranthan solo exploration story first using HQ/G rules, then gradually incorporating tests of other rules that ultimately led to **Glorantha Perspectives**.
 
+**Download the consolidated PDF: [la-voie-lunaire.pdf](la-voie-lunaire.pdf)**
+
 # The heroes [(2)](#note2) 
 
 ![The heroes](../../../assets/stories/la-voie-lunaire/heroes/heroes.png)

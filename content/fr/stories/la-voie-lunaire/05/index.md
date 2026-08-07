@@ -63,7 +63,7 @@ Le groupe réalise alors que le tracé chaotique de la ville n'est pas seulement
 
 Profitant d'une brève accalmie, Ikarnos garde son sang-froid, Hanya et Jaridan se faufilent avec agilité, et Peek lance son antilope à travers les décombres. Après une course effrénée de 200 mètres, ils atteignent un quartier en surplomb. Ébahis, ils observent les pierres continuer de s'écraser exactement à l'endroit qu'ils viennent de quitter. Sans chercher à comprendre ce prodige, Ikarnos ordonne de s'éloigner au plus vite pour trouver le col.
 
-![Pierres tombantes](falling-stones.png)
+![Pierres tombantes](../../../../assets/stories/la-voie-lunaire/05/falling-stones.png)
 
 ## La sorcière des Ruines
 
@@ -153,7 +153,7 @@ La lance transperce le coeur d'Elemenoria, qui tente de murmurer une dernière m
 
 Le globe se dissipe instantanément. La sorcière a disparu. Il ne reste que la petite fille aveugle qui se lève d'un bond et s'engouffre dans une anfractuosité du mur.
 
-![Elemenoria](elemenoria-murder.png)
+![Elemenoria](../../../../assets/stories/la-voie-lunaire/05/elemenoria-murder.png)
 
 > 🎲 Arrêter la fillette
 > - Conflit:

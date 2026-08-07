@@ -4,6 +4,8 @@ title: "Les Héritiers de Zola Fel"
 
 Exploration de la campagne de Multisim sortie en 2001 pour HeroWars, librement adaptée. 
 
+**Télécharger le PDF consolidé : [les-heritiers-de-zola-fel.pdf](les-heritiers-de-zola-fel.pdf)**
+
 # Prémisse
 
 C’est l’histoire de Fazia, qui a volé à des aventuriers revenant de la Grande Ruine, une carte du mythique Canal-Puzzle. Mais voler des voleurs, c’est pas vraiment voler hein? 
