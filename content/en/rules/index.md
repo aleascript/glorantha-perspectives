@@ -8,9 +8,16 @@ Diegetic rules aligning gameplay and roleplay in the world of Glorantha.
 
 > Glorantha Perspectives does not replace your reading and reflection on the world of Glorantha from the colossal body of work that has been written about this world.
 
-You can get the rules in [PDF](../srd/glorantha-perspectives-en.pdf).
+**You can get the rules in [PDF](../srd/glorantha-perspectives-en.pdf).**
 
 *The site contains more or less what is present in the SRD and allows you to draw from the game system certain ideas that might be applicable to your own current game system.*
+
+**The omnipotence of narration:** Everything is narrative! In this system, everything is justified by the narration and it is the coherence of the story that acts as the supreme arbiter. Destiny, who embodies the game master or narrator, is invited to remain open to suggestions, but they have powerful levers to balance the debates: if it is perfectly acceptable for a player to place a stake justified by the fiction, this means that the adversary (Destiny) can in turn place another stake in response, since this focus is considered important in the scene.
+
+**The game legacy: HeroQuest and RuneQuest**
+
+- For veterans of HeroQuest (HQ): the approach is strictly the same, but purged of all statistics and numbers.
+- For purists of RuneQuest (RQ): this system offers a deliberate shift from simulationism towards narrativism. Nevertheless, the resolution engine intends, in its own way, to be able to simulate any opposition.
 
 In accordance with the Jrusteli mono-myth, here are the four great frames of thought in Glorantha:
 

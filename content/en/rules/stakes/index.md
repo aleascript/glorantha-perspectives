@@ -135,8 +135,23 @@ If you want, you can use the following interpretive grid:
 - Victory, Success / Defeat, Failure when the difference between the camps equals 1.
 - Status quo, Reversal in case of a tie
 
-### Retributions
+### Retributions and Evolution
 
-Players like to see characters evolve. Evolutions are always narrated in the Gloranthian system. There is no meta-game, or as little as possible. No bonuses, no penalties.
+The system avoids meta-game as much as possible: there are no mechanical bonuses or penalties at the end of the game. Characters evolve in a purely diegetic way. It is indeed the narration that serves as the exclusive engine of evolution.
 
-It is therefore up to Destiny to imagine retributions: links, attachments, gifts, new powers, epiphanies...
+**How does one evolve?** Evolution goes through the dynamics of the character's keywords: adding new keywords, removing obsolete traits, or modifying existing elements. To this are added the retributions granted by Destiny, such as new links, attachments, gifts, a new power or an epiphany.
+
+**When does one evolve?** This evolution does not occur at the end of a scenario. It happens organically during a Fiasco or a Feat (which translate into a difference of 2 successes or more in a draw), or simply when the story demands it.
+
+### Draws without Opposition: Measuring the Scale
+
+Since the system is entirely narrative, it happens that the purpose of a draw is not to obtain a victory against a direct adversity. Sometimes, the point is simply to evaluate the scale of an action to measure its level of success or its level of failure.
+
+- **Measuring failure:** This case is ideal in a "linear scenario" (a structure common in old-school adventures) where the final failure is in any case inevitable. The draw then determines the severity of the fall and its consequences.
+- **Measuring success:** Perfect when it comes to quantifying the power of meticulous preparation, such as the execution of a complex ritual to enter the Hero Plane.
+
+**The Resolution:**
+
+In these specific cases, the active camp gathers its stakes and makes a standard draw, but without any opposing adversity. It then suffices to know the total number of successes obtained and to interpret it according to the dramatic situation at hand.
+
+- **Attention:** Getting no success in this type of draw must be interpreted as a real problem for the players, plunging the narrative immediately into crisis.

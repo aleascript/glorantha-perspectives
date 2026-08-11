@@ -20,6 +20,13 @@ Lorsque le destin est incertain et qu’on sent l’apparition d’une potentiel
 - La **résolution** des mises se fait ensuite avec des règles différentes suivant la vision du monde de chaque camp, selon qu’on est [animiste](../animism), [théiste](../theism), [mystique](../mysticism) ou [logicien](../mysticism/index.md). Chaque camp obtient donc un certain nombre de réussites.
 - L’**interprétation du résultat** se fait en se basant sur la situation, le focus mis en place,  les objectifs et les stratégies des uns ou des autres.
 
+**L'omnipotence de la narration :** Tout est narratif ! Dans ce système, tout se justifie par la narration et c'est la cohérence de l'histoire qui fait office d'arbitre suprême. La Destinée, qui incarne le meneur de jeu ou narrateur, est invitée à rester ouverte aux propositions, mais elle dispose de leviers puissants pour équilibrer les débats : s'il est tout à fait acceptable pour un joueur de poser une mise justifiée par la fiction, cela signifie que l'adversaire (la Destinée) peut lui aussi poser une autre mise en retour, vu que l'on considère ce focus comme important dans la scène.
+
+**L'héritage ludique : HeroQuest et RuneQuest**
+
+- Pour les vétérans d'HeroQuest (HQ) : l'approche est strictement la même, mais expurgée de toute statistique et de tout chiffre.
+- Pour les puristes de RuneQuest (RQ) : ce système propose un glissement assumé du simulationnisme vers le narrativisme. Pour autant, le moteur de résolution se veut à sa manière être à même de simuler n'importe quelle opposition.
+
 ## Détermination des mises
 
 Le moteur est d’abord basé sur le bon sens et la connaissance du monde de Glorantha. Chaque obstacle contient son lot de difficultés à surmonter. Vous utilisez vos atouts pour espérer dépasser l’obstacle. 
@@ -135,8 +142,23 @@ Si l’on veut, on peut s’aider de la grille de lecture suivante:
 - Victoire, Succès / Défaite, Échec quand la différence entre les camps est égale à 1.
 - Status-quo, Revers en cas d'égalité
 
-### Les rétributions
+### Les rétributions et l’évolution
 
-Les joueurs aiment voir les personnages évoluer.  Les évolutions sont toujours racontées dans le système gloranthien. Il n’y a pas de meta-game, ou en tout cas le moins possible. Pas de bonus, malus. 
+Le système évite au maximum le méta-jeu : il n’y a pas de bonus ou de malus mécaniques de fin de partie. Les personnages évoluent de manière purement diégétique. C'est bel et bien la narration qui sert de moteur exclusif à l'évolution.
 
-C’est donc à la Destinée d’imaginer des rétributions: liens, attaches, cadeaux, nouveau pouvoir, prise de conscience...
+**Comment évolue-t-on ?** L'évolution passe par la dynamique des mots-clés du personnage : l'ajout de nouveaux mots-clés, la suppression de traits obsolètes, ou la modification d'éléments existants. À cela s'ajoutent les rétributions accordées par la Destinée, telles que de nouveaux liens, des attaches, des cadeaux, un nouveau pouvoir ou une prise de conscience.
+
+**Quand évolue-t-on ?** Cette évolution ne survient pas à la fin d'un scénario. Elle intervient de manière organique lors d'un Fiasco ou d'un Exploit (qui se traduisent par une différence de 2 réussites ou plus lors d'un tirage), ou tout simplement quand l'histoire l'exige.
+
+### Les tirages sans opposition : mesurer l'ampleur
+
+Puisque le système est intégralement narratif, il arrive que le but d'un tirage ne soit pas d'obtenir une victoire face à une adversité directe. Parfois, l'enjeu est simplement d'évaluer l'envergure d'une action pour en mesurer le niveau de réussite ou le niveau d'échec.
+
+- **Mesurer l'échec :** Ce cas est idéal dans un "scénario toboggan" (une structure fréquente dans les aventures old school) où l'échec final est de toute façon inéluctable. Le tirage détermine alors la gravité de la chute et ses conséquences.
+- **Mesurer la réussite :** Parfait lorsqu'il s'agit de quantifier la puissance d'une préparation minutieuse, comme l'exécution d'un rituel complexe pour pénétrer dans le plan des héros.
+
+**La Résolution :**
+
+Dans ces cas précis, le camp actif rassemble ses mises et effectue un tirage standard, mais sans aucune opposition adverse. Il suffit alors de connaître le nombre total de réussites obtenues et de l'interpréter selon la situation dramatique en cours.
+
+N'obtenir aucune réussite lors de ce type de tirage doit être interprété comme un réel problème pour les joueurs, plongeant immédiatement le récit dans la crise.

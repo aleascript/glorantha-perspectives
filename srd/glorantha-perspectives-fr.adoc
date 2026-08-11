@@ -1,8 +1,8 @@
 = Glorantha Perspectives
 :subtitle: Règles diégétiques pour jouer dans Glorantha
 aleascript@proton.me
-:revnumber: 0.1
-:revdate: 2026-08-01
+:revnumber: 0.2
+:revdate: 2026-08-11
 :doctype: book
 //:sectnums:
 :toc:
@@ -24,6 +24,13 @@ image::../../assets/licence.png[]
 *L'absence de statistiques :* Dans ce système, vous ne trouverez aucune statistique chiffrée, ni de pourcentage de réussite. Pourquoi ? Car dans la vraie vie, il n'y en a pas. Personne n'aborde un problème en pensant qu'il a 75% de chance de réussir. Par contre, tout le monde envisage de manière naturelle ses forces et ses faiblesses face à une situation, sans pour autant les quantifier. Cette évaluation instinctive pondère notre espoir de succès. C'est exactement ce que reflète ce système de résolution : *chaque mise n'est pas un chiffre, c'est un espoir.*
 
 _Par exemple, quand un initié d'Orlanth charge au combat, il mise plutôt sur la bourrasque de vent providentielle qui déséquilibre son ennemi (l'opportunité), sur son épée large en fer, et sur la magie "Lame de Foudre" qui crépite sur son arme. En face, le légionnaire lunaire ne calcule pas non plus de pourcentages. Il mise sur sa discipline de phalange (le contrôle), sur son grand bouclier lourd, et sur la bénédiction de la Lune Rouge qui rend ce bouclier exceptionnellement résistant. Cette confrontation d'espoirs se traduit par 3 mises pour l'Orlanthi (Vent + Épée + "Lame de Foudre" qui renforce l'arme) contre 3 mises pour le Lunaire (Discipline + Bouclier + Bénédiction qui renforce la défense)._
+
+*L'omnipotence de la narration :* Tout est narratif ! Dans ce système, tout se justifie par la narration et c'est la cohérence de l'histoire qui fait office d'arbitre suprême. La Destinée, qui incarne le meneur de jeu ou narrateur, est invitée à rester ouverte aux propositions, mais elle dispose de leviers puissants pour équilibrer les débats : s'il est tout à fait acceptable pour un joueur de poser une mise justifiée par la fiction, cela signifie que l'adversaire (la Destinée) peut lui aussi poser une autre mise en retour, vu que l'on considère ce focus comme important dans la scène.
+
+*L'héritage ludique : HeroQuest et RuneQuest*
+
+- Pour les vétérans d'HeroQuest (HQ) : l'approche est strictement la même, mais expurgée de toute statistique et de tout chiffre.
+- Pour les puristes de RuneQuest (RQ) : ce système propose un glissement assumé du simulationnisme vers le narrativisme. Pour autant, le moteur de résolution se veut à sa manière être à même de simuler n'importe quelle opposition.
 
 Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde de Glorantha doit être vu par des prismes très différents. Il garantit ainsi une cohérence forte entre les mécaniques de jeu utilisées et le cadre de pensée spécifique des personnages.
 
@@ -200,9 +207,26 @@ Chaque camp effectue son tirage de dés selon les règles spécifiques de son Ca
 - *Différence de 1 réussite :* L'action se solde par une Victoire/Succès (ou une Défaite/Échec).
 - *Égalité :* L'action aboutit à un Status-quo (ou Revers). S'il est impossible de rester sur un status quo narratif, chaque camp rajoute une mise supplémentaire symbolisant la surenchère, et l'on procède à un nouveau tirage.
 
-*Les Rétributions :*
+*Les Rétributions et l'Évolution :*
 
-Le système évite au maximum le méta-jeu : il n'y a pas de bonus ou de malus mécaniques de fin de partie. Les personnages évoluent de manière diégétique, c'est-à-dire par la narration. Au cours des aventures, la Destinée leur accorde des rétributions narratives comme de nouveaux liens, des attaches, des cadeaux, un nouveau pouvoir ou une prise de conscience.
+Le système évite au maximum le méta-jeu : il n'y a pas de bonus ou de malus mécaniques de fin de partie. Les personnages évoluent de manière purement diégétique. C'est bel et bien la narration qui sert de moteur exclusif à l'évolution.
+
+*Comment évolue-t-on ?* L'évolution passe par la dynamique des mots-clés du personnage : l'ajout de nouveaux mots-clés, la suppression de traits obsolètes, ou la modification d'éléments existants. À cela s'ajoutent les rétributions accordées par la Destinée, telles que de nouveaux liens, des attaches, des cadeaux, un nouveau pouvoir ou une prise de conscience.
+
+*Quand évolue-t-on ?* Cette évolution ne survient pas à la fin d'un scénario. Elle intervient de manière organique lors d'un Fiasco ou d'un Exploit (qui se traduisent par une différence de 2 réussites ou plus lors d'un tirage), ou tout simplement quand l'histoire l'exige.
+
+=== H. Les Tirages sans Opposition : Mesurer l'Ampleur
+
+Puisque le système est intégralement narratif, il arrive que le but d'un tirage ne soit pas d'obtenir une victoire face à une adversité directe. Parfois, l'enjeu est simplement d'évaluer l'envergure d'une action pour en mesurer le niveau de réussite ou le niveau d'échec.
+
+- *Mesurer l'échec :* Ce cas est idéal dans un "scénario toboggan" (une structure fréquente dans les aventures old school) où l'échec final est de toute façon inéluctable. Le tirage détermine alors la gravité de la chute et ses conséquences.
+- *Mesurer la réussite :* Parfait lorsqu'il s'agit de quantifier la puissance d'une préparation minutieuse, comme l'exécution d'un rituel complexe pour pénétrer dans le plan des héros.
+
+*La Résolution :*
+
+Dans ces cas précis, le camp actif rassemble ses mises et effectue un tirage standard, mais sans aucune opposition adverse. Il suffit alors de connaître le nombre total de réussites obtenues et de l'interpréter selon la situation dramatique en cours.
+
+N'obtenir aucune réussite lors de ce type de tirage doit être interprété comme un réel problème pour les joueurs, plongeant immédiatement le récit dans la crise.
 
 == IV. Les Cadres de Pensée
 
