@@ -1,8 +1,8 @@
 = Glorantha Perspectives
 :subtitle: Règles diégétiques pour jouer dans Glorantha
 aleascript@proton.me
-:revnumber: 0.2
-:revdate: 2026-08-11
+:revnumber: 0.3
+:revdate: 2026-08-15
 :doctype: book
 //:sectnums:
 :toc:
@@ -36,6 +36,10 @@ Le système a été inventé pour que les joueurs gardent en permanence en tête
 
 Attention, ces règles ne remplacent aucunement vos lectures et réflexions sur ce monde, basées sur la somme colossale qui a déjà été écrite à son sujet.
 
+On verra plus loin comment la fiction constitue la procédure mécanique. Le focus, par exemple, est extrêmement révélateur : la question n'est pas « quel attribut utiliser ? », mais qu'est-ce qui compte réellement dans cette scène ? C'est une logique fluide de fiction → interprétation → mécanique → nouvelle fiction, sans véritable séparation. 
+
+Les règles ne simulent pas seulement Glorantha ; elles simulent la manière dont les Gloranthiens comprennent Glorantha. Un joueur qui s'immerge dans Glorantha sera  mécaniquement meilleur à la table — non pas parce qu'il possède davantage de points, mais parce qu'il sait voir davantage de choses qui peuvent devenir des mises.
+
 === B. Glorantha pour les débutants
 
 Pour harmoniser les attentes d'un groupe de joueurs et présenter rapidement l'univers, voici les grands principes incontournables de Glorantha :
@@ -63,6 +67,14 @@ Dans l'univers de Glorantha, la façon d'appréhender la réalité modifie la r�
 
 Ces cadres de pensée sont fondamentaux : ce sont eux qui permettent aux personnages de se positionner par rapport au monde et de poser des mises lorsqu'ils sont face à un conflit ou un obstacle. C'est ensuite la narration qui définit ce qui va concrètement rentrer en jeu dans la résolution de l'action.
 
+=== D. Le contrat social comme colonne vertébrale
+
+"Beaucoup de choses sont réglées par le contrat social." Cette clause de style mérite d'être explicitée, car elle distingue ce système des jeux "tout-en-règles" (comme D&D ou Pathfinder) où le MJ est un strict arbitre technique. Ici, la Destinée est garante du mythe, pas du règlement. 
+
+* *La règle d'or* : La Destinée n'est pas l'adversaire des joueurs, elle est la gardienne de la cohérence du monde.
+* *Le poids de l'univers* : Dans Glorantha, la mort est rarement anodine, elle a un poids mythique. Une discussion préalable en groupe sur ce que la table accepte comme risque (combat létal, sacrifices, conséquences à long terme) évite les frustrations.
+* *La règle du dernier mot* : La Destinée a autorité sur l'acceptation des mises, mais peut (et doit) demander aux joueurs de justifier narrativement un atout. La table s'accorde sur le fait que la cohérence de l'univers prime toujours sur l'avantage mécanique.
+
 == II. Les Protagonistes
 
 Dans _Glorantha Perspectives_, les personnages ne sont pas définis par des caractéristiques chiffrées (Force, Dextérité, etc.), mais par des *mots-clés* narratifs. Ces mots-clés puisent directement dans la "Gloranthologie" (le lore du monde) et servent à justifier les atouts et les handicaps (les fameuses "mises") lors d'un conflit.
@@ -76,8 +88,8 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 - *Identité :* Nom, Âge, et une *Citation / Phrase type*. Cette phrase résume la philosophie du personnage et donne une accroche de _roleplay_ immédiate au joueur.
 - *Origines & Communauté :* Les loups solitaires n'existent pas (ou survivent peu) dans Glorantha. Le personnage doit définir sa Culture (Sartarite, Tarshite, Esrolien, Uz, etc.) et sa Communauté précise (Clan, Tribu, Cité, Régiment).
 - *Cadre de Pensée :* C'est le prisme à travers lequel le personnage voit le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École Rokari).
-- *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments ou Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
-    - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] sera fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] sera secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
+- *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments et Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
+    - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] pourrait être fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] pourrait être secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
 - *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
 - *Etat:* Des états graduels (blessure, dérangement, ressources) peuvent être ajoutés pour refléter l'évolution du personnage au fil de la partie. Ces états peuvent être utilisés comme mises dans les conflits.
 - *Liens & Attaches :* Ce qui relie le personnage aux autres. Ce peuvent être des alliés, des ennemis, ou des dettes (ex: _Haine viscérale de la tribu des Sangliers, Dévoué corps et âme à sa sœur_).
@@ -162,6 +174,16 @@ ____
 - *Bilan :* Le conflit met en balance les arguments de Kallyr (Lignée royale, Éloquence, Urgence, desservis par son Impatience juvénile) face à ceux de Yanela (Devoir Sacré, Stase du Temple, Méfiance culturelle, desservis par son Amour de la communauté). L'opposition se résout sur un strict 4 mises contre 4 mises.
 ____
 
+
+==== L'approche "à somme nulle" et l'auto-équilibrage diégétique
+
+La Destinée a le dernier mot et peut refuser une mise. Mais de manière générale, si le joueur justifie qu'une mise est valable, cela a une incidence sur le focus et le niveau de détail de la scène. Il y a donc fort à parier que l'opposition possède elle aussi une mise à poser en retour pour contrer celle du joueur. L'affrontement devient un jeu à somme nulle, enrichissant viscéralement la fiction.
+
+*Exemple :* Un joueur pense que son casque est terrifiant et demande une mise supplémentaire. +
+_La Destinée :_ "Le Broo en face de toi n'est généralement pas terrifié par ça. Mais d'accord, admettons. Le Broo est intrigué par ton casque terrifiant (+1 mise pour toi), mais en retour, tu es perturbé par les organes purulents qui sortent de son ventre écorché (+1 mise pour lui)."
+
+Cette approche valorise l'initiative (le casque est pris en compte) tout en éduquant les joueurs de manière organique : chercher à "gratter" des dés avec des arguments futiles ne fera que donner des munitions narratives supplémentaires à la Destinée.
+
 === C. Gérer la Difficulté : La Jauge de Destin
 
 Pour équilibrer les difficultés narratives au fil de la partie (en groupe ou en solo), la Destinée peut utiliser une jauge globale.
@@ -227,6 +249,18 @@ Puisque le système est intégralement narratif, il arrive que le but d'un tirag
 Dans ces cas précis, le camp actif rassemble ses mises et effectue un tirage standard, mais sans aucune opposition adverse. Il suffit alors de connaître le nombre total de réussites obtenues et de l'interpréter selon la situation dramatique en cours.
 
 N'obtenir aucune réussite lors de ce type de tirage doit être interprété comme un réel problème pour les joueurs, plongeant immédiatement le récit dans la crise.
+
+=== I. Gérer la léthalité
+
+Bien que le système s'éloigne du simulationnisme, il convient de décider à votre table si vous souhaitez conserver la léthalité historique de RuneQuest ou non. Dans tous les cas, pour préserver l'immersion tout en évitant la frustration d'une "mort stupide" sur un mauvais tirage, la Destinée doit toujours prévenir le joueur en cas de risque létal.
+
+Voici des degrés d'avertissement narratifs que la Destinée peut employer :
+
+* *"Ceci pourrait vous coûter cher"* : risque de blessure grave, perte d'un objet précieux ou d'un allié.
+* *"Un échec pourrait être fatal"* : mort possible et définitive du personnage.
+* *"Le Chaos vous guette"* : risque de transformation irréversible ou de souillure permanente.
+
+Face à cet avertissement, le joueur a le droit d'opter pour un *recul stratégique*. Il peut modifier son objectif diégétique en conséquence (ex : "Je ne cherche plus à tuer le général lunaire, mais simplement à le retarder pour que mes alliés puissent fuir"). 
 
 == IV. Les Cadres de Pensée
 
@@ -877,11 +911,39 @@ Bien que pensé pour le solo, le système brille également en groupe, à condit
 - *Le Mode JDR Classique :* Un des joueurs endosse le rôle de la Destinée (le Meneur de Jeu), et les autres incarnent chacun un personnage. Le MJ a le dernier mot sur l'acceptation des mises et peut improviser l'histoire à partir des jets de runes.
 - *Le Mode Partagé :* Tous les joueurs autour de la table jouent à tour de rôle la Destinée. On commence par un joueur qui expose son idée, tire les runes et démarre l'histoire. S'il y a plusieurs PNJ/Obstacles, on se répartit les rôles pour déterminer les mises. On change de Destinée à chaque fin de scène (dans le sens des aiguilles d'une montre, par exemple). C'est un excellent moyen de mêler des experts du lore avec des joueurs découvrant l'univers.
 
-== VII. Annexe : Statistiques & Exemples de Personnages
+== VII. Annexes
 
 Cette annexe rassemble deux outils : un tableau comparatif du nombre moyen de réussites de chaque cadre de pensée, et une galerie de personnages joueurs complets pour s'inspirer ou jouer directement.
 
-=== A. Tableau comparatif du nombre moyen de réussites
+=== A. Foire Aux Questions (FAQ)
+
+*Pour les joueurs qui découvrent l'univers*
+
+*Comment trouver ou formuler des "mises" lors d'un conflit ?*::
+La connaissance approfondie du mythe ou de votre culture est votre meilleure arme. Si vous bloquez, posez-vous ces trois questions-guides :
+1. Qu'est-ce qui, dans ma culture ou ma profession, me donne un avantage ici ?
+2. Quel dieu, esprit ou allié pourrait me soutenir dans cette situation ?
+3. Quelle rune de mon personnage est la plus pertinente face à cet obstacle ?
+4. Qu'est ce qui dans la situation pourrait me donner un avantage, même si ce n'est pas directement lié à mon personnage ?
+
+*Comment inventer un nom pour mon personnage ?*::
+Les noms Gloranthiens sont uniques, très typés selon les cultures, et n'ont pas d'équivalent dans le monde réel. Une astuce simple si un nom de notre monde vous vient en tête : inversez des lettres ou modifiez des syllabes pour créer une sonorité inédite (ex : _Thomas_ devient _Samoth_).
+
+*Est-ce que je peux optimiser mon personnage pour le rendre invincible ?*::
+Non. Le système étant narratif, il n'y a pas de mini-maximisation (min-maxing) à rechercher. Les statistiques sont globalement équilibrées par l'histoire.
+
+*Pour les vétérans de RuneQuest, HeroQuest ou QuestWorld*
+
+*Où sont passés mes pourcentages et mes points de caractéristiques ?*::
+Ce système propose un glissement assumé du simulationnisme vers le narrativisme. La mécanique ne décrit pas seulement ce qui est vrai dans le monde, elle décrit ce que le personnage _croit_ être vrai. Une mise n'est pas un bonus mathématique figé, c'est un atout qui a du sens dans une situation précise. 
+
+*Le jeu est-il aussi mortel et punitif que le RuneQuest historique ?*::
+La mort conserve un poids mythique très fort dans Glorantha. Cependant, les règles incluent une mécanique d'"avertissement" obligatoire par la Destinée avant tout jet potentiellement mortel, permettant aux joueurs de faire un "recul stratégique". Cela évite les morts aléatoires ou frustrantes tout en conservant la tension dramatique.
+
+*Le Meneur de Jeu a-t-il tous les droits ?*::
+La Destinée n'est pas un arbitre absolu, elle est la gardienne de la cohérence de l'univers. Le jeu fonctionne sur une dynamique "à somme nulle". Si vous justifiez brillamment une mise grâce à la fiction, la Destinée élargira le focus de la scène et pourra s'en servir pour renforcer l'opposition en retour. La conversation autour de la table prime toujours.
+
+=== B. Statistiques
 
 Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, selon le nombre de mises (de 1D à 10D) et le cadre de pensée utilisé.
 
@@ -901,11 +963,13 @@ Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, sel
 | **10D** | 6,00 | 6,76 | 6,60 | 5,00 | 8,54
 |===
 
+On voit que le système est globalement équilibré. Le moteur étant narratif, il n'y a pas de mini-maximisation (min-maxing) à rechercher. Une mise n'est pas une chose que possède le personnage, c'est une chose qui a du sens dans la situation.
+
 *Les stats 1D intéressantes :* La Logique n'est pas efficace pour résoudre les cas triviaux. Cela explique pourquoi elle veut compliquer les choses : obtenir plus de dés, couper les cheveux en quatre. Foutus rationalistes !
 
 *Les stats draconiques :* Elles écrasent tout le monde, mais c'est bien légitime. Par contre, si le dragonewt choisit l'Utuma et donc la voie matérialiste, on retrouve les stats du mysticisme.
 
-=== B. Exemples de Personnages Joueurs
+=== C. Exemples de Personnages Joueurs
 
 Voici quelques exemples de personnages. 
 

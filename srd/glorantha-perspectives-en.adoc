@@ -1,8 +1,8 @@
 = Glorantha Perspectives
 :subtitle: Diegetic rules for playing in Glorantha
 aleascript@proton.me
-:revnumber: 0.2
-:revdate: 2026-08-11
+:revnumber: 0.3
+:revdate: 2026-08-15
 :doctype: book
 //:sectnums:
 :toc:
@@ -36,6 +36,10 @@ The system was invented so that players keep permanently in mind that the world 
 
 Mind you, these rules in no way replace your readings and reflections on this world, based on the colossal body of work already written about it.
 
+We will see further on how fiction constitutes the mechanical procedure. The focus, for instance, is extremely telling: the question is not "which attribute to use?", but what truly matters in this scene? It is a fluid logic of fiction → interpretation → mechanics → new fiction, without true separation.
+
+The rules do not merely simulate Glorantha; they simulate the way Gloranthans understand Glorantha. A player who immerses themselves in Glorantha will be mechanically better at the table — not because they possess more points, but because they know how to see more things that can become stakes.
+
 === B. Glorantha for beginners
 
 To harmonize the expectations of a group of players and quickly present the setting, here are the essential principles of Glorantha:
@@ -63,6 +67,14 @@ To these worldviews is added a 5th particularly complex frame of thought: _Drago
 
 These frames of thought are fundamental: they are what allow characters to position themselves in relation to the world and to place stakes when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
 
+=== D. The social contract as a backbone
+
+"Many things are settled by the social contract." This stylistic clause deserves to be made explicit, for it distinguishes this system from "all-rules" games (like D&D or Pathfinder) where the GM is a strict technical arbiter. Here, Destiny is the guarantor of the myth, not of the regulations.
+
+* *The golden rule:* Destiny is not the players' adversary, it is the guardian of the world's coherence.
+* *The weight of the universe:* In Glorantha, death is rarely trivial, it carries a mythical weight. An upfront group discussion about what the table accepts as risk (lethal combat, sacrifices, long-term consequences) avoids frustrations.
+* *The rule of the last word:* Destiny has authority over the acceptance of stakes, but can (and must) ask players to narratively justify an asset. The table agrees that the coherence of the universe always prevails over mechanical advantage.
+
 == II. The Protagonists
 
 In _Glorantha Perspectives_, characters are not defined by numerical characteristics (Strength, Dexterity, etc.), but by narrative *keywords*. These keywords draw directly from the "Gloranthology" (the lore of the world) and serve to justify assets and handicaps (the famous "stakes") during a conflict.
@@ -76,8 +88,8 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 - *Identity:* Name, Age, and a *Quote / Signature line*. This line summarizes the character's philosophy and gives the player an immediate _roleplay_ hook.
 - *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
 - *Frame of Thought:* The prism through which the character sees the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School).
-- *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements or Powers). In Glorantha, runes are not merely magic, *they dictate character*.
-    - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] will be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] will be secretive, manipulative or mischievous. These character traits can serve as stakes (for or against the character) in a conflict.
+- *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements and Powers). In Glorantha, runes are not merely magic, *they dictate character*.
+    - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] could be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] could be secretive, manipulative or mischievous. These character traits can serve as stakes (for or against the character) in a conflict.
 - *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
 - *States:* Gradual states (injury, disruption, resources) can be added to reflect the character's evolution over the course of the game. These states can be used as stakes in conflicts.
 - *Links & Attachments:* What binds the character to others. These can be allies, enemies, or debts (e.g., _Visceral hatred of the Boar tribe, Devoted body and soul to his sister_).
@@ -162,6 +174,15 @@ ____
 - *Outcome:* The conflict weighs Kallyr's arguments (Royal lineage, Eloquence, Urgency, hampered by her youthful Impatience) against those of Yanela (Sacred Duty, Temple Stasis, Cultural Distrust, hampered by her Love of community). The opposition resolves on a strict 4 stakes against 4 stakes.
 ____
 
+==== The "zero-sum" approach and diegetic self-balancing
+
+Destiny has the last word and can refuse a stake. But in general, if the player justifies that a stake is valid, this has an impact on the focus and the level of detail of the scene. There is therefore a strong chance that the opposition also has a stake to place in return to counter that of the player. The clash becomes a zero-sum game, viscerally enriching the fiction.
+
+*Example:* A player thinks their helmet is terrifying and asks for an additional stake. +
+_Destiny:_ "The Broo facing you is not usually terrified by that. But fine, let us admit it. The Broo is intrigued by your terrifying helmet (+1 stake for you), but in return, you are disturbed by the purulent organs hanging from its flayed belly (+1 stake for it)."
+
+This approach values initiative (the helmet is taken into account) while educating players organically: trying to "scrape" dice with futile arguments will only give Destiny additional narrative ammunition.
+
 === C. Managing Difficulty: The Destiny Gauge
 
 To balance narrative difficulties throughout the game (group or solo), Destiny can use a global gauge.
@@ -226,7 +247,19 @@ Since the system is entirely narrative, it happens that the purpose of a draw is
 
 In these specific cases, the active camp gathers its stakes and makes a standard draw, but without any opposing adversity. It then suffices to know the total number of successes obtained and to interpret it according to the dramatic situation at hand.
 
-- *Attention:* Getting no success in this type of draw must be interpreted as a real problem for the players, plunging the narrative immediately into crisis.
+Getting no success in this type of draw must be interpreted as a real problem for the players, plunging the narrative immediately into crisis.
+
+=== I. Managing Lethality
+
+Although the system moves away from simulationism, you should decide at your table whether or not to keep the historical lethality of RuneQuest. In any case, to preserve immersion while avoiding the frustration of a "stupid death" on a bad draw, Destiny must always warn the player in case of lethal risk.
+
+Here are degrees of narrative warning that Destiny can employ:
+
+* *"This could cost you dearly"*: risk of serious injury, loss of a precious object or an ally.
+* *"A failure could be fatal"*: possible and definitive death of the character.
+* *"Chaos is lurking for you"*: risk of irreversible transformation or permanent taint.
+
+Facing this warning, the player has the right to opt for a *strategic retreat*. They can modify their diegetic objective accordingly (e.g., "I no longer seek to kill the Lunar general, but simply to delay them so that my allies can flee").
 
 == IV. The Frames of Thought
 
@@ -876,11 +909,39 @@ Although designed for solo, the system also shines in a group, provided one show
 
 - *The Shared Mode:* All the players around the table play Destiny in turn. One starts with a player who presents their idea, draws the runes and starts the story. If there are several NPCs/Obstacles, the roles are shared to determine the stakes. Destiny changes at the end of each scene (clockwise, for example). This is an excellent way to mix lore experts with players discovering the universe.
 
-== VII. Appendix: Statistics & Character Examples
+== VII. Appendices
 
 This appendix gathers two tools: a comparative table of the average number of successes of each frame of thought, and a gallery of complete player characters for inspiration or direct play.
 
-=== A. Comparative table of the average number of successes
+=== A. Frequently Asked Questions (FAQ)
+
+*For players discovering the universe*
+
+*How to find or formulate "stakes" during a conflict?*::
+Deep knowledge of the myth or of your culture is your best weapon. If you are stuck, ask yourself these three guide questions:
+1. What, in my culture or my profession, gives me an advantage here?
+2. Which god, spirit or ally could support me in this situation?
+3. Which rune of my character is the most relevant facing this obstacle?
+4. What in the situation could give me an advantage, even if it is not directly related to my character?
+
+*How to invent a name for my character?*::
+Gloranthan names are unique, heavily typified by culture, and have no equivalent in the real world. A simple trick if a name from our world comes to mind: reverse letters or modify syllables to create a novel sound (e.g., _Thomas_ becomes _Samoth_).
+
+*Can I optimize my character to make it invincible?*::
+No. Since the system is narrative, there is no min-maxing to seek. Statistics are globally balanced by the story.
+
+*For veterans of RuneQuest, HeroQuest or QuestWorld*
+
+*Where did my percentages and characteristic points go?*::
+This system offers a deliberate shift from simulationism towards narrativism. The mechanic does not only describe what is true in the world, it describes what the character _believes_ to be true. A stake is not a fixed mathematical bonus, it is an asset that makes sense in a precise situation.
+
+*Is the game as deadly and punishing as historical RuneQuest?*::
+Death retains a very strong mythical weight in Glorantha. However, the rules include a mandatory "warning" mechanic by Destiny before any potentially deadly roll, allowing players to make a "strategic retreat". This avoids random or frustrating deaths while keeping the dramatic tension.
+
+*Does the Game Master have all the rights?*::
+Destiny is not an absolute arbiter, it is the guardian of the universe's coherence. The game works on a "zero-sum" dynamic. If you brilliantly justify a stake thanks to the fiction, Destiny will widen the focus of the scene and may use it to strengthen the opposition in return. The conversation around the table always prevails.
+
+=== B. Statistics
 
 The table below gives the average number of successes obtained per draw, according to the number of stakes (from 1D to 10D) and the frame of thought used.
 
@@ -900,11 +961,13 @@ The table below gives the average number of successes obtained per draw, accordi
 | **10D** | 6.00 | 6.76 | 6.60 | 5.00 | 8.54
 |===
 
+One sees that the system is globally balanced. Since the engine is narrative, there is no min-maxing to seek. A stake is not a thing the character possesses, it is a thing that makes sense in the situation.
+
 *The interesting 1D stats:* Logic is not efficient at resolving trivial cases. That explains why it wants to complicate things: getting more dice, splitting hairs. Those blasted rationalists!
 
 *The draconic stats:* They crush everyone, but that is well deserved. However, if the dragonewt chooses the Utuma and thus the materialist way, one finds the mysticism stats again.
 
-=== B. Player Character Examples
+=== C. Player Character Examples
 
 Here are a few character examples.
 
