@@ -16,7 +16,7 @@ Some thoughts on the rules as well.
 
 [Game statistics](stats)
 
-[On stakes](stakes)
+[On bets](bets)
 
 [Meditations on the Runes](runes-meditation)
 

@@ -6,7 +6,7 @@ title: "Tabous, Geis & Serments"
 
 > Quand on veut la force des dieux, des esprits ou des lois, il faut d'abord accepter la chaîne qu'on se donne soi-même. Toute puissance se paie d'une obéissance.
 
-Glorantha est tissée de liens: la Toile d'Arachne Solara, le Grand Compromis, les serments de clan, les pactes d'esprits. Rien ne se gagne sans qu'une interdiction ne vienne en contrepartie. Certains cultes ne révèlent leurs secrets qu'en échange d'un **geis**. Un chaman qui lie un esprit sans [exploit](../stakes) reçoit un **tabou**. Les Brithini ont fait de l'**interdit** leur immortalité.
+Glorantha est tissée de liens: la Toile d'Arachne Solara, le Grand Compromis, les serments de clan, les pactes d'esprits. Rien ne se gagne sans qu'une interdiction ne vienne en contrepartie. Certains cultes ne révèlent leurs secrets qu'en échange d'un **geis**. Un chaman qui lie un esprit sans [exploit](../bets) reçoit un **tabou**. Les Brithini ont fait de l'**interdit** leur immortalité.
 
 ## La famille des liens
 
@@ -62,7 +62,7 @@ D'autres cultes ont leurs propres liens:
 
 ### L'Animisme: le tabou du fétiche
 
-Un animiste troque avec les esprits (voir [l'animisme](../animism)). Quand la relation est libre, l'esprit va et vient. Mais quand un chaman cherche à *lier* un esprit sans avoir obtenu un [exploit](../stakes), le lien n'est pas assez fort pour être partagé: l'esprit se laisse enfermer dans un **fétiche**, mais le lien impose un **tabou**.
+Un animiste troque avec les esprits (voir [l'animisme](../animism)). Quand la relation est libre, l'esprit va et vient. Mais quand un chaman cherche à *lier* un esprit sans avoir obtenu un [exploit](../bets), le lien n'est pas assez fort pour être partagé: l'esprit se laisse enfermer dans un **fétiche**, mais le lien impose un **tabou**.
 
 - Le fétiche est *personnel*: il ne peut pas être partagé, prêté ou revendu. L'esprit n'a qu'un maître, celui qui a accepté son tabou.
 - Le tabou est propre à chaque esprit: ne pas manger de telle chair, ne pas traverser l'eau vive, ne pas mentir, ne pas dormir dans une maison close...
@@ -115,7 +115,7 @@ Un geis ou un tabou se joue comme un **mot-clé à double tranchant**:
 - **Dans son domaine, il est toujours une mise en faveur.** *"Ne jamais fuir"* est une force quand tu tiens bon face à l'ennemi. Le lien n'est pas une faiblesse: c'est une source de puissance.
 - **Mais il est un levier pour la Destinée.** La tentation de le briser, le moment où il t'oblige contre ton intérêt, la personne qui sait t'y pousser: tout cela devient un facteur cadre, voire une mise de l'adversité.
 
-*Jurer est un rituel.* Prêter serment est un acte sacré: il demande un lieu ou un témoin digne, et peut se résoudre comme une opposition (voir [les mises](../stakes)). Un serment prêté à la hâte est un piège; un serment prêté au bon moment est un exploit.
+*Jurer est un rituel.* Prêter serment est un acte sacré: il demande un lieu ou un témoin digne, et peut se résoudre comme une opposition (voir [les mises](../bets)). Un serment prêté à la hâte est un piège; un serment prêté au bon moment est un exploit.
 
 *Parjure.* La transgression provoque la perte de la faveur (le secret, l'esprit, l'immortalité) et l'apparition du mot-clé *Parjure*, traité comme une Souillure.
 

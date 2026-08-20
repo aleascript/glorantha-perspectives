@@ -21,11 +21,11 @@ image::../../assets/licence.png[]
 
 *Glorantha Perspectives* offers diegetic resources for exploring the game-world of Glorantha. The main objective of this document is to provide rules, reflections and game tools that perfectly align _gameplay_ (the mechanics) and _roleplay_ (the narrative and interpretation).
 
-*The absence of statistics:* In this system, you will find no numerical statistics, no success percentages. Why? Because in real life, there are none. Nobody approaches a problem thinking they have a 75% chance of succeeding. On the other hand, everyone naturally weighs their strengths and weaknesses when facing a situation, without quantifying them. This instinctive assessment tempers our hope of success. That is exactly what this resolution system reflects: *each stake is not a number, it is a hope.*
+*The absence of statistics:* In this system, you will find no numerical statistics, no success percentages. Why? Because in real life, there are none. Nobody approaches a problem thinking they have a 75% chance of succeeding. On the other hand, everyone naturally weighs their strengths and weaknesses when facing a situation, without quantifying them. This instinctive assessment tempers our hope of success. That is exactly what this resolution system reflects: *each bet is not a number, it is a hope.*
 
-_For example, when an initiate of Orlanth charges into battle, they rather bet on the providential gust of wind that unbalances their enemy (the opportunity), on their iron broadsword, and on the "Lightning Blade" magic crackling along their weapon. Facing them, the Lunar legionnaire does not calculate percentages either. They bet on their phalanx discipline (control), on their large heavy shield, and on the blessing of the Red Moon that makes this shield exceptionally resistant. This clash of hopes translates into 3 stakes for the Orlanthi (Wind + Sword + "Lightning Blade" strengthening the weapon) against 3 stakes for the Lunar (Discipline + Shield + Blessing strengthening the defense)._
+_For example, when an initiate of Orlanth charges into battle, they rather bet on the providential gust of wind that unbalances their enemy (the opportunity), on their iron broadsword, and on the "Lightning Blade" magic crackling along their weapon. Facing them, the Lunar legionnaire does not calculate percentages either. They bet on their phalanx discipline (control), on their large heavy shield, and on the blessing of the Red Moon that makes this shield exceptionally resistant. This clash of hopes translates into 3 bets for the Orlanthi (Wind + Sword + "Lightning Blade" strengthening the weapon) against 3 bets for the Lunar (Discipline + Shield + Blessing strengthening the defense)._
 
-*The omnipotence of narration:* Everything is narrative! In this system, everything is justified by the narration and it is the coherence of the story that acts as the supreme arbiter. Destiny, who embodies the game master or narrator, is invited to remain open to suggestions, but they have powerful levers to balance the debates: if it is perfectly acceptable for a player to place a stake justified by the fiction, this means that the adversary (Destiny) can in turn place another stake in response, since this focus is considered important in the scene.
+*The omnipotence of narration:* Everything is narrative! In this system, everything is justified by the narration and it is the coherence of the story that acts as the supreme arbiter. Destiny, who embodies the game master or narrator, is invited to remain open to suggestions, but they have powerful levers to balance the debates: if it is perfectly acceptable for a player to place a bet justified by the fiction, this means that the adversary (Destiny) can in turn place another bet in response, since this focus is considered important in the scene.
 
 *The game legacy: HeroQuest and RuneQuest*
 
@@ -38,7 +38,7 @@ Mind you, these rules in no way replace your readings and reflections on this wo
 
 We will see further on how fiction constitutes the mechanical procedure. The focus, for instance, is extremely telling: the question is not "which attribute to use?", but what truly matters in this scene? It is a fluid logic of fiction → interpretation → mechanics → new fiction, without true separation.
 
-The rules do not merely simulate Glorantha; they simulate the way Gloranthans understand Glorantha. A player who immerses themselves in Glorantha will be mechanically better at the table — not because they possess more points, but because they know how to see more things that can become stakes.
+The rules do not merely simulate Glorantha; they simulate the way Gloranthans understand Glorantha. A player who immerses themselves in Glorantha will be mechanically better at the table — not because they possess more points, but because they know how to see more things that can become bets.
 
 === B. Glorantha for beginners
 
@@ -65,7 +65,7 @@ In the world of Glorantha, the way one apprehends reality modifies reality itsel
 
 To these worldviews is added a 5th particularly complex frame of thought: _Dragons and Dragonewts_.
 
-These frames of thought are fundamental: they are what allow characters to position themselves in relation to the world and to place stakes when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
+These frames of thought are fundamental: they are what allow characters to position themselves in relation to the world and to place bets when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
 
 === D. The social contract as a backbone
 
@@ -73,11 +73,11 @@ These frames of thought are fundamental: they are what allow characters to posit
 
 * *The golden rule:* Destiny is not the players' adversary, it is the guardian of the world's coherence.
 * *The weight of the universe:* In Glorantha, death is rarely trivial, it carries a mythical weight. An upfront group discussion about what the table accepts as risk (lethal combat, sacrifices, long-term consequences) avoids frustrations.
-* *The rule of the last word:* Destiny has authority over the acceptance of stakes, but can (and must) ask players to narratively justify an asset. The table agrees that the coherence of the universe always prevails over mechanical advantage.
+* *The rule of the last word:* Destiny has authority over the acceptance of bets, but can (and must) ask players to narratively justify an asset. The table agrees that the coherence of the universe always prevails over mechanical advantage.
 
 == II. The Protagonists
 
-In _Glorantha Perspectives_, characters are not defined by numerical characteristics (Strength, Dexterity, etc.), but by narrative *keywords*. These keywords draw directly from the "Gloranthology" (the lore of the world) and serve to justify assets and handicaps (the famous "stakes") during a conflict.
+In _Glorantha Perspectives_, characters are not defined by numerical characteristics (Strength, Dexterity, etc.), but by narrative *keywords*. These keywords draw directly from the "Gloranthology" (the lore of the world) and serve to justify assets and handicaps (the famous "bets") during a conflict.
 
 A precise and colorful keyword (e.g., _Disillusioned veteran of the Sartar Rebellion_) will always be more interesting and game-generating than a generic keyword (e.g., _Warrior_).
 
@@ -89,14 +89,14 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 - *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
 - *Frame of Thought:* The prism through which the character sees the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School).
 - *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements and Powers). In Glorantha, runes are not merely magic, *they dictate character*.
-    - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] could be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] could be secretive, manipulative or mischievous. These character traits can serve as stakes (for or against the character) in a conflict.
+    - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] could be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] could be secretive, manipulative or mischievous. These character traits can serve as bets (for or against the character) in a conflict.
 - *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
-- *States:* Gradual states (injury, disruption, resources) can be added to reflect the character's evolution over the course of the game. These states can be used as stakes in conflicts.
+- *States:* Gradual states (injury, disruption, resources) can be added to reflect the character's evolution over the course of the game. These states can be used as bets in conflicts.
 - *Links & Attachments:* What binds the character to others. These can be allies, enemies, or debts (e.g., _Visceral hatred of the Boar tribe, Devoted body and soul to his sister_).
 
 === B. Non-Player Characters (NPCs)
 
-Destiny (the gamemaster/narrator) does not need this level of detail to bring the world to life. NPCs can be created on the fly, very lightly. A frame of thought, an objective, and one or two keywords suffice to generate their stakes.
+Destiny (the gamemaster/narrator) does not need this level of detail to bring the world to life. NPCs can be created on the fly, very lightly. A frame of thought, an objective, and one or two keywords suffice to generate their bets.
 
 Anaxial's Ark or the HeroQuest supplements are solid bases for having keyword lists already prepared.
 
@@ -124,7 +124,7 @@ ____
 *Links & Attachments:* Wants to avenge his brother killed by the Lunars, Secret love for the Priestess of the neighboring clan.
 ____
 
-_In play: During a conflict to galvanize his troops, Varmand can bring into play his "Voice that carries", his Air rune (passion) and his "Inherited sword" (symbol of legitimacy) to place 3 additional stakes._
+_In play: During a conflict to galvanize his troops, Varmand can bring into play his "Voice that carries", his Air rune (passion) and his "Inherited sword" (symbol of legitimacy) to place 3 additional bets._
 
 ==== Example 2: A Lunar NPC (Light)
 
@@ -138,9 +138,9 @@ ____
 *Keywords:* Disciplined veteran, Phalanx training, Heavy hoplite armor, Imperial arrogance.
 ____
 
-_In play: Phargos is a solid obstacle. Facing rebels, he will use his discipline, his formation and his armor to easily generate 3 additional stakes._
+_In play: Phargos is a solid obstacle. Facing rebels, he will use his discipline, his formation and his armor to easily generate 3 additional bets._
 
-== III. The Narrative Engine: Camps, Stakes & Resolutions
+== III. The Narrative Engine: Camps, Bets & Resolutions
 
 [cols="^,^", frame="none", grid="none", options="autowidth", align=center]
 |===
@@ -148,38 +148,38 @@ _In play: Phargos is a solid obstacle. Facing rebels, he will use his discipline
 | image:rules/runes/conditions/chance.png[width=100]
 |===
 
-The system is designed to resort to dice only when destiny is uncertain and a potential narrative fork appears. The central idea is simple: facing adversity, one stakes everything that could serve them in this situation, and the obstacle or adversary does the same.
+The system is designed to resort to dice only when destiny is uncertain and a potential narrative fork appears. The central idea is simple: facing adversity, one bets everything that could serve them in this situation, and the obstacle or adversary does the same.
 
-=== A. Determining Camps and Stakes
+=== A. Determining Camps and Bets
 
-To determine the assets that will weigh in the balance (the "stakes"), one must analyze the objectives of each camp present:
+To determine the assets that will weigh in the balance (the "bets"), one must analyze the objectives of each camp present:
 
-- *Camp A's stakes:* They are made up of the elements that favor A's objective (A+) to which are added the weaknesses or obstacles that thwart B's objective (B-).
-- *Camp B's stakes:* They are made up of the elements that favor B's objective (B+) to which are added the weaknesses or elements that thwart A's objective (A-).
+- *Camp A's bets:* They are made up of the elements that favor A's objective (A+) to which are added the weaknesses or obstacles that thwart B's objective (B-).
+- *Camp B's bets:* They are made up of the elements that favor B's objective (B+) to which are added the weaknesses or elements that thwart A's objective (A-).
 
-*The art of seeking stakes:* The search for stakes is totally free and guided by common sense as well as knowledge of Glorantha. Above all, do not limit yourself to the keywords on the character sheet! These are primarily reservoirs and sources of inspiration. The imagination of the players and the gamemaster (Destiny) must be stimulated by immersion in the world in order to unearth any relevant diegetic asset.
+*The art of seeking bets:* The search for bets is totally free and guided by common sense as well as knowledge of Glorantha. Above all, do not limit yourself to the keywords on the character sheet! These are primarily reservoirs and sources of inspiration. The imagination of the players and the gamemaster (Destiny) must be stimulated by immersion in the world in order to unearth any relevant diegetic asset.
 
-The opposition then comes down to confronting these two groups of stakes. Once the total number of stakes is known for each camp, one loses the mental link between the narrative element (the factor) and the die it brings. From then on, only the final number of successes of each camp matters.
+The opposition then comes down to confronting these two groups of bets. Once the total number of bets is known for each camp, one loses the mental link between the narrative element (the factor) and the die it brings. From then on, only the final number of successes of each camp matters.
 
 === B. The Focus and Framework Factors
 
-Determining stakes is not a simple list of attributes. By immersing themselves in the situation, each party determines what is truly important at that moment: this is the Focus. Furthermore, the environment may impose a Framework Factor, an element so impactful that it expresses what will be impossible to attempt and forces the stakes to align.
+Determining bets is not a simple list of attributes. By immersing themselves in the situation, each party determines what is truly important at that moment: this is the Focus. Furthermore, the environment may impose a Framework Factor, an element so impactful that it expresses what will be impossible to attempt and forces the bets to align.
 
 ____
 *Example of an opposition: Kallyr against Yanela*
 
 - *The situation:* Kallyr (Theist) wants to convince Yanela (High Priestess of Ernalda) to entrust her with the relic of the Earth-Trembling Staff to protect her clan. Yanela refuses, wanting to preserve the relic in the stasis of the temple.
-- *The Focus:* Since the opposition is purely political and rhetorical, Kallyr's physical assets (such as Lightning-fast swordswoman or Long iron sword) are not taken into account in her stakes.
+- *The Focus:* Since the opposition is purely political and rhetorical, Kallyr's physical assets (such as Lightning-fast swordswoman or Long iron sword) are not taken into account in her bets.
 - *The Framework Factor:* The scene takes place in the Holy of Holies of Ernalda, governed by the myth of Ernalda's Peace. Any form of aggression is metaphysically stifled there. Kallyr therefore cannot resort to her Hot-Tempered trait or to intimidation, on pain of being paralyzed by the magic of the place.
-- *Outcome:* The conflict weighs Kallyr's arguments (Royal lineage, Eloquence, Urgency, hampered by her youthful Impatience) against those of Yanela (Sacred Duty, Temple Stasis, Cultural Distrust, hampered by her Love of community). The opposition resolves on a strict 4 stakes against 4 stakes.
+- *Outcome:* The conflict weighs Kallyr's arguments (Royal lineage, Eloquence, Urgency, hampered by her youthful Impatience) against those of Yanela (Sacred Duty, Temple Stasis, Cultural Distrust, hampered by her Love of community). The opposition resolves on a strict 4 bets against 4 bets.
 ____
 
 ==== The "zero-sum" approach and diegetic self-balancing
 
-Destiny has the last word and can refuse a stake. But in general, if the player justifies that a stake is valid, this has an impact on the focus and the level of detail of the scene. There is therefore a strong chance that the opposition also has a stake to place in return to counter that of the player. The clash becomes a zero-sum game, viscerally enriching the fiction.
+Destiny has the last word and can refuse a bet. But in general, if the player justifies that a bet is valid, this has an impact on the focus and the level of detail of the scene. There is therefore a strong chance that the opposition also has a bet to place in return to counter that of the player. The clash becomes a zero-sum game, viscerally enriching the fiction.
 
-*Example:* A player thinks their helmet is terrifying and asks for an additional stake. +
-_Destiny:_ "The Broo facing you is not usually terrified by that. But fine, let us admit it. The Broo is intrigued by your terrifying helmet (+1 stake for you), but in return, you are disturbed by the purulent organs hanging from its flayed belly (+1 stake for it)."
+*Example:* A player thinks their helmet is terrifying and asks for an additional bet. +
+_Destiny:_ "The Broo facing you is not usually terrified by that. But fine, let us admit it. The Broo is intrigued by your terrifying helmet (+1 bet for you), but in return, you are disturbed by the purulent organs hanging from its flayed belly (+1 bet for it)."
 
 This approach values initiative (the helmet is taken into account) while educating players organically: trying to "scrape" dice with futile arguments will only give Destiny additional narrative ammunition.
 
@@ -189,16 +189,16 @@ To balance narrative difficulties throughout the game (group or solo), Destiny c
 
 - The gauge starts at zero.
 - It can be represented by dice or tokens: one color marked with the Luck rune image:rules/runes/conditions/chance.png[width=18] for the heroes (+1), and one color marked with the Destiny rune image:rules/runes/conditions/destin.png[width=18] for adversity (-1).
-- If the heroes face a conflict with fewer stakes than the adversity, the gauge gains one Hero token per stake difference to compensate for this imbalance (destiny will soon turn in their favor). And conversely.
+- If the heroes face a conflict with fewer bets than the adversity, the gauge gains one Hero token per bet difference to compensate for this imbalance (destiny will soon turn in their favor). And conversely.
 - If the gamemaster imposes a free narrative difficulty, they grant a Hero token. Conversely, an advantage without conflict for the heroes will make the gauge gain an Adversity token.
-- These accumulated points serve as a guide to adjust the stakes of future conflicts and create "breathing room" in the narrative.
+- These accumulated points serve as a guide to adjust the bets of future conflicts and create "breathing room" in the narrative.
 
 === D. Abstract Obstacles
 
 How to resolve a draw against an obstacle not tied to a frame of thought (climbing a mountain, resisting the climate)? Two options are available to you:
 
-- *The Mirror mode:* The obstacle is resolved with the same frame of thought as the protagonist (e.g., the rules of mysticism for a mystic). This is the recommended frame when the stakes represent a true self-transcendence.
-- *The Agnostic mode (The Middle World):* even numbers (2, 4, 6) are successes and odd numbers (1, 3, 5) are failures, without any other adjustment rule. This frame is used when the stakes are minor and do not involve the character emotionally.
+- *The Mirror mode:* The obstacle is resolved with the same frame of thought as the protagonist (e.g., the rules of mysticism for a mystic). This is the recommended frame when the bets represent a true self-transcendence.
+- *The Agnostic mode (The Middle World):* even numbers (2, 4, 6) are successes and odd numbers (1, 3, 5) are failures, without any other adjustment rule. This frame is used when the bets are minor and do not involve the character emotionally.
 
 === E. The Resolution Zoom: Action, Sequence or Script
 
@@ -210,7 +210,7 @@ An opposition can cover an isolated action (an assault, a plea) as well as a who
 
 *Playing a sequence:* The opposition is played in a single draw to know the overall result. A sequence can be used to resolve a simple house burglary, a negotiation or a fight, but also an immense battle involving several armies.
 
-*Resolving a script:* One breaks down the obstacle into steps (actions for a sequence, scenes for a script) and each step represents one or more key milestones to cross. Then the stakes of each camp are gathered and the normal draw is made. In case of failure, count the number of successes obtained by the protagonist camp to locate the step that failed (one success = one step crossed). In case of success, one has necessarily gone all the way. The rest can then be narrated collectively.
+*Resolving a script:* One breaks down the obstacle into steps (actions for a sequence, scenes for a script) and each step represents one or more key milestones to cross. Then the bets of each camp are gathered and the normal draw is made. In case of failure, count the number of successes obtained by the protagonist camp to locate the step that failed (one success = one step crossed). In case of success, one has necessarily gone all the way. The rest can then be narrated collectively.
 
 === F. Keyed Obstacles: Solving a Problem
 
@@ -226,7 +226,7 @@ Each camp makes its dice draw according to the specific rules of its Frame of Th
 
 - *Difference of 2 successes or more:* The action ends in a Feat (or a Fiasco).
 - *Difference of 1 success:* The action ends in a Victory/Success (or a Defeat/Failure).
-- *Tie:* The action ends in a Status quo (or Reversal). If it is impossible to remain on a narrative status quo, each camp adds one additional stake symbolizing the escalation, and a new draw is made.
+- *Tie:* The action ends in a Status quo (or Reversal). If it is impossible to remain on a narrative status quo, each camp adds one additional bet symbolizing the escalation, and a new draw is made.
 
 *The Retributions and Evolution:*
 
@@ -245,7 +245,7 @@ Since the system is entirely narrative, it happens that the purpose of a draw is
 
 *The Resolution:*
 
-In these specific cases, the active camp gathers its stakes and makes a standard draw, but without any opposing adversity. It then suffices to know the total number of successes obtained and to interpret it according to the dramatic situation at hand.
+In these specific cases, the active camp gathers its bets and makes a standard draw, but without any opposing adversity. It then suffices to know the total number of successes obtained and to interpret it according to the dramatic situation at hand.
 
 Getting no success in this type of draw must be interpreted as a real problem for the players, plunging the narrative immediately into crisis.
 
@@ -290,7 +290,7 @@ Coming soon, but you can totally play without these rules for now, as these new 
 
 - Rules for creating immersive and memorable initiations for players. Indeed, a cult is not a grab-bag list of powers. Initiation is a revelation for the character, and it must be experienced as such.
 - This will help better understand how magical powers are revealed and then acquired during initiation, but also during play.
-- We will also see the usefulness of sacrifices to obtain an additional stake to prepare for an important trial.
+- We will also see the usefulness of sacrifices to obtain an additional bet to prepare for an important trial.
 ____
 
 
@@ -311,7 +311,7 @@ image::rules/runes/mondes/spirits.png[width=100]
 *Power modes:*
 
 - *Weakened:* The link with the spirit world is broken. Spiritual pacts become impossible to seal: "double odds" no longer count and generate no successes. Only the independent spirits (the even dice) continue to manifest. Moreover, it becomes impossible to bind spirits.
-- *Heroic:* Spiritual alignment. If the lowest die and the highest die rolled share the same parity (both even or both odd), the character obtains a total success on all their stakes.
+- *Heroic:* Spiritual alignment. If the lowest die and the highest die rolled share the same parity (both even or both odd), the character obtains a total success on all their bets.
 
 *Accessory (The Spirit Bag):* Replace the dice with a bag containing 60 objects (pebbles, bones, bits of wood) marked with red runes (the successes), with green/black marks to distinguish the odds and look for doubles.
 
@@ -344,7 +344,7 @@ Derogatory names given by the other cultures: sorcery, sorcerers, materialists, 
 ____
 Coming soon, but you can totally play without these rules for now, as these new rules will only formalize what we already know about Glorantha:
 
-- Rules on the different prayers and rituals, as well as on how logicians can use them to gain additional stakes.
+- Rules on the different prayers and rituals, as well as on how logicians can use them to gain additional bets.
 - Rules on grimoires and enchantments.
 ____
 
@@ -387,7 +387,7 @@ ____
 
 Derogatory names given by the other cultures: monsters, incomprehensible.
 
-*Resolution rules:* Draconic stakes are played with *D8s* (representing the 8 power runes).
+*Resolution rules:* Draconic bets are played with *D8s* (representing the 8 power runes).
 
 - *The Standardized Action (Materialism):* Every even die (2, 4, 6, 8) counts as a classic success, without spiritual consequence.
 - *The Draconic Rend:* If the draw reveals a higher pattern — _The Egg's Stasis_ (dice of identical value) or _The Ouroboros_ (a 1 and an 8 simultaneously) — a strict choice is imposed on the player:
@@ -460,7 +460,7 @@ ____
 The other camp finds itself in a position to play a mystical move to change the final result. If it does — the choice of the "1" — it embraces Illumination.
 ____
 
-*Example:* this is the way of Nysalor's riddles. A novice of the Lunar College of Magic presents herself to the master of riddles to be initiated. The encounter translates into the following stakes: her faith in the Red Goddess, her knowledge of runes, her will to understand, her readings, her ambition, her fear / paradoxes, silences, reversals, contradictions, the light of the full moon, the master's gaze. The novice (theist) rolls **1,2,3,4,5,6** → 3 successes. The master (mystic) rolls **6,1,6,1,6,1** → 3 successes. Annihilation: the master's three 1s erase the novice's three 6s. The novice: **1,2,3,4,5** → 2 successes. The master: **6,6,6** → 3 successes. The novice is about to fail her initiation. At that instant, she understands: the riddles are not there to be solved, but to be *seen*. The master leaves her facing her own 1. If she plays it — if she transgresses her theist faith to make a mystical move — she cancels one of the master's 6s. She plays her 1. The novice: **2,3,4,5** → 2 successes. The master: **6,6** → 2 successes. **Tie rather than failure.** And more than a tie: at that precise instant, she is Illumined. She understood the vast joke of the universe — questions and answers, victory and defeat are one.
+*Example:* this is the way of Nysalor's riddles. A novice of the Lunar College of Magic presents herself to the master of riddles to be initiated. The encounter translates into the following bets: her faith in the Red Goddess, her knowledge of runes, her will to understand, her readings, her ambition, her fear / paradoxes, silences, reversals, contradictions, the light of the full moon, the master's gaze. The novice (theist) rolls **1,2,3,4,5,6** → 3 successes. The master (mystic) rolls **6,1,6,1,6,1** → 3 successes. Annihilation: the master's three 1s erase the novice's three 6s. The novice: **1,2,3,4,5** → 2 successes. The master: **6,6,6** → 3 successes. The novice is about to fail her initiation. At that instant, she understands: the riddles are not there to be solved, but to be *seen*. The master leaves her facing her own 1. If she plays it — if she transgresses her theist faith to make a mystical move — she cancels one of the master's 6s. She plays her 1. The novice: **2,3,4,5** → 2 successes. The master: **6,6** → 2 successes. **Tie rather than failure.** And more than a tie: at that precise instant, she is Illumined. She understood the vast joke of the universe — questions and answers, victory and defeat are one.
 
 *The Consequences of Illumination*
 
@@ -468,7 +468,7 @@ Becoming Illumined irremediably modifies the character's relationship to the wor
 
 - *The Legacy of the Frame:* The character does not change their frame of thought. A Theist continues to pray to their gods and resolve their conflicts with the rules of Theism (rerolling odds on a 6). However, they forever keep the mystical ability to use their "1s" to cancel opposing "6s".
 - *The Permeability to Contradictions:* The character is no longer constrained by the contradictions of their cult. They can, on the narrative level, combine opposing forces (use Stasis and Movement magic simultaneously) without suffering the usual backlash, because they have understood that they are one.
-- *The Heretic's Taint:* Illumination has a smell. Fanatical, dogmatic beings or those bound to absolute principles (such as initiates of the Storm Bull, inquisitors or very ancient spirits) intuitively feel this absence of moral and cosmic limits. For them, the Illumined one exudes an unnatural aura, often assimilated to Chaos itself. The character gains a permanent negative trait such as _Heretic_, _Abomination in the eyes of fanatics_, or _Aura of Nysalor_, which will systematically serve as a stake against them during social or spiritual conflicts with these factions.
+- *The Heretic's Taint:* Illumination has a smell. Fanatical, dogmatic beings or those bound to absolute principles (such as initiates of the Storm Bull, inquisitors or very ancient spirits) intuitively feel this absence of moral and cosmic limits. For them, the Illumined one exudes an unnatural aura, often assimilated to Chaos itself. The character gains a permanent negative trait such as _Heretic_, _Abomination in the eyes of fanatics_, or _Aura of Nysalor_, which will systematically serve as a bet against them during social or spiritual conflicts with these factions.
 
 === H. The Taint of Chaos: The Anti-Rule
 
@@ -495,7 +495,7 @@ When a character faces certain death, a bitter failure, or is blocked by a Frame
 
 The first time a character succumbs to Chaos to overcome an obstacle or escape death, the temptation must be absolute.
 
-- *The Absolute Advantage:* The player does not even roll the dice. They automatically obtain a *Feat* (an overwhelming victory), regardless of the Stakes or the power of the adversity. The chaotic anomaly purely and simply annihilates the problem, giving the player the dizzying thrill of omnipotence.
+- *The Absolute Advantage:* The player does not even roll the dice. They automatically obtain a *Feat* (an overwhelming victory), regardless of the Bets or the power of the adversity. The chaotic anomaly purely and simply annihilates the problem, giving the player the dizzying thrill of omnipotence.
 
 - *The Counterpart:* In exchange for this impious miracle, the character gains a Taint Keyword (e.g., Tentacular arm, Pus-covered skin, Thirst for fresh flesh, Voice from beyond the grave).
 
@@ -520,7 +520,7 @@ The Taint is not a fixed mark: it is a living Keyword of Chaos, which evolves at
 - *The hold grows:* the Taint invades daily life. _Example: the tentacle grows; the thirst becomes weekly, then daily._
 - *Total hold:* the Taint leaves no room for the human anymore. _Example: the mutation spreads across the whole body; the thirst becomes permanent and unquenchable._
 
-Each stage strengthens the Keyword: Destiny uses it as an additional Stake for the adversity, and its new intensity lends itself to new Stakes in conflicts involving nature, the gods or healthy society.
+Each stage strengthens the Keyword: Destiny uses it as an additional Bet for the adversity, and its new intensity lends itself to new Bets in conflicts involving nature, the gods or healthy society.
 
 === I. Taboos, Geasa & Oaths
 
@@ -578,8 +578,8 @@ Breaking a bond is a reversal: the god turns away (theist), the spirit flees and
 
 *Mechanics: the double-edged keyword*
 
-- *In its domain, a geas or a taboo is always a stake in the character's favor:* it is a source of power, not a weakness.
-- *But it is a lever for Destiny:* the temptation to break it, the moment when it forces the character against their own interest, becomes a frame factor or a stake of the adversity.
+- *In its domain, a geas or a taboo is always a bet in the character's favor:* it is a source of power, not a weakness.
+- *But it is a lever for Destiny:* the temptation to break it, the moment when it forces the character against their own interest, becomes a frame factor or a bet of the adversity.
 
 *Swearing is a ritual* that can be resolved as an opposition (an oath sworn in haste is a trap; sworn at the right moment, a feat). *Perjury* causes the loss of the favor (the secret, the spirit, the immortality) and the appearance of the *Perjurer* keyword.
 
@@ -608,7 +608,7 @@ The world of Glorantha is forged by myths: the stories of what happened during t
 A Heroquest does not simply consist of accomplishing a physical feat, but of physically or spiritually walking in the footsteps of the Gods.
 
 - *The Principle:* One must succeed in accessing the Other Side (the Otherworld) and then complete the successive stages of a myth.
-- *Stakes and Synchronicity:* A heroquest creates absolute synchronicity between the divine world and the real world (in both directions). The resolution system (the "stakes") allows one to narratively determine the level of victory of the quest and, above all, to describe the concrete and lasting effects on the real world.
+- *Bets and Synchronicity:* A heroquest creates absolute synchronicity between the divine world and the real world (in both directions). The resolution system (the "bets") allows one to narratively determine the level of victory of the quest and, above all, to describe the concrete and lasting effects on the real world.
 - *The Price to Pay:* The hero very often pledges one of their aptitudes before starting the quest. If they access the Other Side, their frame of thought switches to "Heroic Mode", but they will face entities benefiting from the same advantage.
 - *The Path of the Myth:* Heroes have every interest in following the marked path of the myth, for it shapes and confirms reality as it is. But it is possible to deviate from it, at one's own risks and perils: succeeding a deviation allows one to literally change the reality of the real world!
 
@@ -637,7 +637,7 @@ Like tales, Gloranthan myths are often composed according to the rule of three: 
 It is entirely possible to imagine a Heroquest whose goal is not to replay the past, but to elaborate brand-new adjustments to the rules of the world for those who would hold a specific Rune (as was the case for the Lunar Rune or Infinity with Ouroboros).
 
 - *Transforming the world:* The act is profoundly heroic, for it is not only about changing the world, but about substantially changing _the way one acts with the world_. On a large scale, this is what literally transforms Gloranthan reality.
-- *The design challenge:* The only immutable rule of Glorantha Perspectives remains the balance of destiny (A's stakes against B's stakes having to lead to a result). The most difficult — and the real achievement of this quest — is to create a rule that perfectly reflects this new way of thinking, so that the _gameplay_ (the dice draw) is perfectly in phase with the _roleplay_ (the nascent philosophy). Is that not, after all, the true Heroquest?
+- *The design challenge:* The only immutable rule of Glorantha Perspectives remains the balance of destiny (A's bets against B's bets having to lead to a result). The most difficult — and the real achievement of this quest — is to create a rule that perfectly reflects this new way of thinking, so that the _gameplay_ (the dice draw) is perfectly in phase with the _roleplay_ (the nascent philosophy). Is that not, after all, the true Heroquest?
 
 == VI. Destiny's Toolbox (Exploration & Inspiration)
 
@@ -903,11 +903,11 @@ The game was mainly designed for this approach. You watch Glorantha live and die
 
 ==== Group Play
 
-Although designed for solo, the system also shines in a group, provided one shows pedagogy to teach players the art of proposing stakes consistent with the lore.
+Although designed for solo, the system also shines in a group, provided one shows pedagogy to teach players the art of proposing bets consistent with the lore.
 
-- *The Classic TTRPG Mode:* One of the players takes on the role of Destiny (the Game Master), and the others each embody a character. The GM has the final say on the acceptance of stakes and can improvise the story from the rune draws.
+- *The Classic TTRPG Mode:* One of the players takes on the role of Destiny (the Game Master), and the others each embody a character. The GM has the final say on the acceptance of bets and can improvise the story from the rune draws.
 
-- *The Shared Mode:* All the players around the table play Destiny in turn. One starts with a player who presents their idea, draws the runes and starts the story. If there are several NPCs/Obstacles, the roles are shared to determine the stakes. Destiny changes at the end of each scene (clockwise, for example). This is an excellent way to mix lore experts with players discovering the universe.
+- *The Shared Mode:* All the players around the table play Destiny in turn. One starts with a player who presents their idea, draws the runes and starts the story. If there are several NPCs/Obstacles, the roles are shared to determine the bets. Destiny changes at the end of each scene (clockwise, for example). This is an excellent way to mix lore experts with players discovering the universe.
 
 == VII. Appendices
 
@@ -917,7 +917,7 @@ This appendix gathers two tools: a comparative table of the average number of su
 
 *For players discovering the universe*
 
-*How to find or formulate "stakes" during a conflict?*::
+*How to find or formulate "bets" during a conflict?*::
 Deep knowledge of the myth or of your culture is your best weapon. If you are stuck, ask yourself these three guide questions:
 1. What, in my culture or my profession, gives me an advantage here?
 2. Which god, spirit or ally could support me in this situation?
@@ -933,21 +933,21 @@ No. Since the system is narrative, there is no min-maxing to seek. Statistics ar
 *For veterans of RuneQuest, HeroQuest or QuestWorld*
 
 *Where did my percentages and characteristic points go?*::
-This system offers a deliberate shift from simulationism towards narrativism. The mechanic does not only describe what is true in the world, it describes what the character _believes_ to be true. A stake is not a fixed mathematical bonus, it is an asset that makes sense in a precise situation.
+This system offers a deliberate shift from simulationism towards narrativism. The mechanic does not only describe what is true in the world, it describes what the character _believes_ to be true. A bet is not a fixed mathematical bonus, it is an asset that makes sense in a precise situation.
 
 *Is the game as deadly and punishing as historical RuneQuest?*::
 Death retains a very strong mythical weight in Glorantha. However, the rules include a mandatory "warning" mechanic by Destiny before any potentially deadly roll, allowing players to make a "strategic retreat". This avoids random or frustrating deaths while keeping the dramatic tension.
 
 *Does the Game Master have all the rights?*::
-Destiny is not an absolute arbiter, it is the guardian of the universe's coherence. The game works on a "zero-sum" dynamic. If you brilliantly justify a stake thanks to the fiction, Destiny will widen the focus of the scene and may use it to strengthen the opposition in return. The conversation around the table always prevails.
+Destiny is not an absolute arbiter, it is the guardian of the universe's coherence. The game works on a "zero-sum" dynamic. If you brilliantly justify a bet thanks to the fiction, Destiny will widen the focus of the scene and may use it to strengthen the opposition in return. The conversation around the table always prevails.
 
 === B. Statistics
 
-The table below gives the average number of successes obtained per draw, according to the number of stakes (from 1D to 10D) and the frame of thought used.
+The table below gives the average number of successes obtained per draw, according to the number of bets (from 1D to 10D) and the frame of thought used.
 
 [cols="1,2,2,2,2,2", options="header"]
 |===
-| Number of stakes | Theism *(Evens + rerolls of 6s)* | Animism *(Evens + double odds)* | Logic *(Sum / 5)* | Mysticism / Utuma *(Base evens)* | Dragonewt (Wyrm) *(The Egg's Stasis + Ouroboros)*
+| Number of bets | Theism *(Evens + rerolls of 6s)* | Animism *(Evens + double odds)* | Logic *(Sum / 5)* | Mysticism / Utuma *(Base evens)* | Dragonewt (Wyrm) *(The Egg's Stasis + Ouroboros)*
 
 | **1D** | 0.55 | 0.50 | 0.33 | 0.50 | 0.50
 | **2D** | 1.13 | 1.08 | 1.00 | 1.00 | 1.16
@@ -961,7 +961,7 @@ The table below gives the average number of successes obtained per draw, accordi
 | **10D** | 6.00 | 6.76 | 6.60 | 5.00 | 8.54
 |===
 
-One sees that the system is globally balanced. Since the engine is narrative, there is no min-maxing to seek. A stake is not a thing the character possesses, it is a thing that makes sense in the situation.
+One sees that the system is globally balanced. Since the engine is narrative, there is no min-maxing to seek. A bet is not a thing the character possesses, it is a thing that makes sense in the situation.
 
 *The interesting 1D stats:* Logic is not efficient at resolving trivial cases. That explains why it wants to complicate things: getting more dice, splitting hairs. Those blasted rationalists!
 

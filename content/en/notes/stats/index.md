@@ -10,7 +10,7 @@ These stats were roughly estimated by AI.
 
 ### 📊 Comparative table of the average number of successes (1D to 10D)
 
-| Number of stakes | Theism *(Even + Rerolls on 6)* | Logic *(Sum / 5)* | Mysticism or Utuma *(Plain Even)* | Animism *(Evens + Double odds)* | Wyrm *(patterns: Egg's Stasis and Ouroboros)* |
+| Number of bets | Theism *(Even + Rerolls on 6)* | Logic *(Sum / 5)* | Mysticism or Utuma *(Plain Even)* | Animism *(Evens + Double odds)* | Wyrm *(patterns: Egg's Stasis and Ouroboros)* |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1D** | 0,55 | 0,33 | 0,50 | 0,50 | 0,50 |
 | **2D** | 1,13 | 1,00 | 1,00 | 1,08 | 1,16 |

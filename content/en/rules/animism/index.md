@@ -19,7 +19,7 @@ title: "Animism: the world of spirits"
 **Power modes**
 
 - **Weakened** mode: The link with the spirit world is broken. Spiritual pacts become impossible to seal: "double odds" no longer count and generate no successes. Only the independent spirits (the even dice) continue to manifest.
-- **Heroic** mode: Spiritual alignment. If the lowest die and the highest die rolled share the same parity (both even or both odd), the character gets a total success on **all** their stakes.
+- **Heroic** mode: Spiritual alignment. If the lowest die and the highest die rolled share the same parity (both even or both odd), the character gets a total success on **all** their bets.
 
 **Comments**
 

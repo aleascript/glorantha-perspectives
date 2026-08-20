@@ -1,8 +1,8 @@
 ---
-title: Example of Stake Determination
+title: Example of Bet Determination
 ---
 
-Here is a concrete example of stake determination for an opposition in **Glorantha Perspectives**, specifically illustrating the impact of focus and a framework factor.
+Here is a concrete example of bet determination for an opposition in **Glorantha Perspectives**, specifically illustrating the impact of focus and a framework factor.
 
 ### The Scene Context
 
@@ -23,15 +23,15 @@ The rules explain that certain factors are "framework factors" that are so impac
 - **The Framework Factor:** The location is the *Holy of Holies of Ernalda*, governed by the myth of **The Peace of Ernalda**. In this space, any form of aggression, violence, or even raising one's voice is metaphysically silenced by the Earth Goddess.
 - **Consequence on factors:** Kallyr might have wanted to use her *Hot-tempered* trait or her *Intimidating Warrior* status to pressure the priestess. But the framework factor forces the other factors to align. It is strictly impossible to resort to intimidation here, on pain of the temple's magic paralyzing her. These factors are inaccessible to her.
 
-### 3. Setting the Stakes
+### 3. Setting the Bets
 
-To determine the narratively valid stakes, the method consists of cross-referencing favorable and unfavorable factors based on each party's objectives.
+To determine the narratively valid bets, the method consists of cross-referencing favorable and unfavorable factors based on each party's objectives.
 **Definition of objectives:**
 
 - **Camp A (Kallyr):** Wants to obtain the relic to protect the clan.
 - **Camp B (Yanela / The Obstacle):** Wants to preserve the relic in its protective stasis within the temple.
 
-**Determination of stakes:**
+**Determination of bets:**
 - **Pro-Kallyr factors:**
     - *Royal Orlanthi Lineage* (legitimacy to ask for the Earth's help).
     - *Clan Chief's Eloquence* (ability to formulate her plea).
@@ -47,9 +47,9 @@ To determine the narratively valid stakes, the method consists of cross-referenc
 
 ### 4. Summary of the Opposition
 
-We thus end up with a resolution of 4 stakes versus 4 stakes.
+We thus end up with a resolution of 4 bets versus 4 bets.
 
-Once the stakes are set, we forget the mental link between the stake (the die) and the factor that created it. We can proceed with the draw and then only care about the final number of successes of each camp. Both camps being Theists, both will roll their 4 dice looking for even numbers and explosive 6s, to see toward which destiny the Gods will tip the scales.
+Once the bets are set, we forget the mental link between the bet (the die) and the factor that created it. We can proceed with the draw and then only care about the final number of successes of each camp. Both camps being Theists, both will roll their 4 dice looking for even numbers and explosive 6s, to see toward which destiny the Gods will tip the scales.
 
 > Note: it was also entirely possible to play the opposition in a graduated manner: 1 argument against 1 argument. So in our case, there would be 3 draws to make a priori. The result of each argumentation could then influence the following draw based on the result, with 1D for the winner for the next confrontation of arguments. It takes longer. It is up to you to decide which gameplay you prefer.
 

@@ -45,7 +45,7 @@ You want to see the world through the eyes of a trollkin or a broo, go ahead.
 - I then imagine a seed of a **situation** into which I plunge the protagonists
 - I imagine the **interaction** and their **objectives**
 - If there is uncertainty in the choices, I proceed to **oppositions**
-- I use the [**Destiny gauge**](../stakes/index.md#ou-bien-utiliser-une-jauge-pour-le-destin)
+- I use the [**Destiny gauge**](../bets/index.md#ou-bien-utiliser-une-jauge-pour-le-destin)
 - Destiny also allows me to negotiate certain gains and losses in a balanced way. When outside of a conflict, I favor the protagonists, I favor adversity at the level of destiny and vice versa.
 - For me a situation must lead to at least one **conflict** for it to be interesting to play
 - I try to play the **scene** through to the end
@@ -54,7 +54,7 @@ You want to see the world through the eyes of a trollkin or a broo, go ahead.
 
 ## Group Play
 
-Although designed for solo mode, it should be possible to play in a group with players who know Glorantha well or a GM who does the necessary teaching work to convey to the PCs what is needed to propose stakes coherent with Glorantha.
+Although designed for solo mode, it should be possible to play in a group with players who know Glorantha well or a GM who does the necessary teaching work to convey to the PCs what is needed to propose bets coherent with Glorantha.
 
 We will see further on that the game mechanic invites the player to embrace a frame of thought specific to Glorantha.
 
@@ -64,11 +64,11 @@ One of the players will play Destiny (the GM) and the players will each have a c
 
 The GM can run a pre-designed scenario but also improvise from rune draws.
 
-The GM has the final say on the stakes.
+The GM has the final say on the bets.
 
 ### Shared Mode
 
-All players play Destiny. We take turns. We start with a player who presents their idea and draws the runes. We begin the story. When there are multiple characters in a scene, we distribute roles among players to determine the stakes and play the characters.
+All players play Destiny. We take turns. We start with a player who presents their idea and draws the runes. We begin the story. When there are multiple characters in a scene, we distribute roles among players to determine the bets and play the characters.
 
 We change Destiny at the end of each scene (clockwise, for example).
 

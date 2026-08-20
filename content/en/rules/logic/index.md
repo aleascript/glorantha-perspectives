@@ -12,7 +12,7 @@ title: "The Logic of the Invisible God"
 
 > Facing a problem, we simply align our knowledge and resources, and measure with precision whether the sum of our strengths surpasses what stands in our way.
 
-- We count the number of successes of a logical [camp](../stakes) as follows:
+- We count the number of successes of a logical [camp](../bets) as follows:
     - We sum and divide by 5. The result is the number of whole 5s.
 
 **Power modes**
@@ -28,7 +28,7 @@ It is also the only mode that does not treat even numbers as successes. As if we
 
 It is a more creative magic than the theists' (a more open framework, but only in theory since the Monotheistic Schools have somewhat frozen certain things).
 
-Somewhat like animists, preparation is important to maximize their chances and have more stakes.
+Somewhat like animists, preparation is important to maximize their chances and have more bets.
 
 The number 5 was often justified by the 5 elements (excluding the Moon) or associated with the 5 fingers of man seen as a creative being.
 

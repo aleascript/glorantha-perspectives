@@ -17,9 +17,9 @@ title: "Draconic Thought: the Dragon's Dream"
 
 The dice draw reveals how the dragonewt integrates into reality or if they decide to twist it.
 
-Draconic stakes are represented by D8s.
+Draconic bets are represented by D8s.
 
-- We count the number of successes of a draconic [camp](../stakes) as follows:
+- We count the number of successes of a draconic [camp](../bets) as follows:
     - **Materialism (The Standardized Action):** Every even die (2, 4, 6, 8) counts as a success with no negative spiritual consequence.
 - **The Draconic Rend:** If the draw reveals patterns of alteration beyond the norm, a strict decision must be made for *each* complex pattern identified:
     - **The Egg's Stasis:** Dice showing identical values (doubles, triples,...).

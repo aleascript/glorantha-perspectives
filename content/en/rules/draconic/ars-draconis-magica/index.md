@@ -18,7 +18,7 @@ At the center is the Ouroboros (0). A point. A circle. A reptilian movement and 
 
 For humans it is different, no reptilian movement (even though the schools of Kralorela tried with martial arts to simulate these movements to master the amplitude of the rune, as well as Orlanth Larnsting when Orlanth was still the friend of Dragons). And so the draconic magician finds themselves wanting to reach one of the points of the circle (their objective) but in case of failure (and even success) finding themselves on another point and especially mid-ford (points 2, 3, 4 or 5).
 
-The magnitude depends on success or failure (number of successes) and the stakes (number of stakes or other).
+The magnitude depends on success or failure (number of successes) and the bets (number of bets or other).
 
 As an example for Temporis Magica, the magnitude can trigger effects spanning 1 week, 1 month, 1 year, 10 years, etc...
 

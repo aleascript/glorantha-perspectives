@@ -12,7 +12,7 @@ title: "Mysticisme: l'Illumination"
 
 > Dans l'adversité, on puise dans son calme intérieur, non pas pour lutter, mais pour observer comment notre volonté et le monde vont s'entremêler et se transformer.
  
-- On compte le nombre de réussites d'un [camp](../stakes) logique de la manière suivante:
+- On compte le nombre de réussites d'un [camp](../bets) logique de la manière suivante:
     - On compte les pairs
     - Les 1 peuvent faire disparaitre les 6 de l'autre camp et disparaissent en même temps. Un échec peut donc  être un immense succès.
 

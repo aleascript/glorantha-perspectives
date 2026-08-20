@@ -12,7 +12,7 @@ title: "The Pantheons"
 
 > At the hour of trial, we recall our own exploits and the glory of our Gods, and we let the Gods judge whether it is us or the enemy who is most worthy of triumphing.
 
-- We count the number of successes of a theist [camp](../stakes) as follows:
+- We count the number of successes of a theist [camp](../bets) as follows:
     - We count the even numbers
     - 6s allow rerolling odd dice (divine support) and this is cumulative if you roll another 6. If you have no more odd dice, you can even gain dice to roll (intervention, divine manifestation of a sort)
 

@@ -1,5 +1,5 @@
 ---
-title: "Reflections on camps and stakes"
+title: "Reflections on camps and bets"
 ---
 
 ![Destin](../../../assets/rules/runes/conditions/destin.png)
@@ -22,7 +22,7 @@ Then you interpret based on a cross-reading of differences.
 
 ### Archetype camps?
 
-If determining stakes feels tedious at a given moment and you just want a simple test, run a **2D vs 2D** contest: innate/acquired vs innate/acquired, or asset/handicap vs asset/handicap.
+If determining bets feels tedious at a given moment and you just want a simple test, run a **2D vs 2D** contest: innate/acquired vs innate/acquired, or asset/handicap vs asset/handicap.
 
 Or **3D vs 3D** with a reading grid like this:
 
@@ -42,11 +42,11 @@ The 2D or 3D examples above are just examples.
 
 ### Runic camps?
 
-It would even be tempting to ask players to associate a rune with each stake.
+It would even be tempting to ask players to associate a rune with each bet.
 
-With the restriction of not being able to place more than one stake for the same rune within a given camp.
+With the restriction of not being able to place more than one bet for the same rune within a given camp.
 
-But this requires in-depth knowledge of runes and the ability to quickly associate a stake with a rune, which is perhaps less trivial than stakes without runic association.
+But this requires in-depth knowledge of runes and the ability to quickly associate a bet with a rune, which is perhaps less trivial than bets without runic association.
 
 It is possible that one might place a rune with which one does not necessarily have an affinity. In that case, it could alert to the relevance of this factor regarding the character's coherence and their place in the world, or even a potential attachment problem if one accepts that the factor be taken into account.
 

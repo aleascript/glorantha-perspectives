@@ -45,7 +45,7 @@ Vous voulez voir le monde avec les yeux d'un trollinet ou d’un broo, allez y.
 - J'imagine alors un embryon de **situation** dans laquelle je plonge les protagonistes
 - J'imagine l'**interaction** et leurs **objectifs** 
 - S'il y a incertitude dans les choix, je procède à des **oppositions**
-- J'utilise la [**jauge de Destin**](../stakes/index.md#ou-bien-utiliser-une-jauge-pour-le-destin)
+- J'utilise la [**jauge de Destin**](../bets/index.md#ou-bien-utiliser-une-jauge-pour-le-destin)
 - Le destin me permet aussi de négocier certains gains et certaines pertes de manière équilibrée. Lorsqu'en dehors d'un conflit, j'avantage les protagonistes, j'avantage l'adversité au niveau du destin et vice versa.
 - Pour moi une situation doit aboutir sur au moins un **conflit** pour qu'il soit intéressant à jouer
 - J'essaie de jouer la **scène** jusqu'au bout

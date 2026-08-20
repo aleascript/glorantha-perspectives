@@ -16,7 +16,7 @@ Some aspects of heroquests:
 
 - Changes are lasting
 - There are surprises
-- You often stake an aptitude before starting
+- You often bet an aptitude before starting
 - There is synchronicity between the divine world and the real world (in both directions).
 - Heroes benefit from following the path of the myth. But it is possible to deviate from it at one's own risk and peril.
 - Myths shape reality. The path of the myth explains and confirms why real things happen as they do. Therefore, if one deviates from the path, one can change the reality of the real world!

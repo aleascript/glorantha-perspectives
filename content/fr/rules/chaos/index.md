@@ -17,7 +17,7 @@ On n'utilise pas le Chaos pour convaincre un garde de céder le passage ou pour 
 
 ## La Tentation Chaotique (La Triche)
 
-Lorsqu'un personnage fait face à une mort certaine, à un échec cuisant, ou qu'il est bloqué par un [Facteur Cadre](../stakes), le joueur peut invoquer la force du Chaos pour s'en sortir. Cela se traduit narrativement par un acte contre-nature (absorber l'énergie d'un artefact impie, sacrifier un allié, ou laisser la corruption s'exprimer).
+Lorsqu'un personnage fait face à une mort certaine, à un échec cuisant, ou qu'il est bloqué par un [Facteur Cadre](../bets), le joueur peut invoquer la force du Chaos pour s'en sortir. Cela se traduit narrativement par un acte contre-nature (absorber l'énergie d'un artefact impie, sacrifier un allié, ou laisser la corruption s'exprimer).
 
 ## Le Premier Pacte : L'Extase de la Toute-Puissance
 

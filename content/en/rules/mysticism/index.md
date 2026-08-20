@@ -12,7 +12,7 @@ title: "Mysticism: Illumination"
 
 > In adversity, one draws from inner calm, not to struggle, but to observe how our will and the world will intertwine and transform.
 
-- We count the number of successes of a logical [camp](../stakes) as follows:
+- We count the number of successes of a logical [camp](../bets) as follows:
     - We count the even numbers
     - 1s can make the opponent's 6s disappear and disappear at the same time. A failure can therefore be a tremendous success.
 
@@ -20,8 +20,8 @@ title: "Mysticism: Illumination"
 
 - **Weakened** mode: you must remove two 1s from your camp to remove one 6 from the other camp.
 - **Heroic** mode: the mystic chooses between
-    - gaining as many stakes as their opponent (without needing to provide justification for this)
-    - placing their stakes normally but after the draw, the 1s may take any die from the other side (generally the highest possible evens, but it could be high odds to counter a logician and confront them with their vanity) and transform by taking the value of the die taken from the other camp.
+    - gaining as many bets as their opponent (without needing to provide justification for this)
+    - placing their bets normally but after the draw, the 1s may take any die from the other side (generally the highest possible evens, but it could be high odds to counter a logician and confront them with their vanity) and transform by taking the value of the die taken from the other camp.
 
 **Comments**
 

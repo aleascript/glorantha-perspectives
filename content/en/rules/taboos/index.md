@@ -6,7 +6,7 @@ title: "Taboos, Geasa & Oaths"
 
 > When one wants the strength of gods, spirits or laws, one must first accept the chain one takes upon oneself. All power is paid for with obedience.
 
-Glorantha is woven from bonds: the Web of Arachne Solara, the Great Compromise, the clan oaths, the spirit pacts. Nothing is gained without a prohibition coming in return. Some cults only reveal their secrets in exchange for a **geas**. A shaman who binds a spirit without a [Feat](../stakes) receives a **taboo**. The Brithini have made the **prohibition** their immortality.
+Glorantha is woven from bonds: the Web of Arachne Solara, the Great Compromise, the clan oaths, the spirit pacts. Nothing is gained without a prohibition coming in return. Some cults only reveal their secrets in exchange for a **geas**. A shaman who binds a spirit without a [Feat](../bets) receives a **taboo**. The Brithini have made the **prohibition** their immortality.
 
 ## The Family of Bonds
 
@@ -62,7 +62,7 @@ Other cults have their own bonds:
 
 ### Animism: The Fetish Taboo
 
-An animist trades with spirits (see [animism](../animism)). When the relationship is free, the spirit comes and goes. But when a shaman seeks to *bind* a spirit without having obtained a [Feat](../stakes), the bond is not strong enough to be shared: the spirit lets itself be enclosed in a **fetish**, but the bond imposes a **taboo**.
+An animist trades with spirits (see [animism](../animism)). When the relationship is free, the spirit comes and goes. But when a shaman seeks to *bind* a spirit without having obtained a [Feat](../bets), the bond is not strong enough to be shared: the spirit lets itself be enclosed in a **fetish**, but the bond imposes a **taboo**.
 
 - The fetish is *personal*: it cannot be shared, lent or resold. The spirit has only one master, the one who accepted its taboo.
 - The taboo is specific to each spirit: not eating a certain meat, not crossing running water, not lying, not sleeping in a closed house...
@@ -106,16 +106,16 @@ Breaking a bond is not a simple failure: it is a reversal.
 
 **The curse of the perjurer**: the perjurer finds no peace. *"Death does not free the traitor."* Their spirit remains bound, can neither join the ancestors nor be reincarnated: it becomes a ghost or an undead, in the service of the one they betrayed.
 
-**The spiral**: like the [Chaos Taint](../chaos), perjury is a permanent negative keyword. It can never be used to generate a stake in one's favor; the Fate uses it automatically against the character in situations of trust, justice and honor.
+**The spiral**: like the [Chaos Taint](../chaos), perjury is a permanent negative keyword. It can never be used to generate a bet in one's favor; the Fate uses it automatically against the character in situations of trust, justice and honor.
 
 ## Mechanics
 
 A geas or a taboo plays as a **double-edged keyword**:
 
-- **In its domain, it is always a stake in your favor.** *"Never flee"* is a strength when you stand firm against the enemy. The bond is not a weakness: it is a source of power.
-- **But it is a lever for the Fate.** The temptation to break it, the moment when it forces you against your own interest, the person who knows how to push you there: all of this becomes a frame factor, or even a stake of the adversity.
+- **In its domain, it is always a bet in your favor.** *"Never flee"* is a strength when you stand firm against the enemy. The bond is not a weakness: it is a source of power.
+- **But it is a lever for the Fate.** The temptation to break it, the moment when it forces you against your own interest, the person who knows how to push you there: all of this becomes a frame factor, or even a bet of the adversity.
 
-*Swearing is a ritual.* Taking an oath is a sacred act: it requires a worthy place or witness, and can be resolved as an opposition (see [stakes](../stakes)). An oath sworn in haste is a trap; an oath sworn at the right moment is a feat.
+*Swearing is a ritual.* Taking an oath is a sacred act: it requires a worthy place or witness, and can be resolved as an opposition (see [bets](../bets)). An oath sworn in haste is a trap; an oath sworn at the right moment is a feat.
 
 *Perjury.* The transgression causes the loss of the favor (the secret, the spirit, the immortality) and the appearance of the *Perjurer* keyword, treated as a Taint.
 
@@ -141,7 +141,7 @@ Draw a power rune to invent a geas, a taboo or a prohibition:
 - **Varmand, initiate of Humakt**: to access the secret of the *Mercyless Edge*, he swore never to flee a battle. The Fate may place him before a necessary retreat — and turn his geas into a trap.
 - **A shaman** has bound the spirit of the Great Deer in a fetish: the taboo is to never cross running water. The fetish is personal; lending it would expose the spirit to another master.
 - **A Brithini**: the prohibition is innovation. They age with every compromise with novelty.
-- **A secret name**: revealing your secret name is handing a permanent stake to the adversity.
+- **A secret name**: revealing your secret name is handing a permanent bet to the adversity.
 
 ### Narrative Hooks
 

@@ -19,7 +19,7 @@ Conformément au mono-mythe Jrusteli, voici les quatre grands cadres de pensée 
 - [La logique du Dieu Invisible](logic)
 - [Le mysticisme](mysticism)
 
-Ces cadres de pensée permettent de se positionner par rapport au monde et de poser des [**mises**](stakes) dans un conflit ou face à un obstacle. C'est la narration qui permet de définir ce qui va rentrer en jeu dans la résolution [(1)](#note1).
+Ces cadres de pensée permettent de se positionner par rapport au monde et de poser des [**mises**](bets) dans un conflit ou face à un obstacle. C'est la narration qui permet de définir ce qui va rentrer en jeu dans la résolution [(1)](#note1).
 
 Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi 
 évoquer les sujets suivants:
