@@ -13,6 +13,7 @@ aleascript@proton.me
 :title-logo-image: image:rules/runes/pouvoirs/power-runes-circle.png[width=120]
 :imagesdir: ../content/assets/
 
+image::../../assets/resonance-square.png[]
 image::../../assets/licence.png[]
 
 == I. Introduction & Intent Note
