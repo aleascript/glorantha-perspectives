@@ -6,7 +6,7 @@ Since HeroWars we know that one must:
 
 - Access the Other Side
 - Realize the steps of a myth
-- This can be the possibility, following the success of one's entry into the Other Side, of accessing the heroic mode of resolution for one's frame of thought (with entities facing you who also have this mode)
+- This can be the possibility, following the success of one's entry into the Other Side, of accessing the heroic mode of resolution for one's worldview (with entities facing you who also have this mode)
 
 The system allows determining the results of each step. You can therefore narratively determine a level of victory for the quest. And the narration should especially serve to describe the effects on the real world.
 
