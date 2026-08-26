@@ -25,7 +25,7 @@ title: "Mysticisme: l'Illumination"
 
 **Commentaires**
 
-C'est le seul cadre de pensée qui peut agir sur le camp de l'autre. Et ça c’est très perturbant d'où l'illumination sous jacente.
+C'est la seule vision du monde qui peut agir sur le camp de l'autre. Et ça c’est très perturbant d'où l'illumination sous jacente.
 
 Quand un mystique affronte l’adversité, il distingue ce qui est favorable ou peut agir en tant que bras de levier, de ce qui est défavorable ou doit rester en retrait. Il distingue aussi ce qui peut muter et engendrer une transformation. 
 
