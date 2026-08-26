@@ -33,11 +33,11 @@ permalink: /llms.txt
 ## Optional
 
 - [Notes](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/): Notes diverses sur Glorantha
-- [Plusieurs cadres de pensée](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/multiple-referentials/): Syncretismes entre cadres
-- [Nouveaux cadres](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/new-referentials/): Créer un nouveau cadre de pensée
+- [Plusieurs visions du monde](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/multiple-referentials/): Syncretismes entre visions du monde
+- [Nouvelles visions du monde](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/new-referentials/): Créer une nouvelle vision du monde
 - [De l'inspiration](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/inspiration/): Sources d'inspiration pour Glorantha
 - [Statistiques](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/stats/): Stats des règles
-- [Réflexions sur les mises](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/mises/): Mises et cadres multiples
+- [Réflexions sur les mises](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/mises/): Mises et visions du monde multiples
 - [Méditation sur les runes](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/runes-meditation/): Ordre des runes de pouvoir
 - [Thèmes gloranthiens](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/themas/): Thèmes de la Guerre des Héros
 - [Yet Another Glorantha](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/yet-another-glorantha/): S'éloigner du canon
