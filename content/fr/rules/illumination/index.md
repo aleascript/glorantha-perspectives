@@ -12,16 +12,16 @@ Il s'agit en fait d'un cas particulier d'une opposition avec une partie mystique
 
 L'Illumination ne s'acquiert pas par des points d'expérience ou à la création du personnage. Elle survient en cours de jeu, lors d'un moment de crise où le personnage décide de transgresser sa propre nature.
 
-Lors d'une résolution de conflit, un joueur utilisant un cadre de pensée classique ([Théisme](../theism), [Animisme](../animism) ou [Logique](../logic)) peut décider de « jouer ses 1 ».
+Lors d'une résolution de conflit, un joueur utilisant une vision du monde classique ([Théisme](../theism), [Animisme](../animism) ou [Logique](../logic)) peut décider de « jouer ses 1 ».
 
 En faisant ce choix conscient, le joueur déclare que son personnage s'affranchit des limites de sa foi ou de sa science. Il perçoit l'illusion de la victoire adverse.
 
-- **L'Effet Immédiat (L'Annihilation)** : à l'instar des règles du cadre de pensée [Mystique](../mysticism), les « 1 » tirés par le joueur font disparaître les « 6 » du camp adverse, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
+- **L'Effet Immédiat (L'Annihilation)** : à l'instar des règles de la vision du monde [Mystique](../mysticism), les « 1 » tirés par le joueur font disparaître les « 6 » du camp adverse, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
 - **La Révélation** : dès cet instant, le personnage est définitivement Illuminé.
 
 ## L'Étincelle, avant l'Illumination
 
-Avant l'Illumination, les Lunaires parlent de l'Étincelle. C'est une façon de percevoir l'Illumination, de l'entrevoir, sans pour autant que celle-ci soit totalement intégrée et change de manière radicale le cadre de pensée de celui ou celle qui la vit.
+Avant l'Illumination, les Lunaires parlent de l'Étincelle. C'est une façon de percevoir l'Illumination, de l'entrevoir, sans pour autant que celle-ci soit totalement intégrée et change de manière radicale la vision du monde de celui ou celle qui la vit.
 
 L'Illumination peut émerger naturellement dans une configuration de dés très spécifique. L'idée sous-jacente, c'est que l'autre camp comprend (voire se met à jouer les 1 de manière mystique) pour remporter la victoire ou arriver à égalité. Les configurations sont donc plus larges que les deux cas d'école présentés juste après, qui correspondent chacun à un état différent : l'Étincelle et l'Illumination.
 
@@ -41,6 +41,6 @@ C'est la voie des énigmes de Nysalor. Une novice du Collège de Magie lunaire s
 
 Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. Il bénéficie d'une liberté nouvelle, mais en paie le prix fort.
 
-- **L'Héritage du Cadre** : le personnage ne change pas de cadre de pensée. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
+- **L'Héritage du Cadre** : le personnage ne change pas de vision du monde. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
 - **La Perméabilité aux Contradictions** : le personnage n'est plus bridé par les contradictions de son culte. Il peut, sur le plan narratif, allier des forces opposées (utiliser une magie de Stase et de Mouvement simultanément) sans en subir les chocs en retour habituels, car il a compris qu'elles ne font qu'un.
 - **La Tare de l'Hérétique** : l'Illumination a une odeur. Les êtres fanatiques, dogmatiques ou liés à des principes absolus (comme les initiés du Taureau Tempête, les inquisiteurs ou les esprits très anciens) ressentent intuitivement cette absence de limites morales et cosmiques. Pour eux, l'Illuminé dégage une aura contre-nature, souvent assimilée au Chaos lui-même. Le personnage gagne un trait négatif permanent tel que *Hérétique*, *Abomination aux yeux des fanatiques*, ou *Aura de Nysalor*, qui servira systématiquement de mise contre lui lors de conflits sociaux ou spirituels avec ces factions.

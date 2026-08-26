@@ -1,5 +1,5 @@
 ---
-title: "Discovering a new framework of thought?"
+title: "Discovering a new worldview?"
 ---
 
 ![Maitrise](../../../assets/rules/runes/conditions/maitrise.png)

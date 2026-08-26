@@ -47,9 +47,9 @@ The Taint is not a fixed mark: it is a living Chaos Keyword that evolves at the 
 
 Each stage strengthens the Keyword: Destiny uses it as an additional Bet for the adversity, and its new intensity lends itself to new Bets in conflicts involving nature, the gods or healthy society.
 
-## Notes: The Chaotic Contribution of Frames of Thought
+## Notes: The Chaotic Contribution of Worldviews
 
-Reflections on the share of Chaos that each [frame of thought](../) carries within it.
+Reflections on the share of Chaos that each [worldview](../) carries within it.
 
 - **Theism**: it believes it can contain Chaos, but that didn't work. It is likely that the explosion of the Six is partly responsible through **divine explosion**. Hence the mess in the mythic ages and the Great Compromise. The Gods are the main source of Chaos.
 - **Mysticism**: it is not its subject. It even tends to make entropic sources (the Six) disappear through its **transformations**. If everyone were mystical, the very notion of Chaos would not exist.

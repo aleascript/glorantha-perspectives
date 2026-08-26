@@ -1,5 +1,5 @@
 ---
-title: "Découvrir un nouveau cadre de pensée?"
+title: "Découvrir une nouvelle vision du monde?"
 ---
 
 ![Maitrise](../../../assets/rules/runes/conditions/maitrise.png)

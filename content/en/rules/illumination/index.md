@@ -12,16 +12,16 @@ It is actually a special case of an opposition with a mystical party.
 
 Illumination is not acquired through experience points or at character creation. It occurs during play, at a moment of crisis where the character decides to transgress their own nature.
 
-During a conflict resolution, a player using a classic frame of thought ([Theism](../theism), [Animism](../animism) or [Logic](../logic)) can decide to "play their 1s".
+During a conflict resolution, a player using a classic worldview ([Theism](../theism), [Animism](../animism) or [Logic](../logic)) can decide to "play their 1s".
 
 By making this conscious choice, the player declares that their character frees themselves from the limits of their faith or their science. They perceive the illusion of the opposing victory.
 
-- **The Immediate Effect (The Annihilation)** : like the rules of the [Mystical](../mysticism) frame of thought, the "1s" drawn by the player make the "6s" of the opposing camp disappear, and disappear at the same time. This action can overturn the outcome of a conflict that seemed lost in advance.
+- **The Immediate Effect (The Annihilation)** : like the rules of the [Mystical](../mysticism) worldview, the "1s" drawn by the player make the "6s" of the opposing camp disappear, and disappear at the same time. This action can overturn the outcome of a conflict that seemed lost in advance.
 - **The Revelation** : from this instant, the character is permanently Illumined.
 
 ## The Spark, before Illumination
 
-Before Illumination, the Lunarians speak of the Spark. It is a way of perceiving Illumination, of glimpsing it, without it being fully integrated and radically changing the frame of thought of the one who experiences it.
+Before Illumination, the Lunarians speak of the Spark. It is a way of perceiving Illumination, of glimpsing it, without it being fully integrated and radically changing the worldview of the one who experiences it.
 
 Illumination can emerge naturally in a very specific dice configuration. The underlying idea is that the other camp understands (or even starts playing the 1s in a mystical way) to win the victory or reach a tie. The configurations are therefore broader than the two textbook cases presented just after, each corresponding to a different state: the Spark and Illumination.
 
@@ -41,6 +41,6 @@ This is the way of Nysalor's riddles. A novice of the Lunar College of Magic pre
 
 Becoming Illumined irremediably modifies the character's relationship to the world. They benefit from a new freedom, but pay a heavy price for it.
 
-- **The Legacy of the Frame** : the character does not change their frame of thought. A Theist continues to pray to their gods and resolve their conflicts with the rules of Theism (rerolling odds on a 6). However, they forever keep the mystical ability to use their "1s" to cancel opposing "6s".
+- **The Legacy of the Worldview** : the character does not change their worldview. A Theist continues to pray to their gods and resolve their conflicts with the rules of Theism (rerolling odds on a 6). However, they forever keep the mystical ability to use their "1s" to cancel opposing "6s".
 - **The Permeability to Contradictions** : the character is no longer constrained by the contradictions of their cult. They can, on the narrative level, combine opposing forces (use Stasis and Movement magic simultaneously) without suffering the usual backlash, because they have understood that they are one.
 - **The Heretic's Taint** : Illumination has a smell. Fanatical, dogmatic beings or those bound to absolute principles (such as initiates of the Storm Bull, inquisitors or very ancient spirits) intuitively feel this absence of moral and cosmic limits. For them, the Illumined one exudes an unnatural aura, often assimilated to Chaos itself. The character gains a permanent negative trait such as *Heretic*, *Abomination in the eyes of fanatics*, or *Aura of Nysalor*, which will systematically serve as a bet against them during social or spiritual conflicts with these factions.

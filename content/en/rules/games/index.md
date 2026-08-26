@@ -56,7 +56,7 @@ You want to see the world through the eyes of a trollkin or a broo, go ahead.
 
 Although designed for solo mode, it should be possible to play in a group with players who know Glorantha well or a GM who does the necessary teaching work to convey to the PCs what is needed to propose bets coherent with Glorantha.
 
-We will see further on that the game mechanic invites the player to embrace a frame of thought specific to Glorantha.
+We will see further on that the game mechanic invites the player to embrace a worldview specific to Glorantha.
 
 ### Classic RPG Mode
 

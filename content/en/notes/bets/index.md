@@ -6,11 +6,11 @@ title: "Reflections on camps and bets"
 
 ### Hybrid camp
 
-A camp can be built from multiple frameworks of thought.
+A camp can be built from multiple worldviews.
 
-This is the case when the opposition involves several characters with different frameworks of thought.
+This is the case when the opposition involves several characters with different worldviews.
 
-For a character who has integrated multiple frameworks of thought, depending on the chosen strategy, one framework will be selected over another rather than using a hybrid camp, even though it remains possible.
+For a character who has integrated multiple worldviews, depending on the chosen strategy, one worldview will be selected over another rather than using a hybrid camp, even though it remains possible.
 
 ### More than two camps?
 

@@ -33,7 +33,7 @@ The rule is simple: *no power without a bond, no bond without a price.* Every gr
 
 The greater the power, the more binding the bond must be — otherwise the power collapses, or worse, turns against its holder.
 
-## The Sources by Frame of Thought
+## The Sources by Worldview
 
 ### Theism: Cult Geasa
 

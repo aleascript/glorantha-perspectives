@@ -12,19 +12,19 @@ Règles diégétiques alignant gameplay et roleplay dans l'univers de Glorantha.
 
 *Le site contient plus ou moins ce qui est présent dans le SRD et permet de piocher dans le système de jeu certaines idées applicables peut être à votre propre système de jeu actuel.*
 
-Conformément au mono-mythe Jrusteli, voici les quatre grands cadres de pensée dans Glorantha:
+Conformément au mono-mythe Jrusteli, voici les quatre grandes visions du monde dans Glorantha:
 
 - [L'animisme](animism)
 - [Le théisme](theism)
 - [La logique du Dieu Invisible](logic)
 - [Le mysticisme](mysticism)
 
-Ces cadres de pensée permettent de se positionner par rapport au monde et de poser des [**mises**](bets) dans un conflit ou face à un obstacle. C'est la narration qui permet de définir ce qui va rentrer en jeu dans la résolution [(1)](#note1).
+Ces visions du monde permettent de se positionner par rapport au monde et de poser des [**mises**](bets) dans un conflit ou face à un obstacle. C'est la narration qui permet de définir ce qui va rentrer en jeu dans la résolution [(1)](#note1).
 
 Et bien sûr, comme Glorantha est un monde complexe, il nous faut aussi 
 évoquer les sujets suivants:
 - [L'influence de la Lune Rouge](moon)
-- [Les Dragons et les Dragonewts (un 5ème cadre de pensée)](draconic)
+- [Les Dragons et les Dragonewts (une 5ème vision du monde)](draconic)
 - [L'Illumination](illumination)
 - [Le Chaos](chaos)
 - [Tabous, Geis & Serments](taboos)

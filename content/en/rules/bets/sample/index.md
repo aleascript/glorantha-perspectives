@@ -6,7 +6,7 @@ Here is a concrete example of bet determination for an opposition in **Glorantha
 
 ### The Scene Context
 
-**Kallyr**, a young Orlanthi clan chief (frame of thought: Theist), infiltrates the underground sanctuary of the Earth Temple. She faces **Yanela**, the High Priestess of Ernalda (the obstacle).
+**Kallyr**, a young Orlanthi clan chief (worldview: Theist), infiltrates the underground sanctuary of the Earth Temple. She faces **Yanela**, the High Priestess of Ernalda (the obstacle).
 **The situation:** Kallyr wants to convince Yanela to entrust her with the *Earthshaker Staff*, a sacred relic, because a patrol of the Lunar Empire is approaching their village. Yanela, rooted in tradition, refuses to let the relic leave the sanctuary.
 
 ### 1. The Choice of Focus (What is important at that moment)

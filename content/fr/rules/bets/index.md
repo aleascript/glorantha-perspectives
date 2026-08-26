@@ -12,7 +12,7 @@ Une  résolution intervient pour déterminer  une bifurcation narrative. Elle n�
 
 L'idée sous jacente de la mécanique du jeu est d'offrir le cadre nécessaire et suffisant pour expérimenter une immersion gloranthienne. 
 
-Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde doit être vu par des prismes très différents et pour qu’il y ait cohérence entre les mécaniques de jeu et le cadre de pensée des personnages.
+Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde peut être appréhendé à travers des visions du monde très différentes et pour qu’il y ait cohérence entre les mécaniques de jeu et la vision du monde des personnages.
 
 Lorsque le destin est incertain et qu’on sent l’apparition d’une potentielle bifurcation narrative, on procède en trois étapes: 
 
@@ -49,7 +49,7 @@ ou encore
 
 On a le nombre de **mises** pour chaque **camp**. On va pouvoir procéder à la **résolution**.
 
-Quelque soit le cadre de pensée de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les mises acceptables des uns et des autres. 
+Quelle que soit la vision du monde de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les mises acceptables des uns et des autres. 
 
 ### Et la difficulté dans tout ça?
 
@@ -91,7 +91,7 @@ Notes:
 
 Une fois les mises connues pour chaque camp, on perd le lien entre la mise qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
 
-Le cadre de pensée peut servir à exprimer le résultat suivant le point de vue de ce cadre. 
+La vision du monde peut servir à exprimer le résultat suivant le point de vue de cette vision. 
 
 Les mises sont aussi là pour déterminer les éléments narratifs. Elles deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.
 
@@ -99,11 +99,11 @@ Les mises sont aussi là pour déterminer les éléments narratifs. Elles devien
 
 ### Obstacle abstrait
 
-Certains obstacles ne sont pas liés à un cadre de pensée particulier. Ils correspondent simplement à la résistance du monde.
+Certains obstacles ne sont pas liés à une vision du monde particulière. Ils correspondent simplement à la résistance du monde.
 
 Deux possibilités:
 
-- <img src="../../../assets/rules/runes/formes/homme.png" alt="Homme" width="6%"> **Miroir**: on résout les mises avec le même cadre de pensée que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
+- <img src="../../../assets/rules/runes/formes/homme.png" alt="Homme" width="6%"> **Miroir**: on résout les mises avec la même vision du monde que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
 
 - <img src="../../../assets/rules/runes/mondes/median.png" alt="Monde médian" width="6%"> **Agnostique**, **Matérialiste**, **Le monde médian**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage.
 
@@ -126,7 +126,7 @@ On peut amener de la nuance selon la différence de réussites.
 En cas d’égalité, on peut jouer le status quo ou faire gagner in extremis le protagoniste s’il y a un protagoniste dans le récit. 
 Si le conflit n'est pas compatible avec un status quo, on peut refaire un tirage en rajoutant une mise à chaque camp pour exprimer la **surenchère** liée à l'égalité temporaire lors du conflit. Cette mise supplémentaire pour chaque camp représente la volonté d'en finir. Les surenchères peuvent se succéder. 
 
-Dans tous les cas, les mises et les cadres de pensée servent la narration de l’interprétation. 
+Dans tous les cas, les mises et les visions du monde servent la narration de l’interprétation. 
 
 Et ce qui est essentiel de garder en tête, c'est le contexte de la situation qui sert a interpréter le résultat. 
 

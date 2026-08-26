@@ -1,7 +1,7 @@
 = Glorantha Perspectives
 :subtitle: Diegetic rules for playing in Glorantha
 aleascript@proton.me
-:revnumber: 0.3
+:revnumber: 0.4
 :revdate: 2026-08-15
 :doctype: book
 //:sectnums:
@@ -33,7 +33,7 @@ _For example, when an initiate of Orlanth charges into battle, they rather bet o
 - For veterans of HeroQuest (HQ): the approach is strictly the same, but purged of all statistics and numbers.
 - For purists of RuneQuest (RQ): this system offers a deliberate shift from simulationism towards narrativism. Nevertheless, the resolution engine intends, in its own way, to be able to simulate any opposition.
 
-The system was invented so that players keep permanently in mind that the world of Glorantha must be seen through very different prisms. It thus guarantees a strong coherence between the game mechanics used and the specific frame of thought of the characters.
+The system was invented so that players keep permanently in mind that the world of Glorantha can be understood through very different worldviews. It thus guarantees a strong coherence between the game mechanics used and the specific worldview of the characters.
 
 Mind you, these rules in no way replace your readings and reflections on this world, based on the colossal body of work already written about it.
 
@@ -55,18 +55,18 @@ To harmonize the expectations of a group of players and quickly present the sett
 - Currency is used for exchanges, but it remains rare and reserved for merchants or certain adventurous professions. In everyday life, barter and small change are the rule.
 - Healing magic pushes back death and accelerates recovery. However, it does not regrow severed limbs.
 
-=== C. The great frames of thought
+=== C. The great worldviews
 
-In the world of Glorantha, the way one apprehends reality modifies reality itself. In accordance with the Jrusteli mono-myth, there are four great frames of thought:
+In the world of Glorantha, the way one apprehends reality modifies reality itself. In accordance with the Jrusteli mono-myth, there are four great worldviews:
 
 - image:rules/runes/mondes/spirits.png[width=25] _Animism_.
 - image:rules/runes/mondes/gods.png[width=25]_Theism_.
 - image:rules/runes/mondes/logic.png[width=25] _The logic of the Invisible God_.
 - image:rules/runes/mondes/void.png[width=25] _Mysticism_.
 
-To these worldviews is added a 5th particularly complex frame of thought: _Dragons and Dragonewts_.
+To these worldviews is added a 5th particularly complex worldview: _Dragons and Dragonewts_.
 
-These frames of thought are fundamental: they are what allow characters to position themselves in relation to the world and to place bets when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
+These worldviews are fundamental: they are what allow characters to position themselves in relation to the world and to place bets when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
 
 === D. The social contract as a backbone
 
@@ -88,7 +88,7 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 
 - *Identity:* Name, Age, and a *Quote / Signature line*. This line summarizes the character's philosophy and gives the player an immediate _roleplay_ hook.
 - *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
-- *Frame of Thought:* The prism through which the character sees the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School).
+- *Worldview:* The way the character apprehends the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School).
 - *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements and Powers). In Glorantha, runes are not merely magic, *they dictate character*.
     - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] could be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] could be secretive, manipulative or mischievous. These character traits can serve as bets (for or against the character) in a conflict.
 - *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
@@ -97,7 +97,7 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 
 === B. Non-Player Characters (NPCs)
 
-Destiny (the gamemaster/narrator) does not need this level of detail to bring the world to life. NPCs can be created on the fly, very lightly. A frame of thought, an objective, and one or two keywords suffice to generate their bets.
+Destiny (the gamemaster/narrator) does not need this level of detail to bring the world to life. NPCs can be created on the fly, very lightly. A worldview, an objective, and one or two keywords suffice to generate their bets.
 
 Anaxial's Ark or the HeroQuest supplements are solid bases for having keyword lists already prepared.
 
@@ -112,7 +112,7 @@ ____
 
 *Origins:* Sartarite Culture, Clan of the Apple Trees.
 
-*Frame of thought:* Theist (Initiate of Orlanth Adventurous).
+*Worldview:* Theist (Initiate of Orlanth Adventurous).
 
 *Runes:*
 
@@ -132,7 +132,7 @@ _In play: During a conflict to galvanize his troops, Varmand can bring into play
 ____
 *Name:* Centurion Phargos
 
-*Frame of thought:* Logic (Martial philosophy of the Empire).
+*Worldview:* Logic (Martial philosophy of the Empire).
 
 *Objective:* Maintain order and collect taxes.
 
@@ -196,9 +196,9 @@ To balance narrative difficulties throughout the game (group or solo), Destiny c
 
 === D. Abstract Obstacles
 
-How to resolve a draw against an obstacle not tied to a frame of thought (climbing a mountain, resisting the climate)? Two options are available to you:
+How to resolve a draw against an obstacle not tied to a worldview (climbing a mountain, resisting the climate)? Two options are available to you:
 
-- *The Mirror mode:* The obstacle is resolved with the same frame of thought as the protagonist (e.g., the rules of mysticism for a mystic). This is the recommended frame when the bets represent a true self-transcendence.
+- *The Mirror mode:* The obstacle is resolved with the same worldview as the protagonist (e.g., the rules of mysticism for a mystic). This is the recommended frame when the bets represent a true self-transcendence.
 - *The Agnostic mode (The Middle World):* even numbers (2, 4, 6) are successes and odd numbers (1, 3, 5) are failures, without any other adjustment rule. This frame is used when the bets are minor and do not involve the character emotionally.
 
 === E. The Resolution Zoom: Action, Sequence or Script
@@ -221,7 +221,7 @@ The opposition is then made against the number of keys to discover.
 
 === G. Resolution, Interpretation and Retributions
 
-Each camp makes its dice draw according to the specific rules of its Frame of Thought (Theism, Animism, Logic, Mysticism). The one who obtains the most successes wins the conflict.
+Each camp makes its dice draw according to the specific rules of its Worldview (Theism, Animism, Logic, Mysticism). The one who obtains the most successes wins the conflict.
 
 *Graduation of the Result:*
 
@@ -262,7 +262,7 @@ Here are degrees of narrative warning that Destiny can employ:
 
 Facing this warning, the player has the right to opt for a *strategic retreat*. They can modify their diegetic objective accordingly (e.g., "I no longer seek to kill the Lunar general, but simply to delay them so that my allies can flee").
 
-== IV. The Frames of Thought
+== IV. The Worldviews
 
 In Glorantha, magic is not a simple list of spells, it is a way of seeing the world and interacting with it. Everything is magical in a way. Magic is the way of seeing the world. The resolution mechanic therefore adapts to the character's philosophy.
 
@@ -406,7 +406,7 @@ image::rules/runes/elements/lune.png[width=100]
 
 Lunar magic is subject to the lunar cycle when practiced outside the Brilliant Line. Inside this border that encircles the Lunar Empire, the moon is always full and magic is therefore not subject to these fluctuations.
 
-Outside the Full Moon and New Moon phases, the normal resolution rules apply for all frames of thought.
+Outside the Full Moon and New Moon phases, the normal resolution rules apply for all worldviews.
 
 _Note: Adepts of Mysticism and Draconic Thought are never affected by these rules; for them, the lunar cycles are only an illusory reality to transcend_.
 
@@ -422,9 +422,9 @@ During this phase, one witnesses an incursion of mysticism into the other modes 
 
 This phase represents the trough of magical power for mortals subject to the cycles.
 
-- *Logic:* The frame of thought switches to weakened mode.
-- *Theism:* The frame of thought switches to weakened mode.
-- *Animism:* The frame of thought switches to weakened mode.
+- *Logic:* The worldview switches to weakened mode.
+- *Theism:* The worldview switches to weakened mode.
+- *Animism:* The worldview switches to weakened mode.
 
 === G. Illumination: Freeing Oneself from the Web
 
@@ -434,16 +434,16 @@ In Glorantha, Illumination is a stunning realization, often initiated by the rid
 
 Illumination is not acquired through experience points or at character creation. It occurs during play, at a moment of crisis where the character decides to transgress their own nature.
 
-During a conflict resolution, a player using a classic frame of thought (Theism, Animism or Logic) can decide to "play their 1s".
+During a conflict resolution, a player using a classic worldview (Theism, Animism or Logic) can decide to "play their 1s".
 
 By making this conscious choice, the player declares that their character frees themselves from the limits of their faith or their science. They perceive the illusion of the opposing victory.
 
-- *The Immediate Effect (The Annihilation):* Like the rules of the Mystical frame of thought, the "1s" drawn by the player make the "6s" of the opposing camp disappear, and disappear at the same time. This action can overturn the outcome of a conflict that seemed lost in advance.
+- *The Immediate Effect (The Annihilation):* Like the rules of the Mystical worldview, the "1s" drawn by the player make the "6s" of the opposing camp disappear, and disappear at the same time. This action can overturn the outcome of a conflict that seemed lost in advance.
 - *The Revelation:* From this instant, the character is permanently Illumined.
 
 *The Textbook Cases: The Spark and Illumination*
 
-Before Illumination, the Lunarians speak of the Spark. It is a way of perceiving Illumination, of glimpsing it, without it being fully integrated and radically changing the frame of thought of the one who experiences it.
+Before Illumination, the Lunarians speak of the Spark. It is a way of perceiving Illumination, of glimpsing it, without it being fully integrated and radically changing the worldview of the one who experiences it.
 
 Illumination can emerge naturally in a very specific dice configuration. The underlying idea is that the other camp understands (or even starts playing the 1s in a mystical way) to win the victory or reach a tie. Two textbook cases stand out, each corresponding to a different state: the Spark and Illumination.
 
@@ -467,7 +467,7 @@ ____
 
 Becoming Illumined irremediably modifies the character's relationship to the world. They benefit from a new freedom, but pay a heavy price for it.
 
-- *The Legacy of the Frame:* The character does not change their frame of thought. A Theist continues to pray to their gods and resolve their conflicts with the rules of Theism (rerolling odds on a 6). However, they forever keep the mystical ability to use their "1s" to cancel opposing "6s".
+- *The Legacy of the Worldview:* The character does not change their worldview. A Theist continues to pray to their gods and resolve their conflicts with the rules of Theism (rerolling odds on a 6). However, they forever keep the mystical ability to use their "1s" to cancel opposing "6s".
 - *The Permeability to Contradictions:* The character is no longer constrained by the contradictions of their cult. They can, on the narrative level, combine opposing forces (use Stasis and Movement magic simultaneously) without suffering the usual backlash, because they have understood that they are one.
 - *The Heretic's Taint:* Illumination has a smell. Fanatical, dogmatic beings or those bound to absolute principles (such as initiates of the Storm Bull, inquisitors or very ancient spirits) intuitively feel this absence of moral and cosmic limits. For them, the Illumined one exudes an unnatural aura, often assimilated to Chaos itself. The character gains a permanent negative trait such as _Heretic_, _Abomination in the eyes of fanatics_, or _Aura of Nysalor_, which will systematically serve as a bet against them during social or spiritual conflicts with these factions.
 
@@ -610,7 +610,7 @@ A Heroquest does not simply consist of accomplishing a physical feat, but of phy
 
 - *The Principle:* One must succeed in accessing the Other Side (the Otherworld) and then complete the successive stages of a myth.
 - *Bets and Synchronicity:* A heroquest creates absolute synchronicity between the divine world and the real world (in both directions). The resolution system (the "bets") allows one to narratively determine the level of victory of the quest and, above all, to describe the concrete and lasting effects on the real world.
-- *The Price to Pay:* The hero very often pledges one of their aptitudes before starting the quest. If they access the Other Side, their frame of thought switches to "Heroic Mode", but they will face entities benefiting from the same advantage.
+- *The Price to Pay:* The hero very often pledges one of their aptitudes before starting the quest. If they access the Other Side, their worldview switches to "Heroic Mode", but they will face entities benefiting from the same advantage.
 - *The Path of the Myth:* Heroes have every interest in following the marked path of the myth, for it shapes and confirms reality as it is. But it is possible to deviate from it, at one's own risks and perils: succeeding a deviation allows one to literally change the reality of the real world!
 
 === B. Creating Myths (Tool for Destiny)
@@ -633,7 +633,7 @@ As Destiny, you will be led to invent myths to feed your players (or your solo g
 
 Like tales, Gloranthan myths are often composed according to the rule of three: three trials, three stages, three objects. For example, it was at the fourth trial (that of weapons) that Orlanth killed Emperor Yelm, after having "failed" the first three (the dance, the magic, the music).
 
-=== C. The Ultimate Quest: Discovering a New Frame of Thought
+=== C. The Ultimate Quest: Discovering a New Worldview
 
 It is entirely possible to imagine a Heroquest whose goal is not to replay the past, but to elaborate brand-new adjustments to the rules of the world for those who would hold a specific Rune (as was the case for the Lunar Rune or Infinity with Ouroboros).
 
@@ -912,7 +912,7 @@ Although designed for solo, the system also shines in a group, provided one show
 
 == VII. Appendices
 
-This appendix gathers two tools: a comparative table of the average number of successes of each frame of thought, and a gallery of complete player characters for inspiration or direct play.
+This appendix gathers two tools: a comparative table of the average number of successes of each worldview, and a gallery of complete player characters for inspiration or direct play.
 
 === A. Frequently Asked Questions (FAQ)
 
@@ -944,7 +944,7 @@ Destiny is not an absolute arbiter, it is the guardian of the universe's coheren
 
 === B. Statistics
 
-The table below gives the average number of successes obtained per draw, according to the number of bets (from 1D to 10D) and the frame of thought used.
+The table below gives the average number of successes obtained per draw, according to the number of bets (from 1D to 10D) and the worldview used.
 
 [cols="1,2,2,2,2,2", options="header"]
 |===
@@ -993,7 +993,7 @@ ____
 
 *Standard of living & Equipment:* Standard — double-bladed axe, bow, mercury armor (does not sink), horse (thoroughbred).
 
-*Frame of thought:* Theism (Novice of Hwarin Dalthippa, Celestial Pantheon - Sylila)
+*Worldview:* Theism (Novice of Hwarin Dalthippa, Celestial Pantheon - Sylila)
 
 *Runes:*
 
@@ -1032,7 +1032,7 @@ ____
 
 *Standard of living & Equipment:* Standard — poisoned dagger, travel gear, books and writing material, horse.
 
-*Frame of thought:* Logic (Pelorian of the Celestial Pantheon; Imperial Shadow, Diplomatica Scriptoriae grimoire)
+*Worldview:* Logic (Pelorian of the Celestial Pantheon; Imperial Shadow, Diplomatica Scriptoriae grimoire)
 
 *Runes:*
 
@@ -1070,7 +1070,7 @@ ____
 
 *Standard of living & Equipment:* Affluent — a mule, a horse, sacks, wares to sell, dagger, staff.
 
-*Frame of thought:* Theism (Initiate of Issaries and of Gultha Languedor, Storm Pantheon without Orlanth)
+*Worldview:* Theism (Initiate of Issaries and of Gultha Languedor, Storm Pantheon without Orlanth)
 
 *Runes:*
 
@@ -1110,7 +1110,7 @@ ____
 
 *Standard of living & Equipment:* Poor (relatively) — bow, spear, helmet, fetishes.
 
-*Frame of thought:* Animism (Tradition of Waha the Butcher, Praxian animism Waha & Eiritha)
+*Worldview:* Animism (Tradition of Waha the Butcher, Praxian animism Waha & Eiritha)
 
 *Runes:*
 
@@ -1151,7 +1151,7 @@ ____
 
 *Standard of living & Equipment:* Standard — the danger ring.
 
-*Frame of thought:* Theism (Initiate of Urvairinus the Conqueror, Celestial Pantheon - Yelm)
+*Worldview:* Theism (Initiate of Urvairinus the Conqueror, Celestial Pantheon - Yelm)
 
 *Runes:*
 
@@ -1190,7 +1190,7 @@ ____
 
 *Standard of living & Equipment:* Standard — books and scholar's effects, burglar's tools (hooks, rope, pliers).
 
-*Frame of thought:* Theism (Initiate of the Grand Mystery, cult of the thieves of Pavis)
+*Worldview:* Theism (Initiate of the Grand Mystery, cult of the thieves of Pavis)
 
 *Runes:*
 
@@ -1231,7 +1231,7 @@ ____
 
 *Standard of living & Equipment:* Poor — feather fetishes.
 
-*Frame of thought:* Animism (Shadow Swimmer, tradition of the durulz spirits)
+*Worldview:* Animism (Shadow Swimmer, tradition of the durulz spirits)
 
 *Runes:*
 
@@ -1270,7 +1270,7 @@ ____
 
 *Standard of living & Equipment:* Poor — construction tools and training weapons.
 
-*Frame of thought:* Theism (Initiate of Orlanth, Storm Pantheon)
+*Worldview:* Theism (Initiate of Orlanth, Storm Pantheon)
 
 *Runes:*
 

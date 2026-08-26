@@ -47,9 +47,9 @@ La Souillure n'est pas une tare figée : c'est un Mot-Clé de Chaos vivant, qui 
 
 Chaque palier renforce le Mot-Clé : la Destinée l'utilise comme une Mise d'adversité supplémentaire, et son intensité nouvelle se prête à de nouvelles Mises dans les conflits impliquant la nature, les dieux ou la société saine.
 
-## Notes : L'apport chaotique des cadres de pensée
+## Notes : L'apport chaotique des visions du monde
 
-Réflexions sur la part de Chaos que chaque [cadre de pensée](../) porte en lui.
+Réflexions sur la part de Chaos que chaque [vision du monde](../) porte en elle.
 
 - **Le théisme** : il croit borner le Chaos, mais ça n'a pas marché. Il est probable que l'explosion des 6 en soit en partie responsable (l'**explosion divine**). D'où le désordre des Âges Mythiques et le Grand Compromis. Les Dieux sont la source principale du Chaos.
 - **Le mysticisme** : ce n'est pas son sujet. Il fait plutôt disparaître les sources entropiques (les 6) par ses **transformations**. Si tout le monde était mystique, la notion même de Chaos n'existerait pas.
