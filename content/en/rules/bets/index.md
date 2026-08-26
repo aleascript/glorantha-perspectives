@@ -12,7 +12,7 @@ A resolution is made to determine a narrative turning point. It exists only to s
 
 The underlying idea of the game mechanic is to offer the necessary and sufficient framework to experience a Gloranthian immersion.
 
-The system was invented so that players always keep in mind that the world must be viewed through very different prisms and so that there is coherence between the game mechanics and the characters' frame of thought.
+The system was invented so that players always keep in mind that the world can be understood through very different worldviews and so that there is coherence between the game mechanics and the characters' worldview.
 
 When destiny is uncertain and we sense the emergence of a potential narrative turning point, we proceed in three steps:
 
@@ -42,7 +42,7 @@ or alternatively
 
 We have the number of **bets** for each **camp**. We can now proceed to the **resolution**.
 
-Regardless of your character's frame of thought, the method for creating bets narratively is always the same. The specificity will be found in the acceptable bets of each party.
+Regardless of your character's worldview, the method for creating bets narratively is always the same. The specificity will be found in the acceptable bets of each party.
 
 ### And where does difficulty fit in all this?
 
@@ -84,7 +84,7 @@ Notes:
 
 Once the bets are known for each camp, we lose the link between the bet that created the die and the die. It would be too mentally complex to look at each success of each factor and even more so for Logicians. What matters is the number of successes in the end for each camp.
 
-The frame of thought can serve to express the result following the viewpoint of that frame.
+The worldview can serve to express the result from that worldview's perspective.
 
 The bets also serve to determine narrative elements. They become the ingredients of the narration to tell the result of the opposition.
 
@@ -92,11 +92,11 @@ The bets also serve to determine narrative elements. They become the ingredients
 
 ### Abstract Obstacles
 
-Some obstacles are not tied to a particular frame of thought. They simply correspond to the resistance of the world.
+Some obstacles are not tied to a particular worldview. They simply correspond to the resistance of the world.
 
 Two possibilities:
 
-- <img src="../../../assets/rules/runes/formes/homme.png" alt="Man" width="6%"> **Mirror**: the bets are resolved with the same frame of thought as the non-abstract opponent: this reflects a holistic vision of the world. This is the framework to use when the bets involve self-transcendence.
+- <img src="../../../assets/rules/runes/formes/homme.png" alt="Man" width="6%"> **Mirror**: the bets are resolved with the same worldview as the non-abstract opponent: this reflects a holistic vision of the world. This is the framework to use when the bets involve self-transcendence.
 
 - <img src="../../../assets/rules/runes/mondes/median.png" alt="Middle World" width="6%"> **Agnostic**, **Materialist**, **The Middle World**: even numbers (2, 4, 6) will be successes, odd numbers (1, 3, 5) will be failures. There are no other bet adjustment rules once the draw is made. This is the framework to use when the bets are minor and do not truly involve the character emotionally.
 
@@ -119,7 +119,7 @@ You can bring nuance based on the difference in successes.
 In case of a tie, you can play the status quo or have the protagonist win in extremis if there is a protagonist in the narrative.
 If the conflict is not compatible with a status quo, you can redraw by adding one bet to each camp to express the **escalation** linked to the temporary tie during the conflict. This additional bet for each camp represents the will to put an end to it. Escalations can follow one another.
 
-In all cases, the bets and frames of thought serve the narration of the interpretation.
+In all cases, the bets and worldviews serve the narration of the interpretation.
 
 And what is essential to keep in mind is the context of the situation that serves to interpret the result.
 
