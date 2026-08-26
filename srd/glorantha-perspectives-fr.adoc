@@ -68,9 +68,9 @@ Dans l'univers de Glorantha, la façon d'appréhender la réalité modifie la r�
 
 Ces visions du monde sont fondamentales : ce sont elles qui permettent aux personnages de se positionner par rapport au monde et de poser des mises lorsqu'ils sont face à un conflit ou un obstacle. C'est ensuite la narration qui définit ce qui va concrètement rentrer en jeu dans la résolution de l'action.
 
-Dans *Glorantha Perspectives*, cette vision du monde est le *Prisme* du personnage : son *ontologie vécue*, la manière profonde et spontanée dont il pense que le monde fonctionne. Un Prisme n'est donc ni une profession, ni une méthode intellectuelle, ni un masque que l'on choisit selon la situation.
+Dans *Glorantha Perspectives*, une vision du monde exprime l'*ontologie vécue* du personnage : la manière profonde et spontanée dont il pense que le monde fonctionne. Elle n'est donc ni une profession, ni une méthode intellectuelle, ni un masque que l'on choisit selon la situation.
 
-Un personnage peut apprendre les savoirs et les pratiques d'une autre tradition sans changer de Prisme. Un Sage Gris peut étudier un grimoire malkioni ; un Pol-Joni peut accomplir des rites praxiens ; un Malkioni peut apprendre la séquence d'un rite orlanthi. Ces savoirs, textes, objets, méthodes ou rituels peuvent fournir des *mises* lorsqu'ils sont pertinents, mais ils ne changent pas à eux seuls la vision du monde du personnage. *Le Prisme ne décrit pas ce que vous faites. Il décrit le monde dans lequel vous pensez le faire.*
+Un personnage peut apprendre les savoirs et les pratiques d'une autre tradition sans changer de vision du monde. Un Sage Gris peut étudier un grimoire malkioni ; un Pol-Joni peut accomplir des rites praxiens ; un Malkioni peut apprendre la séquence d'un rite orlanthi. Ces savoirs, textes, objets, méthodes ou rituels peuvent fournir des *mises* lorsqu'ils sont pertinents, mais ils ne changent pas à eux seuls la vision du monde du personnage. *La vision du monde ne décrit pas ce que vous faites. Elle décrit le monde dans lequel vous pensez le faire.*
 
 Ainsi, l'érudition n'implique pas la Logique : les Sages Gris de Lhankor Mhy, les astrologues de Buserian ou les érudits d'Irripi Ontor restent normalement Théistes. Les Pol-Joni restent normalement Théistes malgré leur adaptation aux pratiques animistes de Prax. À l'inverse, les Malkioni et les Mostali relèvent normalement de la Logique parce que celle-ci exprime leur conception du Cosmos, non parce qu'ils seraient plus savants ou plus rationnels.
 
@@ -96,7 +96,7 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 
 - *Identité :* Nom, Âge, et une *Citation / Phrase type*. Cette phrase résume la philosophie du personnage et donne une accroche de _roleplay_ immédiate au joueur.
 - *Origines & Communauté :* Les loups solitaires n'existent pas (ou survivent peu) dans Glorantha. Le personnage doit définir sa Culture (Sartarite, Tarshite, Esrolien, Uz, etc.) et sa Communauté précise (Clan, Tribu, Cité, Régiment).
-- *Vision du monde (Prisme) :* C'est l'ontologie vécue du personnage, la manière dont il pense que le monde fonctionne (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École Rokari). Les savoirs ou pratiques empruntés à d'autres traditions sont des sources de mises, pas des changements automatiques de Prisme.
+- *Vision du monde :* C'est l'ontologie vécue du personnage, la manière dont il pense que le monde fonctionne (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École Rokari). Les savoirs ou pratiques empruntés à d'autres traditions sont des sources de mises, pas des changements automatiques de vision du monde.
 - *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments et Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
     - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] pourrait être fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] pourrait être secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
 - *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
@@ -337,9 +337,9 @@ ____
 
 image::rules/runes/mondes/logic.png[width=100]
 
-*Philosophie :* Un logicien habite un monde que la Loi, la structure, la cause et l'effet rendent intelligible. Chez les Malkioni, le Dieu Invisible ne se manifeste pas : on s'en approche par l'étude, la quantification et la raison. Les Mostali relèvent eux aussi normalement de ce Prisme par leur conception ordonnée et intelligible du Cosmos.
+*Philosophie :* Un logicien habite un monde que la Loi, la structure, la cause et l'effet rendent intelligible. Chez les Malkioni, le Dieu Invisible ne se manifeste pas : on s'en approche par l'étude, la quantification et la raison. Les Mostali relèvent eux aussi normalement de cette vision du monde par leur conception ordonnée et intelligible du Cosmos.
 
-La Logique n'est donc pas le Prisme des érudits ou des esprits rationnels. Un Sage Gris de Lhankor Mhy, un astrologue de Buserian ou un érudit d'Irripi Ontor peut calculer, classifier et raisonner tout en restant Théiste : il interprète toujours ses résultats dans un monde de Dieux, de Runes et de puissances sacrées.
+La Logique n'est donc pas la vision du monde des érudits ou des esprits rationnels. Un Sage Gris de Lhankor Mhy, un astrologue de Buserian ou un érudit d'Irripi Ontor peut calculer, classifier et raisonner tout en restant Théiste : il interprète toujours ses résultats dans un monde de Dieux, de Runes et de puissances sacrées.
 
 Noms péjoratifs donnés par les autres cultures : sorcellerie, sorciers, matérialistes, vampires.
 
