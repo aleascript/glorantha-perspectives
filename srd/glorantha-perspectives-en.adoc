@@ -68,9 +68,9 @@ To these worldviews is added a 5th particularly complex worldview: _Dragons and 
 
 These worldviews are fundamental: they are what allow characters to position themselves in relation to the world and to place bets when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
 
-In *Glorantha Perspectives*, this worldview is the character's *Prism*: their *lived ontology*, the deep and spontaneous way in which they think the world works. A Prism is therefore neither a profession, nor an intellectual method, nor a mask chosen according to the situation.
+In *Glorantha Perspectives*, a worldview expresses the character's *lived ontology*: the deep and spontaneous way in which they think the world works. It is therefore neither a profession, nor an intellectual method, nor a mask chosen according to the situation.
 
-A character may learn the knowledge and practices of another tradition without changing Prism. A Grey Sage may study a Malkioni grimoire; a Pol-Joni may perform Praxian rites; a Malkioni may learn the sequence of an Orlanthi rite. Such knowledge, texts, objects, methods, or rituals can provide *Bets* when relevant, but they do not by themselves change the character's worldview. *The Prism does not describe what you do. It describes the world in which you think you are doing it.*
+A character may learn the knowledge and practices of another tradition without changing worldview. A Grey Sage may study a Malkioni grimoire; a Pol-Joni may perform Praxian rites; a Malkioni may learn the sequence of an Orlanthi rite. Such knowledge, texts, objects, methods, or rituals can provide *Bets* when relevant, but they do not by themselves change the character's worldview. *The worldview does not describe what you do. It describes the world in which you think you are doing it.*
 
 Thus scholarship does not imply Logic: Grey Sages of Lhankor Mhy, astrologers of Buserian, and scholars of Irripi Ontor normally remain Theists. The Pol-Joni normally remain Theists despite adapting to animist practices in Prax. Conversely, the Malkioni and Mostali normally belong to Logic because it expresses their conception of the Cosmos, not because they are more learned or rational.
 
@@ -96,7 +96,7 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 
 - *Identity:* Name, Age, and a *Quote / Signature line*. This line summarizes the character's philosophy and gives the player an immediate _roleplay_ hook.
 - *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
-- *Worldview (Prism):* The character's lived ontology, the way they think the world works (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School). Knowledge or practices borrowed from other traditions are sources of Bets, not automatic changes of Prism.
+- *Worldview:* The character's lived ontology, the way they think the world works (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School). Knowledge or practices borrowed from other traditions are sources of Bets, not automatic changes of worldview.
 - *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements and Powers). In Glorantha, runes are not merely magic, *they dictate character*.
     - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] could be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] could be secretive, manipulative or mischievous. These character traits can serve as bets (for or against the character) in a conflict.
 - *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
@@ -336,9 +336,9 @@ ____
 
 image::rules/runes/mondes/logic.png[width=100]
 
-*Philosophy:* A Logician inhabits a world made intelligible by Law, structure, cause, and effect. Among the Malkioni, the Invisible God does not manifest: one approaches it through study, quantification, and reason. The Mostali also normally belong to this Prism through their ordered and intelligible conception of the Cosmos.
+*Philosophy:* A Logician inhabits a world made intelligible by Law, structure, cause, and effect. Among the Malkioni, the Invisible God does not manifest: one approaches it through study, quantification, and reason. The Mostali also normally belong to this worldview through their ordered and intelligible conception of the Cosmos.
 
-Logic is therefore not the Prism of scholars or rational minds. A Grey Sage of Lhankor Mhy, an astrologer of Buserian, or a scholar of Irripi Ontor may calculate, classify, and reason while remaining a Theist: they still interpret their results in a world of Gods, Runes, and sacred powers.
+Logic is therefore not the worldview of scholars or rational minds. A Grey Sage of Lhankor Mhy, an astrologer of Buserian, or a scholar of Irripi Ontor may calculate, classify, and reason while remaining a Theist: they still interpret their results in a world of Gods, Runes, and sacred powers.
 
 Derogatory names given by the other cultures: sorcery, sorcerers, materialists, vampires.
 
@@ -497,7 +497,6 @@ Chaos is the force of entropy, the absolute anti-creation that gnaws at the Cosm
 
 It is not possible to invoke Chaos for a trivial action or to simply make life easier. Chaos only responds to entropy and sacrilege. To have the right to call upon this force, the action described by the player must be transgressive, destructive, cruel or fundamentally against nature.
 One does not use Chaos to convince a guard to let one pass or to pick a lock in silence; one uses it to make the guard's flesh liquefy or to make the door's metal howl in pain. The end no longer justifies the means: deviance becomes the indispensable means of action.
-
 *The Chaotic Temptation (The Cheat)*
 
 When a character faces certain death, a bitter failure, or is blocked by a Framework Factor, the player can invoke the force of Chaos to get out of it. This is translated narratively by an unnatural act (absorbing the energy of an impious artifact, sacrificing an ally, or letting corruption express itself).
@@ -897,7 +896,6 @@ image::rules/runes/conditions/infini.png[width=100]
 In response to the adage _YGWV (Your Glorantha Will Vary)_, here is a well-assumed justification for moving away from canon: In a distant future, a Heroquest led to the mating of a Dragon with Arachne Solara. From this union, she laid thousands of eggs. Each egg that hatches corresponds to a parallel version of Glorantha. The more veined the egg, the further the version strays from the "official story". Obviously, nobody is aware of being a version of the world born from an egg. You are therefore totally free in your biases!
 
 === E. Game Modes
-
 ==== Solo Play (You are Destiny)
 
 The game was mainly designed for this approach. You watch Glorantha live and die; you are the hands that weigh the Runes and the voice that tells the story.
@@ -1097,7 +1095,6 @@ ____
 *Spells of Issaries - Communication:* Shouting with a clear voice, Impressive speech, Convincing buyer or seller, Sweet language, Speaking with one's hands.
 
 *Spells of Issaries - Merchant:* Blessing a market, Creating a win-win bond, Appraising a currency, Spotting a thief, Locking a box, Recognizing a magic object.
-
 *Spells of Gultha Languedor - Travel:* Covering one's tracks, Detecting an ambush, Finding an alternate route, Finding a path, Protection during sleep.
 
 *Spells of Gultha Languedor - Communication:* Making oneself understood, Friendly greetings.
@@ -1197,7 +1194,6 @@ ____
 *Educated, mischievous and lively, Fazia is the daughter of Hamar, an antique dealer of the Old Town. A bit of a thief on the side, she hides her belonging to the Grand Mystery — punished by the cutting off of the hand and banishment under Pavisite law, and Lunar too — but for how long?*
 
 *Origins:* Pavisite, Scholar rogue in her spare time.
-
 *Standard of living & Equipment:* Standard — books and scholar's effects, burglar's tools (hooks, rope, pliers).
 
 *Worldview:* Theism (Initiate of the Grand Mystery, cult of the thieves of Pavis)
