@@ -6,7 +6,7 @@ Voici un exemple concret de détermination des mises pour une opposition dans **
 
 ### Le Contexte de la Scène
 
-**Kallyr**, une jeune cheffe de clan Orlanthi (cadre de pensée : Théiste), s'introduit dans le sanctuaire souterrain du temple de la Terre. Elle fait face à **Yanela**, la Grande Prêtresse d'Ernalda (l'obstacle).
+**Kallyr**, une jeune cheffe de clan Orlanthi (vision du monde : Théiste), s'introduit dans le sanctuaire souterrain du temple de la Terre. Elle fait face à **Yanela**, la Grande Prêtresse d'Ernalda (l'obstacle).
 **La situation :** Kallyr veut convaincre Yanela de lui confier le *Bâton Tremble-Terre*, une relique sacrée, car une patrouille de l'Empire Lunaire s'approche de leur village. Yanela, ancrée dans la tradition, refuse de voir la relique quitter le sanctuaire.
 
 ### 1. Le Choix du Focus (Ce qui est important à ce moment-là)
