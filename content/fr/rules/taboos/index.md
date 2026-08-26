@@ -33,7 +33,7 @@ La règle est simple: *pas de puissance sans lien, pas de lien sans prix.* Chaqu
 
 Plus la puissance est grande, plus le lien doit être contraignant — sinon le pouvoir s'effondre, ou pire, se retourne contre son détenteur.
 
-## Les sources par cadre de pensée
+## Les sources par vision du monde
 
 ### Le Théisme: les geis de culte
 
