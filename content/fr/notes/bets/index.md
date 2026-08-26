@@ -6,11 +6,11 @@ title: "Réflexions sur les camps et les mises"
 
 ### Camp hybride
 
-Un camp peut être construit à partir de plusieurs cadres de pensée. 
+Un camp peut être construit à partir de plusieurs visions du monde. 
 
-C’est le cas quand l'opposition comporte plusieurs personnages ayant des cadres de pensée différents. 
+C’est le cas quand l'opposition comporte plusieurs personnages ayant des visions du monde différentes. 
 
-Pour un personnage, qui aurait intégré plusieurs cadres de pensée, selon la stratégie choisie, on choisira tel ou tel cadre de pensée plutôt qu'un camp hybride même si ça reste possible.
+Pour un personnage, qui aurait intégré plusieurs visions du monde, selon la stratégie choisie, on choisira telle ou telle vision du monde plutôt qu'un camp hybride même si ça reste possible.
 
 ### Plus de deux camps?
 
