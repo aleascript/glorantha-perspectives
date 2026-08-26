@@ -8,6 +8,8 @@ Notes diverses sur l'univers-jeu de Glorantha.
 
 Quelques réflexions sur les règles également.
 
+[Le Prisme n'est pas un masque](lived-worldviews)
+
 [Plusieurs visions du monde pour un même personnage?](multiple-referentials)
 
 [Dépasser les visions du monde?](new-referentials)
