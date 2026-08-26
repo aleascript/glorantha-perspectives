@@ -8,7 +8,7 @@ Miscellaneous notes on the Glorantha game world.
 
 Some thoughts on the rules as well.
 
-[Multiple worldviews for the same character?](multiple-referentials)
+[A worldview is not a mask](lived-worldviews)
 
 [Going beyond worldviews?](new-referentials)
 

@@ -33,7 +33,6 @@ permalink: /llms.txt
 ## Optional
 
 - [Notes](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/): Notes diverses sur Glorantha
-- [Plusieurs visions du monde](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/multiple-referentials/): Syncretismes entre visions du monde
 - [Nouvelles visions du monde](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/new-referentials/): Créer une nouvelle vision du monde
 - [De l'inspiration](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/inspiration/): Sources d'inspiration pour Glorantha
 - [Statistiques](https://aleascript.github.io/glorantha-perspectives/content/fr/notes/stats/): Stats des règles

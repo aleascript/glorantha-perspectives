@@ -8,7 +8,7 @@ Notes diverses sur l'univers-jeu de Glorantha.
 
 Quelques réflexions sur les règles également.
 
-[Plusieurs visions du monde pour un même personnage?](multiple-referentials)
+[Une vision du monde n'est pas un masque](lived-worldviews)
 
 [Dépasser les visions du monde?](new-referentials)
 
