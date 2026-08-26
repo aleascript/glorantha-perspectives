@@ -8,9 +8,9 @@ Notes diverses sur l'univers-jeu de Glorantha.
 
 Quelques réflexions sur les règles également.
 
-[Plusieurs cadres de pensée pour un même personnage?](multiple-referentials)
+[Plusieurs visions du monde pour un même personnage?](multiple-referentials)
 
-[Dépasser les cadres?](new-referentials)
+[Dépasser les visions du monde?](new-referentials)
 
 [De l'inspiration dans un cadre comme Glorantha?](inspiration)
 
