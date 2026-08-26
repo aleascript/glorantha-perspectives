@@ -2,7 +2,7 @@
 :subtitle: Diegetic rules for playing in Glorantha
 aleascript@proton.me
 :revnumber: 0.4
-:revdate: 2026-08-15
+:revdate: 2026-08-26
 :doctype: book
 //:sectnums:
 :toc:
@@ -68,6 +68,14 @@ To these worldviews is added a 5th particularly complex worldview: _Dragons and 
 
 These worldviews are fundamental: they are what allow characters to position themselves in relation to the world and to place bets when facing a conflict or an obstacle. It is then the narration that defines what concretely comes into play in the resolution of the action.
 
+In *Glorantha Perspectives*, this worldview is the character's *Prism*: their *lived ontology*, the deep and spontaneous way in which they think the world works. A Prism is therefore neither a profession, nor an intellectual method, nor a mask chosen according to the situation.
+
+A character may learn the knowledge and practices of another tradition without changing Prism. A Grey Sage may study a Malkioni grimoire; a Pol-Joni may perform Praxian rites; a Malkioni may learn the sequence of an Orlanthi rite. Such knowledge, texts, objects, methods, or rituals can provide *Bets* when relevant, but they do not by themselves change the character's worldview. *The Prism does not describe what you do. It describes the world in which you think you are doing it.*
+
+Thus scholarship does not imply Logic: Grey Sages of Lhankor Mhy, astrologers of Buserian, and scholars of Irripi Ontor normally remain Theists. The Pol-Joni normally remain Theists despite adapting to animist practices in Prax. Conversely, the Malkioni and Mostali normally belong to Logic because it expresses their conception of the Cosmos, not because they are more learned or rational.
+
+Actually changing worldview must therefore correspond to a major ontological transformation in the fiction; learning a skill, a text, or a foreign ritual is not enough.
+
 === D. The social contract as a backbone
 
 "Many things are settled by the social contract." This stylistic clause deserves to be made explicit, for it distinguishes this system from "all-rules" games (like D&D or Pathfinder) where the GM is a strict technical arbiter. Here, Destiny is the guarantor of the myth, not of the regulations.
@@ -88,7 +96,7 @@ Players create detailed protagonists, rooted in the world. The character sheet i
 
 - *Identity:* Name, Age, and a *Quote / Signature line*. This line summarizes the character's philosophy and gives the player an immediate _roleplay_ hook.
 - *Origins & Community:* Lone wolves do not exist (or barely survive) in Glorantha. The character must define their Culture (Sartarite, Tarshite, Esrolian, Uz, etc.) and their precise Community (Clan, Tribe, City, Regiment).
-- *Worldview:* The way the character apprehends the world (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School).
+- *Worldview (Prism):* The character's lived ontology, the way they think the world works (Animism, Theism, Logic, Mysticism, Draconic). One associates with it their spiritual allegiance (e.g., Initiate of Ernalda, Shaman of the Great Deer Spirit, Sorcerer of the Rokari School). Knowledge or practices borrowed from other traditions are sources of Bets, not automatic changes of Prism.
 - *The Runes (Affinities and Character):* Characters are generally defined by 2 or 3 runes (Elements and Powers). In Glorantha, runes are not merely magic, *they dictate character*.
     - _Example:_ A character linked to the Air rune image:rules/runes/elements/air.png[width=18] could be proud, passionate, impulsive, even violent. A character linked to the Illusion rune image:rules/runes/pouvoirs/illusion.png[width=18] could be secretive, manipulative or mischievous. These character traits can serve as bets (for or against the character) in a conflict.
 - *Keywords and Traits:* A free list of talents, flaws, fetish objects or physical peculiarities (e.g., _Lynx eye, Fear of horses, Family bronze axe, Political eloquence_).
@@ -132,7 +140,7 @@ _In play: During a conflict to galvanize his troops, Varmand can bring into play
 ____
 *Name:* Centurion Phargos
 
-*Worldview:* Logic (Martial philosophy of the Empire).
+*Worldview:* Theism (Lunar).
 
 *Objective:* Maintain order and collect taxes.
 
@@ -328,7 +336,9 @@ ____
 
 image::rules/runes/mondes/logic.png[width=100]
 
-*Philosophy:* A logician has a "scientific" and rational vision of the world: cause and effect, ingredients and recipe. Their God is invisible and does not manifest; one approaches it only through study, quantification and reason.
+*Philosophy:* A Logician inhabits a world made intelligible by Law, structure, cause, and effect. Among the Malkioni, the Invisible God does not manifest: one approaches it through study, quantification, and reason. The Mostali also normally belong to this Prism through their ordered and intelligible conception of the Cosmos.
+
+Logic is therefore not the Prism of scholars or rational minds. A Grey Sage of Lhankor Mhy, an astrologer of Buserian, or a scholar of Irripi Ontor may calculate, classify, and reason while remaining a Theist: they still interpret their results in a world of Gods, Runes, and sacred powers.
 
 Derogatory names given by the other cultures: sorcery, sorcerers, materialists, vampires.
 
@@ -1032,7 +1042,7 @@ ____
 
 *Standard of living & Equipment:* Standard — poisoned dagger, travel gear, books and writing material, horse.
 
-*Worldview:* Logic (Pelorian of the Celestial Pantheon; Imperial Shadow, Diplomatica Scriptoriae grimoire)
+*Worldview:* Theism (Pelorian of the Celestial Pantheon; Imperial Shadow)
 
 *Runes:*
 
