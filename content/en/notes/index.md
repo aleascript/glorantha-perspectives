@@ -8,7 +8,7 @@ Miscellaneous notes on the Glorantha game world.
 
 Some thoughts on the rules as well.
 
-[The Prism is not a mask](lived-worldviews)
+[A worldview is not a mask](lived-worldviews)
 
 [Multiple worldviews for the same character?](multiple-referentials)
 
