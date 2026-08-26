@@ -8,9 +8,9 @@ Miscellaneous notes on the Glorantha game world.
 
 Some thoughts on the rules as well.
 
-[Multiple frameworks of thought for the same character?](multiple-referentials)
+[Multiple worldviews for the same character?](multiple-referentials)
 
-[Going beyond frameworks?](new-referentials)
+[Going beyond worldviews?](new-referentials)
 
 [Finding inspiration in a setting like Glorantha?](inspiration)
 
