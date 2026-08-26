@@ -33,7 +33,7 @@ _Par exemple, quand un initié d'Orlanth charge au combat, il mise plutôt sur l
 - Pour les vétérans d'HeroQuest (HQ) : l'approche est strictement la même, mais expurgée de toute statistique et de tout chiffre.
 - Pour les puristes de RuneQuest (RQ) : ce système propose un glissement assumé du simulationnisme vers le narrativisme. Pour autant, le moteur de résolution se veut à sa manière être à même de simuler n'importe quelle opposition.
 
-Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde de Glorantha doit être vu par des prismes très différents. Il garantit ainsi une cohérence forte entre les mécaniques de jeu utilisées et le cadre de pensée spécifique des personnages.
+Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde de Glorantha peut être appréhendé à travers des visions du monde très différentes. Il garantit ainsi une cohérence forte entre les mécaniques de jeu utilisées et la vision du monde spécifique des personnages.
 
 Attention, ces règles ne remplacent aucunement vos lectures et réflexions sur ce monde, basées sur la somme colossale qui a déjà été écrite à son sujet.
 
@@ -55,18 +55,18 @@ Pour harmoniser les attentes d'un groupe de joueurs et présenter rapidement l'u
 - La monnaie est utilisée pour les échanges, mais elle demeure rare et réservée aux marchands ou à certaines professions aventureuses. Dans la vie de tous les jours, c'est le troc et la petite monnaie qui sont de mise.
 - La magie de soins repousse la mort et accélère une guérison. Cependant, elle ne fait pas repousser les membres amputés.
 
-=== C. Les grands cadres de pensée
+=== C. Les grandes visions du monde
 
-Dans l'univers de Glorantha, la façon d'appréhender la réalité modifie la réalité elle-même. Conformément au mono-mythe Jrusteli, il existe quatre grands cadres de pensée :
+Dans l'univers de Glorantha, la façon d'appréhender la réalité modifie la réalité elle-même. Conformément au mono-mythe Jrusteli, il existe quatre grandes visions du monde :
 
 - image:rules/runes/mondes/spirits.png[width=25] _L'animisme_.
 - image:rules/runes/mondes/gods.png[width=25] _Le théisme_.
 - image:rules/runes/mondes/logic.png[width=25] _La logique du Dieu Invisible_.
 - image:rules/runes/mondes/void.png[width=25] _Le mysticisme_.
 
-À ces visions du monde s'ajoute un 5ème cadre de pensée particulièrement complexe : _les Dragons et les Dragonewts_.
+À ces visions du monde s'ajoute une 5ème vision du monde particulièrement complexe : _les Dragons et les Dragonewts_.
 
-Ces cadres de pensée sont fondamentaux : ce sont eux qui permettent aux personnages de se positionner par rapport au monde et de poser des mises lorsqu'ils sont face à un conflit ou un obstacle. C'est ensuite la narration qui définit ce qui va concrètement rentrer en jeu dans la résolution de l'action.
+Ces visions du monde sont fondamentales : ce sont elles qui permettent aux personnages de se positionner par rapport au monde et de poser des mises lorsqu'ils sont face à un conflit ou un obstacle. C'est ensuite la narration qui définit ce qui va concrètement rentrer en jeu dans la résolution de l'action.
 
 === D. Le contrat social comme colonne vertébrale
 
@@ -88,7 +88,7 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 
 - *Identité :* Nom, Âge, et une *Citation / Phrase type*. Cette phrase résume la philosophie du personnage et donne une accroche de _roleplay_ immédiate au joueur.
 - *Origines & Communauté :* Les loups solitaires n'existent pas (ou survivent peu) dans Glorantha. Le personnage doit définir sa Culture (Sartarite, Tarshite, Esrolien, Uz, etc.) et sa Communauté précise (Clan, Tribu, Cité, Régiment).
-- *Cadre de Pensée :* C'est le prisme à travers lequel le personnage voit le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École Rokari).
+- *Vision du monde :* C'est la manière dont le personnage appréhende le monde (Animisme, Théisme, Logique, Mysticisme, Draconique). On y associe son appartenance spirituelle (ex: Initié d'Ernalda, Chaman de l'Esprit du Grand Cerf, Sorcier de l'École Rokari).
 - *Les Runes (Affinités et Caractère) :* Les personnages sont généralement définis par 2 ou 3 runes (Éléments et Pouvoirs). Dans Glorantha, les runes ne sont pas que de la magie, *elles dictent le caractère*.
     - _Exemple :_ Un personnage lié à la rune de l'Air image:rules/runes/elements/air.png[width=18] pourrait être fier, passionné, impulsif, voire violent. Un personnage lié à la rune de l'Illusion image:rules/runes/pouvoirs/illusion.png[width=18] pourrait être secret, manipulateur ou facétieux. Ces traits de caractère peuvent servir de mises (pour ou contre le personnage) dans un conflit.
 - *Mots-clés et Traits :* Une liste libre de talents, de défauts, d'objets fétiches ou de particularités physiques (ex: _Œil de lynx, Peur des chevaux, Hache de famille en bronze, Éloquence politique_).
@@ -97,7 +97,7 @@ Les joueurs créent des protagonistes détaillés, ancrés dans le monde. La fic
 
 === B. Les Personnages Non-Joueurs (PNJ)
 
-La Destinée (le meneur/narrateur) n'a pas besoin de ce niveau de détail pour faire vivre le monde. Les PNJ peuvent être créés à la volée, de manière très légère. Un cadre de pensée, un objectif, et un ou deux mots-clés suffisent pour générer leurs mises.
+La Destinée (le meneur/narrateur) n'a pas besoin de ce niveau de détail pour faire vivre le monde. Les PNJ peuvent être créés à la volée, de manière très légère. Une vision du monde, un objectif, et un ou deux mots-clés suffisent pour générer leurs mises.
 
 L'Arche d'Anaxial ou les suppléments HeroQuest sont des bases solides pour avoir des listes de mots clés déjà près.
 
@@ -112,7 +112,7 @@ ____
 
 *Origines :* Culture Sartarite, Clan des Pommiers.
 
-*Cadre de pensée :* Théiste (Initié d'Orlanth Aventureux)
+*Vision du monde :* Théiste (Initié d'Orlanth Aventureux)
 
 *Runes :*
 
@@ -132,7 +132,7 @@ _En jeu : Lors d'un conflit pour galvaniser ses troupes, Varmand pourra mettre e
 ____
 *Nom :* Centurion Phargos
 
-*Cadre de pensée :* Logique (Philosophie martiale de l'Empire).
+*Vision du monde :* Logique (Philosophie martiale de l'Empire).
 
 *Objectif :* Maintenir l'ordre et faire payer les taxes.
 
@@ -197,9 +197,9 @@ Pour équilibrer les difficultés narratives au fil de la partie (en groupe ou e
 
 === D. Les Obstacles Abstraits
 
-Comment résoudre un tirage face à un obstacle non rattaché à un cadre de pensée (escalader une montagne, résister au climat) ? Deux options s'offrent à vous :
+Comment résoudre un tirage face à un obstacle non rattaché à une vision du monde (escalader une montagne, résister au climat) ? Deux options s'offrent à vous :
 
-- *Le mode Miroir :* L'obstacle est résolu avec le même cadre de pensée que le protagoniste (ex: les règles du mysticisme pour un mystique). C'est le cadre recommandé quand l'enjeu représente un véritable dépassement de soi.
+- *Le mode Miroir :* L'obstacle est résolu avec la même vision du monde que le protagoniste (ex: les règles du mysticisme pour un mystique). C'est le cadre recommandé quand l'enjeu représente un véritable dépassement de soi.
 - *Le mode Agnostique (Le monde médian) :* Les pairs (2, 4, 6) sont des réussites et les impairs (1, 3, 5) sont des échecs, sans aucune autre règle d'ajustement. Ce cadre est utilisé lorsque l'enjeu est mineur et n'implique pas le personnage émotionnellement.
 
 === E. Le Zoom de Résolution : Action, Séquence ou Script
@@ -222,7 +222,7 @@ L'opposition se fait alors face au nombre de clés à découvrir.
 
 === G. Résolution, Interprétation et Rétributions
 
-Chaque camp effectue son tirage de dés selon les règles spécifiques de son Cadre de Pensée (Théisme, Animisme, Logique, Mysticisme). Celui qui obtient le plus de réussites remporte le conflit.
+Chaque camp effectue son tirage de dés selon les règles spécifiques de sa vision du monde (Théisme, Animisme, Logique, Mysticisme). Celui qui obtient le plus de réussites remporte le conflit.
 
 *Graduation du Résultat :*
 
@@ -263,7 +263,7 @@ Voici des degrés d'avertissement narratifs que la Destinée peut employer :
 
 Face à cet avertissement, le joueur a le droit d'opter pour un *recul stratégique*. Il peut modifier son objectif diégétique en conséquence (ex : "Je ne cherche plus à tuer le général lunaire, mais simplement à le retarder pour que mes alliés puissent fuir"). 
 
-== IV. Les Cadres de Pensée
+== IV. Les Visions du monde
 
 Dans Glorantha, la magie n'est pas une simple liste de sorts, c'est une façon de voir le monde et d'interagir avec lui. Tout est magique en quelque sorte. La magie c'est la façon de voir le monde. La mécanique de résolution s'adapte donc à la philosophie du personnage.
 
@@ -407,7 +407,7 @@ image::rules/runes/elements/lune.png[width=100]
 
 La magie lunaire est soumise au cycle lunaire lorsqu'elle est pratiquée en dehors de la ligne brillante. À l'intérieur de cette frontière qui encercle l'Empire Lunaire, la lune est toujours pleine et la magie n'est donc pas soumise à ces fluctuations.
 
-En dehors des phases de Pleine Lune et de Nouvelle Lune, les règles normales de résolution s'appliquent pour tous les cadres de pensée.
+En dehors des phases de Pleine Lune et de Nouvelle Lune, les règles normales de résolution s'appliquent pour toutes les visions du monde.
 
 _Note : Les adeptes du Mysticisme et de la Pensée Draconique ne sont jamais concernés par ces règles ; pour eux, les cycles lunaires ne sont qu'une réalité illusoire à dépasser_.
 
@@ -423,9 +423,9 @@ Lors de cette phase, on assiste à une incursion du mysticisme dans les autres m
 
 Cette phase représente le creux de la puissance magique pour les mortels soumis aux cycles.
 
-- *Logique :* Le cadre de pensée bascule en mode affaibli.
-- *Théisme :* Le cadre de pensée bascule en mode affaibli.
-- *Animisme :* Le cadre de pensée bascule en mode affaibli.
+- *Logique :* La vision du monde bascule en mode affaibli.
+- *Théisme :* La vision du monde bascule en mode affaibli.
+- *Animisme :* La vision du monde bascule en mode affaibli.
 
 === G. L'Illumination : S'affranchir de la Toile
 
@@ -435,16 +435,16 @@ Dans Glorantha, l'Illumination est une réalisation foudroyante, souvent initié
 
 L'Illumination ne s'acquiert pas par des points d'expérience ou à la création du personnage. Elle survient en cours de jeu, lors d'un moment de crise où le personnage décide de transgresser sa propre nature.
 
-Lors d'une résolution de conflit, un joueur utilisant un cadre de pensée classique (Théisme, Animisme ou Logique) peut décider de "jouer ses 1".
+Lors d'une résolution de conflit, un joueur utilisant une vision du monde classique (Théisme, Animisme ou Logique) peut décider de "jouer ses 1".
 
 En faisant ce choix conscient, le joueur déclare que son personnage s'affranchit des limites de sa foi ou de sa science. Il perçoit l'illusion de la victoire adverse.
 
-- *L'Effet Immédiat (L'Annihilation) :* À l'instar des règles du cadre de pensée Mystique, les « 1 » tirés par le joueur font disparaître les « 6 » du camp adverse, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
+- *L'Effet Immédiat (L'Annihilation) :* À l'instar des règles de la vision du monde mystique, les « 1 » tirés par le joueur font disparaître les « 6 » du camp adverse, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
 - *La Révélation :* Dès cet instant, le personnage est définitivement Illuminé.
 
 *Les Cas d'École : L'Étincelle et l'Illumination*
 
-Avant l'Illumination, les Lunaires parlent de l'Étincelle. C'est une façon de percevoir l'Illumination, de l'entrevoir, sans pour autant que celle-ci soit totalement intégrée et change de manière radicale le cadre de pensée de celui ou celle qui la vit.
+Avant l'Illumination, les Lunaires parlent de l'Étincelle. C'est une façon de percevoir l'Illumination, de l'entrevoir, sans pour autant que celle-ci soit totalement intégrée et change de manière radicale la vision du monde de celui ou celle qui la vit.
 
 L'Illumination peut émerger naturellement dans une configuration de dés très spécifique. L'idée sous-jacente, c'est que l'autre camp comprend (voire se met à jouer les 1 de manière mystique) pour remporter la victoire ou arriver à égalité. Deux cas d'école se dégagent, correspondant chacun à un état différent : l'Étincelle et l'Illumination.
 
@@ -468,7 +468,7 @@ ____
 
 Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. Il bénéficie d'une liberté nouvelle, mais en paie le prix fort.
 
-- *L'Héritage du Cadre :* Le personnage ne change pas de cadre de pensée. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
+- *L'Héritage du Cadre :* Le personnage ne change pas de vision du monde. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
 - *La Perméabilité aux Contradictions :* Le personnage n'est plus bridé par les contradictions de son culte. Il peut, sur le plan narratif, allier des forces opposées (utiliser une magie de Stase et de Mouvement simultanément) sans en subir les chocs en retour habituels, car il a compris qu'elles ne font qu'un.
 - *La Tare de l'Hérétique :* L'Illumination a une odeur. Les êtres fanatiques, dogmatiques ou liés à des principes absolus (comme les initiés du Taureau Tempête, les inquisiteurs ou les esprits très anciens) ressentent intuitivement cette absence de limites morales et cosmiques. Pour eux, l'Illuminé dégage une aura contre-nature, souvent assimilée au Chaos lui-même. Le personnage gagne un trait négatif permanent tel que _Hérétique_, _Abomination aux yeux des fanatiques_, ou _Aura de Nysalor_, qui servira systématiquement de mise contre lui lors de conflits sociaux ou spirituels avec ces factions.
 
@@ -613,7 +613,7 @@ Une Quête Héroïque ne consiste pas simplement à accomplir un exploit physiqu
 
 - *Le Principe :* Il faut réussir à accéder à l'Autre Côté (l'Outremonde) puis réaliser les étapes successives d'un mythe.
 - *Enjeux et Synchronicité :* Une quête héroïque crée une synchronicité absolue entre le monde divin et le monde réel (dans les deux sens). Le système de résolution (les "mises") permet de déterminer narrativement le niveau de victoire de la quête et, surtout, de décrire les effets concrets et durables sur le monde réel.
-- *Le Prix à payer :* Le héros met très souvent en gage une de ses aptitudes avant de commencer la quête. S'il accède à l'Autre Côté, son cadre de pensée bascule en "Mode Héroïque", mais il affrontera des entités bénéficiant du même avantage.
+- *Le Prix à payer :* Le héros met très souvent en gage une de ses aptitudes avant de commencer la quête. S'il accède à l'Autre Côté, sa vision du monde bascule en "Mode Héroïque", mais il affrontera des entités bénéficiant du même avantage.
 - *Le Chemin du Mythe :* Les héros ont tout intérêt à suivre le chemin balisé du mythe, car celui-ci façonne et confirme la réalité telle qu'elle est. Mais il est possible de s'en écarter, à ses risques et périls : réussir une déviation permet de changer littéralement la réalité du monde réel !
 
 === B. Créer des Mythes (Outil pour la Destinée)
@@ -636,7 +636,7 @@ En tant que Destinée, vous serez amené à inventer des mythes pour alimenter v
 
 À l'instar des contes, les mythes gloranthiens sont souvent composés selon la règle de trois : trois épreuves, trois étapes, trois objets. Par exemple, c'est à la quatrième épreuve (celle des armes) qu'Orlanth tua l'Empereur Yelm, après avoir "échoué" aux trois premières (la danse, la magie, la musique).
 
-=== C. L'Ultime Quête : Découvrir un nouveau cadre de pensée
+=== C. L'Ultime Quête : Découvrir une nouvelle vision du monde
 
 Il est tout à fait possible d'imaginer une Quête Héroïque dont le but n'est pas de rejouer le passé, mais d'élaborer de tout nouveaux ajustements des règles du monde pour ceux qui détiendraient une Rune spécifique (comme ce fut le cas pour la Rune Lunaire ou l'Infini avec Ouroboros).
 
@@ -914,7 +914,7 @@ Bien que pensé pour le solo, le système brille également en groupe, à condit
 
 == VII. Annexes
 
-Cette annexe rassemble deux outils : un tableau comparatif du nombre moyen de réussites de chaque cadre de pensée, et une galerie de personnages joueurs complets pour s'inspirer ou jouer directement.
+Cette annexe rassemble deux outils : un tableau comparatif du nombre moyen de réussites de chaque vision du monde, et une galerie de personnages joueurs complets pour s'inspirer ou jouer directement.
 
 === A. Foire Aux Questions (FAQ)
 
@@ -946,7 +946,7 @@ La Destinée n'est pas un arbitre absolu, elle est la gardienne de la cohérence
 
 === B. Statistiques
 
-Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, selon le nombre de mises (de 1D à 10D) et le cadre de pensée utilisé.
+Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, selon le nombre de mises (de 1D à 10D) et la vision du monde utilisée.
 
 [cols="1,2,2,2,2,2", options="header"]
 |===
@@ -995,7 +995,7 @@ ____
 
 *Niveau de vie & Équipement :* Standard — hache à double tranchant, arc, armure de mercure (ne coule pas), cheval (pur-sang).
 
-*Cadre de pensée :* Théisme (Novice de Hwarin Dalthippa, Panthéon Céleste - Sylila)
+*Vision du monde :* Théisme (Novice de Hwarin Dalthippa, Panthéon Céleste - Sylila)
 
 *Runes :*
 
@@ -1035,7 +1035,7 @@ ____
 
 *Niveau de vie & Équipement :* Standard — dague empoisonnée, matériel de voyage, livres et de quoi écrire, cheval.
 
-*Cadre de pensée :* Logique (Pélorien du Panthéon Céleste ; Ombre Impériale, grimoire Diplomatica Scriptoriae)
+*Vision du monde :* Logique (Pélorien du Panthéon Céleste ; Ombre Impériale, grimoire Diplomatica Scriptoriae)
 
 *Runes :*
 
@@ -1073,7 +1073,7 @@ ____
 
 *Niveau de vie & Équipement :* Aisé — une mule, un cheval, des sacs, des articles à vendre, dague, bâton.
 
-*Cadre de pensée :* Théisme (Initié d'Issaries et de Gultha Languedor, Panthéon des Tempêtes sans Orlanth)
+*Vision du monde :* Théisme (Initié d'Issaries et de Gultha Languedor, Panthéon des Tempêtes sans Orlanth)
 
 *Runes :*
 
@@ -1113,7 +1113,7 @@ ____
 
 *Niveau de vie & Équipement :* Pauvre (relativement) — arc, lance, casque, fétiches.
 
-*Cadre de pensée :* Animisme (Tradition de Waha le Boucher, animisme praxien Waha & Eiritha)
+*Vision du monde :* Animisme (Tradition de Waha le Boucher, animisme praxien Waha & Eiritha)
 
 *Runes :*
 
@@ -1154,7 +1154,7 @@ ____
 
 *Niveau de vie & Équipement :* Standard — la bague de danger.
 
-*Cadre de pensée :* Théisme (Initié d'Urvairinus le Conquérant, Panthéon Céleste - Yelm)
+*Vision du monde :* Théisme (Initié d'Urvairinus le Conquérant, Panthéon Céleste - Yelm)
 
 *Runes :*
 
@@ -1193,7 +1193,7 @@ ____
 
 *Niveau de vie & Équipement :* Standard — livres et effets d'érudite, outillage de cambrioleuse (crochets, corde, pince).
 
-*Cadre de pensée :* Théisme (Initiée du Grand Mystère, culte des voleurs de Pavis)
+*Vision du monde :* Théisme (Initiée du Grand Mystère, culte des voleurs de Pavis)
 
 *Runes :*
 
@@ -1234,7 +1234,7 @@ ____
 
 *Niveau de vie & Équipement :* Pauvre — fétiches de plumes.
 
-*Cadre de pensée :* Animisme (Nageuse de l'Ombre, tradition des esprits durulz)
+*Vision du monde :* Animisme (Nageuse de l'Ombre, tradition des esprits durulz)
 
 *Runes :*
 
@@ -1274,7 +1274,7 @@ ____
 
 *Niveau de vie & Équipement :* Pauvre — outils de chantier et armes d'entraînement.
 
-*Cadre de pensée :* Théisme (Initié d'Orlanth, Panthéon des Tempêtes)
+*Vision du monde :* Théisme (Initié d'Orlanth, Panthéon des Tempêtes)
 
 *Runes :*
 
