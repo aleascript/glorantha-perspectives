@@ -10,8 +10,6 @@ Quelques réflexions sur les règles également.
 
 [Une vision du monde n'est pas un masque](lived-worldviews)
 
-[Plusieurs visions du monde pour un même personnage?](multiple-referentials)
-
 [Dépasser les visions du monde?](new-referentials)
 
 [De l'inspiration dans un cadre comme Glorantha?](inspiration)

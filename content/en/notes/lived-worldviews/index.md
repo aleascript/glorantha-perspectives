@@ -44,12 +44,12 @@ There is no need to choose the "best" worldview for a scene. The character resol
 | Culture or tradition | Usual worldview | What may vary without changing the worldview |
 | --- | --- | --- |
 | Sartarite / Heortling | Theism | Foreign knowledge, texts, and practices |
+| Kolati | Animism | Knowledge of the surrounding theist culture but inspired by wind spirits |
 | Grey Sage of Lhankor Mhy | Theism | Scholarly methods, foreign texts and grimoires |
+| Pol-Joni | Theism | Praxian rites and practices |
+| Traditional Praxian | Animism | Foreign cults and practices according to experience |
 | Astrologer of Buserian | Theism | Calculations, observations, and astronomical corpora |
 | Scholar of Irripi Ontor | Theism | Calculations, classifications, and foreign knowledge |
-| Pol-Joni | Theism | Praxian rites and practices |
-| Kolati | Animism | Knowledge of the surrounding theist culture |
-| Traditional Praxian | Animism | Foreign cults and practices according to experience |
 | Malkioni | Logic | Foreign practices learned without conversion |
 | Mostali | Logic | Techniques and interactions with other traditions |
 
@@ -65,4 +65,4 @@ Changing worldview does not mean deciding to look at the world differently for a
 
 **It means discovering that you can no longer look at it as you did before.**
 
-This Gloranthan conception is one of the origins of the more general notion of a **Prism** in *Resonance*. In *Glorantha Perspectives*, we deliberately keep the term **worldview**.
+This Gloranthan conception is one of the origins of the more general notion of a **Prism** in [*Resonance*](https://aleascript.github.io/resonance). In *Glorantha Perspectives*, we deliberately keep the term **worldview**.

@@ -44,12 +44,12 @@ Il n'y a pas à choisir la « meilleure » vision du monde pour la scène. Le pe
 | Culture ou tradition | Vision du monde habituelle | Ce qui peut varier sans changer la vision du monde |
 | --- | --- | --- |
 | Sartarite / Héortien | Théisme | Savoirs, textes et pratiques étrangères |
+| Kolati | Animisme | Connaissance de la culture théiste environnante |
 | Sage Gris de Lhankor Mhy | Théisme | Méthodes savantes, textes et grimoires étrangers |
+| Pol-Joni | Théisme | Rites et pratiques praxiens |
+| Praxien traditionnel | Animisme | Cultes et pratiques étrangères selon le parcours |
 | Astrologue de Buserian | Théisme | Calculs, observations et corpus astronomiques |
 | Érudit d'Irripi Ontor | Théisme | Calculs, classifications et savoirs exogènes |
-| Pol-Joni | Théisme | Rites et pratiques praxiens |
-| Kolati | Animisme | Connaissance de la culture théiste environnante |
-| Praxien traditionnel | Animisme | Cultes et pratiques étrangères selon le parcours |
 | Malkioni | Logique | Pratiques étrangères apprises sans conversion |
 | Mostali | Logique | Techniques et interactions avec d'autres traditions |
 
@@ -65,4 +65,4 @@ Changer de vision du monde, ce n'est pas décider de regarder momentanément le 
 
 **C'est découvrir qu'on ne peut plus le regarder comme avant.**
 
-Cette conception gloranthienne est l'une des origines de la notion plus générale de **Prisme** dans *Resonance*. Dans *Glorantha Perspectives*, nous conservons volontairement le terme **vision du monde**.
+Cette conception gloranthienne est l'une des origines de la notion plus générale de **Prisme** dans [*Resonance*](https://aleascript.github.io/resonance). Dans *Glorantha Perspectives*, nous conservons volontairement le terme **vision du monde**.

@@ -10,8 +10,6 @@ Some thoughts on the rules as well.
 
 [A worldview is not a mask](lived-worldviews)
 
-[Multiple worldviews for the same character?](multiple-referentials)
-
 [Going beyond worldviews?](new-referentials)
 
 [Finding inspiration in a setting like Glorantha?](inspiration)

@@ -1,7 +1,7 @@
 = Glorantha Perspectives
 :subtitle: Diegetic rules for playing in Glorantha
 aleascript@proton.me
-:revnumber: 0.4
+:revnumber: 0.5
 :revdate: 2026-08-26
 :doctype: book
 //:sectnums:
