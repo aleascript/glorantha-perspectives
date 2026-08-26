@@ -12,7 +12,7 @@ Une  résolution intervient pour déterminer  une bifurcation narrative. Elle n�
 
 L'idée sous jacente de la mécanique du jeu est d'offrir le cadre nécessaire et suffisant pour expérimenter une immersion gloranthienne. 
 
-Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde doit être vu par des prismes très différents et pour qu’il y ait cohérence entre les mécaniques de jeu et la vision du monde des personnages.
+Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde peut être appréhendé à travers des visions du monde très différentes et pour qu’il y ait cohérence entre les mécaniques de jeu et la vision du monde des personnages.
 
 Lorsque le destin est incertain et qu’on sent l’apparition d’une potentielle bifurcation narrative, on procède en trois étapes: 
 
