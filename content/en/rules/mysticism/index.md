@@ -25,7 +25,7 @@ title: "Mysticism: Illumination"
 
 **Comments**
 
-It is the only frame of thought that can act on the opponent's camp. And that is very unsettling, hence the underlying illumination.
+It is the only worldview that can act on the opponent's camp. And that is very unsettling, hence the underlying illumination.
 
 When a mystic faces adversity, they distinguish what is favorable or can act as a lever from what is unfavorable or must remain in the background. They also distinguish what can mutate and generate a transformation.
 
