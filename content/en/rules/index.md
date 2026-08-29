@@ -6,6 +6,8 @@ title: Rules
 
 Diegetic rules aligning gameplay and roleplay in the world of Glorantha.
 
+**Glorantha Perspectives was designed with [Resonance](https://aleascript.github.io/resonance).**
+
 > Glorantha Perspectives does not replace your reading and reflection on the world of Glorantha from the colossal body of work that has been written about this world.
 
 **You can get the rules in [PDF](../srd/glorantha-perspectives-en.pdf).**
@@ -38,5 +40,3 @@ And of course, since Glorantha is a complex world, we must also address the foll
 - [Runic inspiration](runes/inspiration)
 
 Several [game modes](games) are offered, but feel free to invent others if you wish.
-
-> <a id="note1"></a>*(1) The mechanism is quite similar to HeroWars, HeroQuest except that here it works in a more open manner since the bets are not necessarily hierarchized and quantified*
