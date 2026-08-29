@@ -10,7 +10,7 @@ aleascript@proton.me
 :toc-title: Table des matières
 :description: règles diégétiques pour jouer dans Glorantha
 :keywords: JdR, Solo
-:title-logo-image: image:rules/runes/pouvoirs/power-runes-circle.png[width=120]
+:title-logo-image: image:rules/runes/pouvoirs/power-runes-circle.png[width=240]
 :imagesdir: ../content/assets/
 
 image::../../assets/resonance-square.jpg[]
