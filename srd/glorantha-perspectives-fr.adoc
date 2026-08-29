@@ -120,6 +120,7 @@ ____
 *Nom :* Varmand "Briselance" (24 ans)
 
 *Citation :* _"La tempête ne demande pas la permission pour souffler !"_ 
+
 *Origines :* Culture Sartarite, Clan des Pommiers.
 
 *Vision du monde :* Théiste (Initié d'Orlanth Aventureux)
@@ -239,6 +240,7 @@ Chaque camp effectue son tirage de dés selon les règles spécifiques de sa vis
 - *Différence de 2 réussites ou plus :* L'action se solde par un Exploit (ou un Fiasco).
 - *Différence de 1 réussite :* L'action se solde par une Victoire/Succès (ou une Défaite/Échec).
 - *Égalité :* L'action aboutit à un Status-quo (ou Revers). S'il est impossible de rester sur un status quo narratif, chaque camp rajoute une mise supplémentaire symbolisant la surenchère, et l'on procède à un nouveau tirage.
+
 *Les Rétributions et l'Évolution :*
 
 Le système évite au maximum le méta-jeu : il n'y a pas de bonus ou de malus mécaniques de fin de partie. Les personnages évoluent de manière purement diégétique. C'est bel et bien la narration qui sert de moteur exclusif à l'évolution.
@@ -478,6 +480,7 @@ ____
 *Les Conséquences de l'Illumination*
 
 Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. Il bénéficie d'une liberté nouvelle, mais en paie le prix fort.
+
 - *L'Héritage du Cadre :* Le personnage ne change pas de vision du monde. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
 - *La Perméabilité aux Contradictions :* Le personnage n'est plus bridé par les contradictions de son culte. Il peut, sur le plan narratif, allier des forces opposées (utiliser une magie de Stase et de Mouvement simultanément) sans en subir les chocs en retour habituels, car il a compris qu'elles ne font qu'un.
 - *La Tare de l'Hérétique :* L'Illumination a une odeur. Les êtres fanatiques, dogmatiques ou liés à des principes absolus (comme les initiés du Taureau Tempête, les inquisiteurs ou les esprits très anciens) ressentent intuitivement cette absence de limites morales et cosmiques. Pour eux, l'Illuminé dégage une aura contre-nature, souvent assimilée au Chaos lui-même. Le personnage gagne un trait négatif permanent tel que _Hérétique_, _Abomination aux yeux des fanatiques_, ou _Aura de Nysalor_, qui servira systématiquement de mise contre lui lors de conflits sociaux ou spirituels avec ces factions.
@@ -957,6 +960,7 @@ La Destinée n'est pas un arbitre absolu, elle est la gardienne de la cohérence
 === B. Statistiques
 
 Le tableau ci-dessous donne le nombre moyen de réussites obtenu par tirage, selon le nombre de mises (de 1D à 10D) et la vision du monde utilisée.
+
 [cols="1,2,2,2,2,2", options="header"]
 |===
 | Nombre de mises | Théisme *(Pairs + relances des 6)* | Animisme *(Pairs + double impairs)* | Logique *(Somme / 5)* | Mysticisme / Utuma *(Pairs de base)* | Dragonewt (Wyrm) *(Stase de l'Œuf + Ouroboros)*
@@ -1076,6 +1080,7 @@ ____
 > Jaridan est un initié accompli de longue date. Il a donc suffisamment d'expérience pour tenter tel ou tel prodige tel qu'enseigné par Issaries ou Gultha.
 
 *Riche marchand qui a réussi et veut tenter de préserver son clan, sa famille des futurs troubles à venir. Sa femme, fils et filles gèrent son commerce en son absence. Entrepreneur dans l'âme également il espère pouvoir développer des débouchés en voyageant.*
+
 *Origines :* Tarshite (Thane), clan et famille de marchands.
 
 *Niveau de vie & Équipement :* Aisé — une mule, un cheval, des sacs, des articles à vendre, dague, bâton.
@@ -1195,6 +1200,7 @@ ____
 *Citation :* _"Voler un voleur, ce n'est pas du vol, non ?"_
 
 *Instruite, espiègle et vive, Fazia est la fille d'Hamar, un antiquaire de la Vieille Ville. Un peu voleuse sur les bords, elle cache son appartenance au Grand Mystère — punie de la main coupée et du bannissement par la loi pavisite, et lunaire aussi — mais jusqu'à quand ?*
+
 *Origines :* Pavisite, Érudite roublarde à ses heures.
 
 *Niveau de vie & Équipement :* Standard — livres et effets d'érudite, outillage de cambrioleuse (crochets, corde, pince).
