@@ -13,10 +13,10 @@ aleascript@proton.me
 :title-logo-image: image:rules/runes/pouvoirs/power-runes-circle.png[width=240]
 :imagesdir: ../content/assets/
 
-image::../../assets/resonance-square.jpg[link=https://aleascript.github.io/resonance]
-
+[.text-center]
 *Glorantha Perspectives* a été conçu avec link:https://aleascript.github.io/resonance[Resonance].
 
+image::../../assets/resonance-square.jpg[link=https://aleascript.github.io/resonance]
 image::../../assets/licence.png[]
 
 == I. Introduction & Note d'intention
