@@ -6,6 +6,8 @@ title: Rules
 
 Diegetic rules aligning gameplay and roleplay in the world of Glorantha.
 
+**Glorantha Perspectives was designed with [Resonance](https://aleascript.github.io/resonance).**
+
 > Glorantha Perspectives does not replace your reading and reflection on the world of Glorantha from the colossal body of work that has been written about this world.
 
 **You can get the rules in [PDF](../srd/glorantha-perspectives-en.pdf).**
