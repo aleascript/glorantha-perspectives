@@ -238,7 +238,7 @@ Chaque camp effectue son tirage de dés selon les règles spécifiques de sa vis
 *Graduation du Résultat :*
 
 - *Nombre de réussites strictement supérieur à 1 et à la moitié des réussites de l'autre camp:* L'action se solde par un Exploit (ou un Fiasco).
-- *Différence de 1 réussite :* L'action se solde par une Victoire/Succès (ou une Défaite/Échec).
+- *Différence supérieure ou égale à 1 et inférieure ou égale à la moitié des réussites de l'autre camp :* L'action se solde par une Victoire/Succès (ou une Défaite/Échec).
 - *Égalité :* L'action aboutit à un Status-quo (ou Revers). S'il est impossible de rester sur un status quo narratif, chaque camp rajoute une mise supplémentaire symbolisant la surenchère, et l'on procède à un nouveau tirage.
 
 *Les Rétributions et l'Évolution :*

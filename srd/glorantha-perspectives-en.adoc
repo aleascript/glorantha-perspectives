@@ -237,7 +237,7 @@ Each camp makes its dice draw according to the specific rules of its Worldview (
 *Graduation of the Result:*
 
 - *Number of successes strictly greater than 1 and than half the successes of the other camp:* The action ends in a Feat (or a Fiasco).
-- *Difference of 1 success:* The action ends in a Victory/Success (or a Defeat/Failure).
+- *Difference between 1 and half the successes of the other camp :* The action ends in a Victory/Success (or a Defeat/Failure).
 - *Tie:* The action ends in a Status quo (or Reversal). If it is impossible to remain on a narrative status quo, each camp adds one additional bet symbolizing the escalation, and a new draw is made.
 
 *The Retributions and Evolution:*

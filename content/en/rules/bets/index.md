@@ -132,7 +132,7 @@ And the hero's death? That is up to you. It is too important a subject for chanc
 If you want, you can use the following interpretive grid:
 
 - Fiasco / Feat when the number of successes is strictly greater than 1 and than half the successes of the other camp.
-- Victory, Success / Defeat, Failure when the difference between the camps equals 1.
+- Victory, Success / Defeat, Failure when the difference is between 1 and half the successes of the other camp.
 - Status quo, Reversal in case of a tie
 
 ### Retributions and Evolution
