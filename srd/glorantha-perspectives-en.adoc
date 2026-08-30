@@ -248,20 +248,7 @@ The system avoids meta-game as much as possible: there are no mechanical bonuses
 
 *When does one evolve?* This evolution does not occur at the end of a scenario. It happens organically during a Fiasco or a Feat (which translate into a difference of 2 successes or more in a draw), or simply when the story demands it.
 
-=== H. Draws without Opposition: Measuring the Scale
-
-Since the system is entirely narrative, it happens that the purpose of a draw is not to obtain a victory against a direct adversity. Sometimes, the point is simply to evaluate the scale of an action to measure its level of success or its level of failure.
-
-- *Measuring failure:* This case is ideal in a "linear scenario" (a structure common in old-school adventures) where the final failure is in any case inevitable. The draw then determines the severity of the fall and its consequences.
-- *Measuring success:* Perfect when it comes to quantifying the power of meticulous preparation, such as the execution of a complex ritual to enter the Hero Plane.
-
-*The Resolution:*
-
-In these specific cases, the active camp gathers its bets and makes a standard draw, but without any opposing adversity. It then suffices to know the total number of successes obtained and to interpret it according to the dramatic situation at hand.
-
-Getting no success in this type of draw must be interpreted as a real problem for the players, plunging the narrative immediately into crisis.
-
-=== I. Managing Lethality
+=== H. Managing Lethality
 
 Although the system moves away from simulationism, you should decide at your table whether or not to keep the historical lethality of RuneQuest. In any case, to preserve immersion while avoiding the frustration of a "stupid death" on a bad draw, Destiny must always warn the player in case of lethal risk.
 

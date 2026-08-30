@@ -149,16 +149,3 @@ Le système évite au maximum le méta-jeu : il n’y a pas de bonus ou de malus
 **Comment évolue-t-on ?** L'évolution passe par la dynamique des mots-clés du personnage : l'ajout de nouveaux mots-clés, la suppression de traits obsolètes, ou la modification d'éléments existants. À cela s'ajoutent les rétributions accordées par la Destinée, telles que de nouveaux liens, des attaches, des cadeaux, un nouveau pouvoir ou une prise de conscience.
 
 **Quand évolue-t-on ?** Cette évolution ne survient pas à la fin d'un scénario. Elle intervient de manière organique lors d'un Fiasco ou d'un Exploit (qui se traduisent par une différence de 2 réussites ou plus lors d'un tirage), ou tout simplement quand l'histoire l'exige.
-
-### Les tirages sans opposition : mesurer l'ampleur
-
-Puisque le système est intégralement narratif, il arrive que le but d'un tirage ne soit pas d'obtenir une victoire face à une adversité directe. Parfois, l'enjeu est simplement d'évaluer l'envergure d'une action pour en mesurer le niveau de réussite ou le niveau d'échec.
-
-- **Mesurer l'échec :** Ce cas est idéal dans un "scénario toboggan" (une structure fréquente dans les aventures old school) où l'échec final est de toute façon inéluctable. Le tirage détermine alors la gravité de la chute et ses conséquences.
-- **Mesurer la réussite :** Parfait lorsqu'il s'agit de quantifier la puissance d'une préparation minutieuse, comme l'exécution d'un rituel complexe pour pénétrer dans le plan des héros.
-
-**La Résolution :**
-
-Dans ces cas précis, le camp actif rassemble ses mises et effectue un tirage standard, mais sans aucune opposition adverse. Il suffit alors de connaître le nombre total de réussites obtenues et de l'interpréter selon la situation dramatique en cours.
-
-N'obtenir aucune réussite lors de ce type de tirage doit être interprété comme un réel problème pour les joueurs, plongeant immédiatement le récit dans la crise.
