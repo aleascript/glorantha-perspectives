@@ -138,7 +138,7 @@ Et la mort du héros? C’est vous qui voyez. C’est un sujet trop important po
 
 Si l’on veut, on peut s’aider de la grille de lecture suivante:
 
-- Fiasco / Exploit quand la différence entre les camps est supérieure ou égale a 2
+- Fiasco / Exploit quand la différence entre les camps est supérieure strictement à 1 et à la moitié des réussites de l'autre camp.
 - Victoire, Succès / Défaite, Échec quand la différence entre les camps est égale à 1.
 - Status-quo, Revers en cas d'égalité
 
