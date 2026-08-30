@@ -2,7 +2,7 @@
 :subtitle: Diegetic rules for playing in Glorantha
 aleascript@proton.me
 :revnumber: 0.6
-:revdate: 2026-08-26
+:revdate: 2026-08-30
 :doctype: book
 //:sectnums:
 :toc:
