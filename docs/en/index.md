@@ -6,6 +6,8 @@ slug: /
 
 # Glorantha Perspectives
 
+> *In tribute to Greg Stafford, the Great Shaman who first pierced the Veil to reveal the Hero Plane to us. May his spirit dance forever in God Time, and may his visions continue to inspire our own myths.*
+
 **Discover Glorantha through the eyes of those who inhabit it.**
 
 Glorantha Perspectives is a roleplaying game where what is true in the world directly matters when the outcome of a situation becomes uncertain. Beliefs, bonds, injuries, places, oaths, gods, and the habits of a people are not merely background: they can weigh on what happens.
