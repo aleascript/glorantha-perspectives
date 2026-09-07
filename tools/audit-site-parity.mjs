@@ -10,6 +10,11 @@ const narrativeSlugs = new Map([
   ['les-heritiers-de-zola-fel', 'heirs-of-zola-fel'],
 ]);
 
+const reorganizedPages = new Map([
+  ['rules/games/index.md', 'start/play-modes.md'],
+  ['rules/heroquests/myths/index.md', 'facilitating/creating-myths/index.md'],
+]);
+
 async function exists(target) {
   try {
     await fs.access(target);
@@ -32,6 +37,7 @@ async function walk(dir) {
 function legacyTarget(locale, source) {
   const rel = path.relative(path.join(root, 'content', locale), source).split(path.sep).join('/');
   if (rel === 'index.md') return `docs/${locale}/index.md`;
+  if (reorganizedPages.has(rel)) return `docs/${locale}/${reorganizedPages.get(rel)}`;
   if (rel.startsWith('notes/')) return `docs/${locale}/${rel}`;
   if (rel.startsWith('rules/')) return `docs/${locale}/${rel}`;
   if (rel.startsWith('stories/')) {
@@ -90,5 +96,5 @@ if (missingImages.length) {
 }
 
 if (missing.length || badAssetRefs.length || missingImages.length) process.exit(1);
-console.log('Legacy Markdown pages all have docs targets.');
+console.log('Legacy Markdown pages all have docs targets, including intentionally reorganized material.');
 console.log('Documentation uses canonical /img paths and all referenced images exist.');
