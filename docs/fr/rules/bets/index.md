@@ -1,151 +1,109 @@
 ---
-title: Camps & Mises
+title: Camps et Mises
 ---
 
-![Master](../../../assets/rules/runes/conditions/maitrise.png)![Chance](../../../assets/rules/runes/conditions/chance.png)
+# Camps et Mises
 
-> Quand le destin hésite, on rassemble tout ce qui fait notre force, dans la chair comme dans l'invisible, et l'on regarde de quel côté le sort va pencher face à ce qui s'oppose à nous.
+Une résolution sert à trancher une issue **possible, importante et réellement incertaine**. Si l'action est impossible dans le monde, il n'y a rien à lancer. Si son résultat ne fait aucun doute, la fiction avance simplement.
 
-Principe: face à l'adversité, on mise sur tout ce qui pourrait, dans cette situation, nous servir. L'adversaire ou l'obstacle fait de même. Et ensuite on procède à un tirage pour résoudre.
+Quand une résolution est nécessaire, commencez par regarder la Situation.
 
-Une  résolution intervient pour déterminer  une bifurcation narrative. Elle n’est là que pour servir le récit. On ne fait donc pas de résolution à tout bout de champ. On peut même choisir de résoudre une opposition une première fois et ne pas le faire une seconde fois si ça n’amène rien à a dynamique du récit. 
+## 1. Définir les camps et leurs intentions
 
-L'idée sous jacente de la mécanique du jeu est d'offrir le cadre nécessaire et suffisant pour expérimenter une immersion gloranthienne. 
+Chaque camp cherche quelque chose de concret dans la scène.
 
-Le système a été inventé pour que les joueurs gardent en permanence en tête que le monde peut être appréhendé à travers des visions du monde très différentes et pour qu’il y ait cohérence entre les mécaniques de jeu et la vision du monde des personnages.
+Avant de prendre les dés, dites ce que chacun veut obtenir. Deux camps peuvent vouloir des choses directement opposées, mais ce n'est pas obligatoire : un voyageur peut lutter contre une tempête, un mystique contre sa propre peur, une communauté contre une famine.
 
-Lorsque le destin est incertain et qu’on sent l’apparition d’une potentielle bifurcation narrative, on procède en trois étapes: 
+Pour une Force ou un obstacle qui n'est pas porté comme Protagoniste, le **Temps** porte son intention et ce qui lui permet d'agir.
 
-- Chaque partie détermine ce qui est important à ce moment là.  En s’immergeant dans le monde, la situation, le focus qu'on souhaite, on détermine donc les éléments à mettre dans la balance: les **mises**
-- La **résolution** des mises se fait ensuite avec des règles différentes suivant la vision du monde de chaque camp, selon qu’on est [animiste](../animism), [théiste](../theism), [mystique](../mysticism) ou [logicien](../mysticism/index.md). Chaque camp obtient donc un certain nombre de réussites.
-- L’**interprétation du résultat** se fait en se basant sur la situation, le focus mis en place,  les objectifs et les stratégies des uns ou des autres.
+## 2. Regarder ce qui compte
 
-**L'omnipotence de la narration :** Tout est narratif ! Dans ce système, tout se justifie par la narration et c'est la cohérence de l'histoire qui fait office d'arbitre suprême. La Destinée, qui incarne le meneur de jeu ou narrateur, est invitée à rester ouverte aux propositions, mais elle dispose de leviers puissants pour équilibrer les débats : s'il est tout à fait acceptable pour un joueur de poser une mise justifiée par la fiction, cela signifie que l'adversaire (la Destinée) peut lui aussi poser une autre mise en retour, vu que l'on considère ce focus comme important dans la scène.
+Une **Mise** est un élément vrai dans la fiction qui compte réellement pour l'issue que vous êtes en train de résoudre.
 
-**L'héritage ludique : HeroQuest et RuneQuest**
+Cela peut être :
 
-- Pour les vétérans d'HeroQuest (HQ) : l'approche est strictement la même, mais expurgée de toute statistique et de tout chiffre.
-- Pour les puristes de RuneQuest (RQ) : ce système propose un glissement assumé du simulationnisme vers le narrativisme. Pour autant, le moteur de résolution se veut à sa manière être à même de simuler n'importe quelle opposition.
+- une qualité ou une expérience du Protagoniste ;
+- une relation ;
+- une arme, un outil ou une ressource ;
+- une blessure, une peur ou une obligation ;
+- un avantage du terrain ;
+- une coutume, un tabou ou une institution ;
+- une magie, un esprit ou une faveur divine ;
+- une propriété de l'adversaire ou de la Situation.
 
-## Détermination des mises
+Une chose n'entre pas dans la résolution parce qu'elle figure sur une fiche. Elle entre parce que la table peut expliquer **pourquoi elle compte ici**.
 
-Le moteur est d’abord basé sur le bon sens et la connaissance du monde de Glorantha. Chaque obstacle contient son lot de difficultés à surmonter. Vous utilisez vos atouts pour espérer dépasser l’obstacle. 
+Chaque Mise retenue donne un dé au camp qu'elle favorise.
 
-Les mises potentiellement déterminantes se listent donc.
+### Une vérité peut aussi jouer contre vous
 
-Quand il y a opposition, il peut être intéressant de définir les objectifs de chaque camp et de déterminer les mises de chaque camp en fonction des objectifs de l’un et l’autre.
+Le même élément peut devenir un avantage ou une difficulté selon ce que la scène cherche à trancher. Une lourde armure protège d'une lame mais gêne pour traverser un torrent. Une réputation redoutable intimide certains interlocuteurs et en pousse d'autres à refuser toute confiance.
 
-A veut ça: A+ les mises qui peuvent y mener, A- les mises qui peuvent contrecarrer l'objectif de A.
+Le Temps ne cherche pas des contre-Mises pour équilibrer artificiellement les nombres. Il fait simplement vivre les vérités de la Situation qui comptent réellement pour l'autre camp.
 
-B veut ça: B+ les mises qui peuvent y mener, B- les mises qui peuvent contrecarrer l'objectif de B
+## 3. Respecter les Facteurs Cadres
 
-Opposition → A+, B- vs A-, B+
+Certaines vérités ne donnent pas seulement un dé. Elles définissent ce qui est possible dans cette Situation.
 
-**Mises pro A contre mises pro B**
+Un **Facteur Cadre** peut fermer une action, imposer une condition ou changer l'échelle de ce qui peut être obtenu.
 
-ou encore
+Un humain ordinaire ne tue pas un Dragon avec un cure-dent simplement parce qu'il obtient un meilleur tirage. Si l'action n'a pas de sens dans Glorantha, le cadre doit être traité avant de construire les Mises.
 
-**Atouts, tactiques pour contrer les difficultés, dangers de l'adversaire**
+Lorsque le cadre rend un camp nettement plus ou moins puissant sans fermer complètement l'action, les modes **affaibli** ou **héroïque** peuvent être utilisés quand la règle concernée le prévoit.
 
-On a le nombre de **mises** pour chaque **camp**. On va pouvoir procéder à la **résolution**.
+## 4. Lancer les dés
 
-Quelle que soit la vision du monde de votre personnage, c’est toujours la même méthode pour créer les mises de manière narrative. La spécificité se retrouvera dans les mises acceptables des uns et des autres. 
+Une fois les Mises retenues, chaque camp possède son pool de dés.
 
-### Et la difficulté dans tout ça?
+La manière de lire ce pool dépend de la vision du monde du camp :
 
-Déjà signalons que certains facteurs sont des facteurs cadre. Ils sont tellement impactants qu’ils forcent les mises à s’aligner et permettent d'exprimer ce qu’il ne sera pas possible de tenter. 
+- [Animisme](../animism/)
+- [Théisme](../theism/)
+- [Logique](../logic/)
+- [Mysticisme](../mysticism/)
+- [Pensée draconique](../draconic/)
 
-Pour autant si on veut s'entêter quand même a jouer hors cadre, on pourrait voir apparaître un delta de puissance entre les deux parties. 
+Un obstacle sans vision du monde propre peut être lu de deux façons :
 
-Plutôt que d'exprimer cela par des multiplication de dés, on peut aussi utiliser les modes **affaiblis** ou **héroïques**. 
+- **Miroir** : il utilise la même lecture que le Protagoniste lorsque l'épreuve représente surtout son propre dépassement ;
+- **Monde médian** : chaque dé pair est une réussite et chaque dé impair un échec lorsque l'obstacle est simplement matériel ou extérieur.
 
-Note: on bascule vers un mode affaibli ou héroïque que si un facteur cadre nous pousse à le faire. Sinon c’est bel et bien la dynamique des mises qui est en jeu. Une partie aura juste beaucoup plus de dés de son côté que l’autre.
+Le lieu peut changer cette lecture. Escalader une montagne ordinaire n'est pas la même chose que gravir une montagne qui est elle-même une puissance sacrée.
 
-Notons également que la difficulté est aussi une difficulté narrative, pour réaliser une chose impossible ou difficile, on devra passer par des tas de tests avant d'y arriver. Ces tests ne sont pas forcément impossibles en soi mais il y a de fortes chances qu'on échoue sur l'un et que cela change du tout au tout l'objectif initial. 
+## 5. Comparer les réussites
 
-#### Ou bien utiliser une jauge pour le Destin
+Le camp qui obtient le plus de réussites l'emporte sur la question que la résolution devait trancher.
 
-Vous pouvez aussi bien en solo qu'en groupe, envisager d'utiliser une **jauge de Destin**. Cela permet d'improviser des mises suivant la situation pour équilibrer les difficultés selon ce qui s'est déroulé précédemment et ainsi créer une respiration narrative. On n'est absolument pas obligé d'équilibrer la jauge à chaque conflit. C'est juste un marqueur (très utile si on improvise ou si on joue en solo). 
+Vous pouvez utiliser cette lecture simple :
 
-> Principe: la jauge démarre à zero, et peut avoir une valeur négative (le destin finira par se retourner contre les héros) ou positive (le destin finira par jouer en faveur des héros). 
+- **Exploit / Fiasco** : l'écart est supérieur à 1 et supérieur à la moitié des réussites de l'autre camp ;
+- **Victoire / Défaite** : l'écart est d'au moins 1 sans atteindre ce seuil ;
+- **Status quo / Revers** : égalité.
 
-Concrétement on peut la représenter par des dés de deux couleurs: une couleur pour les héros et une couleur pour l'adversité. Quand un conflit a lieu, on complète la jauge par les dés qui équilibrerait le conflit. Deux dés de meme couleur s'annulent donc on a toujours soit aucun dé, soit des dés d'une seule couleur. Ces dés permettent de jauger les difficultés des conflits. 
+En cas d'égalité, si un status quo n'a aucun sens, la table peut jouer une **surenchère** : chaque camp ajoute une nouvelle Mise qui représente ce qu'il engage pour en finir, puis la résolution reprend.
 
-Notes: 
-- la jauge est globale. 
-- en cas de conflit intra héros, l'adversaire est celui qui a initié le conflit
-- parfois, des difficultés ou des avantages ont lieu sans conflit au gré du récit. On peut dans ce cas compenser par un dé opposé. 
-- on peut aussi utiliser un décompte: +1 représentant un dé héros, -1 représentant un dé d'adversité. 
-- On pourrait matérialiser les dés héros par des jetons marqués par la rune de la chance <img src="../../../assets/rules/runes/conditions/chance.png" width="5%" halign="bottom">, et les dés de l'adversité par des jetons marqués par la rune du destin  <img src="../../../assets/rules/runes/conditions/destin.png" width="5%" halign="bottom"> ("pas de grand destin, sans adversité")
+## 6. Interpréter ce qui vient d'arriver
 
-> *Le système de jauge du Destin est inspiré du pass/fail cycle de HQ/G*
+Le résultat ne remplace pas la Situation. Il vous dit quel camp obtient l'avantage ; les Mises expliquent **comment** et **à quel prix**.
 
-> Exemple:
-> - Jauge à 0
-> - Premier conflit: héros 3 mises vs adversité 2 mises -> la jauge gagne 1 dé d'adversité (-1)
-> - Deuxième conflit:  héros 4 vs adversité 6 -> la jauge gagne 2 dés héros donc se retrouve avec un seul dé héros (+1)
-> - A un moment, le meneur ou le narrateur choisit de narrer une difficulté, on gagne donc un dé héros automatiquement. Nous voila avec 2 dés héros (+2) 
-> - Le destin est donc plutot en faveur des héros. Le prochain conflit pourrait être à leur avantage. Donc si le meneur voulait rééquilibrer le tout, il pourrait tenter un conflit avec 2 mises de moins côté adversité que les mises des héros. 
+Reprenez les intentions, les éléments qui comptaient et l'écart obtenu. Décrivez ce qui change dans le monde. Cette nouvelle vérité devient le point de départ de la suite.
 
-### Les dés et les mises
+Une victoire ne donne jamais un pouvoir que la fiction ne permettait pas. Un résultat exceptionnel peut cependant produire un exploit à l'échelle de ce qui était réellement possible.
 
-Une fois les mises connues pour chaque camp, on perd le lien entre la mise qui a créé le dé et le dé. Cela serait trop complexe mentalement de regarder chaque réussite de chaque facteur et encore plus pour les Logiciens. Ce qui importe c’est le nombre de réussites au final pour chaque camp.
+## La Jauge de Destin
 
-La vision du monde peut servir à exprimer le résultat suivant le point de vue de cette vision. 
+La **Jauge de Destin** est un outil optionnel pour garder une trace des asymétries qui apparaissent au fil de la partie.
 
-Les mises sont aussi là pour déterminer les éléments narratifs. Elles deviennent les ingrédients de la narration pour raconter le résultat de l’opposition.
+Elle est commune à la table et contient des dés de deux couleurs : une couleur pour les Protagonistes, une pour l'adversité. Des dés de couleurs opposées s'annulent.
 
-[Exemple de détermination de mises](sample)
+Quand les pools sont inégaux, vous pouvez ajouter à la Jauge les dés qui auraient été nécessaires au camp le plus faible pour atteindre l'égalité. **Ces dés ne modifient pas la résolution en cours.**
 
-### Obstacle abstrait
+Exemple : les Protagonistes ont 5 Mises et l'adversité 3. La résolution reste à 5 contre 3, mais la Jauge reçoit 2 dés d'adversité. Le Temps pourra plus tard faire peser cette réserve lorsqu'une difficulté cohérente avec la fiction se présente.
 
-Certains obstacles ne sont pas liés à une vision du monde particulière. Ils correspondent simplement à la résistance du monde.
+La Jauge sert de respiration, pas de comptabilité à équilibrer après chaque scène. Elle peut aussi enregistrer un avantage ou une difficulté accordé sans résolution lorsque la table souhaite en conserver la trace.
 
-Deux possibilités:
+## Évolution
 
-- <img src="../../../assets/rules/runes/formes/homme.png" alt="Homme" width="6%"> **Miroir**: on résout les mises avec la même vision du monde que l'opposant non abstrait: cela reflète une vision du monde holistique. C'est le cadre à utiliser quand l'enjeu est un dépassement de soi. 
+Les Protagonistes évoluent lorsque ce qu'ils vivent change réellement ce qui est vrai d'eux : nouveau lien, blessure, réputation, obligation, pouvoir, compréhension ou perte.
 
-- <img src="../../../assets/rules/runes/mondes/median.png" alt="Monde médian" width="6%"> **Agnostique**, **Matérialiste**, **Le monde médian**: les pairs (2,4,6) seront des réussites, les impairs (1,3,5) seront des échecs. Il n'y a pas d'autres règles d'ajustement des mises une fois le tirage effectué. C'est le cadre à utiliser quand l'enjeu est mineur et n'implique pas vraiment émotionnellement le personnage.
-
-Note: ici c'est la rune du monde médian qui est utilisée. Mais si le personnage est dans le monde des esprits, ou celui des Dieux, ce sont les règles de ce monde qui servent alors comme règle de base.  
-
-> Exemple: Un mystique escaladant une montagne va générer des mises pour lui et des mises représentant les difficultés à surmonter. On sait que le tirage du mystique sera fait avec les règles du mysticisme. Donc par défaut, le tirage de l'obstacle se fera avec les règles du mysticisme. Mais ça pourrait aussi être avec les règles du théisme dans le cas d’une ascension de Kerofin par exemple, qui est un lieu sacré du panthéon Orlanthi. 
-
-## Les tirages
-
-Selon la vision du monde des protagonistes, leurs méthodes de résolution diffèrent. La façon de jouer le tirage d’un camp est différent pour un [animiste](../animism), un [théiste](../theism), un [logicien](../logic) ou un [mystique](../mysticism/). 
-
-Chaque tirage permet de déterminer un nombre de réussites qu’on compare au nombre de réussites de l’autre camp. 
-
-## Interprétation du résultat
-
-Celui qui a plus de réussites l’emporte. C’est aussi simple que ça. 
-
-On peut amener de la nuance selon la différence de réussites.
-
-En cas d’égalité, on peut jouer le status quo ou faire gagner in extremis le protagoniste s’il y a un protagoniste dans le récit. 
-Si le conflit n'est pas compatible avec un status quo, on peut refaire un tirage en rajoutant une mise à chaque camp pour exprimer la **surenchère** liée à l'égalité temporaire lors du conflit. Cette mise supplémentaire pour chaque camp représente la volonté d'en finir. Les surenchères peuvent se succéder. 
-
-Dans tous les cas, les mises et les visions du monde servent la narration de l’interprétation. 
-
-Et ce qui est essentiel de garder en tête, c'est le contexte de la situation qui sert a interpréter le résultat. 
-
-Un enfant voulant tuer un Dieu et qui par miracle arriverait a une réussite serait interprété comme une simple égratignure au Dieu mais cela serait déjà bel et bien un exploit! 
-
-Et la mort du héros? C’est vous qui voyez. C’est un sujet trop important pour que ça soit le hasard qui décide. La mort est la fin d’une histoire, le début d’une autre. Dans le pire des cas, si vous êtes partagé, tirez à pile ou face. 
-
-### Graduation du résultat
-
-Si l’on veut, on peut s’aider de la grille de lecture suivante:
-
-- Fiasco / Exploit quand la différence entre les camps est supérieure strictement à 1 et à la moitié des réussites de l'autre camp.
-- Victoire, Succès / Défaite, Échec quand la différence est supérieure ou égale à 1 et inférieure ou égale à la moitié des réussites de l'autre camp.
-- Status-quo, Revers en cas d'égalité
-
-### Les rétributions et l’évolution
-
-Le système évite au maximum le méta-jeu : il n’y a pas de bonus ou de malus mécaniques de fin de partie. Les personnages évoluent de manière purement diégétique. C'est bel et bien la narration qui sert de moteur exclusif à l'évolution.
-
-**Comment évolue-t-on ?** L'évolution passe par la dynamique des mots-clés du personnage : l'ajout de nouveaux mots-clés, la suppression de traits obsolètes, ou la modification d'éléments existants. À cela s'ajoutent les rétributions accordées par la Destinée, telles que de nouveaux liens, des attaches, des cadeaux, un nouveau pouvoir ou une prise de conscience.
-
-**Quand évolue-t-on ?** Cette évolution ne survient pas à la fin d'un scénario. Elle intervient de manière organique lors d'un Fiasco ou d'un Exploit (qui se traduisent par une différence de 2 réussites ou plus lors d'un tirage), ou tout simplement quand l'histoire l'exige.
+Un Exploit ou un Fiasco est un bon moment pour regarder ce qui a pu changer, mais l'évolution n'attend pas la fin d'un scénario. Si la fiction transforme le Protagoniste, sa description doit pouvoir le refléter.
