@@ -1,0 +1,28 @@
+name: Verify image migration
+
+on:
+  push:
+    branches:
+      - refactor/player-guide-docusaurus
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Validate image links
+        run: node tools/migrate-image-links.mjs && git diff --exit-code -- docs
+      - name: Build French site
+        run: npm run build:fr
+      - name: Build English site
+        run: npm run build:en
+      - name: Build publications
+        run: npm run publication:build
