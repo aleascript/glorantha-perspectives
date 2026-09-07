@@ -1,227 +1,192 @@
 ---
-title: "Inspiration runique"
+title: Inspiration runique
 ---
 
-![Destin](../../../../assets/rules/runes/conditions/destin.png)
+# Inspiration runique
 
-Les runes sont les briques du monde. Elles tissent la réalité. Elles s'immiscent partout. Elles dessinent la trame du Destin.
+![Rune du Destin](/img/runes/fate.png)
 
-Identifions les.
+Les Runes sont partout dans Glorantha. Elles peuvent aussi servir à faire émerger rapidement une idée lorsque la Situation demande quelque chose que personne n'avait encore fixé.
 
-Nommons les.
+L'outil le plus simple consiste à tirer **deux Runes de Pouvoir** et à chercher une relation entre elles.
 
-Observons leur impact. 
+Utilisez 2D8, huit cartes ou tout autre support permettant d'obtenir deux résultats de 1 à 8.
 
-Parfois deux cultures ou personnages sont liés à la même rune mais sa manifestation diffère, toujours. 
+La relation est libre : cause et conséquence, deux personnes, avant et après, lieu et problème, désir et obstacle, ou simplement deux éléments indépendants qui doivent tous deux entrer dans la Situation.
 
-Les runes réunissent mais distinguent aussi. Elles ne sont jamais seules. 
+## Les huit Runes de Pouvoir
 
-> Arachne Solara a 8 pattes et vous n'avez que deux mains.
+| D8 | Rune | Thème | Question | Direction |
+| ---: | --- | --- | --- | --- |
+| 1 | ![Mouvement](/img/runes/movement.png) **Mouvement** | Découverte | Où ? | En-dessous |
+| 2 | ![Mort](/img/runes/death.png) **Mort** | Menace | Qui ? | À droite |
+| 3 | ![Harmonie](/img/runes/harmony.png) **Harmonie** | Relations | Quoi ? | À gauche |
+| 4 | ![Stase](/img/runes/stasis.png) **Stase** | Loi | Comment ? | Devant |
+| 5 | ![Vie](/img/runes/life.png) **Vie** | Ressources | Combien ? | Derrière |
+| 6 | ![Désordre](/img/runes/disorder.png) **Désordre** | Révélation | Quand ? | Au-dessus |
+| 7 | ![Vérité](/img/runes/truth.png) **Vérité** | Savoir | Pourquoi ? | Dedans |
+| 8 | ![Illusion](/img/runes/illusion.png) **Illusion** | Mystère | À moins que ? | Nulle part / partout |
 
-L'idée est de tirer deux runes pour établir une connexion avec Glorantha. 
+Ces correspondances ne sont pas des réponses imposées. Elles donnent une contrainte assez forte pour faire travailler l'imagination sans décider à sa place.
 
-Main gauche et main droite (2d8 ou 8 cartes)
+## 1 — Mouvement : Découverte
 
-Cela permet ensuite de tirer les fils jusqu'à ce qu'une idée émerge. 
+<img src="/img/runes/movement.png" width="48" alt="Rune de Mouvement" />
 
-_Table des runes de pouvoir:_
+- **Corps :** jambes ;
+- **instant :** transit, urgence, temps qui s'écoule ;
+- **distance :** approche, voyage, distance que l'on franchit ;
+- **relation :** passant, étranger, éclaireur, contact nomade ;
+- **objets :** carte, boussole, longue-vue, bottes, véhicule ;
+- **lieux :** vestibule, couloir, observatoire, balcon ;
+- **personnalités :** curieux, explorateur, agité, instable ;
+- **guerre :** éclairage, patrouille, contournement ;
+- **musique :** ré, mode dorien ;
+- **tabous possibles :** ne jamais rester deux nuits au même endroit ; ne jamais refuser un voyage ; ne jamais s'asseoir sur un trône.
 
-> Note sur la numérologie : La correspondance numérique de 1 à 8 avec les runes de pouvoir s’est perdue dans les méandres du temps. Certains érudits murmurent qu’elle viendrait d’un antique groupe de Logiciens ou d’un courant mystique oublié ayant médité sur les chiffres. 
+## 2 — Mort : Menace
 
-| **Chiffre** | **Rune** | **Thèmes** | **Exemples** |
-| --- | --- | --- | --- |
-| **[1]** | ![Mouvement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Découverte** | ce qui est autour, le monde, lieux, informations... |
-| **[2]** | ![Mort](../../../../assets/rules/runes/pouvoirs/mort.png) | **Menace** | ce qui est différent, l'autre, l'ennemi... |
-| **[3]** | ![Harmonie](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | ce qui relie, émotions, sentiments, liens, dilemme... |
-| **[4]** | ![Stase](../../../../assets/rules/runes/pouvoirs/stase.png) | **Loi** | ce qui est figé, moralité, société, groupe, autorité... |
-| **[5]** | ![Vie](../../../../assets/rules/runes/pouvoirs/vie.png) | **Ressources** | ce qui est nécessaire, matériel, réalité... |
-| **[6]** | ![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Révélation** | ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable... |
-| **[7]** | ![Vérité](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Savoir, Connaissance** | ce qui doit être cherché, recherché, étudié... |
-| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystère** | ce qui est caché, tromperie, illusion, vain, illusoire... |
+<img src="/img/runes/death.png" width="48" alt="Rune de Mort" />
 
-> Les lettrés Gloranthiens de cultures diverses ont beaucoup glosé sur les liens entre les runes de pouvoir et les éléments constitutifs du monde, que ce soit au niveau des éléments corporels, que des grandes questions types de l'univers, ou tout autre grande catégorisation du monde. 
+- **Corps :** bras ;
+- **instant :** échéance, compte à rebours, fin abrupte ;
+- **distance :** abîme, séparation, frontière infranchissable ;
+- **relation :** ennemi juré, banni, relation rompue ;
+- **objets :** arme, poison, piège, avertissement ;
+- **lieux :** armurerie, cachot, fosse, mur d'enceinte ;
+- **personnalités :** agressif, cruel, paranoïaque, protecteur ;
+- **guerre :** assaut frontal, intimidation, raid destructeur ;
+- **musique :** si, mode locrien ;
+- **tabous possibles :** ne jamais fuir ; ne jamais refuser un défi ; ne jamais frapper un ennemi qui ne te voit pas.
 
-### [1] <img src="../../../../assets/rules/runes/pouvoirs/mouvement.png" width="5%" valign="bottom"> Mouvement
+## 3 — Harmonie : Relations
 
+<img src="/img/runes/harmony.png" width="48" alt="Rune d'Harmonie" />
 
-- **Thèmes:** Découverte
-- **Exemples:** ce qui est autour, le monde, lieux, informations...
-- **Corps:** jambes
-- **Question:** où?
-- **Direction:** en-dessous
-- **L'instant:** Le Transit: le temps qui s'écoule, l'éphémère, l'urgence de l'action en cours
-- **Distance:** L'Approche: la distance dynamique, celle qu'on est en train de franchir (le voyage)
-- **Relation:** Le Passant: l'étranger croisé en chemin, l'éclaireur, le contact furtif ou nomade
-- **Objets:** carte, boussole, longue-vue, bottes, véhicule...
-- **Habitation:** vestibule, couloir, observatoire, balcons...
-- **Personnalités:** curieux, explorateur, agité, instable...
-- **Options militaires:** éclairage, patrouille, manœuvre de contournement...
-- **Musique:** la note ré, le mode dorien
-- **Tabou:** Ne jamais rester deux nuits au même endroit. / Ne jamais refuser un voyage. / Ne jamais s'asseoir sur un trône.
+- **Corps :** cœur ;
+- **instant :** synchronicité, bon moment, temps partagé ;
+- **distance :** proximité, espace partagé, réseau ;
+- **relation :** allié intime, membre du clan, entraide ;
+- **objets :** contrat, alliance, cadeau, instrument ;
+- **lieux :** salon, salle à manger, espace commun ;
+- **personnalités :** empathique, diplomate, charmeur, dépendant ;
+- **guerre :** trêve, soutien mutuel, coalition ;
+- **musique :** fa, mode lydien ;
+- **tabous possibles :** ne jamais mentir ; ne jamais refuser l'hospitalité ; ne jamais rompre une promesse faite à un allié.
 
-### [2] <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"> Mort
+## 4 — Stase : Loi
 
+<img src="/img/runes/stasis.png" width="48" alt="Rune de Stase" />
 
-- **Thèmes:** Menace
-- **Exemples:** ce qui est différent, l'autre, l'ennemi...
-- **Corps:** bras
-- **Question:** qui?
-- **Direction:** à droite
-- **L'instant:** L'Échéance: le temps compté (le compte à rebours), la fin abrupte, le passé mort
-- **Distance:** L'Abîme: la séparation radicale, la frontière infranchissable, la distance qui isole
-- **Relation:** L'Exclu: l'ennemi juré, le banni, la rupture de ban, la relation rompue à jamais
-- **Objets:** arme, poison, piège, symbole d'avertissement...
-- **Habitation:** armurerie, cachot, fosse, mur d'enceinte...
-- **Personnalités:** agressif, cruel, paranoïaque, protecteur...
-- **Options militaires:** assaut frontal, intimidation, raid destructeur...
-- **Musique:** la note si, le mode locrien
-- **Tabou:** Ne jamais fuir. / Ne jamais refuser un défi. / Ne jamais frapper un ennemi qui ne te voit pas.
+- **Corps :** tronc ;
+- **instant :** routine, cycle immuable, temps suspendu ;
+- **distance :** ancrage, point fixe, ici ;
+- **relation :** institution, hiérarchie, devoir familial ;
+- **objets :** torque, fétiche, vêtement cérémoniel, balance, sceptre ;
+- **lieux :** cour centrale, agora, salle de consultation ;
+- **personnalités :** rigide, traditionaliste, autoritaire, inflexible ;
+- **guerre :** formation stricte, siège, garnison ;
+- **musique :** do, mode ionien ;
+- **tabous possibles :** obéir à la Loi ancestrale ; ne jamais changer de nom ; ne jamais quitter le lieu saint.
 
-### [3] <img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Harmonie
+## 5 — Vie : Ressources
 
-- **Thèmes:** Relations
-- **Exemples:** ce qui relie, émotions, sentiments, liens, dilemme...
-- **Corps:** coeur
-- **Question:** quoi?
-- **Direction:** à gauche
-- **L'instant:** La Synchronicité: le "Kairos" (le bon moment), le temps partagé, être "en phase"
-- **Distance:** La Proximité: l'espace partagé intimement, le réseau (la distance est abolie par le lien)
-- **Relation:** L'Allié Intime: l'âme soeur, le membre du clan, la synergie totale et l'entraide
-- **Objets:** contrat, alliance (bijou), cadeau, instrument...
-- **Habitation:** salon, salle à manger...
-- **Personnalités:** empathique, diplomate, charmeur, dépendant...
-- **Options militaires:** négociation de trêve, soutien mutuel, coalition...
-- **Musique:** la note fa, le mode lydien
-- **Tabou:** Ne jamais mentir. / Ne jamais refuser l'hospitalité. / Ne jamais rompre une promesse faite à un allié.
+<img src="/img/runes/life.png" width="48" alt="Rune de Vie" />
 
-### [4] <img src="../../../../assets/rules/runes/pouvoirs/stase.png" width="5%" valign="bottom"> Stase
+- **Corps :** organes reproducteurs ;
+- **instant :** croissance, maturation, saisons ;
+- **distance :** expansion, rayonnement d'un centre, domaine ;
+- **relation :** nourricier, famille élargie, créancier ou débiteur ;
+- **objets :** bourse, provisions, outils de récolte ;
+- **lieux :** cuisine, cellier, grenier, réserve ;
+- **personnalités :** pragmatique, travailleur, généreux, matérialiste ;
+- **guerre :** logistique, ravitaillement, pillage, guerre d'usure ;
+- **musique :** sol, mode mixolydien ;
+- **tabous possibles :** ne jamais manger de chair ; chasteté ; ne jamais laisser mourir une créature sans permission.
 
+## 6 — Désordre : Révélation
 
-- **Thèmes:** Loi
-- **Exemples:** ce qui est figé, moralité, société, groupe, autorité...
-- **Corps:** tronc
-- **Question:** comment?
-- **Direction:** devant
-- **L'instant:** La Routine: l'éternité, le temps suspendu, le cycle immuable et répétitif
-- **Distance:** L'Ancrage: le point fixe absolu ("Ici"), l'immobilité, le repère immuable
-- **Relation:** L'Institution: le lien formel (hiérarchie, devoir familial), le supérieur, le vassal
-- **Objets:** torque, fétiche, habits cérémoniels, balance, sceptre...
-- **Habitation:** salle de consultation, cour centrale, agora...
-- **Personnalités:** rigide, traditionaliste, autoritaire, inflexible...
-- **Options militaires:** formation stricte (phalange), siège, garnison...
-- **Musique:** la note do, le mode ionien
-- **Tabou:** Obéir à la Loi ancestrale. / Ne jamais changer de nom. / Ne jamais quitter le lieu saint.
+<img src="/img/runes/disorder.png" width="48" alt="Rune de Désordre" />
 
-### [5] <img src="../../../../assets/rules/runes/pouvoirs/vie.png" width="5%" valign="bottom"> Vie
+- **Corps :** sens ;
+- **instant :** interruption, imprévu, rupture brutale ;
+- **distance :** labyrinthe, désorientation, chemin brisé ;
+- **relation :** traître, perturbateur, rival imprévisible ;
+- **objets :** objet cassé, objet rare, chose déplacée ;
+- **lieux :** pièce inattendue, zone détruite ou sinistrée ;
+- **personnalités :** imprévisible, visionnaire, fou, rebelle ;
+- **guerre :** choc, surprise, rupture ;
+- **musique :** mi, mode phrygien ;
+- **tabous possibles :** toujours répondre à un défi ; ne jamais planifier à l'avance ; dire la première chose qui vient.
 
-- **Thèmes:** Ressources
-- **Exemples:** ce qui est nécessaire, matériel, réalité...
-- **Corps:** parties génitales
-- **Question:** combien?
-- **Direction:** derrière
-- **L'instant:** La Croissance: le temps qu'il faut pour mûrir, la patience récompensée, le cycle des saisons
-- **Distance:** L'Expansion: le rayonnement autour d'un centre, la zone d'influence, le domaine
-- **Relation:** Le Nourricier: le protecteur, le membre de la famille élargie, le créancier/débiteur
-- **Objets:** bourse, provisions, outil de récolte...
-- **Habitation:** cuisine, cellier, grenier, coffre-fort...
-- **Personnalités:** pragmatique, travailleur, généreux, matérialiste...
-- **Options militaires:** logistique, ravitaillement, pillage, guerre d'usure...
-- **Musique:** la note sol, le mode mixolydien
-- **Tabou:** Ne jamais manger de chair. / Chasteté. / Ne jamais laisser mourir une créature sans permission.
+## 7 — Vérité : Savoir
 
-### [6] <img src="../../../../assets/rules/runes/pouvoirs/desordre.png" width="5%" valign="bottom"> Désordre
+<img src="/img/runes/truth.png" width="48" alt="Rune de Vérité" />
 
-- **Thèmes:** Révélation
-- **Exemples:** ce qui surprend, bouscule, rebondissement, surprise, ce qui est hors-norme, improbable...
-- **Corps:** les sens
-- **Question:** quand?
-- **Direction:** au-dessus
-- **L'instant:** L'Interruption: l'instant foudroyant, l'imprévu, la rupture brutale de la chronologie
-- **Distance:** Le Labyrinthe: la distance erratique, la désorientation, le chemin brisé ou chaotique
-- **Relation:** Le Traître: le perturbateur, l'antagoniste imprévisible, le rival toxique
-- **Objets:** objet cassé, objet rare...
-- **Habitation:** pièce inattendue, zone sinistrée ou détruite...
-- **Personnalités:** imprévisible, visionnaire, fou, rebelle...
-- **Options militaires:** tactique de choc, effet de surprise...
-- **Musique:** la note mi, le mode phrygien
-- **Tabou:** Toujours répondre à un défi. / Ne jamais planifier à l'avance. / Dire toujours la première chose qui te vient.
+- **Corps :** tête ;
+- **instant :** clarté, fait historique, moment décisif ;
+- **distance :** ligne droite, trajectoire mesurée ;
+- **relation :** garant, témoin fiable, relation transparente ;
+- **objets :** livre, parchemin, instrument de mesure, relique ;
+- **lieux :** bibliothèque, scriptorium, bureau, autel ;
+- **personnalités :** érudit, rationnel, observateur, pédant ;
+- **guerre :** renseignement, cryptographie, stratégie calculée ;
+- **musique :** la, mode éolien ;
+- **tabous possibles :** ne jamais mentir, même par omission ; révéler le secret demandé ; ne jamais voler.
 
-### [7] <img src="../../../../assets/rules/runes/pouvoirs/vérité.png" width="5%" valign="bottom"> Vérité
+## 8 — Illusion : Mystère
 
-- **Thèmes:** Savoir, Connaissance
-- **Exemples:** ce qui doit être cherché, recherché, étudié...
-- **Corps:** tête
-- **Question:** pourquoi?
-- **Direction:** dedans
-- **L'instant:** La Clarté: l'instant décisif, le fait historique immuable, la ligne temporelle exacte
-- **Distance:** La Ligne Droite: le plus court chemin, la trajectoire mesurée et absolue
-- **Relation:** Le Garant: le témoin fiable, la relation transparente et sans arrière-pensée
-- **Objets:** livre, parchemin, instrument de mesure, relique...
-- **Habitation:** bibliothèque, scriptorium, bureau, autel...
-- **Personnalités:** érudit, rationnel, observateur, pédant...
-- **Options militaires:** renseignement, cryptographie, stratégie calculée...
-- **Musique:** la note la, le mode éolien
-- **Tabou:** Ne jamais mentir, même par omission. / Révéler tout secret qu'on te demande. / Ne jamais voler.
+<img src="/img/runes/illusion.png" width="48" alt="Rune d'Illusion" />
 
-### [8] <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Illusion
+- **Corps :** organes internes ;
+- **instant :** contretemps, faux souvenir, temps perdu ;
+- **distance :** mirage, impasse, proximité trompeuse ;
+- **relation :** masque, inconnu, manipulateur, non-dit ;
+- **objets :** masque, double-fond, fausse monnaie, cape ;
+- **lieux :** passage dérobé, labyrinthe, pièce dissimulée ;
+- **personnalités :** secret, énigmatique, manipulateur, menteur ;
+- **guerre :** camouflage, feinte, diversion, guerre psychologique ;
+- **musique :** unisson ;
+- **tabous possibles :** ne jamais révéler son nom ; ne jamais se montrer deux fois sous la même apparence ; toujours porter un masque.
 
-- **Thèmes:** Mystère
-- **Exemples:** ce qui est caché, tromperie, illusion, vain, illusoire...
-- **Corps:** organes internes
-- **Question:** à moins que?
-- **Direction:** nulle part et/ou partout
-- **L'instant:** Le Contretemps: le faux souvenir, le temps perdu, la boucle trompeuse (l'attente vaine)
-- **Distance:** Le Mirage: l'espace trompeur (ce qui semble proche est loin, et inversement), l'impasse
-- **Relation:** Le Masque: l'inconnu, le manipulateur, la relation fondée sur un non-dit ou un secret
-- **Objets:** masque, double-fond, fausse monnaie, cape...
-- **Habitation:** passage dérobé, labyrinthe, pièce dissimulée...
-- **Personnalités:** secret, énigmatique, manipulateur, menteur...
-- **Options militaires:** camouflage, guerre psychologique, feinte, diversion...
-- **Musique:** l'unisson
-- **Tabou:** Ne jamais révéler ton nom. / Ne jamais te montrer deux fois sous la même apparence. / Toujours porter un masque.
+## Quand tirer les Runes ?
 
+Quelques moments naturels :
 
-Cela parait abstrait mais c’est beaucoup plus facile à manier que ça en a l’air. Cela permet de contraindre votre imagination gloranthesque mais vous êtes totalement libre d’inventer ce que vous voulez. 
+- au début d'une saison ;
+- lorsqu'une nouvelle Situation demande un élément extérieur aux Protagonistes ;
+- lorsqu'une Force ou une Pression doit se manifester sans que sa forme soit encore connue ;
+- lorsqu'une question reste ouverte et que personne ne souhaite en décider directement ;
+- lorsqu'une image inattendue aiderait à relancer l'attention sur Glorantha.
 
-La relation entre les deux runes est également libre: ça peut être un rapport de cause à effet, un rapport temporel, un rapport hiérarchique, etc... voire même n’avoir aucun rapport et être deux choses indépendantes dans la suite du récit. Ce sont des entités symboliques servant l’inspiration du récit en cours. 
+Le tirage ne remplace pas ce qui est déjà vrai. Il aide à découvrir **comment le monde peut continuer à répondre** lorsque plusieurs réponses restent possibles.
 
-*Bonne [méditation sur les runes](../../../notes/runes-meditation) de pouvoir*
+## Repères temporels par les Runes élémentaires
 
-### Quand tirer les runes?
+Pour obtenir rapidement une distance dans le temps, utilisez un D6 :
 
-En début de saison, en début de situation, ou quand vous vous sentez en manque d’inspiration ou lorsque les objectifs des personnages doivent se confronter au réel. 
+| D6 | Rune | Repère | Lecture plus stricte |
+| ---: | --- | --- | --- |
+| 1 | ![Obscurité](/img/runes/darkness.png) Obscurité | Bien avant | passé lointain |
+| 2 | ![Eau](/img/runes/water.png) Eau | Il n'y a pas longtemps | passé proche |
+| 3 | ![Terre](/img/runes/earth.png) Terre | Maintenant | présent |
+| 4 | ![Feu](/img/runes/fire.png) Feu/Ciel | Passé–présent–futur | présent, continuité |
+| 5 | ![Air](/img/runes/air.png) Air | Demain | futur proche |
+| 6 | ![Lune](/img/runes/moon.png) Lune | Futur | futur lointain, cycle |
 
-En effet, le récit est centré sur les objectifs des personnages avant tout. Cela permet de bien creuser leurs motivations et leurs façons de réfléchir et d’agir. Mais ce n’est pas suffisant pour écrire une histoire. Les personnages sont plongés dans un monde complexe (Glorantha) qui bouge et ce mouvement du monde est exprimé par les Runes. C’est aussi simple que ça dans une logique Gloranthesque. 
+Cette association suit l'ordre mythique dans lequel les éléments apparaissent dans le monde, puis l'arrivée de la Lune dans l'Air Médian.
 
-### Se repérer dans le temps
+## Repères spatiaux par les Runes élémentaires
 
-Le Temps est l'enfant du Diable et d'Arachne Solara conçu pour le Grand Compromis. Le Temps n'existait pas pendant les Âges Divins. 
+Le même principe peut donner une distance :
 
-Le Temps a engendré les chronologies. Les Erudits de l'Ambigu estiment en particulier qu'au commencement fut créé l'Obscurité, puis l'Eau, puis la Terre émergea et le Ciel au-dessus. L'Air vint alors séparer la Terre des Eaux. Et au 3ème Âge, la Lune monta dans l'Air Médian. 
+| D6 | Rune | Repère | Lecture plus stricte |
+| ---: | --- | --- | --- |
+| 1 | ![Obscurité](/img/runes/darkness.png) Obscurité | Ici | ici |
+| 2 | ![Terre](/img/runes/earth.png) Terre | Proche | ici |
+| 3 | ![Eau](/img/runes/water.png) Eau | Séparé | proche |
+| 4 | ![Air](/img/runes/air.png) Air | Autour | proche |
+| 5 | ![Lune](/img/runes/moon.png) Lune | Loin | loin |
+| 6 | ![Feu](/img/runes/fire.png) Feu/Ciel | Très loin | loin |
 
-Ainsi il apparut qu'une relation temporelle existait entre les divers éléments. 
-
-| **Chiffre** | **Rune** | **Repère temporel** | **Commentaire** | **Logiciens** |
-| --- | --- | --- | --- | --- |
-| **[1]** | ![Obscurité](../../../../assets/rules/runes/elements/obscurité.png) | **Bien avant** | Le temps des origines | Avant (Passé lointain) |
-| **[2]** | ![Eau](../../../../assets/rules/runes/elements/eau.png) | **Il n'y a pas longtemps** | Fluctuation du temps autour du présent | Avant (Passé proche) |
-| **[3]** | ![Terre](../../../../assets/rules/runes/elements/terre.png) | **Maintenant** | Le temps émotionnel | Maintenant (Présent) |
-| **[4]** | ![Feu](../../../../assets/rules/runes/elements/feu.png) | **Passé-Présent-Futur** | Le temps sociétal | Maintenant (Présent) |
-| **[5]** | ![Air](../../../../assets/rules/runes/elements/air.png) | **Demain** | Le temps qui amène le changement | Après (Futur proche) | 
-| **[6]** | ![Lune](../../../../assets/rules/runes/elements/lune.png) | **Futur** | Les longs cycles | Après (Futur lointain) |
-
-### Se repérer dans l'espace
-
-En observant la réalité environnante, le regard permit d'établir l'échelle de distance suivante. 
-
- 
-| **Chiffre** | **Rune** | **Repère spatial** | **Commentaire** | **Logiciens** |
-| --- | --- | --- | --- | --- |
-| **[1]** | ![Obscurité](../../../../assets/rules/runes/elements/obscurité.png) | **Ici** | L'Intime, la proximité de l'ombre | Ici |
-| **[2]** | ![Terre](../../../../assets/rules/runes/elements/terre.png) | **Proche** | Le Proche, là où l'on vit, Ce qui porte nos pas | Ici |
-| **[3]** | ![Eau](../../../../assets/rules/runes/elements/eau.png) | **Séparé** | Le Séparateur, la frontière | Proche | 
-| **[4]** | ![Air](../../../../assets/rules/runes/elements/air.png) | **Autour** | Le Vaste, l'espace à côté | Proche |
-| **[5]** | ![Lune](../../../../assets/rules/runes/elements/lune.png) | **Loin** | L'Ailleurs, la lune lointaine dans le ciel | Loin |
-| **[6]** | ![Ciel](../../../../assets/rules/runes/elements/feu.png) | **Très loin** | L'Absolu, Yelm le lointain, dans un autre Plan peut-être | Loin |
-
-> Note: pour les Triolinis, l'Eau est le 2 (le milieu où l'on vit) et la Terre est le 3 (le milieu qui sépare)
+Pour un Triolini, inversez naturellement les places de l'Eau et de la Terre : l'Eau est le milieu proche dans lequel il vit, la Terre celui qui sépare.
