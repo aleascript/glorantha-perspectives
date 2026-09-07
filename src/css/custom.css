@@ -24,3 +24,20 @@ html, body {background: var(--site-background); color: var(--site-text);}
 .theme-doc-markdown p, .theme-doc-markdown li {font-size: 1.04rem;}
 .theme-doc-markdown blockquote {border-left-color: var(--site-primary); color: var(--site-muted);}
 .table-of-contents {border-left-color: var(--site-border);}
+
+.publications-page {max-width: var(--site-content-width);}
+.publications-header {margin-bottom: 2rem;}
+.publications-version, .publication-revision {color: var(--site-muted);}
+.publications-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+.publication-card {
+  padding: 1.25rem;
+  border: var(--site-border-width) solid var(--site-border);
+  border-radius: var(--site-radius);
+  background: var(--site-surface);
+}
+.publication-card > h2 {margin-bottom: 0.35rem;}
+.publication-formats {display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;}
