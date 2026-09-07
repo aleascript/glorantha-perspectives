@@ -4,7 +4,7 @@ title: "Peek-ee-peek"
 
 > "La prophétie est en train de se réaliser et notre tribu a été choisie il y a fort longtemps pour être les protecteurs de la Lune"
 
-![Peek](../../../../../assets/stories/la-voie-lunaire/heroes/peek-ee-peek/peek.jpg)
+![Peek](/img/narratives/the-lunar-way/heroes/peek-ee-peek/peek.jpg)
 
 * Femme, 22 pluies
 * **Niveau de vie**: pauvre (relativement)
@@ -12,18 +12,18 @@ title: "Peek-ee-peek"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/lune.png" width="10%">
+<img src="/img/runes/moon.png" width="10%">
 
 * Sentiment de supériorité
 * Curieuse
 
-<img src="../../../../../assets/rules/runes/pouvoirs/mort.png" width="10%">
+<img src="/img/runes/death.png" width="10%">
 
 * Flèche sûre
 * Avis tranchés
 * Impulsive
 
-<img src="../../../../../assets/rules/runes/mondes/spirits.png" width="10%">
+<img src="/img/runes/spirits.png" width="10%">
 
 * Sensible
 * Ressentir, voir les esprits

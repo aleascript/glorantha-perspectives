@@ -4,11 +4,11 @@ title: "Dwarf Mine"
 
 ## Dwarf Mine (mountain access)
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%" valign="bottom">
+> <img src="/img/runes/fate.png" width="5%" valign="bottom">
 > 
-> Who? <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"> Meeting with the other
+> Who? <img src="/img/runes/death.png" width="5%" valign="bottom"> Meeting with the other
 >
-> What?  <img src="../../../../assets/rules/runes/pouvoirs/stase.png" width="5%" valign="bottom"> Authority
+> What?  <img src="/img/runes/stasis.png" width="5%" valign="bottom"> Authority
 >
 > Possible interpretations: Ikarnos attempts to assert his position as leader. 
 > A roll on how could give the condition of passage.
@@ -131,13 +131,13 @@ Peek thus follows the Dwarves. The other three remain in the room and wait. For 
 
 After a night, someone comes to get Ikarnos, Jaridan, and Hanya. They are led through halls. Sometimes it is very hot. The dwarf guiding them answers that these are the Forges helping to repair the Machine that men broke. They strangely see some humans wearing an iron collar around their necks. They understand these are slaves. But apart from that they seem to move about freely performing their tasks: carriers for the most part.
 
-![Dwarf Mine](../../../../assets/stories/la-voie-lunaire/06/mine-de-nain.jpg)
+![Dwarf Mine](/img/narratives/the-lunar-way/06/mine-de-nain.jpg)
 
 Before arriving before an immense door, the dwarves ask them to leave their weapons and they are then searched. Then they arrive in an immense hall, magnificently crafted. Every cm of rock is chiseled with geometric patterns, dwarven heads sculpted adorn the tops of columns, a warm yellow light radiates from the vault and floor-standing globes. Before them, there is a Dwarf sitting on a throne wearing a golden crown of almost blinding pure gold, his armor is equally so but in another metal. Around him Dwarves of all kinds, in armor but also in robes, and others in unidentifiable materials. The moment is solemn.
 
 The heroes advance and Ikarnos sets the example by kneeling before the Dwarven monarch. "Your Majesty, thank you for receiving us" and awaits the response.
 
-![Isidilian](../../../../assets/stories/la-voie-lunaire/06/isidilian.jpg)
+![Isidilian](/img/narratives/the-lunar-way/06/isidilian.jpg)
 
 The king squints and gestures for them to rise. "I, Isidilian, King of the mine of the Needle mountains, welcome you with pleasure."
 

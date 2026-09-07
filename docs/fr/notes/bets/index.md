@@ -2,7 +2,7 @@
 title: "Réflexions sur les camps et les mises"
 ---
 
-![Destin](../../../assets/rules/runes/conditions/destin.png)
+![Destin](/img/runes/fate.png)
 
 ### Camp hybride
 

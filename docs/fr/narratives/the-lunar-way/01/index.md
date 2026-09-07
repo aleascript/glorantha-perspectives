@@ -8,7 +8,7 @@ title: "Les préludes"
 
 # Le Prélude d’Ikarnos : L’Ombre sous l’Éclat d’Argenteus
 
-![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png)![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png)
+![Illusion](/img/runes/illusion.png)![Désordre](/img/runes/disorder.png)
 
 La Rune de Maîtrise bat avec force dans mes veines ; elle nourrit en moi l'ambition dévorante d'affronter toutes les situations, de ne jamais courber l'échine, bien qu'elle m'interdise d'agir directement sur le Destin. 
 
@@ -22,17 +22,17 @@ Argenteus et son entourage de courtisans semblent royalement ignorer cet état d
 
 Il me congédia d'un geste las, comme s'il s'en lavait les mains. C'était au moins ça : je n'avais pas leur veto officiel sur les bras. Sans perdre un instant, j'organisai mon voyage et mis le cap vers les Royaumes du Sud.
 
-![Argenteus](../../../../assets/stories/la-voie-lunaire/01/ikarnos-moon-palace.jpg)
+![Argenteus](/img/narratives/the-lunar-way/01/ikarnos-moon-palace.jpg)
 
 ## Le Prélude d'Hanya : Le Chant du Mouvement et de la Stase
 
-![Harmonie](../../../../assets/rules/runes/pouvoirs/harmonie.png)![Stase](../../../../assets/rules/runes/pouvoirs/stase.png)
+![Harmonie](/img/runes/harmony.png)![Stase](/img/runes/stasis.png)
 
 Après avoir scruté les eaux sacrées et achevé mes divinations au puits de Hwarin à Jillaro, mon devoir m'apparut avec la clarté du cristal. J'allai trouver sans tarder la prêtresse de l'Ordre. Le verdict du destin était paradoxal : si l'on voulait protéger Jillaro, il fallait impérativement que je quitte Jillaro, ma cité de coeur, pour m'enfoncer au-devant des périls barbares.
 
 Face à son scepticisme institutionnel, je déployai toute mon âme pour tenter d'ouvrir son esprit à cette nécessité...
 
-![Hanya Prélude](../../../../assets/stories/la-voie-lunaire/01/hanya-prelude.jpg)
+![Hanya Prélude](/img/narratives/the-lunar-way/01/hanya-prelude.jpg)
 
 > 🎲 Victoire Majeure
 
@@ -40,7 +40,7 @@ Le succès fut total. Non seulement la prêtresse acquiesça à mes arguments, m
 
 
 ## Le Prélude de Jaridan : L’Aigre Parfum de la Pax Lunaria
-![Mouvement](../../../../assets/rules/runes/pouvoirs/mouvement.png)![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png)
+![Mouvement](/img/runes/movement.png)![Désordre](/img/runes/disorder.png)
 
 Le commerce est ma seconde nature, et j'ai l'aubaine d'avoir mes habitudes avec le royaume de Sartar, tout particulièrement avec les divers clans de la confédération d'AldaChur. Mais le monde change : depuis la chute de Boldhome il y a vingt ans, le fier pays de Sartar est devenu une Province Lunar. 
 
@@ -48,7 +48,7 @@ C'était la Saison Sombre, cette période de l'année propice à s'échanger les
 
 Le point de rupture survint le jour où j'arrivai sur les terres du Clan Tout-Seul pour participer au marché hebdomadaire. Pour la toute première fois de ma vie de colporteur, je n'étais pas le bienvenu. J'ai dû âprement négocier ma simple place sur la place publique : quelle honte absolue ! Moi, un honnête Orlanthi !
 
-![Prélude de Jaridan](../../../../assets/stories/la-voie-lunaire/01/jaridan-prelude.jpg)
+![Prélude de Jaridan](/img/narratives/the-lunar-way/01/jaridan-prelude.jpg)
 
 > 🎲 Défaite Marginale
 
@@ -59,7 +59,7 @@ Dans l'obscurité, en douce, je réussis tout de même à refourguer quelques bi
 
 ## Le Prélude de Peek-ee-peek : Le Sang et la Poussière de Bouillon-de-Lune
 
-![Désordre](../../../../assets/rules/runes/pouvoirs/desordre.png)![Vie](../../../../assets/rules/runes/pouvoirs/vie.png)
+![Désordre](/img/runes/disorder.png)![Vie](/img/runes/life.png)
 
 Notre tribu a gravé sa gloire dans le sang lors de la mémorable bataille de Bouillon-de-Lune. J’y étais ! Et par les esprits, quelle bataille homérique ! D'un côté, l'armée lunaire, resplendissante dans ses armes et armures étincelantes, la magie crépitant dans l'éther et de terrifiants hommes-dragons sortis des légendes. De l'autre, nous, fiers, terribles, fendant la plaine sur le dos de nos antilopes de guerre ! Nous avons littéralement écrasé les autres tribus. 
 
@@ -95,7 +95,7 @@ Mon action d'éclat ultime échoua d'un cheveu... J'aurais pu être l'héroïne 
 
 Ce fut une **défaite majeure** pour les assaillants. Les tribus de nomades qui s'étaient ruées à l'assaut des positions lunaires finissent durablement brisées par ce désastre - estropiées, handicapées et moralement démoralisées pour les saisons à venir.
 
-![Bataille de Bouillon de Lune](../../../../assets/stories/la-voie-lunaire/01/bouillon-de-lune.jpg)
+![Bataille de Bouillon de Lune](/img/narratives/the-lunar-way/01/bouillon-de-lune.jpg)
 
 De mon côté, je m'en sors vivante mais grandement affaiblie, le corps marqué par quelques écorchures sanglantes et l'esprit vidé par une profonde fatigue spirituelle pour avoir tant sollicité l'Esprit de la Bête. Fta-Ah, épuisée par ses prouesses, est tout aussi affaiblie. Mais qu'importe nos blessures : notre victoire lors de la Bataille du Bouillon-de-Lune reste absolue et historique.
 

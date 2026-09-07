@@ -4,7 +4,7 @@ title: "Irinus Solantis"
 
 > "Guerre organisée avec des règles, pas la boucherie"
 
-![Irinus](../../../../../assets/srd/irinus.jpg)
+![Irinus](/img/narratives/heirs-of-zola-fel/heroes/irinus.jpg)
 
 * Homme, 30 ans
 * **Niveau de vie**: standard
@@ -12,19 +12,19 @@ title: "Irinus Solantis"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/feu.png" width="10%">
+<img src="/img/runes/fire.png" width="10%">
 
 * Réfléchi
 * Homme de devoir
 * Discipline personnelle
 
-<img src="../../../../../assets/rules/runes/conditions/maitrise.png" width="10%">
+<img src="/img/runes/mastery.png" width="10%">
 
 * Impitoyable
 * Intimidant
 * Organiser un plan
 
-<img src="../../../../../assets/rules/runes/autres/war.png" width="10%">
+<img src="/img/runes/war.png" width="10%">
 
 * Guerre organisée avec des règles, pas la boucherie
 

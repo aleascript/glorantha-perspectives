@@ -2,7 +2,7 @@
 title: "Chaos"
 ---
 
-![Chaos](../../../assets/rules/runes/conditions/chaos.png)
+![Chaos](/img/runes/chaos.png)
 
 > "Chaos is not strong because it has better weapons. Chaos is strong because it does not play the same game as we do."
 >

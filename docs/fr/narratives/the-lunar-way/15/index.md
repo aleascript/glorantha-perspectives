@@ -29,7 +29,7 @@ Interrogeant Gomax à ce sujet, celui-ci déclare qu'ils ne sont pas là pour s'
 
 Au moment où Jaridan discute avec Gomax, au détour d'un virage, la troupe se fige devant un spectacle monstrueux. Une créature à tête humaine avec une crinière et un corps de lion et une queue de scorpion est en train de dévorer un sanglier géant ! La troupe s'arrête et Gomax organise sa tactique. Pendant ce temps Jaridan recule pour se rapprocher de la queue et donc des prisonniers. Les lunaires sont occupés à autre chose. Il est temps d'agir. 
 
-![Manticore](../../../../assets/stories/la-voie-lunaire/15/manticore.jpg)
+![Manticore](/img/narratives/the-lunar-way/15/manticore.jpg)
 
 > 🎲 Réussir à libérer les prisonniers
 > - Conflit:
@@ -97,7 +97,7 @@ Jaridan: "ton plan est judicieux."
 
 Puis les deux héros soignent comme ils peuvent leurs blessures pour qu'elles ne s'aggravent pas. La douleur restera présente encore une bonne semaine malheureusement à moins qu'ils ne trouvent un guérisseur. Autour d'eux, les bois sont calmes. Ils reprennent la route au pas en faisant attention à tout bruit suspect.
 
-> <img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="10%"> <img src="../../../../assets/rules/runes/pouvoirs/desordre.png" width="10%">
+> <img src="/img/runes/harmony.png" width="10%"> <img src="/img/runes/disorder.png" width="10%">
 
 Cela fait quelques heures qu'ils avancent, lentement dans les frondaisons de plus en plus épaisses de la forêt quand soudain, une forme virevoltante les frôle suivie par un petit félin aux oreilles pointues. Jaridan reconnait un alynx, une sorte de gros chat domestiqué par les Orlanthis depuis toujours, depuis que Yinkin, le dieu Alynx accompagne Orlanth dans ses aventures. 
 

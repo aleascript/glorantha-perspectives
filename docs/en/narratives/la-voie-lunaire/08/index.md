@@ -81,7 +81,7 @@ The search is organized. The Orlanthis adopt the Air method. They proceed by mak
 
 ## The vineyard search
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%"> The ogres released snakes in their flight to slow them down. This is an opportunity to learn what snakes Glorantha has.
+> <img src="/img/runes/fate.png" width="5%"> The ogres released snakes in their flight to slow them down. This is an opportunity to learn what snakes Glorantha has.
 
 The heroes advance with the Orlanthis through the tall vines of the domain when suddenly the first cry reveals the danger. Orlanthis exclaim: "snakes!!" Dozens of snakes infest the vineyard.
 
@@ -123,7 +123,7 @@ Peek proposes: "let us give them a dignified death without suffering."
 
 And she nocks her bow awaiting the green light from the Orlanthis. The moment is heavy. The arrow flies followed by others launched by the still valiant Orlanthis. The men are killed. Then they see the Yelmalite raise his hands against each other and form a circle, they see the air thicken between his hands forming a sort of lens, the sun begins to heat and a ray shoots from his hands then another and another, setting fire to the vineyard which ignites burning the snakes as well as the few deceased Orlanthis.
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%"> **Plot twist!**
+> <img src="/img/runes/fate.png" width="5%"> **Plot twist!**
 
 And suddenly they realize a young Orlanthi is being strangled by a strange rainbow snake that is planting its fangs in him. Hanya approaches, and crosses eyes with the latter who tries to hypnotize her.
 
@@ -134,7 +134,7 @@ And suddenly they realize a young Orlanthi is being strangled by a strange rainb
 > - Result 2 vs 3: Victory +2
 >   - there were several unrecorded escalations
 
-![Rainbow Serpent](../../../../assets/stories/la-voie-lunaire/08/serpent-arc-en-ciel.jpg)
+![Rainbow Serpent](/img/narratives/the-lunar-way/08/serpent-arc-en-ciel.jpg)
 
 The combat is epic, the serpent does not hypnotize Hanya and tries to flee but she catches up with it and must deal it several blows. Seeing itself attacked the serpent tries to bite her. Peek knows that Hanya is immune to arrows but does not want to take the risk given what happened with the Gazzams and for now the proud guardian of Jillaro seems to be managing. The Orlanthis do not dare shoot and nobody is nearby to intervene in close combat. Finally after several blows, the serpent collapses dead!
 
@@ -152,7 +152,7 @@ The group arrives in time and returns with healers on horseback. Peek chooses to
 
 # Return to the village
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%"> **Plot twist!** (Illusion and Truth)
+> <img src="/img/runes/fate.png" width="5%"> **Plot twist!** (Illusion and Truth)
 
 The atmosphere is heavy and Orlanthis begin to accuse the Lunars of having hidden things from them, which is ridiculous since they themselves suffered from it but they argue that they may have pretended. They accuse them of being in cahoots with the Ogres.
 

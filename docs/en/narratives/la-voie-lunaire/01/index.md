@@ -8,7 +8,7 @@ title: "The Preludes"
 
 # The Prelude of Ikarnos: The Shadow Beneath Argenteus's Gleam
 
-![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png)![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png)
+![Illusion](/img/runes/illusion.png)![Disorder](/img/runes/disorder.png)
 
 The Rune of Mastery beats strongly in my veins; it feeds within me the devouring ambition to face all situations, to never bow my head, even though it forbids me from acting directly upon Destiny.
 
@@ -22,17 +22,17 @@ Argenteus and his entourage of courtiers seem to royally ignore this state of af
 
 He dismissed me with a weary gesture, as if washing his hands of it. That was at least something: I did not have their official veto on my hands. Without losing a moment, I organized my journey and set course for the Southern Kingdoms.
 
-![Argenteus](../../../../assets/stories/la-voie-lunaire/01/ikarnos-moon-palace.jpg)
+![Argenteus](/img/narratives/the-lunar-way/01/ikarnos-moon-palace.jpg)
 
 ## The Prelude of Hanya: The Song of Movement and Stasis
 
-![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png)![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png)
+![Harmony](/img/runes/harmony.png)![Stasis](/img/runes/stasis.png)
 
 After scrutinizing the sacred waters and completing my divinations at the well of Hwarin in Jillaro, my duty appeared to me with the clarity of crystal. I went without delay to find the priestess of the Order. The verdict of destiny was paradoxical: if one wished to protect Jillaro, I had imperatively to leave Jillaro, my beloved city, to venture forth into the dangers of the barbarian lands.
 
 Facing her institutional skepticism, I poured out my entire soul in an attempt to open her mind to this necessity...
 
-![Hanya Prelude](../../../../assets/stories/la-voie-lunaire/01/hanya-prelude.jpg)
+![Hanya Prelude](/img/narratives/the-lunar-way/01/hanya-prelude.jpg)
 
 > 🎲 Major Victory
 
@@ -40,7 +40,7 @@ The success was total. Not only did the priestess acquiesce to my arguments, but
 
 
 ## The Prelude of Jaridan: The Bitter Scent of the Lunar Pax
-![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png)![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png)
+![Movement](/img/runes/movement.png)![Disorder](/img/runes/disorder.png)
 
 Trade is my second nature, and I have the good fortune of being a regular visitor to the kingdom of Sartar, particularly with the various clans of the AldaChur confederation. But the world is changing: since the fall of Boldhome twenty years ago, the proud land of Sartar has become a Lunar Province.
 
@@ -48,7 +48,7 @@ It was the Dark Season, that time of year favorable to exchanging Ernalda's eart
 
 The breaking point came the day I arrived on the lands of the Allalone Clan to participate in the weekly market. For the very first time in my peddler's life, I was not welcome. I had to fiercely negotiate my simple spot on the public square: what absolute shame! Me, an honest Orlanthi!
 
-![Jaridan Prelude](../../../../assets/stories/la-voie-lunaire/01/jaridan-prelude.jpg)
+![Jaridan Prelude](/img/narratives/the-lunar-way/01/jaridan-prelude.jpg)
 
 > 🎲 Marginal Defeat
 
@@ -59,7 +59,7 @@ In the darkness, quietly, I still managed to sell a few goods to clan members wh
 
 ## The Prelude of Peek-ee-peek: Blood and Dust of Bullion-of-Moon
 
-![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png)![Life](../../../../assets/rules/runes/pouvoirs/vie.png)
+![Disorder](/img/runes/disorder.png)![Life](/img/runes/life.png)
 
 Our tribe carved its glory in blood during the memorable Battle of Bullion-of-Moon. I was there! And by the spirits, what a Homeric battle! On one side, the lunar army, resplendent in gleaming weapons and armor, magic crackling in the ether and terrifying dragon-men out of legends. On the other, us, proud, terrible, cleaving the plain on the backs of our war antelopes! We literally crushed the other tribes.
 
@@ -95,7 +95,7 @@ My ultimate feat of glory failed by a hair... I could have been the legendary he
 
 It was a **major defeat** for the attackers. The nomad tribes that had rushed to assault the lunar positions were lastingly broken by this disaster — crippled, handicapped, and morally demoralized for the seasons to come.
 
-![Battle of Bullion of Moon](../../../../assets/stories/la-voie-lunaire/01/bouillon-de-lune.jpg)
+![Battle of Bullion of Moon](/img/narratives/the-lunar-way/01/bouillon-de-lune.jpg)
 
 As for me, I came out alive but greatly weakened, my body marked by a few bloody abrasions and my mind emptied by a deep spiritual exhaustion from having called upon the Spirit of the Beast so much. Fta-Ah, exhausted by her exploits, is equally weakened. But what do our wounds matter: our victory at the Battle of Bullion-of-Moon remains absolute and historic.
 

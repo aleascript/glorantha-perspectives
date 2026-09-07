@@ -2,7 +2,7 @@
 title: "Runic Cards"
 ---
 
-![cards](../../../../assets/rules/cards.png)
+![cards](/img/rules/runic-cards.png)
 
 One could replace the bets with a deck of cards containing:
 - 1/6 of the God's major rune (for 6s)

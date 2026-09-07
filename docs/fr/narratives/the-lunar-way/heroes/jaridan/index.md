@@ -4,7 +4,7 @@ title: "Jaridan"
 
 > "La guerre n'est jamais bonne pour le commerce"
 
-![Jaridan](../../../../../assets/stories/la-voie-lunaire/heroes/jaridan/jaridan.jpg)
+![Jaridan](/img/narratives/the-lunar-way/heroes/jaridan/jaridan.jpg)
 
 * Homme, 48 ans
 * **Niveau de vie**: aisé
@@ -13,19 +13,19 @@ title: "Jaridan"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/terre.png" width="10%">
+<img src="/img/runes/earth.png" width="10%">
 
 * Pragmatique
 * Endurant
 * Pacifiste, débonnaire, bienveillant
 
-<img src="../../../../../assets/rules/runes/pouvoirs/mouvement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%">
 
 * Voyager discrètement
 * Energique
 * Curieux
 
-<img src="../../../../../assets/rules/runes/conditions/echanges.png" width="10%">
+<img src="/img/runes/exchange.png" width="10%">
 
 * Diplomate
 * Empathique

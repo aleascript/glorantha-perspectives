@@ -4,7 +4,7 @@ title: "Jaridan"
 
 > "War is never good for trade"
 
-![Jaridan](../../../../../assets/stories/la-voie-lunaire/heroes/jaridan/jaridan.jpg)
+![Jaridan](/img/narratives/the-lunar-way/heroes/jaridan/jaridan.jpg)
 
 * Man, 48 years old
 * **Standard of living**: comfortable
@@ -13,19 +13,19 @@ title: "Jaridan"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/terre.png" width="10%">
+<img src="/img/runes/earth.png" width="10%">
 
 * Pragmatic
 * Resilient
 * Pacifist, gentle, benevolent
 
-<img src="../../../../../assets/rules/runes/pouvoirs/mouvement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%">
 
 * Travel discreetly
 * Energetic
 * Curious
 
-<img src="../../../../../assets/rules/runes/conditions/echanges.png" width="10%">
+<img src="/img/runes/exchange.png" width="10%">
 
 * Diplomatic
 * Empathic

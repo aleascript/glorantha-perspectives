@@ -2,11 +2,11 @@
 title: "Draconic Thought: the Dragon's Dream"
 ---
 
-![Dragonewt](../../../assets/rules/runes/formes/dragonewt.png)![Dragonewt](../../../assets/rules/runes/formes/dragon.png)
+![Dragonewt](/img/runes/dragonewt.png)![Dragonewt](/img/runes/dragon.png)
 
 > An adept of the draconic path reads the world through paradoxes and a holistic view of their own draw. They participate in material reality like the others, but know that forcing the illusion with their cosmic magic ties them a little more to this world, delaying their own shedding into the True Dragon stage. Their true spiritual power lies in their strength to renounce victory when the magical opportunity presents itself.
 
-![dices](../../../assets/rules/draconic_dices.png)
+![dices](/img/rules/draconic-dice.png)
 `Utuma with II successes or Wyrm with IV successes?`
 
 *Derogatory names for others: monsters, incomprehensible...*

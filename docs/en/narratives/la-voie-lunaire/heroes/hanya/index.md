@@ -4,7 +4,7 @@ title: "Hanya of Jillaro"
 
 > "We must help the Goddess and preserve civilization"
 
-![Hanya](../../../../../assets/stories/la-voie-lunaire/heroes/hanya/hanya.jpg)
+![Hanya](/img/narratives/the-lunar-way/heroes/hanya/hanya.jpg)
 
 * Woman, 27 years old
 * **Standard of living**: average
@@ -12,19 +12,19 @@ title: "Hanya of Jillaro"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/feu.png" width="10%">
+<img src="/img/runes/fire.png" width="10%">
 
 * Disciplined
 * Intransigent
 * Haughty toward barbarians
 
-<img src="../../../../../assets/rules/runes/pouvoirs/harmonie.png" width="10%">
+<img src="/img/runes/harmony.png" width="10%">
 
 * Calm tensions
 * Self-sacrifice
 * Ride a horse
 
-<img src="../../../../../assets/rules/runes/pouvoirs/mouvement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%">
 
 * Fast
 * Cleaving axe blow

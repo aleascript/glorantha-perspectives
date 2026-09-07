@@ -2,7 +2,7 @@
 title: "La Voie Lunaire"
 ---
 
-![Lune](../../../assets/rules/runes/elements/lune.png)
+![Lune](/img/runes/moon.png)
 
 La magie lunaire est soumise au cycle lunaire en dehors de la ligne brillante. 
 

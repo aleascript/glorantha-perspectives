@@ -4,7 +4,7 @@ title: "Fazia Hanout"
 
 > "Voler un voleur, ce n'est pas du vol, non ?"
 
-![Fazia](../../../../../assets/srd/fazia.jpg)
+![Fazia](/img/narratives/heirs-of-zola-fel/heroes/fazia.jpg)
 
 * Femme, 20 ans
 * **Niveau de vie**: standard
@@ -12,21 +12,21 @@ title: "Fazia Hanout"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/obscurité.png" width="10%">
+<img src="/img/runes/darkness.png" width="10%">
 
 * Se fondre dans la foule
 * Effacer ses traces
 * Cachette parfaite
 * Vol parfait
 
-<img src="../../../../../assets/rules/runes/pouvoirs/illusion.png" width="10%">
+<img src="/img/runes/illusion.png" width="10%">
 
 * Masque méconnaissable
 * Dissimuler la vérité
 * Mentir avec conviction
 * Cacher un objet
 
-<img src="../../../../../assets/rules/runes/conditions/echanges.png" width="10%">
+<img src="/img/runes/exchange.png" width="10%">
 
 * Égoïste
 * Inventive

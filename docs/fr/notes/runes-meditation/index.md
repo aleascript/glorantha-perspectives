@@ -14,7 +14,7 @@ title: Méditation sur les runes
  Certains l'utilisent aussi comme examen dans les Universités des grandes Cités.
 
 *Un exemple de cercle:*
-![Cercle des runes](../../../assets/rules/runes/pouvoirs/power-runes-circle.png)
+![Cercle des runes](/img/site/power-runes-circle.png)
 
 Deux exemples de méditations: 
 

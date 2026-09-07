@@ -2,7 +2,7 @@
 title: "Ars Draconis Magica"
 ---
 
-![Infinity](../../../../assets/rules/runes/conditions/infini.png)
+![Infinity](/img/runes/infinity.png)
 
 This grimoire explores draconic magic through the rune of infinity.
 
@@ -12,7 +12,7 @@ The rune of infinity is a gauge. Only a true dragon can traverse the rune like a
 
 Looking at the rune of infinity, we better understand how it works:
 
-![Rune of Infinity](../../../../assets/rules/runes/conditions/infini-coordinates.png)
+![Rune of Infinity](/img/runes/infinity-coordinates.png)
 
 At the center is the Ouroboros (0). A point. A circle. A reptilian movement and the circle folds to create the rune. The maximum amplitude of the rune is equal to its size (1-0-6). The dragon can go towards 1 or towards 6. Due to its reptilian nature, it can create small amplitudes as well as large ones. There are always 4 paths to the 2 possible choices: 1 choice per path. The dragon has a choice.
 

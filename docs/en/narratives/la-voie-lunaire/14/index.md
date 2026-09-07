@@ -102,7 +102,7 @@ He stammers: "I do not know if your story is true or not, but as I told you, lif
 
 A Lunar citizen should not be sold and you should have told me that sooner." He signals to his men and the small party begins to retreat toward the woods, remaining on their guard against Hanya's threatening face who still firmly grips her double axe.
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%"> **Plot twist!** 
+> <img src="/img/runes/fate.png" width="5%"> **Plot twist!** 
 
 ## Arrested!
 
@@ -126,7 +126,7 @@ The men surround them. They are too numerous and too armed to attempt anything t
 
  Then he sees other Sartarites emerge from the woods dragging Hazz wounded and battered along with two of his men. The other two missing may have managed to escape or their corpses now lie in the woods. The warrior with the sword: "do not worry, your accomplice is here and all the truth will be made about your sinister dealings that have gone on too long now. The wind rises and Lankhor Mhy sees all. Come, take them."
 
-![Arrested](../../../../assets/stories/la-voie-lunaire/14/arrestation.jpg)
+![Arrested](/img/narratives/the-lunar-way/14/arrestation.jpg)
 
 We leave the heroes tied and disarmed, dragged by the Sartarite party through the heath to reach the clan's domain.
 

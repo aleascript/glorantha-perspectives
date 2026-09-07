@@ -2,7 +2,7 @@
 title: "Reflections on camps and bets"
 ---
 
-![Destin](../../../assets/rules/runes/conditions/destin.png)
+![Destin](/img/runes/fate.png)
 
 ### Hybrid camp
 

@@ -2,7 +2,7 @@
 title: The Mystical Marbles
 ---
 
-![marbles](../../../../assets/rules/marbles.png)
+![marbles](/img/rules/mystical-marbles.png)
 
 When a mystic faces adversity, they distinguish what is favorable or can act as a lever from what is unfavorable or must remain in the background. They also distinguish what can mutate and generate a transformation. They therefore only see black, gray, white, and bicolored (black and white) or red (like the Red Moon) marbles.
 

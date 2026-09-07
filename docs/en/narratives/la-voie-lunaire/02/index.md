@@ -4,7 +4,7 @@ title: "Dunstop"
 
 # Fazzur's Mission
 
-![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png)![Death](../../../../assets/rules/runes/pouvoirs/mort.png)
+![Disorder](/img/runes/disorder.png)![Death](/img/runes/death.png)
 
 * **Location:** Dunstop — Palace of provincial general *Fazzur the Learned*
 * **Date:** 1611 — Sea Season — Harmony Week — Clay Day
@@ -35,7 +35,7 @@ He replied: "May we satisfy the Son of the Moon, and welcome to you in Dunstop."
 
 I looked at the nomad from head to toe and shuddered at the thought that it was people like her who, several times, put the Empire to fire and sword, even assassinating the Emperor.
 
-![Fazzur](../../../../assets/stories/la-voie-lunaire/02/dunstop-fazzur.jpg)
+![Fazzur](/img/narratives/the-lunar-way/02/dunstop-fazzur.jpg)
 
 "Even though it is difficult to win a war, it is equally difficult to maintain and impose peace," Fazzur continued. "War leaves scars, resentment among the vanquished and they always seek revenge. We will crush them if necessary, but we must be prepared. That is why I need you four to consolidate our positions, to be my eyes and ears. Snoop, investigate, represent our cause. You have free rein. Return in one year to make your report. You may leave."
 

@@ -4,7 +4,7 @@ title: "Pensée draconique : le Rêve du Dragon"
 
 # Pensée draconique : le Rêve du Dragon
 
-![Dragonewt](../../../assets/rules/runes/formes/dragonewt.png)![Dragon](../../../assets/rules/runes/formes/dragon.png)
+![Dragonewt](/img/runes/dragonewt.png)![Dragon](/img/runes/dragon.png)
 
 Pour un dragonewt, gagner dans le monde matériel n'est pas toujours la meilleure issue. Certains tirages offrent justement le choix entre **forcer le monde** et **s'en détacher**.
 
@@ -21,7 +21,7 @@ Puis cherchez les **motifs complexes** :
 
 Pour chaque motif complexe, le joueur qui porte le camp draconique choisit entre **Wyrm** et **Utuma**.
 
-![Dés draconiques](../../../assets/rules/draconic_dices.png)
+![Dés draconiques](/img/rules/draconic-dice.png)
 
 ## Wyrm : agir sur le monde
 

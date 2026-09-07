@@ -4,7 +4,7 @@ title: "Le Chaos"
 
 # Le Chaos
 
-![Chaos](../../../assets/rules/runes/conditions/chaos.png)
+![Chaos](/img/runes/chaos.png)
 
 > « Le Chaos n'est pas fort parce qu'il a de meilleures armes. Le Chaos est fort parce qu'il ne joue pas au même jeu que nous. »
 >

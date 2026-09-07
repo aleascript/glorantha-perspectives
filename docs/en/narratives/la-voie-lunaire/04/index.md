@@ -8,8 +8,8 @@ title: "On the Road to the Falling Ruins"
 
 ## The Exiles' Ambush
 
-![Threat](../../../../assets/rules/runes/pouvoirs/mort.png)
-![Threat](../../../../assets/rules/runes/pouvoirs/mort.png)
+![Threat](/img/runes/death.png)
+![Threat](/img/runes/death.png)
 
 We were advancing on our mounts along an increasingly wild road, drawing closer to the mountains, when suddenly arrows flew. We were under attack!
 
@@ -80,7 +80,7 @@ There were 4 dead, 3 dying, and 1 gravely wounded. Hanya coldly finished off the
 
 The man stammered: "Glory to Orlanth!", before spitting out more words in Orlanthi. His eyes widened in shock when he saw Jiridan translate his words.
 
-> **Inspiration**: <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Revelation
+> **Inspiration**: <img src="/img/runes/illusion.png" width="5%" valign="bottom"> Revelation
 
 The prisoner had said: "The Hero Wars have begun, and Argrath will bring the Goddess to her knees."
 
@@ -104,7 +104,7 @@ A glimmer of terror finally passed through the rebel's gaze, as if he suddenly r
 
 The prisoner stammered: "Glory to... He... will conquer..." Suddenly, tears flowed down his cheeks. He had just realized, with horror, that he was unable to pronounce the names of his Gods and his Heroes. The magical forgetting was total.
 
-![Forgetting of Orlanth's Name](../../../../assets/stories/la-voie-lunaire/04/oubli-du-nom.jpg)
+![Forgetting of Orlanth's Name](/img/narratives/the-lunar-way/04/oubli-du-nom.jpg)
 
 **Ikarnos** smiled: "If you survive, go to Bagnot, to the temple of Danfive Xaron. You will find a new life there. Or else, return among your people, and beg them for mercy for no longer being able to worship your own Gods..."
 
@@ -128,7 +128,7 @@ The Busérian Astrolabes have long discoursed on the phases of the Moon. Indeed,
 
 We now traveled off the beaten path, on our guard. Peek-ee-Peek went ahead as a scout and signaled if the way was clear. As we approached the mountains, we carefully avoided isolated dwellings. However, the region was not deserted, and encounter was inevitable.
 
-> <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"><img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Enemy and relations. What is different threatens our cohesion.
+> <img src="/img/runes/death.png" width="5%" valign="bottom"><img src="/img/runes/harmony.png" width="5%" valign="bottom"> Enemy and relations. What is different threatens our cohesion.
 
 During a bivouac at the foot of the mountains, while Peek was chanting shamanic incantations while playing with a round, painted pebble, Hanya suddenly turned on her. She stated that for the good of the mission, it would be preferable for all members of the party to be devoted to the Red Goddess and abandon their old superstitious cults.
 

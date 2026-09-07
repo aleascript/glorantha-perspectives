@@ -2,7 +2,7 @@
 title: "Découvrir une nouvelle vision du monde?"
 ---
 
-![Maitrise](../../../assets/rules/runes/conditions/maitrise.png)
+![Maitrise](/img/runes/mastery.png)
 
 On pourrait imaginer par exemple élaborer d'autres ajustements des règles pour ceux qui auraient des runes de condition spécifique.
 

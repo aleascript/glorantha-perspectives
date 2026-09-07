@@ -2,7 +2,7 @@
 title: "Currency"
 ---
 
-![Trade](../../../assets/rules/runes/conditions/echanges.png)
+![Trade](/img/runes/exchange.png)
 
 
 Some notes on certain currencies in circulation in Glorantha.

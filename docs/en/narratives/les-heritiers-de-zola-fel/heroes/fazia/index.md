@@ -4,7 +4,7 @@ title: "Fazia Hanout"
 
 > "Stealing from a thief isn't theft, is it?"
 
-![Fazia](../../../../../assets/srd/fazia.jpg)
+![Fazia](/img/narratives/heirs-of-zola-fel/heroes/fazia.jpg)
 
 * Woman, 20 years old
 * **Standard of living**: average
@@ -12,21 +12,21 @@ title: "Fazia Hanout"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/obscurité.png" width="10%">
+<img src="/img/runes/darkness.png" width="10%">
 
 * Blend into the crowd
 * Erase one's tracks
 * Perfect hiding place
 * Perfect theft
 
-<img src="../../../../../assets/rules/runes/pouvoirs/illusion.png" width="10%">
+<img src="/img/runes/illusion.png" width="10%">
 
 * Unrecognizable mask
 * Conceal the truth
 * Lie with conviction
 * Hide an object
 
-<img src="../../../../../assets/rules/runes/conditions/echanges.png" width="10%">
+<img src="/img/runes/exchange.png" width="10%">
 
 * Selfish
 * Resourceful

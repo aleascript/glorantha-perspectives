@@ -2,7 +2,7 @@
 title: "Ars Draconis Magica"
 ---
 
-![Infini](../../../../assets/rules/runes/conditions/infini.png)
+![Infini](/img/runes/infinity.png)
 
 Ce grimoire exploire la magie draconique à travers la rune de
 l’infini.
@@ -18,7 +18,7 @@ humains, ne pouvons faire de même. La rune est alors une contrainte.
 En regardant la rune de l’infini, on comprend mieux comment ça
 marche:
 
-![Rune de l'infini](../../../../assets/rules/runes/conditions/infini-coordinates.png)
+![Rune de l'infini](/img/runes/infinity-coordinates.png)
 
 Au centre l’Ouroboros (0). Un point. Un
 rond. Un mouvement reptilien et le cercle se plie pour créer la

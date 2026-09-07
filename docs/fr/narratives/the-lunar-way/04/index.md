@@ -8,8 +8,8 @@ title: "En route vers les Ruines Tombantes"
 
 ## L'embuscade des exilés
 
-![Menace](../../../../assets/rules/runes/pouvoirs/mort.png)
-![Menace](../../../../assets/rules/runes/pouvoirs/mort.png)
+![Menace](/img/runes/death.png)
+![Menace](/img/runes/death.png)
 
 Nous avancions sur nos montures le long d'une route de plus en plus sauvage, nous rapprochant des montagnes, quand soudain des flèches fusèrent. Nous étions attaqués !
 
@@ -80,7 +80,7 @@ Il y avait 4 morts, 3 mourants et 1 gravement blessé. Hanya acheva froidement l
 
 L'homme balbutia : "Gloire à Orlanth !", avant de cracher d'autres mots en Orlanthi. Ses yeux s'agrandirent de stupeur lorsqu'il vit Jiridan traduire ses paroles.
 
-> 🎲 **Inspiration** : <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Révélation
+> 🎲 **Inspiration** : <img src="/img/runes/illusion.png" width="5%" valign="bottom"> Révélation
 
 Le prisonnier avait dit : "La Guerre des Héros a commencé, et Argrath fera plier la Déesse."
 
@@ -104,7 +104,7 @@ Une lueur de terreur passa enfin dans le regard du rebelle, comme s'il prenait s
 
 Le prisonnier balbutia : "Gloire à... Il... vaincra..." Soudain, des larmes coulèrent sur ses joues. Il venait de se rendre compte, avec horreur, qu'il était incapable de prononcer le nom de ses Dieux et de ses Héros. L'oubli magique était total.
 
-![Oubli du nom d'Orlanth](../../../../assets/stories/la-voie-lunaire/04/oubli-du-nom.jpg)
+![Oubli du nom d'Orlanth](/img/narratives/the-lunar-way/04/oubli-du-nom.jpg)
 
 **Ikarnos** sourit : "Si tu survis, va à Bagnot, au temple de Danfive Xaron. Tu y trouveras une nouvelle vie. Ou alors, retourne parmi les tiens, et demande-leur grâce pour ne plus être capable d'adorer tes propres Dieux..."
 
@@ -130,7 +130,7 @@ Nous voyagions désormais en marge de la route, sur nos gardes. Peek-ee-Peek par
 
 
 
-> 🎲 <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"><img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Ennemi et relations. Ce qui est différent menace notre cohésion.
+> 🎲 <img src="/img/runes/death.png" width="5%" valign="bottom"><img src="/img/runes/harmony.png" width="5%" valign="bottom"> Ennemi et relations. Ce qui est différent menace notre cohésion.
 
 Lors d'un bivouac au pied des montagnes, alors que Peek psalmodiait des incantations chamaniques en jouant avec un caillou rond et peint, Hanya s'en prit brusquement à elle. Elle affirma que pour le bien de la mission, il serait préférable que tous les membres de la troupe soient voués à la Déesse Rouge et abandonnent leurs vieux cultes superstitieux.
 

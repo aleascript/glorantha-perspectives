@@ -4,7 +4,7 @@ title: "Korlanth La Chance"
 
 > "Je crois en mon Destin"
 
-![Korlanth](../../../../../assets/srd/korlanth.jpg)
+![Korlanth](/img/narratives/heirs-of-zola-fel/heroes/korlanth.jpg)
 
 * Homme, 20 ans
 * **Niveau de vie**: pauvre
@@ -12,20 +12,20 @@ title: "Korlanth La Chance"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/air.png" width="10%">
+<img src="/img/runes/air.png" width="10%">
 
 * Rebelle
 * Agir avec énergie
 * Liberté
 
-<img src="../../../../../assets/rules/runes/pouvoirs/mouvement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%">
 
 * Rapide
 * Surprendre l'adversaire
 * Envol
 * Coureur d'orage
 
-<img src="../../../../../assets/rules/runes/conditions/chance.png" width="10%">
+<img src="/img/runes/luck.png" width="10%">
 
 * Chanceux
 * Attirer les coïncidences

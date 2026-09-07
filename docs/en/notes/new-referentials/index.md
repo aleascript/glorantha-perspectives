@@ -2,7 +2,7 @@
 title: "Discovering a new worldview?"
 ---
 
-![Maitrise](../../../assets/rules/runes/conditions/maitrise.png)
+![Maitrise](/img/runes/mastery.png)
 
 One could imagine, for example, developing other rule adjustments for those who have specific condition runes.
 

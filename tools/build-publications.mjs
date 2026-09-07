@@ -89,14 +89,6 @@ async function preparePublication(publicationName, publication, locale, localeCo
     entries.push(sourcePath);
   }
 
-  // GP currently keeps Markdown-relative images under docs/assets.
-  const docsAssetsSource = path.join(projectRoot, 'docs', 'assets');
-  if (await pathExists(docsAssetsSource)) {
-    await fs.cp(docsAssetsSource, path.join(publicationWorkDir, 'docs', 'assets'), {
-      recursive: true,
-    });
-  }
-
   const staticSource = path.join(projectRoot, 'static');
   const staticDestination = path.join(publicationWorkDir, 'static');
   const hasStatic = await pathExists(staticSource);

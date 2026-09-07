@@ -42,7 +42,7 @@ She leans against a tree and her eyes roll back.
 >   - "Bear"
 > - Result 2 vs 1: Victory +2
 
-![Odayla](../../../../assets/stories/la-voie-lunaire/09/odayla-vision.jpg)
+![Odayla](/img/narratives/the-lunar-way/09/odayla-vision.jpg)
 
 A small smoke exits the pouch then mingles in the surrounding air. The spirit searches and finally finds the gigantic black-furred bear sniffing the air but the spirit has no scent and the spirit relays the image to Peek who also sees the bear, as well as where it is located. Moreover the spirit senses something strange and a human aura overlaps the bear's aura in Peek's vision. This bear would also be a human. It is incomprehensible. Praxian traditions do not usually incarnate animals. But it is a fact. They know a little more about their prey now.
 
@@ -110,7 +110,7 @@ Hanya is hurled against a rock. A female creature rises from a basin a bit furth
 
 The creature sends a current to try to drown Hanya but she manages to avoid it and gets out of the water exhausted but safe. The creature looks at the group with her big eyes. She does not understand. It seems the spirits contained in Peek's fetishes have calmed her.
 
-![Potamid](../../../../assets/stories/la-voie-lunaire/09/potameide-metal.jpg)
+![Potamid](/img/narratives/the-lunar-way/09/potameide-metal.jpg)
 
 Peek brings her fingers to her temples and receives the creature's message through the spirits returning to her fetishes. It is not really a language. It is between dream and thought with images and sensations.
 
@@ -203,7 +203,7 @@ Ikarnos discreetly notices Hanya's incisor but says nothing. The situation is mo
 
 Ikarnos attempts to apply the techniques of the Diplomatica Scriptoriae and in particular the magical writings on how to find the 3rd way but this does not help Jaridan recover in his memory whether he knows a Heortian myth or otherwise that could heal Hanya.
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%"> **Plot twist!**
+> <img src="/img/runes/fate.png" width="5%"> **Plot twist!**
 
 Suddenly in the middle of the night, Hanya is seized by stomach pains. She vomits blood. Her eyes are red with blood, her 2 incisors are now clearly visible. She craves raw flesh! This time, the evil can no longer be hidden.
 

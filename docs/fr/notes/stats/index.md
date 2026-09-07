@@ -2,7 +2,7 @@
 title: "Statistiques"
 ---
 
-![Chance](../../../assets/rules/runes/conditions/chance.png)
+![Chance](/img/runes/luck.png)
 
 # Stats
 

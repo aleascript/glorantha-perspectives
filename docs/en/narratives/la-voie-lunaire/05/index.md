@@ -2,7 +2,7 @@
 title: "The Falling Ruins"
 ---
 
-![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png)![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png)
+![Truth](/img/runes/truth.png)![Illusion](/img/runes/illusion.png)
 
 > **Expected themes:** Mysterious ruins, a strange story of a scholar from the WFH (Empire of Friends of Wyrms), blocks of stone falling from the sky, the meeting with Elemenoria.
 
@@ -63,7 +63,7 @@ The group realizes that the chaotic layout of the city is not only due to the ec
 
 Taking advantage of a brief lull, Ikarnos keeps his composure, Hanya and Jaridan slip through with agility, and Peek launches her antelope through the debris. After a frantic 200-meter run, they reach an elevated district. Stupefied, they watch the stones continue to crash exactly where they just left. Without trying to understand this marvel, Ikarnos orders to move away as quickly as possible to find the pass.
 
-![Falling stones](../../../../assets/stories/la-voie-lunaire/05/falling-stones.jpg)
+![Falling stones](/img/narratives/the-lunar-way/05/falling-stones.jpg)
 
 ## The witch of the Ruins
 
@@ -100,7 +100,7 @@ She extends her hand. A globe of light envelops her and the girl.
 
 **Hanya the ambitious** enters first. Inside, silence is absolute.
 
-<img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%"><img src="../../../../assets/rules/runes/pouvoirs/mouvement.png" width="5%">
+<img src="/img/runes/harmony.png" width="5%"><img src="/img/runes/movement.png" width="5%">
 
 **Hanya:** "I believe you are nothing but a joke, you crazy old woman. Prove me otherwise. I would dream, for example, of being fast enough that no projectile could reach me." Proud of her impossible wish, she smiles.
 
@@ -111,7 +111,7 @@ Hanya left the luminous globe a bit puzzled.
 
 **Jaridan** asks Hanya who replies: "just go see for yourself." So Jaridan is the next to enter the silent globe.
 
-<img src="../../../../assets/rules/runes/pouvoirs/mouvement.png" width="5%"><img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%">
+<img src="/img/runes/movement.png" width="5%"><img src="/img/runes/death.png" width="5%">
 
 **Jaridan:** "I dream that in these troubled times, yesterday's enemies become friends at best or at least allies. I think it is impossible but I have always dreamed of it and that is why I am with these Lunars."
 
@@ -119,7 +119,7 @@ Hanya left the luminous globe a bit puzzled.
 
 And Jaridan comes out, devastated by what he just heard. Next is **Ikarnos**.
 
-<img src="../../../../assets/rules/runes/pouvoirs/mouvement.png" width="5%"><img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%">
+<img src="/img/runes/movement.png" width="5%"><img src="/img/runes/illusion.png" width="5%">
 
 **The woman:** "The time is no longer for words but for revelations. You, tell me what you desire!"
 
@@ -153,7 +153,7 @@ The lance pierces Elemenoria's heart, who tries to whisper a final curse.
 
 The globe dissipates instantly. The witch has disappeared. Only the blind little girl remains who jumps up and rushes into a crevice in the wall.
 
-![Elemenoria](../../../../assets/stories/la-voie-lunaire/05/elemenoria-murder.jpg)
+![Elemenoria](/img/narratives/the-lunar-way/05/elemenoria-murder.jpg)
 
 > 🎲 Stop the girl
 > - Conflict:

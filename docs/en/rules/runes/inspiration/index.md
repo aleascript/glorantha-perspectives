@@ -2,7 +2,7 @@
 title: "Runic Inspiration"
 ---
 
-![Destiny](../../../../assets/rules/runes/conditions/destin.png)
+![Destiny](/img/runes/fate.png)
 
 Runes are the building blocks of the world. They weave reality. They seep everywhere. They draw the fabric of Destiny.
 
@@ -30,18 +30,18 @@ _Table of power runes:_
 
 | **Number** | **Rune** | **Themes** | **Examples** |
 | --- | --- | --- | --- |
-| **[1]** | ![Movement](../../../../assets/rules/runes/pouvoirs/mouvement.png) | **Discovery** | what is around, the world, places, information... |
-| **[2]** | ![Death](../../../../assets/rules/runes/pouvoirs/mort.png) | **Threat** | what is different, the other, the enemy... |
-| **[3]** | ![Harmony](../../../../assets/rules/runes/pouvoirs/harmonie.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... |
-| **[4]** | ![Stasis](../../../../assets/rules/runes/pouvoirs/stase.png) | **Law** | what is frozen, morality, society, group, authority... |
-| **[5]** | ![Life](../../../../assets/rules/runes/pouvoirs/vie.png) | **Resources** | what is necessary, material, reality... |
-| **[6]** | ![Disorder](../../../../assets/rules/runes/pouvoirs/desordre.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... |
-| **[7]** | ![Truth](../../../../assets/rules/runes/pouvoirs/vérité.png) | **Knowledge, Knowing** | what must be sought, searched, studied... |
-| **[8]** | ![Illusion](../../../../assets/rules/runes/pouvoirs/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... |
+| **[1]** | ![Movement](/img/runes/movement.png) | **Discovery** | what is around, the world, places, information... |
+| **[2]** | ![Death](/img/runes/death.png) | **Threat** | what is different, the other, the enemy... |
+| **[3]** | ![Harmony](/img/runes/harmony.png) | **Relations** | what connects, emotions, feelings, bonds, dilemma... |
+| **[4]** | ![Stasis](/img/runes/stasis.png) | **Law** | what is frozen, morality, society, group, authority... |
+| **[5]** | ![Life](/img/runes/life.png) | **Resources** | what is necessary, material, reality... |
+| **[6]** | ![Disorder](/img/runes/disorder.png) | **Revelation** | what surprises, shakes, twist, surprise, what is outside norms, improbable... |
+| **[7]** | ![Truth](/img/runes/truth.png) | **Knowledge, Knowing** | what must be sought, searched, studied... |
+| **[8]** | ![Illusion](/img/runes/illusion.png) | **Mystery** | what is hidden, deception, illusion, vain, illusory... |
 
 > Gloranthian scholars of diverse cultures have written extensively about the links between the power runes and the constituent elements of the world, whether at the level of bodily elements, the great universal questions, or any other grand categorization of the world.
 
-### [1] <img src="../../../../assets/rules/runes/pouvoirs/mouvement.png" width="5%" valign="bottom"> Movement
+### [1] <img src="/img/runes/movement.png" width="5%" valign="bottom"> Movement
 
 - **Themes:** Discovery
 - **Examples:** what is around, the world, places, information...
@@ -58,7 +58,7 @@ _Table of power runes:_
 - **Music:** the note D, the Dorian mode
 - **Taboo:** Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
 
-### [2] <img src="../../../../assets/rules/runes/pouvoirs/mort.png" width="5%" valign="bottom"> Death
+### [2] <img src="/img/runes/death.png" width="5%" valign="bottom"> Death
 
 - **Themes:** Threat
 - **Examples:** what is different, the other, the enemy...
@@ -75,7 +75,7 @@ _Table of power runes:_
 - **Music:** the note B, the Locrian mode
 - **Taboo:** Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
 
-### [3] <img src="../../../../assets/rules/runes/pouvoirs/harmonie.png" width="5%" valign="bottom"> Harmony
+### [3] <img src="/img/runes/harmony.png" width="5%" valign="bottom"> Harmony
 
 - **Themes:** Relations
 - **Examples:** what connects, emotions, feelings, bonds, dilemma...
@@ -92,7 +92,7 @@ _Table of power runes:_
 - **Music:** the note F, the Lydian mode
 - **Taboo:** Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
 
-### [4] <img src="../../../../assets/rules/runes/pouvoirs/stase.png" width="5%" valign="bottom"> Stasis
+### [4] <img src="/img/runes/stasis.png" width="5%" valign="bottom"> Stasis
 
 - **Themes:** Law
 - **Examples:** what is frozen, morality, society, group, authority...
@@ -109,7 +109,7 @@ _Table of power runes:_
 - **Music:** the note C, the Ionian mode
 - **Taboo:** Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
 
-### [5] <img src="../../../../assets/rules/runes/pouvoirs/vie.png" width="5%" valign="bottom"> Life
+### [5] <img src="/img/runes/life.png" width="5%" valign="bottom"> Life
 
 - **Themes:** Resources
 - **Examples:** what is necessary, material, reality...
@@ -126,7 +126,7 @@ _Table of power runes:_
 - **Music:** the note G, the Mixolydian mode
 - **Taboo:** Never eat meat. / Chastity. / Never let a creature die without permission. 
 
-### [6] <img src="../../../../assets/rules/runes/pouvoirs/desordre.png" width="5%" valign="bottom"> Disorder
+### [6] <img src="/img/runes/disorder.png" width="5%" valign="bottom"> Disorder
 
 - **Themes:** Revelation
 - **Examples:** what surprises, shakes, twist, surprise, what is outside norms, improbable...
@@ -143,7 +143,7 @@ _Table of power runes:_
 - **Music:** the note E, the Phrygian mode
 - **Taboo:** Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind. 
 
-### [7] <img src="../../../../assets/rules/runes/pouvoirs/vérité.png" width="5%" valign="bottom"> Truth
+### [7] <img src="/img/runes/truth.png" width="5%" valign="bottom"> Truth
 
 - **Themes:** Knowledge, Knowing
 - **Examples:** what must be sought, searched, studied...
@@ -160,7 +160,7 @@ _Table of power runes:_
 - **Music:** the note A, the Aeolian mode
 - **Taboo:**  Never lie, even by omission. / Reveal any secret you are asked for. / Never steal. 
 
-### [8] <img src="../../../../assets/rules/runes/pouvoirs/illusion.png" width="5%" valign="bottom"> Illusion
+### [8] <img src="/img/runes/illusion.png" width="5%" valign="bottom"> Illusion
 
 - **Themes:** Mystery
 - **Examples:** what is hidden, deception, illusion, vain, illusory...
@@ -199,12 +199,12 @@ Thus it appeared that a temporal relationship existed between the various elemen
 
 | **Number** | **Rune** | **Temporal marker** | **Comment** | **Logicians** |
 | --- | --- | --- | --- | --- |
-| **[1]** | ![Darkness](../../../../assets/rules/runes/elements/obscurité.png) | **Long before** | The time of origins | Before (distant past) |
-| **[2]** | ![Water](../../../../assets/rules/runes/elements/eau.png) | **Not long ago** | Fluctuation of time around the present | Before (recent past) |
-| **[3]** | ![Earth](../../../../assets/rules/runes/elements/terre.png) | **Now** | Emotional time | Now (present) |
-| **[4]** | ![Fire](../../../../assets/rules/runes/elements/feu.png) | **Past-Present-Future** | Societal time | Now (present) |
-| **[5]** | ![Air](../../../../assets/rules/runes/elements/air.png) | **Tomorrow** | Time that brings change | After (near future) |
-| **[6]** | ![Moon](../../../../assets/rules/runes/elements/lune.png) | **Future** | Long cycles | After (distant future) |
+| **[1]** | ![Darkness](/img/runes/darkness.png) | **Long before** | The time of origins | Before (distant past) |
+| **[2]** | ![Water](/img/runes/water.png) | **Not long ago** | Fluctuation of time around the present | Before (recent past) |
+| **[3]** | ![Earth](/img/runes/earth.png) | **Now** | Emotional time | Now (present) |
+| **[4]** | ![Fire](/img/runes/fire.png) | **Past-Present-Future** | Societal time | Now (present) |
+| **[5]** | ![Air](/img/runes/air.png) | **Tomorrow** | Time that brings change | After (near future) |
+| **[6]** | ![Moon](/img/runes/moon.png) | **Future** | Long cycles | After (distant future) |
 
 ### Finding your way in space
 
@@ -212,11 +212,11 @@ By observing the surrounding reality, the gaze established the following distanc
 
 | **Number** | **Rune** | **Spatial marker** | **Comment** | **Logicians** |
 | --- | --- | --- | --- | --- |
-| **[1]** | ![Darkness](../../../../assets/rules/runes/elements/obscurité.png) | **Here** | The Intimate, the proximity of shadow | Here |
-| **[2]** | ![Earth](../../../../assets/rules/runes/elements/terre.png) | **Near** | The Near, where one lives, What carries our steps | Here |
-| **[3]** | ![Water](../../../../assets/rules/runes/elements/eau.png) | **Separated** | The Separator, the border | Near |
-| **[4]** | ![Air](../../../../assets/rules/runes/elements/air.png) | **Around** | The Vast, the space beside | Near |
-| **[5]** | ![Moon](../../../../assets/rules/runes/elements/lune.png) | **Far** | The Elsewhere, the distant moon in the sky | Far |
-| **[6]** | ![Sky](../../../../assets/rules/runes/elements/feu.png) | **Very far** | The Absolute, Yelm the distant, in another Plane perhaps | Far |
+| **[1]** | ![Darkness](/img/runes/darkness.png) | **Here** | The Intimate, the proximity of shadow | Here |
+| **[2]** | ![Earth](/img/runes/earth.png) | **Near** | The Near, where one lives, What carries our steps | Here |
+| **[3]** | ![Water](/img/runes/water.png) | **Separated** | The Separator, the border | Near |
+| **[4]** | ![Air](/img/runes/air.png) | **Around** | The Vast, the space beside | Near |
+| **[5]** | ![Moon](/img/runes/moon.png) | **Far** | The Elsewhere, the distant moon in the sky | Far |
+| **[6]** | ![Sky](/img/runes/fire.png) | **Very far** | The Absolute, Yelm the distant, in another Plane perhaps | Far |
 
 > Note: for the Triolinis, Water is 2 (the environment where one lives) and Earth is 3 (the environment that separates)

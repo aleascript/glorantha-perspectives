@@ -2,7 +2,7 @@
 title: "La monnaie"
 ---
 
-![Commerce](../../../assets/rules/runes/conditions/echanges.png)
+![Commerce](/img/runes/exchange.png)
 
 
 Quelques notes sur certaines monnaies en cours dans Glorantha. 

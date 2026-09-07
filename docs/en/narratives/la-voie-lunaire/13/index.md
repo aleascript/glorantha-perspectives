@@ -14,7 +14,7 @@ The heroes should thus rejoin the Pavis road. Geographically speaking, here are 
 
 Our two heroes finally rejoin the Pavis road, one of the royal roads from the time of King Sartar which, irony of all ironies, well served the lunar army for its incursions and invasions in the Dragon Pass. Advancing eastward, they enter an arid land made of crushed glass pieces on which nothing grows, then finally spot a circular fort with strange dark glass walls, Glasswall. Jaridan has stayed there before and Peek passed through when she came to Tarsh last year. They thus head without incident toward the fort's entrance, happy to have arrived before nightfall because night in this region is often synonymous with chaos incursions that crawl near the Serpent Pipe Hollow, a bruise on the Earth located further north that vomits hordes of monstrosities at regular intervals. If one can speak of regularity with chaos! Night falling, they decide to take a room at the White Tree Inn. Times are quiet and the inn is not crowded. They settle in for a hearty dinner and listen to local news.
 
-![White Tree Tavern](../../../../assets/stories/la-voie-lunaire/13/white-tree-tavern.jpg)
+![White Tree Tavern](/img/narratives/the-lunar-way/13/white-tree-tavern.jpg)
 
 A table not very far seems particularly agitated. The men speak among themselves in low voices. From their appearance, they are more warriors judging by the swords they carry at their sides. They notice glances toward them and suddenly one of the men stands up and comes to see them.
 
@@ -68,7 +68,7 @@ Jaridan signals to the man who returns and informs him they accept to try the fe
 
 Jaridan's objective is to meet Perandal and find a way to join the escort of the three prisoners heading to AldaChur.
 
-> <img src="../../../../assets/rules/runes/conditions/destin.png" width="5%"> **Setback!**
+> <img src="/img/runes/fate.png" width="5%"> **Setback!**
 
 Peek and Jaridan leave the White Tree Inn intending to enter the main compound of the fort to go to the clan chief's hall and speak with him but at the moment they get outside, a Lunar squad stops them and a Lunar officer accosts them: "you, the nomad, what are you doing here? and why are you not in your regiment?"
 
@@ -120,7 +120,7 @@ Peek enters the cell and seeing three young men chained with sad gazes, she unde
 
 While one of the young men seems about to speak, suddenly another stops him. "Do you not see that this is a trick by Gomax or Perandal to worm information out of us? Be quiet. She is a Sable, she must be with them."
 
-![Dungeon](../../../../assets/stories/la-voie-lunaire/13/cachot.jpg)
+![Dungeon](/img/narratives/the-lunar-way/13/cachot.jpg)
 
 The young man falls silent immediately and Peek will not learn more during this night, realizing that the escape risks being quite complicated if the three young men do not trust her and even believe she is in the enemy camp and obviously impossible to learn more about their abilities which could be useful to facilitate the operation. The three young men being chained, she finds a corner away from them to sleep with one eye open.
 

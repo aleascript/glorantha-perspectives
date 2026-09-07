@@ -4,7 +4,7 @@ title: "Irinus Solantis"
 
 > "Organized war with rules, not butchery"
 
-![Irinus](../../../../../assets/srd/irinus.jpg)
+![Irinus](/img/narratives/heirs-of-zola-fel/heroes/irinus.jpg)
 
 * Man, 30 years old
 * **Standard of living**: average
@@ -12,19 +12,19 @@ title: "Irinus Solantis"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/feu.png" width="10%">
+<img src="/img/runes/fire.png" width="10%">
 
 * Thoughtful
 * Man of duty
 * Personal discipline
 
-<img src="../../../../../assets/rules/runes/conditions/maitrise.png" width="10%">
+<img src="/img/runes/mastery.png" width="10%">
 
 * Merciless
 * Intimidating
 * Organize a plan
 
-<img src="../../../../../assets/rules/runes/autres/war.png" width="10%">
+<img src="/img/runes/war.png" width="10%">
 
 * Organized war with rules, not butchery
 

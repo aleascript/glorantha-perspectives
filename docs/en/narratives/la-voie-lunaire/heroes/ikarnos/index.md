@@ -4,7 +4,7 @@ title: "Ikarnos of Raibanth"
 
 > "The Lunar Way will triumph inevitably"
 
-![Ikarnos](../../../../../assets/stories/la-voie-lunaire/heroes/ikarnos/ikarnos.jpg)
+![Ikarnos](/img/narratives/the-lunar-way/heroes/ikarnos/ikarnos.jpg)
 
 * Man, 32 years old
 * Standard of living: average 
@@ -12,18 +12,18 @@ title: "Ikarnos of Raibanth"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/obscurité.png" width="10%">
+<img src="/img/runes/darkness.png" width="10%">
 
 * Enigmatic, secret, elusive
 * Slip through the night
 
-<img src="../../../../../assets/rules/runes/pouvoirs/vérité.png" width="10%">
+<img src="/img/runes/truth.png" width="10%">
 
 * Perceptive
 * Appeal to reason
 * Honest
 
-<img src="../../../../../assets/rules/runes/conditions/maitrise.png" width="10%">
+<img src="/img/runes/mastery.png" width="10%">
 
 * Ambitious
 * Charismatic

@@ -4,7 +4,7 @@ title: "Duckita"
 
 > "Pourrait faire peur si ce n'était pas une canne"
 
-![Duckita](../../../../../assets/srd/duckita.jpg)
+![Duckita](/img/narratives/heirs-of-zola-fel/heroes/duckita.jpg)
 
 * Canne Durulz, « vieille », âge indéterminé
 * **Niveau de vie**: pauvre
@@ -12,19 +12,19 @@ title: "Duckita"
 
 # Runes
 
-<img src="../../../../../assets/rules/runes/elements/eau.png" width="10%">
+<img src="/img/runes/water.png" width="10%">
 
 * Lunatique
 * Perchée
 * Vit la nuit
 
-<img src="../../../../../assets/rules/runes/mondes/spirits.png" width="10%">
+<img src="/img/runes/spirits.png" width="10%">
 
 * Entendre, sentir le monde des esprits
 * Négocier et combattre les esprits
 * Voyager en esprit
 
-<img src="../../../../../assets/rules/runes/elements/obscurité.png" width="10%">
+<img src="/img/runes/darkness.png" width="10%">
 
 * Se glisser dans la nuit
 * Sinistre
