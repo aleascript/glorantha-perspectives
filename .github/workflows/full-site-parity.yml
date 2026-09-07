@@ -1,0 +1,31 @@
+name: Full site parity
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Inventory legacy and docs trees
+        run: |
+          printf '\n== content ==\n'
+          find content -type f | sort || true
+          printf '\n== docs ==\n'
+          find docs -type f | sort || true
+          printf '\n== legacy asset refs ==\n'
+          grep -RInE '(/assets/|static/assets|content/assets|\.\./.*assets)' docs || true
+      - name: Build French
+        run: npm run build:fr
+      - name: Build English
+        run: npm run build:en
+      - name: Build publications
+        run: npm run publication:build
