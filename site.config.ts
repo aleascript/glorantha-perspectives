@@ -10,11 +10,14 @@ export type SiteTheme = {
 
 export const site = {
   title: 'Glorantha Perspectives',
-  tagline: 'Explorez Glorantha par ceux qui la vivent',
+  tagline: "Découvrez Glorantha à travers les regards de ceux qui l'habitent",
   description: 'Un jeu de rôle pour explorer Glorantha à travers les vérités, croyances et choix de ses habitants.',
   author: 'AleaScript',
   defaultLocale: 'fr',
-  locales: {fr: {htmlLang: 'fr', label: 'Français'}},
+  locales: {
+    fr: {htmlLang: 'fr', label: 'Français'},
+    en: {htmlLang: 'en', label: 'English'},
+  },
   repository: {defaultFullName: 'aleascript/glorantha-perspectives'},
   lineage: {
     designedWith: {label: 'Resonance', href: 'https://aleascript.github.io/resonance/'},

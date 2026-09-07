@@ -1,0 +1,15 @@
+---
+title: "Glorantha for newbies"
+---
+
+Pour les **Gloranthix** ;) et dans le but de présenter certains aspects du monde pour harmoniser un groupe de joueurs. 
+
+- Les personnages n'appartenant pas à une **communauté** sont rarissimes.
+- Le cadre visuel est équivalent à l’Age de Bronze. On est dans un **monde antique** où l’on trouve des cultures primitives, barbares et des débuts de civilisations (lunaire, solaire, occident…)
+- Les **runes** sont partout : tatouages, gravures, fresques, armures, armes…
+- La **magie** est **visible** (l'air bourdonne, une aura apparaît, parfois les éléments participent aussi).
+- En général on **respecte son adversaire (et la vie)** à l’exception du Chaos. 
+- Le **tutoiement** est généralisé (excepté à l'Ouest où il existe une hiérarchie de castes).
+- Le monde est plutôt **chatoyant** sauf chez les Brithinis (Malkioni intégristes immortels) et dans certaines régions sauvages. 
+- La **monnaie** est utilisée pour les **échanges**. Elle est rare et réservée aux marchands ainsi qu'à certaines professions aventureuses. Sinon c'est plutôt le troc qui est de mise dans la vie de tous les jours et l'utilisation de petite monnaie. 
+- Les **soins** repoussent la mort, accélère une guérison mais ne fait pas repousser les membres.

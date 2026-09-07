@@ -1,0 +1,68 @@
+---
+title: "Une vision du monde n'est pas un masque"
+---
+
+# Une vision du monde n'est pas un masque
+
+Dans **Glorantha Perspectives**, une **vision du monde** ne représente ni une profession, ni une méthode intellectuelle, ni le type de magie que le personnage est en train d'employer. Elle représente avant tout son **ontologie vécue** : la manière profonde et spontanée dont il pense que le monde fonctionne.
+
+> **La vision du monde ne décrit pas ce que vous faites. Elle décrit le monde dans lequel vous pensez le faire.**
+
+Cette distinction est essentielle dans Glorantha, parce que des personnages appartenant à des traditions très différentes peuvent connaître les mêmes faits, employer des méthodes comparables ou même apprendre les pratiques les uns des autres sans pour autant habiter le même monde.
+
+## Savoir n'est pas habiter
+
+Un Sage Gris de Lhankor Mhy peut étudier un traité malkioni, comprendre un raisonnement sorcier et reproduire une procédure étrangère. Cela ne le transforme pas en Logicien. Il demeure normalement **Théiste** : les Dieux, les Runes et les événements mythiques restent pour lui des réalités opératoires du Cosmos.
+
+De même, les astrologues de **Buserian** et les érudits d'**Irripi Ontor** peuvent observer, calculer, classer et raisonner avec une grande rigueur sans relever de la vision du monde Logique. Leur érudition s'exerce à l'intérieur d'un monde théiste.
+
+Un Buserian peut calculer le mouvement d'un astre parce que cet astre est aussi une puissance divine dont le cours peut être connu. Un Malkioni peut effectuer un calcul comparable parce qu'il pense le Cosmos intelligible par la Loi et la Raison. **Le calcul peut être le même ; le monde dans lequel il prend sens ne l'est pas.**
+
+C'est pourquoi la Logique n'est pas « la vision du monde des gens intelligents », des savants ou des personnages rationnels. Les **Malkioni** — et, d'une autre manière, les **Mostali** — relèvent normalement de la Logique parce que cette structure correspond à leur conception du Cosmos.
+
+## Apprendre une pratique étrangère ne change pas la vision du monde
+
+Les cultures circulent, commercent, se combattent et s'influencent. Elles empruntent donc des rites, des techniques et des savoirs.
+
+Les **Pol-Joni** en donnent un exemple particulièrement clair. Ils vivent en Prax et ont adopté des usages et des rituels animistes nécessaires à leur intégration dans cet environnement. Ils n'en cessent pas pour autant d'être fondamentalement orlanthi : leur vision du monde habituelle reste **Théiste**.
+
+Inversement, connaître le rite d'une autre culture ne signifie pas avoir adopté son ontologie. Un Malkioni peut apprendre les gestes et les paroles d'un rite orlanthi sans devenir Théiste le temps de la cérémonie. Un chaman peut connaître parfaitement les cultes de ses voisins sans cesser d'être Animiste.
+
+## Les savoirs étrangers deviennent des Mises
+
+Ces apprentissages comptent néanmoins dans la fiction. Un grimoire malkioni, un calendrier buserien, un rituel praxien, un instrument mostali, l'enseignement d'un maître étranger ou une langue savante peuvent devenir des **Mises** dès qu'ils sont pertinents dans la situation.
+
+La distinction mécanique est donc simple :
+
+- **ce que le personnage connaît, possède, pratique ou a appris nourrit ses Mises ;**
+- **ce qu'il pense que le monde est détermine sa vision du monde.**
+
+Il n'y a pas à choisir la « meilleure » vision du monde pour la scène. Le personnage résout la situation depuis le monde qu'il habite, tout en mobilisant librement les connaissances auxquelles son histoire lui donne accès.
+
+## Quelques repères
+
+| Culture ou tradition | Vision du monde habituelle | Ce qui peut varier sans changer la vision du monde |
+| --- | --- | --- |
+| Sartarite / Héortien | Théisme | Savoirs, textes et pratiques étrangères |
+| Kolati | Animisme | Connaissance de la culture théiste environnante |
+| Sage Gris de Lhankor Mhy | Théisme | Méthodes savantes, textes et grimoires étrangers |
+| Pol-Joni | Théisme | Rites et pratiques praxiens |
+| Praxien traditionnel | Animisme | Cultes et pratiques étrangères selon le parcours |
+| Astrologue de Buserian | Théisme | Calculs, observations et corpus astronomiques |
+| Érudit d'Irripi Ontor | Théisme | Calculs, classifications et savoirs exogènes |
+| Malkioni | Logique | Pratiques étrangères apprises sans conversion |
+| Mostali | Logique | Techniques et interactions avec d'autres traditions |
+
+Ces indications décrivent des cas habituels, pas des prisons culturelles. Glorantha permet les conversions, les révélations et les transformations profondes.
+
+## Changer réellement de vision du monde
+
+Un changement de vision du monde est donc possible, mais il ne doit pas être traité comme un changement d'outil. Apprendre une compétence, lire un nouveau livre ou maîtriser un rite ne suffit pas.
+
+Il faut qu'un événement transforme réellement le rapport du personnage au Cosmos : conversion profonde, initiation qui bouleverse sa compréhension du réel, expérience mystique irréversible, transformation draconique, ou autre basculement comparable dans la fiction.
+
+Changer de vision du monde, ce n'est pas décider de regarder momentanément le monde autrement.
+
+**C'est découvrir qu'on ne peut plus le regarder comme avant.**
+
+Cette conception gloranthienne est l'une des origines de la notion plus générale de **Prisme** dans [*Resonance*](https://aleascript.github.io/resonance). Dans *Glorantha Perspectives*, nous conservons volontairement le terme **vision du monde**.
