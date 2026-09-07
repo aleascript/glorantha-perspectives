@@ -73,8 +73,6 @@ const config: Config = {
   organizationName,
   projectName,
   trailingSlash: true,
-  // The corpus is being reorganized. Keep the site usable while old links are
-  // progressively migrated; structural sidebar/category errors still fail.
   onBrokenLinks: 'warn',
   markdown: {
     hooks: {
@@ -99,15 +97,6 @@ const config: Config = {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // During the refactor, only stable entry pages are published for
-          // sections whose detailed structure is still being reorganized.
-          exclude: [
-            'narratives/*/**',
-            'facilitating/*/**',
-            'reference/glorantha/**',
-            'reference/faq.md',
-            'reference/probabilities.md',
-          ],
         },
         blog: false,
         theme: {customCss: './src/css/custom.css'},
