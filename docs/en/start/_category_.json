@@ -1,0 +1,5 @@
+{
+  "label": "Start Playing",
+  "position": 2,
+  "link": {"type": "doc", "id": "start/index"}
+}
