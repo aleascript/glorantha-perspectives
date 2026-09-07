@@ -6,6 +6,8 @@ slug: /
 
 # Glorantha Perspectives
 
+> *En hommage à Greg Stafford, le Grand Chaman qui a le premier percé le Voile pour nous révéler le Plan des Héros. Que son esprit danse éternellement dans le Temps des Dieux, et que ses visions continuent d'inspirer nos propres mythes.*
+
 **Découvrez Glorantha à travers les regards de ceux qui l'habitent.**
 
 Glorantha Perspectives est un jeu de rôle où ce qui est vrai dans le monde compte directement quand l'issue d'une situation devient incertaine. Les croyances, les liens, les blessures, les lieux, les serments, les dieux et les habitudes d'un peuple ne sont pas seulement du décor : ils peuvent peser dans ce qui arrive.
