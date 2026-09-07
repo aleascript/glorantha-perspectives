@@ -70,6 +70,7 @@ const config: Config = {
       title: site.title,
       items: [
         {type: 'docSidebar', sidebarId: 'docsSidebar', position: 'left', label: 'Sommaire'},
+        {to: '/publications/', label: 'Publications', position: 'left'},
         {href: repositoryUrl, label: 'GitHub', position: 'right'},
       ],
     },
