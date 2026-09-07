@@ -2,19 +2,13 @@ export function definePublications(config) {
   return config;
 }
 
-const frContents = [
+const guideFr = [
   'docs/fr/index.md',
-
   'docs/fr/start/index.md',
   'docs/fr/start/vocabulary.md',
-  'docs/fr/start/play-modes.md',
   'docs/fr/start/glorantha.md',
   'docs/fr/start/table-agreement.md',
-
-  'docs/fr/characters/index.md',
-  'docs/fr/characters/examples.md',
-  'docs/fr/characters/ready-to-play.md',
-
+  'docs/fr/start/play-modes.md',
   'docs/fr/rules/index.md',
   'docs/fr/rules/bets/index.md',
   'docs/fr/rules/resolution/index.md',
@@ -31,21 +25,8 @@ const frContents = [
   'docs/fr/rules/chaos/index.md',
   'docs/fr/rules/taboos/index.md',
   'docs/fr/rules/heroquests/index.md',
+  'docs/fr/rules/runes/index.md',
   'docs/fr/rules/runes/inspiration/index.md',
-
-  'docs/fr/facilitating/index.md',
-  'docs/fr/facilitating/creating-myths/index.md',
-  'docs/fr/facilitating/generating-bonds/index.md',
-
-  'docs/fr/reference/index.md',
-  'docs/fr/reference/glorantha/index.md',
-  'docs/fr/reference/glorantha/calendar.md',
-  'docs/fr/reference/glorantha/currency.md',
-  'docs/fr/reference/glorantha/runic-imprint.md',
-  'docs/fr/reference/faq.md',
-  'docs/fr/reference/probabilities.md',
-
-  'docs/fr/about/index.md',
 ];
 
 export default definePublications({
@@ -53,7 +34,7 @@ export default definePublications({
     initialVersion: '0.1.0',
   },
   publications: {
-    core: {
+    guide: {
       author: 'AleaScript',
       revision: 'Draft',
       lineage: {
@@ -68,12 +49,12 @@ export default definePublications({
       },
       size: 'A5',
       theme: 'publication/theme.css',
-      outputName: 'glorantha-perspectives',
+      outputName: 'glorantha-perspectives-guide',
       locales: {
         fr: {
-          title: 'Glorantha Perspectives',
+          title: 'Glorantha Perspectives — Guide de jeu',
           tocTitle: 'Sommaire',
-          contents: frContents,
+          contents: guideFr,
           outputs: ['pdf'],
         },
       },
