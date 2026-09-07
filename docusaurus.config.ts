@@ -97,6 +97,15 @@ const config: Config = {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+          // During the refactor, only stable entry pages are published for
+          // sections whose detailed structure is still being reorganized.
+          exclude: [
+            'narratives/*/**',
+            'facilitating/*/**',
+            'reference/glorantha/**',
+            'reference/faq.md',
+            'reference/probabilities.md',
+          ],
         },
         blog: false,
         theme: {customCss: './src/css/custom.css'},
