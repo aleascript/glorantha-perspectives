@@ -100,7 +100,7 @@ She extends her hand. A globe of light envelops her and the girl.
 
 **Hanya the ambitious** enters first. Inside, silence is absolute.
 
-<img src="/img/runes/harmony.png" width="5%"><img src="/img/runes/movement.png" width="5%">
+<img src="/img/runes/harmony.png" width="5%" /><img src="/img/runes/movement.png" width="5%" />
 
 **Hanya:** "I believe you are nothing but a joke, you crazy old woman. Prove me otherwise. I would dream, for example, of being fast enough that no projectile could reach me." Proud of her impossible wish, she smiles.
 
@@ -111,7 +111,7 @@ Hanya left the luminous globe a bit puzzled.
 
 **Jaridan** asks Hanya who replies: "just go see for yourself." So Jaridan is the next to enter the silent globe.
 
-<img src="/img/runes/movement.png" width="5%"><img src="/img/runes/death.png" width="5%">
+<img src="/img/runes/movement.png" width="5%" /><img src="/img/runes/death.png" width="5%" />
 
 **Jaridan:** "I dream that in these troubled times, yesterday's enemies become friends at best or at least allies. I think it is impossible but I have always dreamed of it and that is why I am with these Lunars."
 
@@ -119,7 +119,7 @@ Hanya left the luminous globe a bit puzzled.
 
 And Jaridan comes out, devastated by what he just heard. Next is **Ikarnos**.
 
-<img src="/img/runes/movement.png" width="5%"><img src="/img/runes/illusion.png" width="5%">
+<img src="/img/runes/movement.png" width="5%" /><img src="/img/runes/illusion.png" width="5%" />
 
 **The woman:** "The time is no longer for words but for revelations. You, tell me what you desire!"
 

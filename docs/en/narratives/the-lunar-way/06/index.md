@@ -4,11 +4,11 @@ title: "Dwarf Mine"
 
 ## Dwarf Mine (mountain access)
 
-> <img src="/img/runes/fate.png" width="5%" valign="bottom">
+> <img src="/img/runes/fate.png" width="5%" valign="bottom" />
 > 
-> Who? <img src="/img/runes/death.png" width="5%" valign="bottom"> Meeting with the other
+> Who? <img src="/img/runes/death.png" width="5%" valign="bottom" /> Meeting with the other
 >
-> What?  <img src="/img/runes/stasis.png" width="5%" valign="bottom"> Authority
+> What?  <img src="/img/runes/stasis.png" width="5%" valign="bottom" /> Authority
 >
 > Possible interpretations: Ikarnos attempts to assert his position as leader. 
 > A roll on how could give the condition of passage.

@@ -98,7 +98,7 @@ Jaridan: "your plan is judicious."
 
 Then the two heroes tend to their wounds as best they can so they do not worsen. The pain will remain for a good week unfortunately unless they find a healer. Around them, the woods are calm. They resume the road at a walk, watching for every suspicious noise.
 
-> <img src="/img/runes/harmony.png" width="10%"> <img src="/img/runes/disorder.png" width="10%">
+> <img src="/img/runes/harmony.png" width="10%" /> <img src="/img/runes/disorder.png" width="10%" />
 
 They have been advancing for a few hours, slowly through the increasingly thick forest foliage when suddenly, a whirling form brushes past them followed by a small feline with pointed ears. Jaridan recognizes an alynx, a sort of large cat domesticated by the Orlanthis since always, since Yinkin, the God of Alynxes accompanies Orlanth in his adventures.
 

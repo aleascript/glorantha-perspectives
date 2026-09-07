@@ -12,20 +12,20 @@ title: "Korlanth Lucky"
 
 # Runes
 
-<img src="/img/runes/air.png" width="10%">
+<img src="/img/runes/air.png" width="10%" />
 
 * Rebel
 * Act with energy
 * Freedom
 
-<img src="/img/runes/movement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%" />
 
 * Fast
 * Surprise the opponent
 * Flight
 * Storm Runner
 
-<img src="/img/runes/luck.png" width="10%">
+<img src="/img/runes/luck.png" width="10%" />
 
 * Lucky
 * Attract coincidences

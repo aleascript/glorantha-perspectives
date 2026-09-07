@@ -69,7 +69,7 @@ Notes:
 - in case of an intra-hero conflict, the adversary is the one who initiated the conflict
 - sometimes, difficulties or advantages occur without conflict as the narrative unfolds. In this case, one can compensate with an opposing die.
 - you can also use a tally: +1 representing a hero die, -1 representing an adversity die.
-- You could materialize hero dice with tokens marked by the Luck rune <img src="/img/runes/luck.png" width="5%" halign="bottom">, and adversity dice with tokens marked by the Destiny rune <img src="/img/runes/fate.png" width="5%" halign="bottom"> ("no great destiny without adversity")
+- You could materialize hero dice with tokens marked by the Luck rune <img src="/img/runes/luck.png" width="5%" halign="bottom" />, and adversity dice with tokens marked by the Destiny rune <img src="/img/runes/fate.png" width="5%" halign="bottom" /> ("no great destiny without adversity")
 
 > *The Destiny gauge system is inspired by the pass/fail cycle of HQ/G*
 
@@ -96,9 +96,9 @@ Some obstacles are not tied to a particular worldview. They simply correspond to
 
 Two possibilities:
 
-- <img src="/img/runes/human.png" alt="Man" width="6%"> **Mirror**: the bets are resolved with the same worldview as the non-abstract opponent: this reflects a holistic vision of the world. This is the framework to use when the bets involve self-transcendence.
+- <img src="/img/runes/human.png" alt="Man" width="6%" /> **Mirror**: the bets are resolved with the same worldview as the non-abstract opponent: this reflects a holistic vision of the world. This is the framework to use when the bets involve self-transcendence.
 
-- <img src="/img/runes/middle-world.png" alt="Middle World" width="6%"> **Agnostic**, **Materialist**, **The Middle World**: even numbers (2, 4, 6) will be successes, odd numbers (1, 3, 5) will be failures. There are no other bet adjustment rules once the draw is made. This is the framework to use when the bets are minor and do not truly involve the character emotionally.
+- <img src="/img/runes/middle-world.png" alt="Middle World" width="6%" /> **Agnostic**, **Materialist**, **The Middle World**: even numbers (2, 4, 6) will be successes, odd numbers (1, 3, 5) will be failures. There are no other bet adjustment rules once the draw is made. This is the framework to use when the bets are minor and do not truly involve the character emotionally.
 
 Note: here it is the Middle World rune that is used. But if the character is in the spirit world, or the world of the Gods, the rules of that world serve as the base rule instead.
 

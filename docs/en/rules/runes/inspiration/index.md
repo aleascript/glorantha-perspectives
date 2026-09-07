@@ -41,7 +41,7 @@ _Table of power runes:_
 
 > Gloranthian scholars of diverse cultures have written extensively about the links between the power runes and the constituent elements of the world, whether at the level of bodily elements, the great universal questions, or any other grand categorization of the world.
 
-### [1] <img src="/img/runes/movement.png" width="5%" valign="bottom"> Movement
+### [1] <img src="/img/runes/movement.png" width="5%" valign="bottom" /> Movement
 
 - **Themes:** Discovery
 - **Examples:** what is around, the world, places, information...
@@ -58,7 +58,7 @@ _Table of power runes:_
 - **Music:** the note D, the Dorian mode
 - **Taboo:** Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne.
 
-### [2] <img src="/img/runes/death.png" width="5%" valign="bottom"> Death
+### [2] <img src="/img/runes/death.png" width="5%" valign="bottom" /> Death
 
 - **Themes:** Threat
 - **Examples:** what is different, the other, the enemy...
@@ -75,7 +75,7 @@ _Table of power runes:_
 - **Music:** the note B, the Locrian mode
 - **Taboo:** Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you.
 
-### [3] <img src="/img/runes/harmony.png" width="5%" valign="bottom"> Harmony
+### [3] <img src="/img/runes/harmony.png" width="5%" valign="bottom" /> Harmony
 
 - **Themes:** Relations
 - **Examples:** what connects, emotions, feelings, bonds, dilemma...
@@ -92,7 +92,7 @@ _Table of power runes:_
 - **Music:** the note F, the Lydian mode
 - **Taboo:** Never lie. / Never refuse hospitality. / Never break a promise made to an ally.
 
-### [4] <img src="/img/runes/stasis.png" width="5%" valign="bottom"> Stasis
+### [4] <img src="/img/runes/stasis.png" width="5%" valign="bottom" /> Stasis
 
 - **Themes:** Law
 - **Examples:** what is frozen, morality, society, group, authority...
@@ -109,7 +109,7 @@ _Table of power runes:_
 - **Music:** the note C, the Ionian mode
 - **Taboo:** Obey the ancestral Law. / Never change your name. / Never leave the sacred place.
 
-### [5] <img src="/img/runes/life.png" width="5%" valign="bottom"> Life
+### [5] <img src="/img/runes/life.png" width="5%" valign="bottom" /> Life
 
 - **Themes:** Resources
 - **Examples:** what is necessary, material, reality...
@@ -126,7 +126,7 @@ _Table of power runes:_
 - **Music:** the note G, the Mixolydian mode
 - **Taboo:** Never eat meat. / Chastity. / Never let a creature die without permission. 
 
-### [6] <img src="/img/runes/disorder.png" width="5%" valign="bottom"> Disorder
+### [6] <img src="/img/runes/disorder.png" width="5%" valign="bottom" /> Disorder
 
 - **Themes:** Revelation
 - **Examples:** what surprises, shakes, twist, surprise, what is outside norms, improbable...
@@ -143,7 +143,7 @@ _Table of power runes:_
 - **Music:** the note E, the Phrygian mode
 - **Taboo:** Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind. 
 
-### [7] <img src="/img/runes/truth.png" width="5%" valign="bottom"> Truth
+### [7] <img src="/img/runes/truth.png" width="5%" valign="bottom" /> Truth
 
 - **Themes:** Knowledge, Knowing
 - **Examples:** what must be sought, searched, studied...
@@ -160,7 +160,7 @@ _Table of power runes:_
 - **Music:** the note A, the Aeolian mode
 - **Taboo:**  Never lie, even by omission. / Reveal any secret you are asked for. / Never steal. 
 
-### [8] <img src="/img/runes/illusion.png" width="5%" valign="bottom"> Illusion
+### [8] <img src="/img/runes/illusion.png" width="5%" valign="bottom" /> Illusion
 
 - **Themes:** Mystery
 - **Examples:** what is hidden, deception, illusion, vain, illusory...

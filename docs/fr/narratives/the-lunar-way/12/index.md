@@ -49,7 +49,7 @@ Je suis confiant dans le codage utilisé dans mes écrits pour Fazzur, ils ne de
 Les heures passent. Des enfants me jettent des ordures au visage. Je me concentre sur ma mission et mon esprit se concentre sur les apprentissages de la Déesse qui a vécu nettement pire: démembrée à l'Age des Dieux elle est revenue encore plus forte et a triomphé de tout. J'essaie de rester vigilant pour repérer l'homme et prévenir Nigmar au cas où mais je finis par sombrer dans l'inconscience.
 
 
-> <img src="/img/runes/fate.png" width="5%"> **Rebondissement!** 
+> <img src="/img/runes/fate.png" width="5%" /> **Rebondissement!** 
 
 > Les Nains pourraient se débrouiller seuls et Korlan serait venu de lui-même les voir et ils auraient récupérer le médaillon et se seraient enfuis (ca serait vraiment la tuile pour Ikarnos) ou alors auraient libéré Ikarnos (ca serait sans doute trop facile). Ou bien le rebondissement arrive d'ailleurs (Hanya ? une visite Lunaire ? une attaque du clan ? un message divin ?...)
 > 
@@ -59,7 +59,7 @@ Les heures passent. Des enfants me jettent des ordures au visage. Je me concentr
 
 J'ai envie de chair crue. L'ogre qui grandit dans ma chair me le rappelle régulièrement. J'essaie de pas trop regarder le Nain car je pourrais sauter sur lui et le dévorer. Je refuse poliment sa nourriture naine qui ressemble à un brouet de champignons pour prétexter des absences et aller chasser. Je mange les animaux crus, le coeur encore chaud après les avoir abattus d'une flèche. Je n'arrête pas de penser au plan d'Ikarnos et me demande si c'est ça que les Déesses attendent de moi pour sauver l'Empire en danger.
 
-> <img src="/img/runes/fate.png" width="8%"> Objectif d'Hanya: attendre au point de rendez-vous mais quelque chose doit se passer du fait du rebondissement. Et Hanya a un gros secret à cacher. 
+> <img src="/img/runes/fate.png" width="8%" /> Objectif d'Hanya: attendre au point de rendez-vous mais quelque chose doit se passer du fait du rebondissement. Et Hanya a un gros secret à cacher. 
 
 Alors que je dévore un lapin cru que j'ai abattu d'une flèche, je sens un mouvement derrière moi. Le Nain m'a suivie et semble avoir compris quelque chose, tenant son marteau de guerre et poussant un cri en m'attaquant.
 
@@ -98,11 +98,11 @@ Je cours dans les collines en me faufilant dans les sous-bois pour être la plus
 
 *Objectif d'Hanya: atteindre sans encombre le village pour retrouver Ikarnos*
 
-> <img src="/img/runes/fate.png" width="5%"> **Contretemps!** 
+> <img src="/img/runes/fate.png" width="5%" /> **Contretemps!** 
 
 Maudite géographie, impossible de monter sur le coteau aussi facilement, à l'ouest des bergers et leur troupeau, à l'est des gardes qui semblent surveiller quelque chose et en face de moi, cette roche qui monte presqu'abrupte. Il faut pourtant que j'escalade et passer par là pour arriver au village qui est de l'autre côté. Ou alors attendre la nuit. C'est ce que je décide.
 
-> <img src="/img/runes/fate.png" width="5%"> Ici la situation a juste consisté à faire un choix: affronter les guerriers, tenter de passer à travers les paturages quitte a se faire repérer, tenter une escalade périlleuse ou attendre ...
+> <img src="/img/runes/fate.png" width="5%" /> Ici la situation a juste consisté à faire un choix: affronter les guerriers, tenter de passer à travers les paturages quitte a se faire repérer, tenter une escalade périlleuse ou attendre ...
 
 
 ## Clan des pommiers (Ikarnos)
@@ -119,7 +119,7 @@ La prêtresse Sheena et ses acolytes l'emportent pour le soigner. Puis le chef d
 
 Un homme vient avec mes affaires et les donne aux Nains. Je reprends un peu espoir. L'homme au médaillon redonne le médaillon aux Nains qui en échange lui donne mon médaillon Vision des Ténèbres. Le chef du village donne aux Nains mon Diplomatica Scriptoriae ainsi que mon matériel pour écrire, non sans avoir craché sur le livre avant de leur passer. Ca y est ils vont venir me libérer mais stupeur, je les vois quitter le village sans moi! Je hurle ma rage à leur encontre mais ils disparaissent dans la nuit qui commence à tomber.
 
-> <img src="/img/runes/fate.png" width="5%"> Ici on a joué une petite scène de mise en situation sans confrontation ou choix, juste pour préparer l'intervention d'Hanya. Les règles stipulent qu'on n'est pas obligé de faire des jets de situation si on a une trame déjà en tête. En plus dans notre cas, le jet de contretemps me semble également obsolète étant donné les objectifs limités d'Ikarnos. La situation n'a pas vraiment permis à Ikarnos d'agir avec le destin mais ca a permis d'avancer l'histoire. Par contre, on pourrait faire un jet de rebondissement mais là on va  considérer qu'étant donné que le 1er rebondissement n'a pas été encore joué, on passe à la suite pour y arriver justement.  
+> <img src="/img/runes/fate.png" width="5%" /> Ici on a joué une petite scène de mise en situation sans confrontation ou choix, juste pour préparer l'intervention d'Hanya. Les règles stipulent qu'on n'est pas obligé de faire des jets de situation si on a une trame déjà en tête. En plus dans notre cas, le jet de contretemps me semble également obsolète étant donné les objectifs limités d'Ikarnos. La situation n'a pas vraiment permis à Ikarnos d'agir avec le destin mais ca a permis d'avancer l'histoire. Par contre, on pourrait faire un jet de rebondissement mais là on va  considérer qu'étant donné que le 1er rebondissement n'a pas été encore joué, on passe à la suite pour y arriver justement.  
 
 
 ## La nuit au village (Hanya, Ikarnos)

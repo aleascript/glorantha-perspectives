@@ -100,7 +100,7 @@ Elle étend la main. Un globe de lumière l'enveloppe, elle et la fillette.
 
 **Hanya l'ambitieuse** entre la première. À l'intérieur, le silence est absolu.
 
-<img src="/img/runes/harmony.png" width="5%"><img src="/img/runes/movement.png" width="5%">
+<img src="/img/runes/harmony.png" width="5%" /><img src="/img/runes/movement.png" width="5%" />
 
 **Hanya :** "Je crois que tu n'es qu'une blague vieille folle. Prouve moi le contraire. Moi je reverais par exemple d'être assez rapide pour qu'aucun projectile ne puisse m'atteindre." Fière de son voeu impossible, elle sourit. 
 
@@ -111,7 +111,7 @@ Hanya quitta le globe lumineux un peu dubitative.
 
 **Jaridan** demande à Hanya qui lui répond: "ben va s'y tu verras bien par toi-même". Jaridan est donc le suivant à pénétrer dans le globale silencieux.
 
-<img src="/img/runes/movement.png" width="5%"><img src="/img/runes/death.png" width="5%">
+<img src="/img/runes/movement.png" width="5%" /><img src="/img/runes/death.png" width="5%" />
 
 **Jaridan :** "Je rêve qu'en ces temps troublés, les ennemis d'hier deviennent amis au mieux ou au moins des alliés. Je pense que c'est impossible mais j'ai toujours rêvé de cela et c'est pour cela que je suis avec ces Lunaires." 
 
@@ -119,7 +119,7 @@ Hanya quitta le globe lumineux un peu dubitative.
 
 Et Jaridan ressort, bouleversé par ce qu'il vient d'entendre. C'est ensuite au tour d'**Ikarnos**.
 
-<img src="/img/runes/movement.png" width="5%"><img src="/img/runes/illusion.png" width="5%">
+<img src="/img/runes/movement.png" width="5%" /><img src="/img/runes/illusion.png" width="5%" />
 
 **La femme :** "le temps n'est plus aux paroles mais aux révélations. Toi dis moi ce que tu désires!" 
 

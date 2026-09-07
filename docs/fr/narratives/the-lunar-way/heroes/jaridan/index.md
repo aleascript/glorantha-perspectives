@@ -13,19 +13,19 @@ title: "Jaridan"
 
 # Runes
 
-<img src="/img/runes/earth.png" width="10%">
+<img src="/img/runes/earth.png" width="10%" />
 
 * Pragmatique
 * Endurant
 * Pacifiste, débonnaire, bienveillant
 
-<img src="/img/runes/movement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%" />
 
 * Voyager discrètement
 * Energique
 * Curieux
 
-<img src="/img/runes/exchange.png" width="10%">
+<img src="/img/runes/exchange.png" width="10%" />
 
 * Diplomate
 * Empathique

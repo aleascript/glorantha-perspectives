@@ -102,7 +102,7 @@ He stammers: "I do not know if your story is true or not, but as I told you, lif
 
 A Lunar citizen should not be sold and you should have told me that sooner." He signals to his men and the small party begins to retreat toward the woods, remaining on their guard against Hanya's threatening face who still firmly grips her double axe.
 
-> <img src="/img/runes/fate.png" width="5%"> **Plot twist!** 
+> <img src="/img/runes/fate.png" width="5%" /> **Plot twist!** 
 
 ## Arrested!
 

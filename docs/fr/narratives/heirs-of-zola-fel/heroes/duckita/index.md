@@ -12,19 +12,19 @@ title: "Duckita"
 
 # Runes
 
-<img src="/img/runes/water.png" width="10%">
+<img src="/img/runes/water.png" width="10%" />
 
 * Lunatique
 * Perchée
 * Vit la nuit
 
-<img src="/img/runes/spirits.png" width="10%">
+<img src="/img/runes/spirits.png" width="10%" />
 
 * Entendre, sentir le monde des esprits
 * Négocier et combattre les esprits
 * Voyager en esprit
 
-<img src="/img/runes/darkness.png" width="10%">
+<img src="/img/runes/darkness.png" width="10%" />
 
 * Se glisser dans la nuit
 * Sinistre

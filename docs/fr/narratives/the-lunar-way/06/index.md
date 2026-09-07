@@ -4,11 +4,11 @@ title: "Mine de Nain"
 
 ## Mine de Nain (accès montagne)
 
-> <img src="/img/runes/fate.png" width="5%" valign="bottom">
+> <img src="/img/runes/fate.png" width="5%" valign="bottom" />
 > 
-> Qui? <img src="/img/runes/death.png" width="5%" valign="bottom"> Rencontre avec l'autre
+> Qui? <img src="/img/runes/death.png" width="5%" valign="bottom" /> Rencontre avec l'autre
 >
-> Quoi ?  <img src="/img/runes/stasis.png" width="5%" valign="bottom"> Autorité
+> Quoi ?  <img src="/img/runes/stasis.png" width="5%" valign="bottom" /> Autorité
 >
 > Interprétations possibles: Ikarnos tente d'affirmer sa position de chef. 
 > Un tirage sur comment pourrait donner la condition du passage.

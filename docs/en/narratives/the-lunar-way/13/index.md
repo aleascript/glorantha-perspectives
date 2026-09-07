@@ -68,7 +68,7 @@ Jaridan signals to the man who returns and informs him they accept to try the fe
 
 Jaridan's objective is to meet Perandal and find a way to join the escort of the three prisoners heading to AldaChur.
 
-> <img src="/img/runes/fate.png" width="5%"> **Setback!**
+> <img src="/img/runes/fate.png" width="5%" /> **Setback!**
 
 Peek and Jaridan leave the White Tree Inn intending to enter the main compound of the fort to go to the clan chief's hall and speak with him but at the moment they get outside, a Lunar squad stops them and a Lunar officer accosts them: "you, the nomad, what are you doing here? and why are you not in your regiment?"
 

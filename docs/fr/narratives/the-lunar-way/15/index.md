@@ -97,7 +97,7 @@ Jaridan: "ton plan est judicieux."
 
 Puis les deux héros soignent comme ils peuvent leurs blessures pour qu'elles ne s'aggravent pas. La douleur restera présente encore une bonne semaine malheureusement à moins qu'ils ne trouvent un guérisseur. Autour d'eux, les bois sont calmes. Ils reprennent la route au pas en faisant attention à tout bruit suspect.
 
-> <img src="/img/runes/harmony.png" width="10%"> <img src="/img/runes/disorder.png" width="10%">
+> <img src="/img/runes/harmony.png" width="10%" /> <img src="/img/runes/disorder.png" width="10%" />
 
 Cela fait quelques heures qu'ils avancent, lentement dans les frondaisons de plus en plus épaisses de la forêt quand soudain, une forme virevoltante les frôle suivie par un petit félin aux oreilles pointues. Jaridan reconnait un alynx, une sorte de gros chat domestiqué par les Orlanthis depuis toujours, depuis que Yinkin, le dieu Alynx accompagne Orlanth dans ses aventures. 
 

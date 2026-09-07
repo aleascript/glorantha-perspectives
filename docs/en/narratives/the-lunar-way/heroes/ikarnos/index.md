@@ -12,18 +12,18 @@ title: "Ikarnos of Raibanth"
 
 # Runes
 
-<img src="/img/runes/darkness.png" width="10%">
+<img src="/img/runes/darkness.png" width="10%" />
 
 * Enigmatic, secret, elusive
 * Slip through the night
 
-<img src="/img/runes/truth.png" width="10%">
+<img src="/img/runes/truth.png" width="10%" />
 
 * Perceptive
 * Appeal to reason
 * Honest
 
-<img src="/img/runes/mastery.png" width="10%">
+<img src="/img/runes/mastery.png" width="10%" />
 
 * Ambitious
 * Charismatic

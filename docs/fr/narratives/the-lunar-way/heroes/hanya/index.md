@@ -12,19 +12,19 @@ title: "Hanya de Jillaro"
 
 # Runes
 
-<img src="/img/runes/fire.png" width="10%">
+<img src="/img/runes/fire.png" width="10%" />
 
 * Disciplinée
 * Instransigeante
 * Hautaine envers les barbares
 
-<img src="/img/runes/harmony.png" width="10%">
+<img src="/img/runes/harmony.png" width="10%" />
 
 * Calmer les tensions
 * Prendre sur soi
 * Monter à cheval
 
-<img src="/img/runes/movement.png" width="10%">
+<img src="/img/runes/movement.png" width="10%" />
 
 * Rapide
 * Coup de hache tranchant

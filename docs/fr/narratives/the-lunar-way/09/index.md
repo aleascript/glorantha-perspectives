@@ -204,7 +204,7 @@ Ikarnos remarque discrétement l'incisive d'Hanya mais ne dit rien. La situation
 
 Ikarnos tente d'appliquer les techniques des Diplomatica Scriptoriae et en particulier les écrits magiques sur comment trouver la 3ème voie mais cela n'aide pas Jaridan à retrouver dans sa mémoire s'il ne connait pas un mythe Héortien ou d'ailleurs qui permettrait de guérir Hanya.
 
-> <img src="/img/runes/fate.png" width="5%"> **Rebondissement!**
+> <img src="/img/runes/fate.png" width="5%" /> **Rebondissement!**
 
 Soudain au milieu de la nuit, Hanya est prise de maux de ventre. Elle vomit du sang. Ses yeux sont rouges de sang, on peut maintenant bien voir ses 2 incisives. Elle a envie de chair crue ! Cette fois, il n'a pas possible de cacher le mal.
 
