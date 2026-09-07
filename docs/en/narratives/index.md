@@ -1,12 +1,14 @@
 ---
-title: Stories
+title: Narratives
+sidebar_position: 6
 ---
 
-# Stories
+# Narratives
 
-Sagas and tales from Glorantha.
+These narratives explore Glorantha through games, characters, and Situations played with Glorantha Perspectives.
 
-- [The Lunar Way](la-voie-lunaire)
-- [The Heirs of Zola Fel](les-heritiers-de-zola-fel)
-- The saga of Araldir
-- The Banishment of Gurdtar
+- [**The Lunar Way**](the-lunar-way/)
+- [**The Banishment of Gurdtar**](gurdtars-banishment/)
+- [**The Heirs of Zola Fel**](heirs-of-zola-fel/)
+
+Directory names are stable technical references and remain in English; editorial titles follow the language of the text.
