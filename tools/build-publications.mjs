@@ -1,0 +1,195 @@
+import {execFileSync} from 'node:child_process';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {build} from '@vivliostyle/cli';
+import config from '../publications.config.mjs';
+
+const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const workRoot = path.join(projectRoot, '.publication-workspace');
+const outputRoot = path.join(projectRoot, 'dist', 'publications');
+
+function resolvePublicationVersion() {
+  const explicit = process.env.PUBLICATION_VERSION?.trim();
+  if (explicit) return explicit;
+
+  try {
+    const tag = execFileSync(
+      'git',
+      ['describe', '--tags', '--abbrev=0', '--match', 'v[0-9]*'],
+      {cwd: projectRoot, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore']},
+    ).trim();
+    if (/^v\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?$/.test(tag)) return tag.slice(1);
+  } catch {
+    // A working branch may not have a release tag yet.
+  }
+
+  return config.release?.initialVersion ?? '0.1.0';
+}
+
+function decodeFrontmatterScalar(value) {
+  const trimmed = value.trim();
+  if (trimmed.startsWith('"') && trimmed.endsWith('"')) {
+    try {
+      return JSON.parse(trimmed);
+    } catch {
+      return trimmed.slice(1, -1);
+    }
+  }
+  if (trimmed.startsWith("'") && trimmed.endsWith("'")) {
+    return trimmed.slice(1, -1).replaceAll("''", "'");
+  }
+  return trimmed;
+}
+
+function ensureDocumentTitleHeading(markdown) {
+  if (/^#\s+\S/m.test(markdown)) return markdown;
+
+  const frontmatter = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  if (!frontmatter) return markdown;
+
+  const titleLine = frontmatter[1]
+    .split(/\r?\n/)
+    .find((line) => /^title\s*:/.test(line));
+  if (!titleLine) return markdown;
+
+  const title = decodeFrontmatterScalar(titleLine.replace(/^title\s*:\s*/, ''));
+  if (!title) return markdown;
+
+  const insertionPoint = frontmatter[0].length;
+  return `${markdown.slice(0, insertionPoint)}\n# ${title}\n${markdown.slice(insertionPoint)}`;
+}
+
+function assetName(baseName, locale, format) {
+  return `${baseName}-${locale}.${format}`;
+}
+
+async function pathExists(target) {
+  try {
+    await fs.access(target);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function preparePublication(publicationName, publication, locale, localeConfig) {
+  const publicationWorkDir = path.join(workRoot, publicationName, locale);
+  await fs.rm(publicationWorkDir, {recursive: true, force: true});
+  await fs.mkdir(publicationWorkDir, {recursive: true});
+
+  const entries = [];
+  for (const sourcePath of localeConfig.contents) {
+    const sourceAbsolute = path.join(projectRoot, sourcePath);
+    const destinationAbsolute = path.join(publicationWorkDir, sourcePath);
+    const markdown = ensureDocumentTitleHeading(await fs.readFile(sourceAbsolute, 'utf8'));
+
+    await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
+    await fs.writeFile(destinationAbsolute, markdown, 'utf8');
+    entries.push(sourcePath);
+  }
+
+  // GP currently keeps Markdown-relative images under docs/assets.
+  const docsAssetsSource = path.join(projectRoot, 'docs', 'assets');
+  if (await pathExists(docsAssetsSource)) {
+    await fs.cp(docsAssetsSource, path.join(publicationWorkDir, 'docs', 'assets'), {
+      recursive: true,
+    });
+  }
+
+  const staticSource = path.join(projectRoot, 'static');
+  const staticDestination = path.join(publicationWorkDir, 'static');
+  const hasStatic = await pathExists(staticSource);
+  if (hasStatic) {
+    await fs.cp(staticSource, staticDestination, {recursive: true});
+  }
+
+  const themeSource = path.join(projectRoot, publication.theme);
+  const themeDestination = path.join(publicationWorkDir, 'theme.css');
+  await fs.copyFile(themeSource, themeDestination);
+
+  const output = localeConfig.outputs.map((format) => ({
+    path: path.join(
+      outputRoot,
+      assetName(publication.outputName ?? publicationName, locale, format),
+    ),
+    format,
+  }));
+
+  const task = {
+    title: localeConfig.title,
+    author: publication.author,
+    language: locale,
+    size: publication.size ?? 'A4',
+    entry: [{rel: 'contents'}, ...entries],
+    entryContext: publicationWorkDir,
+    theme: themeDestination,
+    vfm: {rewriteRelativeHrefExtensions: true},
+    toc: {
+      title: localeConfig.tocTitle ?? (locale === 'fr' ? 'Sommaire' : 'Contents'),
+      sectionDepth: 2,
+    },
+    output,
+    workspaceDir: '.vivliostyle',
+    ...(hasStatic ? {static: {'/': staticDestination}} : {}),
+  };
+
+  const configPath = path.join(publicationWorkDir, 'vivliostyle.config.json');
+  await fs.writeFile(configPath, JSON.stringify(task, null, 2), 'utf8');
+  return configPath;
+}
+
+function publicationManifest(version) {
+  return {
+    version,
+    publications: Object.entries(config.publications).map(([id, publication]) => ({
+      id,
+      outputName: publication.outputName ?? id,
+      revision: publication.revision ?? null,
+      locales: Object.fromEntries(
+        Object.entries(publication.locales).map(([locale, localeConfig]) => [
+          locale,
+          {
+            title: localeConfig.title,
+            formats: localeConfig.outputs.map((format) => ({
+              format,
+              path: assetName(publication.outputName ?? id, locale, format),
+            })),
+          },
+        ]),
+      ),
+    })),
+  };
+}
+
+async function main() {
+  await fs.rm(workRoot, {recursive: true, force: true});
+  await fs.rm(outputRoot, {recursive: true, force: true});
+  await fs.mkdir(outputRoot, {recursive: true});
+
+  const version = resolvePublicationVersion();
+  console.log(`Building publication corpus version ${version}...`);
+
+  for (const [publicationName, publication] of Object.entries(config.publications)) {
+    for (const [locale, localeConfig] of Object.entries(publication.locales)) {
+      console.log(`Building ${publicationName} (${locale})...`);
+      const configPath = await preparePublication(
+        publicationName,
+        publication,
+        locale,
+        localeConfig,
+      );
+      await build({config: configPath, logLevel: 'info'});
+    }
+  }
+
+  await fs.writeFile(
+    path.join(outputRoot, 'publications.json'),
+    `${JSON.stringify(publicationManifest(version), null, 2)}\n`,
+    'utf8',
+  );
+
+  console.log(`Publications written to ${path.relative(projectRoot, outputRoot)}/`);
+}
+
+await main();
