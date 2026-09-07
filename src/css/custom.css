@@ -1,0 +1,26 @@
+:root {
+  --ifm-color-primary: var(--site-primary);
+  --ifm-background-color: var(--site-background);
+  --ifm-background-surface-color: var(--site-surface);
+  --ifm-font-color-base: var(--site-text);
+  --ifm-color-content-secondary: var(--site-muted);
+  --ifm-font-family-base: var(--site-font-body);
+  --ifm-heading-font-family: var(--site-font-heading);
+  --ifm-font-family-monospace: var(--site-font-mono);
+  --ifm-line-height-base: 1.7;
+  --ifm-heading-font-weight: var(--site-heading-weight);
+  --ifm-global-radius: var(--site-radius);
+  --ifm-navbar-shadow: var(--site-navbar-shadow);
+  --ifm-navbar-background-color: var(--site-background);
+  --ifm-toc-border-color: var(--site-border);
+  --ifm-color-emphasis-200: var(--site-border);
+  --ifm-color-emphasis-300: var(--site-border);
+}
+
+html, body {background: var(--site-background); color: var(--site-text);}
+.navbar__title {font-weight: 700; letter-spacing: -0.02em;}
+.theme-doc-markdown {max-width: var(--site-content-width);}
+.theme-doc-markdown > h1:first-child {letter-spacing: -0.035em;}
+.theme-doc-markdown p, .theme-doc-markdown li {font-size: 1.04rem;}
+.theme-doc-markdown blockquote {border-left-color: var(--site-primary); color: var(--site-muted);}
+.table-of-contents {border-left-color: var(--site-border);}

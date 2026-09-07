@@ -1,0 +1,40 @@
+---
+title: "Mysticisme: l'Illumination"
+---
+
+![Monde mystique: le centre, le vide](../../../assets/rules/runes/mondes/void.png)
+
+> Un mystique a une vision du monde fondée sur une déconstruction intérieure mais réelle de l’illusion du réel, des sens, etc… Il sait qu’il n’y a pas de vérité absolue. Il voit les transformations. En cela, il peut interpréter, décider et agir sur le monde.
+
+*Nom péjoratif utilisé par les autres: nihilistes, charlatans,…*
+
+**Règles de résolution**
+
+> Dans l'adversité, on puise dans son calme intérieur, non pas pour lutter, mais pour observer comment notre volonté et le monde vont s'entremêler et se transformer.
+ 
+- On compte le nombre de réussites d'un [camp](../bets) logique de la manière suivante:
+    - On compte les pairs
+    - Les 1 peuvent faire disparaitre les 6 de l'autre camp et disparaissent en même temps. Un échec peut donc  être un immense succès.
+
+**Modes de puissance**
+
+- Mode **affaibli**: il faut faire disparaitre deux 1 de son camp pour faire disparaitre un 6 de l’autre camp.
+- Mode **héroïque**: le mystique choisit entre
+    - obtenir autant de mises que son adversaire (sans avoir besoin d’avancer une justification à cela)
+    - poser ses mises normalement mais après le tirage, les 1 peuvent prendre n’importe quel dé a l’autre (généralement des paires les plus hautes possibles mais ça peut être des grands impairs pour contrer un logicien et le mettre face à sa vanité) et se transformer en prenant la valeur du dé pris dans l'autre camp.
+
+**Commentaires**
+
+C'est la seule vision du monde qui peut agir sur le camp de l'autre. Et ça c’est très perturbant d'où l'illumination sous jacente.
+
+Quand un mystique affronte l’adversité, il distingue ce qui est favorable ou peut agir en tant que bras de levier, de ce qui est défavorable ou doit rester en retrait. Il distingue aussi ce qui peut muter et engendrer une transformation. 
+
+Les fameux paradoxes mystiques et annihilation de la dualité!
+
+L’annulation des 6 de l’autre camp advient *après* que celui-ci a terminé son tirage complet — relances incluses. Le théiste a donc bien vécu l’invocation divine et ressenti un soutien aligné avec ses croyances. Le mystique ne nie pas cette expérience : il la révèle *a posteriori* comme une couche d’illusion que son regard transcende. C’est pourquoi la résolution se fait au moment de la comparaison, et non pendant le tirage adverse. Pratiquement, cela permet aussi à chaque camp de réaliser son tirage indépendamment.
+
+C’est une opposition mystique. Au bout d’un moment, on ne peut plus réduire et voir de nouvelles transformations. C’est la synthèse ultime qui représente le cœur de la manifestation.
+
+[Et pourquoi pas jouer avec des billes plates mystiques?](mystical-marbles)
+
+[Et l'Illumination?](../illumination)
