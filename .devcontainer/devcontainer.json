@@ -1,0 +1,15 @@
+{
+  "name": "Glorantha Perspectives Refactor",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "postCreateCommand": "npm install --package-lock=false",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Glorantha Perspectives — Docusaurus",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "containerEnv": {
+    "SITE_BASE_URL": "/"
+  }
+}
