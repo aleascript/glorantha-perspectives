@@ -60,6 +60,39 @@ function ensureDocumentTitleHeading(markdown) {
   return `${markdown.slice(0, insertionPoint)}\n# ${title}\n${markdown.slice(insertionPoint)}`;
 }
 
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+function publicationCoverMarkdown(publication, localeConfig) {
+  const cover = localeConfig.cover;
+  if (!cover) return null;
+
+  const seriesTitle = cover.seriesTitle
+    ? `<p class="publication-cover__series">${escapeHtml(cover.seriesTitle)}</p>`
+    : '';
+  const author = publication.author
+    ? `<p class="publication-cover__author">${escapeHtml(publication.author)}</p>`
+    : '';
+
+  return `<div class="publication-cover">
+  <div class="publication-cover__visual">
+    <img class="publication-cover__image" src="${escapeHtml(cover.image)}" alt="${escapeHtml(cover.alt ?? localeConfig.title)}" />
+  </div>
+  <div class="publication-cover__text">
+    ${seriesTitle}
+    <div class="publication-cover__title">${escapeHtml(localeConfig.title)}</div>
+    ${author}
+  </div>
+</div>
+`;
+}
+
 function assetName(baseName, locale, format) {
   return `${baseName}-${locale}.${format}`;
 }
@@ -77,6 +110,17 @@ async function preparePublication(publicationName, publication, locale, localeCo
   const publicationWorkDir = path.join(workRoot, publicationName, locale);
   await fs.rm(publicationWorkDir, {recursive: true, force: true});
   await fs.mkdir(publicationWorkDir, {recursive: true});
+
+  let coverEntry = null;
+  const coverMarkdown = publicationCoverMarkdown(publication, localeConfig);
+  if (coverMarkdown) {
+    coverEntry = 'publication-cover.md';
+    await fs.writeFile(
+      path.join(publicationWorkDir, coverEntry),
+      coverMarkdown,
+      'utf8',
+    );
+  }
 
   const entries = [];
   for (const sourcePath of localeConfig.contents) {
@@ -113,7 +157,11 @@ async function preparePublication(publicationName, publication, locale, localeCo
     author: publication.author,
     language: locale,
     size: publication.size ?? 'A4',
-    entry: [{rel: 'contents'}, ...entries],
+    entry: [
+      ...(coverEntry ? [coverEntry] : []),
+      {rel: 'contents'},
+      ...entries,
+    ],
     entryContext: publicationWorkDir,
     theme: themeDestination,
     vfm: {rewriteRelativeHrefExtensions: true},
