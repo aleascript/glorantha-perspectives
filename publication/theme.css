@@ -12,6 +12,12 @@
   @bottom-center { content: none; }
 }
 
+@page publication-cover {
+  margin: 0;
+
+  @bottom-center { content: none; }
+}
+
 :root {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 10.5pt;
@@ -20,6 +26,67 @@
 }
 
 body { margin: 0; }
+
+.publication-cover {
+  page: publication-cover;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  width: 148mm;
+  height: 210mm;
+  overflow: hidden;
+  background: #17120f;
+  color: #fbf7ef;
+  break-after: page;
+}
+
+.publication-cover__visual {
+  display: flex;
+  min-height: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 8mm 8mm 0;
+  background: #f3eadc;
+}
+
+.publication-cover__image {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  object-fit: contain;
+}
+
+.publication-cover__text {
+  box-sizing: border-box;
+  min-height: 62mm;
+  padding: 10mm 12mm 12mm;
+}
+
+.publication-cover__series,
+.publication-cover__author {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+.publication-cover__series {
+  margin-bottom: 3mm;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.publication-cover__title {
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  font-size: 29pt;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.publication-cover__author {
+  margin-top: 5mm;
+  font-size: 9.5pt;
+}
 
 h1, h2, h3, h4 {
   font-family: Inter, ui-sans-serif, system-ui, sans-serif;
