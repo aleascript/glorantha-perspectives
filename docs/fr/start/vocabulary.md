@@ -9,7 +9,7 @@ Quelques mots suffisent pour savoir qui fait quoi autour de la table.
 
 ## Joueur
 
-Toute personne qui participe à la partie est un **joueur**. Selon l'organisation choisie, un joueur peut porter un Protagoniste, une part du Temps, plusieurs de ces responsabilités ou les alterner.
+Toute personne qui participe à la partie est un **joueur**. Selon l'organisation choisie, un joueur peut porter un Protagoniste, prendre en charge une part du Temps, cumuler plusieurs de ces responsabilités ou les alterner.
 
 ## Protagoniste
 
@@ -21,7 +21,7 @@ Porter un Protagoniste signifie décider ce qu'il veut, ce qu'il tente, ce qu'il
 
 Le **Temps** est la fonction de jeu qui fait vivre Glorantha autour des Protagonistes.
 
-Porter le Temps consiste notamment à :
+La fonction du Temps consiste notamment à :
 
 - présenter ce que les Protagonistes peuvent percevoir ;
 - faire agir les personnes, groupes et puissances qui ne sont pas portés comme Protagonistes ;
@@ -37,5 +37,7 @@ Le Temps n'a pas pour rôle de vaincre les Protagonistes, de protéger une intri
 ### Pourquoi le Temps ?
 
 Dans Glorantha, le Grand Compromis donne au Temps une place particulière. Les puissances divines sont liées à l'ordre qu'elles ont accepté, tandis que les mortels vivent dans le Temps et peuvent encore choisir, agir et transformer le monde.
+
+Le nom désigne cependant une fonction de jeu, pas seulement le phénomène cosmologique du Temps. Cette fonction subsiste lorsque les Protagonistes quittent le monde temporel : dans le Temps des Dieux, ou lorsque la partie se déroule avant le Grand Compromis, le Temps fait vivre les mythes, les rôles, les puissances, les lieux et les événements qui existent hors du Temps.
 
 Le terme rappelle donc une distinction essentielle : le cadre existe, mais le destin des Protagonistes n'est pas écrit à leur place.

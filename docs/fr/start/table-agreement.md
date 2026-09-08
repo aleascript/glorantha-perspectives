@@ -11,7 +11,7 @@ Avant de commencer, quelques accords simples évitent les malentendus.
 
 ## Le Temps n'est pas l'adversaire
 
-Porter le Temps consiste à faire vivre Glorantha autour des Protagonistes, pas à les faire perdre.
+La fonction du Temps est de faire vivre Glorantha autour des Protagonistes, pas de les faire perdre.
 
 Le Temps présente les réactions du monde, ses dangers, ses habitants, ses Forces et ses Pressions. Il peut être dur lorsque la Situation l'exige, mais il n'a pas à inventer une difficulté pour « équilibrer » chaque réussite des Protagonistes.
 
@@ -23,7 +23,7 @@ Quand une proposition paraît douteuse, la bonne question est simplement : **pou
 
 Si la réponse rend la proposition claire et cohérente, elle peut entrer dans la résolution. Sinon, elle reste hors du Focus.
 
-En cas de désaccord persistant, la personne ou les personnes qui portent la cohérence du Temps dans cette Situation tranchent pour que le jeu puisse continuer. Cette responsabilité peut être répartie différemment selon l'organisation de la partie.
+En cas de désaccord persistant, la personne ou les personnes responsables de la cohérence du Temps dans cette Situation tranchent pour que le jeu puisse continuer. Cette responsabilité peut être répartie différemment selon l'organisation de la partie.
 
 ## Parlez du niveau de risque
 

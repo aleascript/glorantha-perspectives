@@ -11,7 +11,7 @@ A few simple agreements before play prevent misunderstandings.
 
 ## Time is not the adversary
 
-Carrying Time means making Glorantha live around the Protagonists, not making them lose.
+The function of Time is to keep Glorantha alive around the Protagonists, not to make them lose.
 
 Time presents the world's reactions, dangers, inhabitants, Forces, and Pressures. It can be harsh when the Situation demands it, but it does not need to invent a difficulty to "balance" every success by the Protagonists.
 
@@ -23,7 +23,7 @@ When a proposal seems doubtful, the useful question is simply: **why does this m
 
 If the answer makes the proposal clear and coherent, it can enter the resolution. Otherwise, it remains outside the Focus.
 
-If disagreement persists, the person or people carrying the coherence of Time in that Situation decide so play can continue. This responsibility may be distributed differently depending on how the game is organized.
+If disagreement persists, the person or people responsible for the coherence of Time in that Situation decide so play can continue. This responsibility may be distributed differently depending on how the game is organized.
 
 ## Talk about the level of risk
 

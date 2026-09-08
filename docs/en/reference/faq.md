@@ -38,7 +38,7 @@ The Focus decides what matters here and now.
 
 The table begins by asking why the proposal matters in the Situation.
 
-If disagreement remains, the responsibility belongs to the person or people carrying the coherence of Time in that Situation. How this responsibility is distributed depends on how the game is organized.
+If disagreement remains, the responsibility belongs to the person or people responsible for the coherence of Time in that Situation. How this responsibility is distributed depends on how the game is organized.
 
 The goal is to preserve clear and coherent fiction, not to win a negotiation over dice.
 
@@ -46,7 +46,7 @@ The goal is to preserve clear and coherent fiction, not to win a negotiation ove
 
 No.
 
-Carrying Time means making what surrounds the Protagonists live and responding to their actions. A Protagonist's intentions and choices belong to whoever carries that Protagonist.
+Time keeps what surrounds the Protagonists alive and responds to their actions. A Protagonist's intentions and choices belong to whoever carries that Protagonist.
 
 ## Can my Protagonist die because of one bad roll?
 
@@ -70,6 +70,6 @@ See [Action, Sequence and Script](../rules/resolution/scale.md).
 
 Yes.
 
-Glorantha Perspectives distinguishes Protagonists from Time rather than assuming a single distribution of roles. One person may mainly carry Time, or the function may rotate, be shared, or be supported by procedures and tools.
+Glorantha Perspectives distinguishes Protagonists from Time rather than assuming a single distribution of roles. One person may mainly take responsibility for Time, or the function may rotate, be shared, or be supported by procedures and tools.
 
 See [Organizing Play](../start/play-modes.md).

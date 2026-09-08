@@ -38,7 +38,7 @@ Le Focus décide ce qui compte ici et maintenant.
 
 La table commence par demander pourquoi la proposition compte dans la Situation.
 
-Si un désaccord persiste, la responsabilité revient à la personne ou aux personnes qui portent la cohérence du Temps dans cette Situation. La manière de répartir cette responsabilité dépend de l'organisation de la partie.
+Si un désaccord persiste, la responsabilité revient à la personne ou aux personnes qui assurent la cohérence du Temps dans cette Situation. La manière de répartir cette responsabilité dépend de l'organisation de la partie.
 
 Le but est de préserver une fiction claire et cohérente, pas de gagner une négociation autour des dés.
 
@@ -46,7 +46,7 @@ Le but est de préserver une fiction claire et cohérente, pas de gagner une né
 
 Non.
 
-Porter le Temps signifie faire vivre ce qui entoure les Protagonistes et répondre à leurs actes. Les intentions et les choix d'un Protagoniste appartiennent à celui ou ceux qui le portent.
+Le Temps fait vivre ce qui entoure les Protagonistes et répond à leurs actes. Les intentions et les choix d'un Protagoniste appartiennent à celui ou ceux qui le portent.
 
 ## Mon Protagoniste peut-il mourir sur un mauvais jet ?
 
@@ -70,6 +70,6 @@ Voir [Action, Séquence et Script](../rules/resolution/scale.md).
 
 Oui.
 
-Glorantha Perspectives distingue les Protagonistes du Temps plutôt que de supposer une répartition unique des rôles. Une personne peut porter principalement le Temps, cette fonction peut circuler, être partagée ou être soutenue par des procédures et des outils.
+Glorantha Perspectives distingue les Protagonistes du Temps plutôt que de supposer une répartition unique des rôles. Une personne peut prendre principalement en charge le Temps, cette fonction peut circuler, être partagée ou être soutenue par des procédures et des outils.
 
 Voir [Organiser la partie](../start/play-modes.md).
