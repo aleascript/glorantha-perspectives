@@ -87,8 +87,6 @@ Les héros avancent donc avec les Orlanthis en parcourant les vignes hautes du d
 
 Chaque joueur va être confronté aux serpents. On verra par un jet de combien, quel a été l'impact de l'attaque sur les Orlanthis.
 
-Destin: -1
-
 > 🎲 Attaque des Serpents Piques 
 > - Conflit: 
 >   - Les serpents-pique: attaque-éclair (1), vif (1), rusé (1) 

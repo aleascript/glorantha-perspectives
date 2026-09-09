@@ -87,8 +87,6 @@ The heroes advance with the Orlanthis through the tall vines of the domain when 
 
 Each player will face the snakes. We will see through a roll how many, what the impact of the attack was on the Orlanthis.
 
-Fate: -1
-
 > 🎲 Snake Attack 
 > - Conflict: 
 >   - The sting-snakes: flash attack (1), swift (1), cunning (1) 
