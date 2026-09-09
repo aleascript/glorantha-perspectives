@@ -1,8 +1,8 @@
 ---
-title: Stakes
+title: Bets
 ---
 
-# Stakes
+# Bets
 
 A resolution decides an outcome that is **possible, important, and genuinely uncertain**. If an action is impossible in the world, there is nothing to roll. If its outcome is not in doubt, the fiction simply moves forward.
 
@@ -38,13 +38,13 @@ It does not ask the dice to revisit what the fiction already knows. It looks at 
 
 The **Zoom** sets the scale of that question: a single action, a whole Sequence, or a broader Script.
 
-Zoom does not set difficulty. It determines which differences the fiction still wants to distinguish. At group scale, the same collective difficulty does not become several Stakes merely because it affects several Protagonists.
+Zoom does not set difficulty. It determines which differences the fiction still wants to distinguish. At group scale, the same collective difficulty does not become several Bets merely because it affects several Protagonists.
 
 See also [Action, Sequence and Script](../resolution/scale.md).
 
 ## 3. Look at what matters
 
-A **Stake** is a fictional truth that the table makes relevant to the present Focus.
+A **Bet** is a fictional truth that the table makes relevant to the present Focus.
 
 It may come from:
 
@@ -60,43 +60,43 @@ It may come from:
 
 Something does not enter resolution because it appears on a character sheet. It enters because the table can explain **why it matters here**.
 
-Each Stake gives one die **on the side of the outcome it favours**.
+Each Bet gives one die **on the side of the outcome it favours**.
 
 ### A truth can work against its owner
 
-A Stake is not favourable or adverse by itself.
+A Bet is not favourable or adverse by itself.
 
 Heavy armour protects against a blade but hinders crossing a torrent. A fearsome reputation intimidates some people and makes others refuse all trust. An injury written on a Protagonist's sheet may favour the other outcome.
 
-> **A Stake favours one of the two outcomes relative to the present Focus.**
+> **A Bet favours one of the two outcomes relative to the present Focus.**
 
-The source of a Stake and the side it favours are separate questions.
+The source of a Bet and the side it favours are separate questions.
 
-Time does not hunt for counter-Stakes to balance the numbers artificially. It simply brings forward the truths of the Situation that genuinely matter on the other side.
+Time does not hunt for counter-Bets to balance the numbers artificially. It simply brings forward the truths of the Situation that genuinely matter on the other side.
 
-There is no need to give a technical name to the sets of Stakes that emerge. At the table, simply speak of **the Stakes favouring this outcome**, **the Stakes on the other side**, or, when it genuinely matches the fiction, **each camp's Stakes**.
+There is no need to give a technical name to the sets of Bets that emerge. At the table, simply speak of **the Bets favouring this outcome**, **the Bets on the other side**, or, when it genuinely matches the fiction, **each camp's Bets**.
 
 ### Relevance and non-redundancy
 
 Several true phrases may describe the same dimension of the Focus.
 
-**Excellent swordsman**, **trained since childhood**, and **veteran of three wars** do not automatically give three Stakes for an exchange lasting a few seconds. If they all mean “very experienced with a sword” at this Zoom, they are redundant.
+**Excellent swordsman**, **trained since childhood**, and **veteran of three wars** do not automatically give three Bets for an exchange lasting a few seconds. If they all mean “very experienced with a sword” at this Zoom, they are redundant.
 
 Across a broader Sequence they may become distinct if they genuinely weigh on different dimensions.
 
-> **A Stake counts once per relevant dimension of the Focus, not once per phrasing or once per character.**
+> **A Bet counts once per relevant dimension of the Focus, not once per phrasing or once per character.**
 
-### Closing the Stakes
+### Closing the Bets
 
 The table does not need to search the sheet, the scene, or the lore exhaustively.
 
 When nobody immediately sees another relevant truth that does not repeat what is already present, resolve.
 
-> **A Stake is not searched for to accumulate dice. It is noticed because it matters.**
+> **A Bet is not searched for to accumulate dice. It is noticed because it matters.**
 
-## 4. An outcome may have no Stake
+## 4. An outcome may have no Bet
 
-One of the two outcomes may receive no Stake. It is then represented by **zero dice**.
+One of the two outcomes may receive no Bet. It is then represented by **zero dice**.
 
 Neither the Intention nor the mere fact that an outcome is in the balance provides an implicit die. There is no “base die”.
 
@@ -108,7 +108,7 @@ By contrast, **0 / 0 is not a roll**. It is a framing signal. Ask:
 
 > **If nothing matters in favour of either outcome, what actually makes this resolution uncertain?**
 
-If the answer reveals a relevant truth, it may become a Stake. If nothing appears, the Situation probably does not need resolution and the fiction moves on.
+If the answer reveals a relevant truth, it may become a Bet. If nothing appears, the Situation probably does not need resolution and the fiction moves on.
 
 ## 5. Respect Frame Factors
 
@@ -116,7 +116,7 @@ Some truths do not give a die. They define what is possible.
 
 A **Frame Factor** can close an Intention, make a means inadmissible, or impose a condition until the fiction changes.
 
-An ordinary human does not kill a Dragon with a toothpick by accumulating enough Stakes. If that possibility is not open in Glorantha, the table does not frame “Do we kill it?” and then downgrade a Victory to a scratch after the roll.
+An ordinary human does not kill a Dragon with a toothpick by accumulating enough Bets. If that possibility is not open in Glorantha, the table does not frame “Do we kill it?” and then downgrade a Victory to a scratch after the roll.
 
 It frames honestly what remains possible: survive, drive it back, reach a weakness, accomplish a necessary step, or transform the Situation.
 
@@ -124,7 +124,7 @@ When the frame makes one side markedly more or less powerful without closing the
 
 ## 6. Roll and read according to the Worldview
 
-Roll the dice corresponding to the Stakes on each side.
+Roll the dice corresponding to the Bets on each side.
 
 How a roll is read depends on the **Worldview** that applies to it:
 
@@ -145,7 +145,7 @@ The roll and its reading provide, for each side, **reality's answer**. In most W
 
 ## 7. Compare reality's answers
 
-The outcome whose Stakes produce more Successes prevails on the question set by the Focus.
+The outcome whose Bets produce more Successes prevails on the question set by the Focus.
 
 - **Victory / Defeat**: one side has more Successes than the other;
 - **Status quo**: a tie;
@@ -168,11 +168,11 @@ Domination makes amplification available: the winner may achieve a **Feat** and 
 
 The two outcomes stated before the roll are not an exhaustive catalogue of what may happen. They only define **what this resolution must decide**. The **And** of a Feat or Fiasco may add a consequence, discovery, transformation, or advantage that was not contained in their initial wording.
 
-On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Stakes, let each actor who pushes the confrontation add a Stake representing their determination to end it, then resolve again.
+On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Bets, let each actor who pushes the confrontation add a Bet representing their determination to end it, then resolve again.
 
 ## 8. Interpret what happened
 
-Stakes do not disappear after the dice are rolled. They provide the material for interpretation.
+Bets do not disappear after the dice are rolled. They provide the material for interpretation.
 
 Return to:
 
@@ -180,10 +180,10 @@ Return to:
 - the two outcomes put in the balance;
 - the Focus and its Zoom;
 - any important consequences that were announced;
-- the Stakes that explained what mattered;
+- the Bets that explained what mattered;
 - the shape of the result.
 
-The dice and Worldviews provide **reality's answer** to what was put in the balance. **The Stakes explain how that answer becomes fiction.**
+The dice and Worldviews provide **reality's answer** to what was put in the balance. **The Bets explain how that answer becomes fiction.**
 
 A lasting consequence may then add, transform, or remove a truth of the Protagonist: an injury, bond, reputation, obligation, object, power, understanding, or loss.
 
@@ -193,9 +193,9 @@ The **Fate Gauge** is an optional shared tool that remembers successive asymmetr
 
 It contains dice of two colours: one for the Protagonists, one for adversity. Opposing colours cancel each other.
 
-Before the roll, when the number of Stakes differs between the two sides, add the difference to the Gauge in favour of the currently disadvantaged side. **These dice do not change the current resolution.**
+Before the roll, when the number of Bets differs between the two sides, add the difference to the Gauge in favour of the currently disadvantaged side. **These dice do not change the current resolution.**
 
-Example: the Protagonists have 5 Stakes and adversity 3. The resolution remains **5 against 3**, but the Gauge receives **2 adversity dice**. They may be spent later when a difficulty coherent with the fiction appears, according to the authority agreed by the table.
+Example: the Protagonists have 5 Bets and adversity 3. The resolution remains **5 against 3**, but the Gauge receives **2 adversity dice**. They may be spent later when a difficulty coherent with the fiction appears, according to the authority agreed by the table.
 
 The Gauge is a visible safety net, not an account that must be balanced after every scene. A table that does not need it may leave it out.
 

@@ -30,7 +30,7 @@ Varmand tries to rally hesitant warriors before a raid.
 
 His **carrying voice** may matter. His affinity with **Air** may support his passion. His **inherited sword** may become a symbol of legitimacy if the warriors know its story.
 
-These three elements do not automatically count as three Stakes in every scene. Here they may matter because the Situation makes them relevant.
+These three elements do not automatically count as three Bets in every scene. Here they may matter because the Situation makes them relevant.
 
 ## Centurion Phargos
 

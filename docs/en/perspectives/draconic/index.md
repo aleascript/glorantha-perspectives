@@ -2,7 +2,7 @@
 title: "Draconic Thought: the Dragon's Dream"
 ---
 
-![Dragonewt](/img/runes/dragonewt.png)![Dragonewt](/img/runes/dragon.png)
+![Dragonewt](/img/runes/dragonewt.png)![Dragon](/img/runes/dragon.png)
 
 > An adept of the draconic path reads the world through paradoxes and a holistic view of their own draw. They participate in material reality like the others, but know that forcing the illusion with their cosmic magic ties them a little more to this world, delaying their own shedding into the True Dragon stage. Their true spiritual power lies in their strength to renounce victory when the magical opportunity presents itself.
 
@@ -17,7 +17,7 @@ title: "Draconic Thought: the Dragon's Dream"
 
 The roll reveals how the dragonewt integrates into reality or whether they decide to twist it.
 
-Draconic Stakes are represented by D8s.
+Draconic Bets are represented by D8s.
 
 To read a roll according to **Draconic Thought**:
 

@@ -50,24 +50,24 @@ Before counting dice, ask whether a truth closes a possibility, makes a means in
 
 A **Frame Factor** is not a bonus or penalty: it changes the space of possibilities. The fiction must change before a closed possibility can become an acceptable Focus.
 
-## 6. Gather the Stakes on each side
+## 6. Gather the Bets on each side
 
-Identify the truths that genuinely matter to the Focus. Each becomes a **Stake** and gives one die **on the side of the outcome it favours**.
+Identify the truths that genuinely matter to the Focus. Each becomes a **Bet** and gives one die **on the side of the outcome it favours**.
 
 Check two things:
 
-- the Stake is genuinely relevant to this Focus and Zoom;
+- the Bet is genuinely relevant to this Focus and Zoom;
 - it is not a restatement of a dimension already counted.
 
-An outcome may have **no Stake** and be represented by zero dice. A 0 / N resolution is valid; a 0 / 0 tells you to return to framing rather than roll dice that represent nothing.
+An outcome may have **no Bet** and be represented by zero dice. A 0 / N resolution is valid; a 0 / 0 tells you to return to framing rather than roll dice that represent nothing.
 
-See [Stakes](../bets/).
+See [Bets](../bets/).
 
 ## 7. Roll and read according to the Worldview
 
-Roll the dice corresponding to the Stakes on each side, then read each roll according to the **Worldview** that applies to it.
+Roll the dice corresponding to the Bets on each side, then read each roll according to the **Worldview** that applies to it.
 
-An obstacle without a Worldview of its own may use **Mirror** or the **Middle World** described in [Stakes](../bets/).
+An obstacle without a Worldview of its own may use **Mirror** or the **Middle World** described in [Bets](../bets/).
 
 The roll and its reading produce, for each side, **reality's answer**. In most cases, it takes the form of a number of Successes.
 
@@ -77,7 +77,7 @@ A dominated result requires both a difference strictly greater than 1 and a winn
 
 ## 8. Interpret and continue
 
-The outcome whose Stakes obtain more Successes prevails in the fiction. The Stakes explain how that answer becomes concrete.
+The outcome whose Bets obtain more Successes prevails in the fiction. The Bets explain how that answer becomes concrete.
 
 Return to the Intentions, the two outcomes in the balance, announced consequences, Zoom, and truths that mattered. Describe what changes: position, relationship, injury, reputation, resource, obligation, information, threat, transformation, or another truth.
 
@@ -87,7 +87,7 @@ If a change is lasting and now belongs to the Protagonist, record it in their de
 
 The complete loop is:
 
-> **Situation → Intentions → consequences → Focus / Zoom → outcomes in the balance → Frame Factors → Stakes → Worldview → reality's answer → comparison → interpretation → transformed Situation**
+> **Situation → Intentions → consequences → Focus / Zoom → outcomes in the balance → Frame Factors → Bets → Worldview → reality's answer → comparison → interpretation → transformed Situation**
 
 ## Complete example
 
@@ -106,14 +106,14 @@ The two outcomes in the balance are:
 
 **Zoom.** The table chooses a **Sequence**: it resolves the whole approach and crossing, not every stride separately.
 
-**Frame Factor.** The old bridge has been swept away by the flood. It is therefore not an option and does not become a negative Stake: it is simply closed by the fiction.
+**Frame Factor.** The old bridge has been swept away by the flood. It is therefore not an option and does not become a negative Bet: it is simply closed by the fiction.
 
-**Stakes favouring the messenger.** *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**.
+**Bets favouring the messenger.** *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**.
 
-**Stakes on the other side.** *Current swollen by rain*, *Patrol already close*: **2 dice**.
+**Bets on the other side.** *Current swollen by rain*, *Patrol already close*: **2 dice**.
 
 The Protagonist is a theist. He rolls `4, 2, 1`: **2 Successes**. Adversity is read through the Middle World and rolls `2, 5`: **1 Success**.
 
 Reality's answer therefore tips the Situation toward the first outcome. The result is a simple **Victory**, not a Feat: the difference is only 1.
 
-The messenger reaches the far bank before the patrol. The Stakes provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new truth: **he crossed the ford with the message**.
+The messenger reaches the far bank before the patrol. The Bets provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new truth: **he crossed the ford with the message**.

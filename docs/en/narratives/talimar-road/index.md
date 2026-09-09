@@ -13,7 +13,7 @@ This narrative is not a mandatory creation method. It shows one simple possibili
 Three views let you go further:
 
 - [**Talimar's character sheet**](character.md) — the Protagonist as he stands at the end of the first session;
-- [**Actual Play — first session**](actual-play.md) — a detailed account of choices, Stakes, rolls, and table decisions;
+- [**Actual Play — first session**](actual-play.md) — a detailed account of choices, Bets, rolls, and table decisions;
 - [**Story — becoming a Grey Sage**](story.md) — the same events told as a continuous narrative.
 
 ## Tal before the sheet
@@ -40,7 +40,7 @@ The player then chooses not to decide immediately who recruited Tal, or even whe
 
 The fiction brings him to **Hendrik**, a Grey Sage of Lhankor Mhy. Their exchanges, teachings, myths, and Situations gradually give Tal reasons to enter that path.
 
-Creation therefore continues during play: relationships, questions, experiences, and understandings become lasting truths that may later become Stakes.
+Creation therefore continues during play: relationships, questions, experiences, and understandings become lasting truths that may later become Bets.
 
 ## Runes understood differently
 
@@ -61,7 +61,7 @@ The sheet changes because Tal's understanding has changed. This is neither a ret
 
 That first session followed a very simple loop:
 
-> **lived fiction → truths about the Protagonist → new possible Stakes → new fiction**
+> **lived fiction → truths about the Protagonist → new possible Bets → new fiction**
 
 A Protagonist therefore does not always need to be known in every detail before play begins.
 

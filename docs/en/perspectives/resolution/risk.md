@@ -22,7 +22,7 @@ These phrases are not a mechanical scale. They make the risk understandable befo
 
 After understanding the danger, the player may keep the same intention or reduce it.
 
-A Protagonist who wanted to kill a Lunar general might decide instead to hold them back long enough for an escape. The Focus, Stakes, and possible consequences change with that new intention.
+A Protagonist who wanted to kill a Lunar general might decide instead to hold them back long enough for an escape. The Focus, Bets, and possible consequences change with that new intention.
 
 ## Death is not an ordinary result
 
@@ -34,4 +34,4 @@ An ordinary roll that nobody understood to be lethal should not suddenly become 
 
 An injury, loss, broken oath, or disgrace is not merely a "penalty." If the consequence remains true after the scene, write it down.
 
-It may later weigh as a Stake, become a Frame Factor, or simply change what is possible in later Situations.
+It may later weigh as a Bet, become a Frame Factor, or simply change what is possible in later Situations.

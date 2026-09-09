@@ -4,11 +4,11 @@ title: Probability Landmarks
 
 # Probability Landmarks
 
-This table gives an approximate average number of Successes according to the **number of Stakes on one side** and the way the dice are read.
+This table gives an approximate average number of Successes according to the **number of Bets on one side** and the way the dice are read.
 
 It is not needed during play. Its main purpose is to check the differences between Worldviews and understand their general behavior.
 
-| Stakes | Theism | Animism | Logic | Mysticism | Draconic (Wyrm) |
+| Bets | Theism | Animism | Logic | Mysticism | Draconic (Wyrm) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | 0.55 | 0.50 | 0.33 | 0.50 | 0.50 |
 | 2 | 1.13 | 1.08 | 1.00 | 1.00 | 1.16 |

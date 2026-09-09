@@ -37,4 +37,4 @@ A significant enough transformation can return with the Protagonist and become a
 
 The runic imprint mainly serves to make the world visible.
 
-When it becomes important in a Situation, it can also become a Stake: a color recognized as the sign of a cult, a weapon whose form expresses Death, a bodily mark that reveals an initiation, and so on.
+When it becomes important in a Situation, it can also become a Bet: a color recognized as the sign of a cult, a weapon whose form expresses Death, a bodily mark that reveals an initiation, and so on.

@@ -31,7 +31,7 @@ It is also the only mode that does not treat even numbers as Successes. As if on
 
 It is a more creative magic than the theists' — a more open framework in theory, even if the Monotheistic Schools have frozen some practices.
 
-Somewhat like animists, preparation is important to maximize one's chances and make more Stakes matter.
+Somewhat like animists, preparation is important to maximize one's chances and make more Bets matter.
 
 The number 5 was often justified by the five elements — excluding the Moon — or associated with the five fingers of humanity as a creative being.
 

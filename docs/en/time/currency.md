@@ -30,4 +30,4 @@ Most ordinary transactions may use barter or lower-value units:
 
 Money does not necessarily require detailed accounting.
 
-When wealth, debt, cargo, or the scarcity of a currency becomes important in the Situation, record it as a concrete truth. It may then become a Stake, a resource that can be lost, an obligation, or a problem to solve.
+When wealth, debt, cargo, or the scarcity of a currency becomes important in the Situation, record it as a concrete truth. It may then become a Bet, a resource that can be lost, an obligation, or a problem to solve.

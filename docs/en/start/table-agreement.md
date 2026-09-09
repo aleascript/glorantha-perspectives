@@ -4,7 +4,7 @@ title: Table Agreement
 
 # Table Agreement
 
-Glorantha Perspectives relies heavily on shared judgment: what is true, what matters in a Situation, what can become a Stake, and how far consequences can go.
+Glorantha Perspectives relies heavily on shared judgment: what is true, what matters in a Situation, what can become a Bet, and how far consequences can go.
 
 A few simple agreements before play prevent misunderstandings.
 
@@ -16,7 +16,7 @@ Time presents the world's reactions, dangers, inhabitants, Forces, and Pressures
 
 ## The coherence of the world matters
 
-A proposed Stake must be clearly connected to the present fiction.
+A proposed Bet must be clearly connected to the present fiction.
 
 When a proposal seems doubtful, the useful question is simply: **why does this matter here?**
 

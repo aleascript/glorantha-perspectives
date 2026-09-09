@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 
 # Frequently Asked Questions
 
-## How do I find Stakes?
+## How do I find Bets?
 
 Begin with the Situation, not with a list on the character sheet.
 
@@ -15,7 +15,7 @@ Ask yourself:
 3. which Rune of my Protagonist is relevant to what they are trying?
 4. what in the place or circumstances can tip the balance?
 
-A truth is not automatically a Stake. It becomes a Stake when the Focus explains why it matters in this resolution.
+A truth is not automatically a Bet. It becomes a Bet when the Focus explains why it matters in this resolution.
 
 ## Do I need to know Glorantha well before playing?
 
@@ -33,7 +33,7 @@ Adding a truth to a Protagonist mainly gives the fiction more material. It may h
 
 The Focus decides what matters here and now.
 
-## Who decides whether a Stake is valid?
+## Who decides whether a Bet is valid?
 
 The table begins by asking why the proposal matters in the Situation.
 

@@ -20,7 +20,7 @@ To carry **Time** is to make Glorantha live around the Protagonists: present the
 
 Time does not decide the future of the Protagonists and is not there to defeat them.
 
-When a resolution needs arbitration over the Focus, a Stake, or a Frame Factor, the table first compares the proposals with what is true in the fiction. If disagreement remains, the person carrying Time makes the final call when the table agreement gives them that responsibility.
+When a resolution needs arbitration over the Focus, a Bet, or a Frame Factor, the table first compares the proposals with what is true in the fiction. If disagreement remains, the person carrying Time makes the final call when the table agreement gives them that responsibility.
 
 ## The simplest way to begin
 
@@ -52,9 +52,9 @@ An arrangement works as long as everyone knows **what they may decide, what they
 
 Glorantha Perspectives can also be used occasionally during a campaign played with **RuneQuest** or another system.
 
-When the interesting question becomes less “which skill should we roll?” and more **“what really weighs on this Situation?”**, the table can pause the usual system, state the Focus, build the Stakes, and resolve that question with GP.
+When the interesting question becomes less “which skill should we roll?” and more **“what really weighs on this Situation?”**, the table can pause the usual system, state the Focus, build the Bets, and resolve that question with GP.
 
-Nothing needs to be converted. A high skill, a Passion, a Rune, a reputation, a cult, an injury, or an object can simply be recognized as a fictional truth and become a Stake when relevant. **Numerical values never become numbers of dice.**
+Nothing needs to be converted. A high skill, a Passion, a Rune, a reputation, a cult, an injury, or an object can simply be recognized as a fictional truth and become a Bet when relevant. **Numerical values never become numbers of dice.**
 
 One handoff rule is essential:
 

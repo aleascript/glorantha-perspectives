@@ -21,8 +21,8 @@ To read a roll according to **Mysticism**:
 
 - **Weakened** mode: two 1s from your roll are required to remove one 6 from the opposing roll.
 - **Heroic** mode: the mystic chooses between:
-    - gaining as many Stakes as the other side, without needing an additional fictional justification;
-    - placing Stakes normally, but after the roll using 1s to take any die from the other side — usually the highest evens, but possibly high odds to counter a logician — and transform by taking the chosen die's value.
+    - gaining as many Bets as the other side, without needing an additional fictional justification;
+    - placing Bets normally, but after the roll using 1s to take any die from the other side — usually the highest evens, but possibly high odds to counter a logician — and transform by taking the chosen die's value.
 
 **Comments**
 

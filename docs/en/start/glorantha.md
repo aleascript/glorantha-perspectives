@@ -10,7 +10,7 @@ You do not need to know all of Glorantha before you start playing. A few landmar
 
 Completely isolated individuals are rare. A Protagonist usually belongs to a family, clan, tribe, city, temple, regiment, school, tradition, or another community that gives them obligations as well as support.
 
-These ties are not background decoration: they can become Stakes as soon as they genuinely matter in the Situation.
+These ties are not background decoration: they can become Bets as soon as they genuinely matter in the Situation.
 
 ## The world evokes the Bronze Age
 

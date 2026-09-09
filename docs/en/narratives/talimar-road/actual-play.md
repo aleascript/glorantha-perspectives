@@ -4,7 +4,7 @@ title: Actual Play — first session
 
 # Actual Play — first session
 
-This page reconstructs **Talimar's first session, played on August 31, 2026**, in the order in which its decisive elements appeared at the table. It keeps the player's choices, Stakes, rolls, rulings, and lines of dialogue that transformed Tal.
+This page reconstructs **Talimar's first session, played on August 31, 2026**, in the order in which its decisive elements appeared at the table. It keeps the player's choices, Bets, rolls, rulings, and lines of dialogue that transformed Tal.
 
 The playtest transcript kept in the working notes is longer still. This edition removes repetitions and purely technical turns without retroactively rebuilding a character who did not yet exist.
 
@@ -42,18 +42,18 @@ Tal suddenly recognizes that the marks are not decoration.
 
 The player wants a genuine opportunity to make contact with the stranger. He identifies what may weigh on the Situation.
 
-**Tal's Stakes:**
+**Tal's Bets:**
 
 - his relationship with Grimar and their many journeys together;
 - offering to share salt under Heortling hospitality;
 - his curiosity.
 
-**Adversity Stakes:**
+**Adversity Bets:**
 
 - the wind is rising and there is still a long road ahead;
 - Grimar wants to keep moving.
 
-The resolution is therefore **3 Stakes against 2**.
+The resolution is therefore **3 Bets against 2**.
 
 Tal rolls `2, 3, 6`. Under his theist reading, the `6` lets him reroll the odd `3`, which becomes `5`. Final result: `2, 5, 6`, for **2 Successes**.
 
@@ -115,13 +115,13 @@ Tal refuses to treat one as “the correct text”. He wants to reconstruct a pl
 
 The player explicitly asks to use resolution: he knows what Tal is trying to achieve but does not want to solve the investigation himself as a puzzle.
 
-**Tal's Stakes:**
+**Tal's Bets:**
 
 - Curiosity;
 - Hendrik's teaching;
 - “Truth may remain incomplete.”
 
-**Adversity Stakes:**
+**Adversity Bets:**
 
 - Three contradictory testimonies;
 - Every account has its blind spot.

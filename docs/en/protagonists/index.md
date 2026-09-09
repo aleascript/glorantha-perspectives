@@ -22,7 +22,7 @@ The phrase is not a rule. It simply helps you quickly recover how the Protagonis
 
 Choose their culture and the concrete community they belong to: clan, tribe, city, temple, regiment, school, family, tradition, or another relevant group.
 
-A community brings support, duties, relationships, enemies, and habits. Any of them may become Stakes when they are genuinely present in the Situation.
+A community brings support, duties, relationships, enemies, and habits. Any of them may become Bets when they are genuinely present in the Situation.
 
 ## Worldview
 
@@ -36,7 +36,7 @@ Choose the deep way the Protagonist understands reality: their **Worldview**.
 
 Add the spiritual or intellectual affiliation that gives this Worldview a more precise form: cult, tradition, school, path, and so on.
 
-A Protagonist may know rites, texts, practices, or knowledge from elsewhere without changing Worldview. These elements may become Stakes; they do not automatically change how the Protagonist's dice are read.
+A Protagonist may know rites, texts, practices, or knowledge from elsewhere without changing Worldview. These elements may become Bets; they do not automatically change how the Protagonist's dice are read.
 
 ## Runes
 
@@ -50,7 +50,7 @@ They may express:
 - a cultural or religious mark;
 - an important contradiction.
 
-A Rune is not an automatic bonus. It becomes a Stake when it genuinely matters in the Situation.
+A Rune is not an automatic bonus. It becomes a Bet when it genuinely matters in the Situation.
 
 For example, a strong affinity with **Air** may support a character's impulsiveness, pride, or violence; **Illusion** may support secrecy, deception, or the play of appearances. The same truths can also turn against them.
 
@@ -82,7 +82,7 @@ Record states that deserve to remain true from one Situation to the next:
 - transformation;
 - lasting favor or disgrace.
 
-A state does not need a numerical scale to matter. If it genuinely affects what happens, it may become a Stake or change the frame of the Situation.
+A state does not need a numerical scale to matter. If it genuinely affects what happens, it may become a Bet or change the frame of the Situation.
 
 ## Bonds and attachments
 

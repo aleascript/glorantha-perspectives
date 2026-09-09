@@ -27,7 +27,7 @@ Future development is mainly about providing more material that can be used dire
 
 Five areas are currently being expanded:
 
-- **Theism** — more cults, myths, practices, and examples for recognizing what may matter in Situations and Stakes;
+- **Theism** — more cults, myths, practices, and examples for recognizing what may matter in Situations and Bets;
 - **Animism** — more spirits, traditions, spiritual relationships, and directly playable aids;
 - **Mysticism** — more paths, practices, and examples for bringing its different forms to life in Glorantha;
 - **Logic** — more schools, knowledge, methods, and situations in which this Worldview can enter play;
