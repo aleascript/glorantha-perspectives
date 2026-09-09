@@ -12,9 +12,31 @@ type Publication = {
 };
 type PublicationManifest = {version: string; publications: Publication[]};
 
+const copy = {
+  fr: {
+    title: 'Publications',
+    description: 'Éditions téléchargeables de Glorantha Perspectives.',
+    intro: 'Téléchargez les éditions générées à partir du corpus du site.',
+    version: 'Version',
+    revision: 'Révision',
+    unavailable: "Aucune publication générée n'est disponible dans ce build.",
+    loading: 'Chargement des publications…',
+  },
+  en: {
+    title: 'Publications',
+    description: 'Downloadable editions of Glorantha Perspectives.',
+    intro: 'Download editions generated from the site corpus.',
+    version: 'Version',
+    revision: 'Revision',
+    unavailable: 'No generated publication is available in this build.',
+    loading: 'Loading publications…',
+  },
+} as const;
+
 export default function PublicationsPage(): React.ReactNode {
   const {i18n, siteConfig} = useDocusaurusContext();
   const locale = i18n.currentLocale;
+  const text = locale === 'en' ? copy.en : copy.fr;
   const configuredDeploymentBaseUrl = siteConfig.customFields?.deploymentBaseUrl;
   const deploymentBaseUrl =
     typeof configuredDeploymentBaseUrl === 'string'
@@ -38,7 +60,9 @@ export default function PublicationsPage(): React.ReactNode {
       .catch(() => {
         if (!cancelled) setFailed(true);
       });
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+    };
   }, [manifestUrl]);
 
   const localized =
@@ -47,31 +71,31 @@ export default function PublicationsPage(): React.ReactNode {
       .filter((entry) => entry.locale) ?? [];
 
   return (
-    <Layout title="Publications" description="Éditions téléchargeables de Glorantha Perspectives.">
+    <Layout title={text.title} description={text.description}>
       <main className="container margin-vert--lg publications-page">
         <header className="publications-header">
-          <h1>Publications</h1>
-          <p>Téléchargez les éditions générées à partir du corpus du site.</p>
+          <h1>{text.title}</h1>
+          <p>{text.intro}</p>
           {manifest ? (
             <p className="publications-version">
-              Version du corpus : <strong>{manifest.version}</strong>
+              {text.version} : <strong>{manifest.version}</strong>
             </p>
           ) : null}
         </header>
 
         {failed ? (
-          <div className="alert alert--warning">
-            Aucune publication générée n'est disponible dans ce build.
-          </div>
+          <div className="alert alert--warning">{text.unavailable}</div>
         ) : null}
-        {!manifest && !failed ? <p>Chargement des publications…</p> : null}
+        {!manifest && !failed ? <p>{text.loading}</p> : null}
 
         <div className="publications-grid">
           {localized.map(({publication, locale: localizedPublication}) => (
             <article className="publication-card" key={publication.id}>
               <h2>{localizedPublication.title}</h2>
               {publication.revision ? (
-                <p className="publication-revision">Révision : {publication.revision}</p>
+                <p className="publication-revision">
+                  {text.revision} : {publication.revision}
+                </p>
               ) : null}
               <div className="publication-formats">
                 {localizedPublication.formats.map((asset) => (

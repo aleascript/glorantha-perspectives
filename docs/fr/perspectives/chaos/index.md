@@ -68,4 +68,4 @@ Le personnage peut continuer d'exister dans la fiction, mais il n'est plus quelq
 
 ## Le Chaos ne remplace pas les autres règles
 
-Une créature ou un dieu chaotique utilise normalement la vision du monde qui lui correspond. Le Chaos intervient lorsqu'une rupture particulière de l'ordre du monde est mise en jeu ; il ne donne pas automatiquement des réussites supplémentaires à tout ce qui est chaotique.
+Une créature ou un dieu chaotique utilise normalement la Vision du monde qui lui correspond. Le Chaos intervient lorsqu'une rupture particulière de l'ordre du monde est mise en jeu ; il ne donne pas automatiquement des réussites supplémentaires à tout ce qui est chaotique.

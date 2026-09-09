@@ -12,7 +12,7 @@ Elle ne se résume pas à rejouer une histoire connue. Suivre le mythe donne un 
 
 Une Quête héroïque demande d'abord d'accéder à l'Autre Monde concerné et d'établir le lien avec le mythe que l'on cherche à parcourir.
 
-Selon les conditions de cette entrée et la puissance des forces rencontrées, les participants peuvent se retrouver dans un **mode héroïque** de leur vision du monde. Les puissances qui leur font face peuvent elles aussi agir à cette échelle.
+Selon les conditions de cette entrée et la puissance des forces rencontrées, les participants peuvent se retrouver dans un **mode héroïque** de leur Vision du monde. Les puissances qui leur font face peuvent elles aussi agir à cette échelle.
 
 ## Jouer les étapes du mythe
 

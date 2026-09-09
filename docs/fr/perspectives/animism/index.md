@@ -4,7 +4,7 @@ title: "L'animisme: le monde des esprits"
 
 ![Monde des esprits](/img/runes/spirits.png)
 
-> Un animiste ressent le monde. Il ressent le lien entre le monde invisible et visible. C’est comme ça qu’il peut interpréter, décider, agir. Les animistes sont entre les deux mondes: le mondain et le spirituel. C’est leur vision du monde. Toujours. Tout le temps.
+> Un animiste ressent le monde. Il ressent le lien entre le monde invisible et visible. C’est comme ça qu’il peut interpréter, décider, agir. Les animistes sont entre les deux mondes: le mondain et le spirituel. C’est leur Vision du monde. Toujours. Tout le temps.
 
 *Noms péjoratifs pour les autres: primitifs, sauvages, ...*
 
@@ -25,7 +25,7 @@ title: "L'animisme: le monde des esprits"
 
 Quand un animiste affronte une difficulté, il cherche à capter les énergies des esprits environnants ou en sa possession pour l’affronter. Il ne perçoit donc que des esprits qui peuvent l’aider, certains sont difficiles à convaincre, certains restent indifférents. Les dés ne font que représenter ce troc spirituel qui s’effectue en coulisse. 
 
- Le focus spécifique sur les tirages impairs représente l'attention permanente du personnage tournée vers le monde spirituel.  
+Le focus spécifique sur les tirages impairs représente l'attention permanente du personnage tournée vers le monde spirituel.  
 
 On pourrait presque voir chaque dé comme représentant un esprit. 
 

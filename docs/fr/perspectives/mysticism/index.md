@@ -4,7 +4,7 @@ title: "Mysticisme: l'Illumination"
 
 ![Monde mystique: le centre, le vide](/img/runes/void.png)
 
-> Un mystique a une vision du monde fondée sur une déconstruction intérieure mais réelle de l’illusion du réel, des sens, etc… Il sait qu’il n’y a pas de vérité absolue. Il voit les transformations. En cela, il peut interpréter, décider et agir sur le monde.
+> Un mystique a une Vision du monde fondée sur une déconstruction intérieure mais réelle de l’illusion du réel, des sens, etc… Il sait qu’il n’y a pas de vérité absolue. Il voit les transformations. En cela, il peut interpréter, décider et agir sur le monde.
 
 *Nom péjoratif utilisé par les autres: nihilistes, charlatans,…*
 
@@ -12,9 +12,9 @@ title: "Mysticisme: l'Illumination"
 
 > Dans l'adversité, on puise dans son calme intérieur, non pas pour lutter, mais pour observer comment notre volonté et le monde vont s'entremêler et se transformer.
  
-- On compte le nombre de réussites d'un [camp](../bets) logique de la manière suivante:
+- On compte le nombre de réussites d'un [camp](../bets) mystique de la manière suivante:
     - On compte les pairs
-    - Les 1 peuvent faire disparaitre les 6 de l'autre camp et disparaissent en même temps. Un échec peut donc  être un immense succès.
+    - Les 1 peuvent faire disparaitre les 6 de l'autre camp et disparaissent en même temps. Un échec peut donc être un immense succès.
 
 **Modes de puissance**
 
@@ -25,7 +25,7 @@ title: "Mysticisme: l'Illumination"
 
 **Commentaires**
 
-C'est la seule vision du monde qui peut agir sur le camp de l'autre. Et ça c’est très perturbant d'où l'illumination sous jacente.
+C'est la seule Vision du monde qui peut agir sur le camp de l'autre. Et ça c’est très perturbant d'où l'illumination sous jacente.
 
 Quand un mystique affronte l’adversité, il distingue ce qui est favorable ou peut agir en tant que bras de levier, de ce qui est défavorable ou doit rester en retrait. Il distingue aussi ce qui peut muter et engendrer une transformation. 
 

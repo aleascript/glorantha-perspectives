@@ -27,7 +27,7 @@ Une communauté apporte des soutiens, des devoirs, des relations, des ennemis et
 
 ## Vision du monde
 
-Choisissez la manière profonde dont le Protagoniste comprend la réalité :
+Choisissez la manière profonde dont le Protagoniste comprend la réalité : sa **Vision du monde**.
 
 - **Théisme** ;
 - **Animisme** ;
@@ -35,9 +35,9 @@ Choisissez la manière profonde dont le Protagoniste comprend la réalité :
 - **Mysticisme** ;
 - **Pensée draconique**, pour les êtres concernés.
 
-Ajoutez l'appartenance spirituelle ou intellectuelle qui précise cette vision : culte, tradition, école, voie, etc.
+Ajoutez l'appartenance spirituelle ou intellectuelle qui précise cette Vision du monde : culte, tradition, école, voie, etc.
 
-Un Protagoniste peut connaître des rites, textes, pratiques ou savoirs venus d'ailleurs sans changer de vision du monde. Ces éléments peuvent devenir des Mises ; ils ne changent pas automatiquement la manière dont ses dés sont lus.
+Un Protagoniste peut connaître des rites, textes, pratiques ou savoirs venus d'ailleurs sans changer de Vision du monde. Ces éléments peuvent devenir des Mises ; ils ne changent pas automatiquement la manière dont ses dés sont lus.
 
 ## Runes
 
@@ -116,6 +116,14 @@ Arrêtez la création lorsque vous savez répondre à ces questions :
 5. **Qu'est-ce qui peut l'aider ou lui compliquer la vie dès la première Situation ?**
 
 Le reste peut apparaître pendant le jeu. Une vérité découverte plus tard peut être ajoutée lorsqu'elle devient importante.
+
+## Créer en jouant
+
+Il n'est pas nécessaire que toutes les réponses existent avant la première Situation.
+
+Vous pouvez commencer avec quelques vérités suffisamment solides pour jouer, puis découvrir le reste par les choix, les rencontres, les mythes et les conséquences. La feuille devient alors la mémoire de ce que la partie a réellement révélé du Protagoniste.
+
+[**La Route de Talimar**](../narratives/talimar-road/) montre cette possibilité en jeu : Tal commence avec une appartenance, des contradictions et des questions, puis sa relation à Lhankor Mhy, ses Runes et son initiation se précisent au fil de la fiction.
 
 ## Faire évoluer un Protagoniste
 

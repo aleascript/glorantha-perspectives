@@ -102,7 +102,7 @@ export default definePublications({
     defaultLocale: 'fr',
   },
   release: {
-    initialVersion: '0.1.0',
+    initialVersion: '2026-09-09',
   },
   publications: {
     guide: {
@@ -110,13 +110,10 @@ export default definePublications({
       revision: 'Draft',
       lineage: {
         designedWith: {
-          label: 'Resonance',
-          href: 'https://aleascript.github.io/resonance/',
-        },
-        poweredBy: {
           label: 'Regard',
           href: 'https://aleascript.github.io/regard/',
         },
+        poweredBy: null,
       },
       size: 'A5',
       theme: 'publication/theme.css',
@@ -153,13 +150,10 @@ export default definePublications({
       revision: 'Draft',
       lineage: {
         designedWith: {
-          label: 'Resonance',
-          href: 'https://aleascript.github.io/resonance/',
-        },
-        poweredBy: {
           label: 'Regard',
           href: 'https://aleascript.github.io/regard/',
         },
+        poweredBy: null,
       },
       size: 'A5',
       theme: 'publication/theme.css',

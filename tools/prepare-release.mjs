@@ -3,8 +3,16 @@ import fs from 'node:fs/promises';
 
 const version = process.argv[2]?.trim();
 
-if (!/^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?$/.test(version ?? '')) {
-  throw new Error(`Invalid release version: ${version ?? '<missing>'}`);
+function isCalVer(value) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value ?? '')) return false;
+  const parsed = new Date(`${value}T00:00:00Z`);
+  return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === value;
+}
+
+if (!isCalVer(version)) {
+  throw new Error(
+    `Invalid release version: ${version ?? '<missing>'}. Expected YYYY-MM-DD.`,
+  );
 }
 
 const env = {...process.env, PUBLICATION_VERSION: version};

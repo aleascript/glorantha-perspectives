@@ -7,52 +7,103 @@ sidebar_position: 1
 
 Resolution happens when a Situation contains an outcome that is **possible, important, and genuinely uncertain**.
 
-## 1. State what each side wants
+The complete procedure has eight steps.
 
-Begin with intentions.
+## 1. State the Intentions
 
-What does the Protagonist want to achieve? What does the other side want, or what will the obstacle cause if it is not overcome?
+What is each side actually trying to obtain?
 
-A good resolution decides something the table will be able to recognize in the fiction after the roll.
+An **Intention** is not a menu action or the name of an ability. It is what a Protagonist, a Force, or another direction of the Situation is trying to achieve.
 
-## 2. Choose the Focus
+The resolution must decide something the table will be able to recognize in the fiction afterwards.
 
-Clarify what the scene is really looking at.
+## 2. Make important consequences visible
 
-A quality can be true without mattering here. An excellent sword does not help convince a council. A political reputation may change nothing against an icy cliff.
+When significant consequences of a choice are not obvious but the Protagonist could reasonably know them, Time states them before the roll.
 
-The Focus filters what can become a Stake.
+This is not about predicting the whole scene. It is about letting the player decide while genuinely knowing what is at risk.
 
-## 3. Identify Stakes and Frame Factors
+## 3. Choose the Focus
 
-Each side gathers truths that help it and truths that hinder its opponent.
+The **Focus** is the question the roll must answer.
 
-A **Frame Factor** is stronger than a simple Stake: it defines what the Situation allows, forbids, or transforms before the dice are even counted.
+It concerns only what remains genuinely uncertain. If the fiction has already established that a possibility is open or closed, the dice do not revisit that fact.
 
-See [Sides and Stakes](../bets/).
+Conversely, once the Focus is accepted, its outcome commits the table:
 
-## 4. Choose the right zoom
+> **What is closed by the fiction is closed before the roll. What is genuinely put into resolution must be able to happen.**
 
-The same system can decide a single gesture, a whole scene, or a sequence of steps.
+## 4. Choose the Zoom
 
-Do not multiply rolls if one resolution is enough to answer the question the table actually cares about.
+The **Zoom** sets the scale of the Focus: Action, Sequence, or Script.
+
+The same system can decide a gesture, a whole scene, a journey, or a complex operation. Do not multiply rolls if one resolution answers the question the table actually cares about.
+
+Zoom does not set difficulty. It determines which dimensions of the fiction remain distinct at that scale.
 
 See [Action, Sequence and Script](scale.md).
 
-## 5. Roll and read according to worldview
+## 5. Identify Frame Factors
 
-Each side rolls one die per Stake, then reads the result according to its worldview.
+Before counting dice, ask whether a truth closes a possibility, makes a means inadmissible, or imposes a condition.
 
-Compare the final number of successes for each side.
+A **Frame Factor** is not a bonus or penalty: it changes the space of possibilities. The fiction must change before a closed possibility can become an acceptable Focus.
 
-## 6. Interpret within the Situation
+## 6. Build the Stake pools
 
-The result does not describe an abstract amount of damage or progress. It answers the stated intention within the precise frame of the Situation.
+Identify the truths that genuinely matter to the Focus. Each becomes a **Stake** and gives one die to the pool in the direction it supports.
 
-The same difference in successes can therefore lead to very different consequences depending on what was truly at stake.
+Check two things:
 
-## 7. Continue from what changed
+- the Stake is genuinely relevant to this Focus and Zoom;
+- it is not a restatement of a dimension already counted.
 
-After resolution, update the fiction: position, relationship, injury, reputation, resource, obligation, information, threat, transformation, or another lasting truth.
+A pool may contain **zero dice**. There is no implicit base die. A 0 / N resolution is valid; a 0 / 0 tells you to return to framing rather than roll dice that represent nothing.
 
-That new fiction becomes the starting point of the next Situation.
+See [Sides and Stakes](../bets/).
+
+## 7. Roll and read according to the Worldview
+
+Each side rolls its pool, then reads the dice according to its **Worldview**.
+
+An obstacle without a Worldview of its own may use **Mirror** or the **Middle World** described in [Sides and Stakes](../bets/).
+
+Then compare the number of Successes.
+
+A dominated result requires both a difference strictly greater than 1 and a winner's score strictly greater than twice the loser's score.
+
+## 8. Interpret and continue
+
+The result answers the Focus. The Stakes explain how it becomes fiction.
+
+Return to the Intentions, announced consequences, Zoom, and truths that mattered. Describe what changes: position, relationship, injury, reputation, resource, obligation, information, threat, transformation, or another truth.
+
+If that change is lasting and now belongs to the Protagonist, record it in their description.
+
+The complete loop is:
+
+> **Situation → Intentions → consequences → Focus / Zoom → Frame Factors → Stakes → Worldview → result → interpretation → transformed Situation**
+
+## Complete example
+
+An Orlanthi messenger is fleeing a patrol and wants to **cross a ford before being caught**.
+
+**Intentions.** The Protagonist wants to reach the far bank. Adversity wants to catch him before he crosses.
+
+**Important consequence.** Time states that if he is caught in the middle of the ford, he risks being captured with the message he carries.
+
+**Focus.** *Does he cross the ford before the patrol catches him?* Both outcomes are possible.
+
+**Zoom.** The table chooses a **Sequence**: it resolves the whole approach and crossing, not every stride separately.
+
+**Frame Factor.** The old bridge has been swept away by the flood. It is therefore not an option and does not become a negative Stake: it is simply closed by the fiction.
+
+**Protagonist Stakes.** *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**.
+
+**Adverse Stakes.** *Current swollen by rain*, *Patrol already close*: **2 dice**.
+
+The Protagonist is a theist. He rolls `4, 2, 1`: **2 Successes**. Adversity is read through the Middle World and rolls `2, 5`: **1 Success**.
+
+The result is a simple **Victory**, not a Feat: the difference is only 1.
+
+The messenger therefore reaches the far bank before the patrol. The Stakes provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new truth: **he crossed the ford with the message**.

@@ -22,14 +22,14 @@ export const site = {
     fr: {htmlLang: 'fr', label: 'Français'},
     en: {htmlLang: 'en', label: 'English'},
   },
-    identity: {
+  identity: {
     logo: 'img/site/gp-logo-white-on-dark.png',
     favicon: 'img/site/gp-logo-white-on-dark.png',
   } satisfies SiteIdentity,
   repository: {defaultFullName: 'aleascript/glorantha-perspectives'},
   lineage: {
-    designedWith: {label: 'Resonance', href: 'https://aleascript.github.io/resonance/'},
-    poweredBy: {label: 'Regard', href: 'https://aleascript.github.io/regard/'},
+    designedWith: {label: 'Regard', href: 'https://aleascript.github.io/regard/'},
+    poweredBy: null,
   } as SiteLineage,
   theme: {
     colors: {

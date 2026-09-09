@@ -27,7 +27,7 @@ A community brings support, duties, relationships, enemies, and habits. Any of t
 
 ## Worldview
 
-Choose the deep way the Protagonist understands reality:
+Choose the deep way the Protagonist understands reality: their **Worldview**.
 
 - **Theism**;
 - **Animism**;
@@ -35,9 +35,9 @@ Choose the deep way the Protagonist understands reality:
 - **Mysticism**;
 - **Draconic Thought**, for beings concerned by it.
 
-Add the spiritual or intellectual affiliation that gives this worldview a more precise form: cult, tradition, school, path, and so on.
+Add the spiritual or intellectual affiliation that gives this Worldview a more precise form: cult, tradition, school, path, and so on.
 
-A Protagonist may know rites, texts, practices, or knowledge from elsewhere without changing worldview. These elements may become Stakes; they do not automatically change how the Protagonist's dice are read.
+A Protagonist may know rites, texts, practices, or knowledge from elsewhere without changing Worldview. These elements may become Stakes; they do not automatically change how the Protagonist's dice are read.
 
 ## Runes
 
@@ -116,6 +116,14 @@ Stop creation when you can answer these questions:
 5. **What can help them or complicate their life in the first Situation?**
 
 The rest can appear during play. A truth discovered later can be added when it becomes important.
+
+## Creating through play
+
+Not every answer has to exist before the first Situation.
+
+You can begin with a few truths solid enough to play, then discover the rest through choices, encounters, myths, and consequences. The sheet then becomes the memory of what play has actually revealed about the Protagonist.
+
+[**Talimar's Road**](../narratives/talimar-road/) shows this possibility in play: Tal begins with a community, contradictions, and questions, while his relationship with Lhankor Mhy, his Runes, and his initiation become clearer through the fiction.
 
 ## Changing a Protagonist
 

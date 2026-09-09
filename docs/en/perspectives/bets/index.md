@@ -1,144 +1,195 @@
 ---
-title: Camps & Bets
+title: Sides and Stakes
 ---
 
-![Mastery](/img/runes/mastery.png)![Luck](/img/runes/luck.png)
+# Sides and Stakes
 
-> When destiny hesitates, we gather everything that makes our strength, in flesh as in the invisible, and we look to which side fate will tip against what stands in opposition to us.
+A resolution decides an outcome that is **possible, important, and genuinely uncertain**. If an action is impossible in the world, there is nothing to roll. If its outcome is not in doubt, the fiction simply moves forward.
 
-Principle: facing adversity, we bet everything that could, in this situation, serve us. The adversary or obstacle does the same. And then we proceed to a draw to resolve it.
+When resolution is needed, begin by looking at the Situation.
 
-A resolution is made to determine a narrative turning point. It exists only to serve the narrative. Therefore, we do not make a resolution at every turn. We can even choose to resolve an opposition once and not do it a second time if it brings nothing to the narrative dynamics.
+## 1. Define the sides and their Intentions
 
-The underlying idea of the game mechanic is to offer the necessary and sufficient framework to experience a Gloranthian immersion.
+Each side is trying to obtain something concrete.
 
-The system was invented so that players always keep in mind that the world can be understood through very different worldviews and so that there is coherence between the game mechanics and the characters' worldview.
+Before taking the dice, state what each side wants. Two sides may want directly opposed things, but they do not have to: a traveller can struggle against a storm, a mystic against their own fear, a community against famine.
 
-When destiny is uncertain and we sense the emergence of a potential narrative turning point, we proceed in three steps:
+For a Force or obstacle that is not carried as a Protagonist, **Time** carries what pushes the Situation in the other direction.
 
-- Each party determines what is important at that moment. By immersing themselves in the world, the situation, the focus they wish, they determine the elements to put on the scale: the **bets**
-- The **resolution** of the bets is then done with different rules following each camp's vision of the world, depending on whether one is [animist](../animism), [theist](../theism), [mystic](../mysticism) or [logician](../mysticism/index.md). Each camp thus obtains a certain number of successes.
-- The **interpretation of the result** is based on the situation, the focus established, and the objectives and strategies of the various parties.
+The two pools therefore do not always represent two people. They represent the two directions in which the Situation can turn for the Focus.
 
-## Determining Bets
+### Make important consequences visible
 
-The engine is first based on common sense and knowledge of the world of Glorantha. Each obstacle contains its share of difficulties to overcome. You use your assets to hope to surpass the obstacle.
+Before the roll, players should be able to know the significant consequences their decision exposes them to when those consequences are not obvious.
 
-The potentially determining bets are therefore listed.
+This does not mean announcing everything that could happen. It means allowing an informed choice from the Protagonist's Situation.
 
-When there is opposition, it can be useful to define the objectives of each camp and determine the bets of each camp based on the objectives of one and the other.
+If a fall may be lethal, a ceremony puts a relationship at risk, or failure leaves a village to the enemy, say so before resolution when the Protagonist could reasonably know it.
 
-A wants this: A+ the bets that can lead to it, A- the bets that can thwart A's objective.
+## 2. Choose the Focus and Zoom
 
-B wants this: B+ the bets that can lead to it, B- the bets that can thwart B's objective
+The **Focus** is the precise question the resolution must answer.
 
-Opposition → A+, B- vs A-, B+
+It does not ask the dice to revisit what the fiction already knows. It looks at what genuinely remains open.
 
-**Pro-A bets versus Pro-B bets**
+> **What is closed by the fiction must be closed before the roll. What the Focus accepts must genuinely be able to happen.**
 
-or alternatively
+The **Zoom** sets the scale of that question: a single action, a whole Sequence, or a broader Script.
 
-**Assets, tactics to counter difficulties, dangers of the adversary**
+Zoom does not set difficulty. It determines which differences the fiction still wants to distinguish. At group scale, the same collective difficulty does not become several Stakes merely because it affects several Protagonists.
 
-We have the number of **bets** for each **camp**. We can now proceed to the **resolution**.
+See also [Action, Sequence and Script](../resolution/scale.md).
 
-Regardless of your character's worldview, the method for creating bets narratively is always the same. The specificity will be found in the acceptable bets of each party.
+## 3. Look at what matters
 
-### And where does difficulty fit in all this?
+A **Stake** is a fictional truth that the table makes relevant to the present Focus.
 
-First, let us note that certain factors are framework factors. They are so impactful that they force the bets to align and allow expressing what it will not be possible to attempt.
+It may come from:
 
-However, if one insists on playing outside the framework, a power delta between the two parties may emerge.
+- a Protagonist's quality or experience;
+- a relationship;
+- a weapon, tool, or resource;
+- an injury, fear, or obligation;
+- an advantage of terrain;
+- a custom, taboo, or institution;
+- magic, a spirit, or divine favour;
+- a property of the opposition or Situation;
+- any other truth that Glorantha and the Situation make genuinely significant.
 
-Rather than expressing this through dice multiplication, we can also use **weakened** or **heroic** modes.
+Something does not enter resolution because it appears on a character sheet. It enters because the table can explain **why it matters here**.
 
-Note: we only switch to a weakened or heroic mode if a framework factor pushes us to do so. Otherwise, it is truly the dynamics of the bets that are at play. One party will simply have many more dice on their side than the other.
+Each Stake gives one die to the pool in the direction it supports.
 
-Let us also note that difficulty is also a narrative difficulty; to accomplish something impossible or difficult, one will have to go through many tests before getting there. These tests are not necessarily impossible in themselves, but there is a strong chance that we will fail at one of them and that this will completely change the initial objective.
+### A truth can work against its owner
 
-#### Or use a Destiny gauge
+A Stake is not favourable or adverse by itself. Its direction depends on the Focus.
 
-You can also, both in solo and group play, consider using a **Destiny gauge**. This allows improvising bets according to the situation to balance difficulties based on what has happened previously and thus create narrative breathing room. You are absolutely not obligated to balance the gauge at every conflict. It is just a marker (very useful if you improvise or play solo).
+Heavy armour protects against a blade but hinders crossing a torrent. A fearsome reputation intimidates some people and makes others refuse all trust. An injury written on a Protagonist's sheet may feed the adverse pool.
 
-> Principle: the gauge starts at zero, and can have a negative value (destiny will eventually turn against the heroes) or a positive value (destiny will eventually favor the heroes).
+The source of a Stake and the direction in which it weighs are separate questions.
 
-Concretely, it can be represented by dice of two colors: one color for the heroes and one color for adversity. When a conflict occurs, we supplement the gauge with dice that would balance the conflict. Two dice of the same color cancel each other out so you always have either no dice, or dice of only one color. These dice allow gauging the difficulties of conflicts.
+Time does not hunt for counter-Stakes to balance the numbers artificially. It simply brings forward the truths of the Situation that genuinely matter in the other direction.
 
-Notes:
-- the gauge is global.
-- in case of an intra-hero conflict, the adversary is the one who initiated the conflict
-- sometimes, difficulties or advantages occur without conflict as the narrative unfolds. In this case, one can compensate with an opposing die.
-- you can also use a tally: +1 representing a hero die, -1 representing an adversity die.
-- You could materialize hero dice with tokens marked by the Luck rune <img src="/img/runes/luck.png" width="5%" halign="bottom" />, and adversity dice with tokens marked by the Destiny rune <img src="/img/runes/fate.png" width="5%" halign="bottom" /> ("no great destiny without adversity")
+### Relevance and non-redundancy
 
-> *The Destiny gauge system is inspired by the pass/fail cycle of HQ/G*
+Several true phrases may describe the same dimension of the Focus.
 
-> Example:
-> - Gauge at 0
-> - First conflict: heroes 3 bets vs adversity 2 bets -> the gauge gains 1 adversity die (-1)
-> - Second conflict: heroes 4 vs adversity 6 -> the gauge gains 2 hero dice thus ending up with a single hero die (+1)
-> - At some point, the GM or narrator chooses to narrate a difficulty, so we automatically gain a hero die. Here we are with 2 hero dice (+2)
-> - Destiny is therefore rather in favor of the heroes. The next conflict could be to their advantage. So if the GM wanted to rebalance everything, they could attempt a conflict with 2 fewer bets on the adversity side than the heroes' bets.
+**Excellent swordsman**, **trained since childhood**, and **veteran of three wars** do not automatically give three Stakes for an exchange lasting a few seconds. If they all mean “very experienced with a sword” at this Zoom, they are redundant.
 
-### Dice and Bets
+Across a broader Sequence they may become distinct if they genuinely weigh on different dimensions.
 
-Once the bets are known for each camp, we lose the link between the bet that created the die and the die. It would be too mentally complex to look at each success of each factor and even more so for Logicians. What matters is the number of successes in the end for each camp.
+> **A Stake counts once per relevant dimension of the Focus, not once per phrasing or once per character.**
 
-The worldview can serve to express the result from that worldview's perspective.
+### Closing the Stakes
 
-The bets also serve to determine narrative elements. They become the ingredients of the narration to tell the result of the opposition.
+The table does not need to search the sheet, the scene, or the lore exhaustively.
 
-[Example of bet determination](sample)
+When nobody immediately sees another relevant truth that does not repeat what is already present, resolve.
 
-### Abstract Obstacles
+> **A Stake is not searched for to inflate a pool. It is noticed because it matters.**
 
-Some obstacles are not tied to a particular worldview. They simply correspond to the resistance of the world.
+## 4. A pool may be empty
 
-Two possibilities:
+A side may receive no Stakes. Its pool then contains **zero dice**.
 
-- <img src="/img/runes/human.png" alt="Man" width="6%" /> **Mirror**: the bets are resolved with the same worldview as the non-abstract opponent: this reflects a holistic vision of the world. This is the framework to use when the bets involve self-transcendence.
+Neither the Intention nor the mere existence of a side provides an implicit die. There is no “base die”.
 
-- <img src="/img/runes/middle-world.png" alt="Middle World" width="6%" /> **Agnostic**, **Materialist**, **The Middle World**: even numbers (2, 4, 6) will be successes, odd numbers (1, 3, 5) will be failures. There are no other bet adjustment rules once the draw is made. This is the framework to use when the bets are minor and do not truly involve the character emotionally.
+> **Every die must represent a fictional truth actually made relevant by the Focus.**
 
-Note: here it is the Middle World rune that is used. But if the character is in the spirit world, or the world of the Gods, the rules of that world serve as the base rule instead.
+A **0 / N** resolution is therefore valid. It does not mean the Protagonist has zero skill; it means no retained truth weighs in their favour for this precise question.
 
-> Example: A mystic climbing a mountain will generate bets for themselves and bets representing the difficulties to overcome. We know that the mystic's draw will be made with the rules of mysticism. Therefore, by default, the obstacle's draw will be made with the rules of mysticism. But it could also be with the rules of theism in the case of climbing Kerofin, for example, which is a sacred place of the Orlanthi pantheon.
+By contrast, **0 / 0 is not a roll**. It is a framing signal. Ask:
 
-## The Draws
+> **If nothing matters in either direction, what actually makes this outcome uncertain?**
 
-Depending on the protagonists' vision of the world, their resolution methods differ. The way to play a camp's draw is different for an [animist](../animism), a [theist](../theism), a [logician](../logic) or a [mystic](../mysticism/).
+If the answer reveals a relevant truth, it may become a Stake. If nothing appears, the Situation probably does not need resolution and the fiction moves on.
 
-Each draw determines a number of successes that is compared to the number of successes of the other camp.
+## 5. Respect Frame Factors
 
-## Interpreting the Result
+Some truths do not give a die. They define what is possible.
 
-The one with more successes wins. It is as simple as that.
+A **Frame Factor** can close an Intention, make a means inadmissible, or impose a condition until the fiction changes.
 
-You can bring nuance based on the difference in successes.
+An ordinary human does not kill a Dragon with a toothpick by accumulating enough Stakes. If that possibility is not open in Glorantha, the table does not frame “Do we kill it?” and then downgrade a Victory to a scratch after the roll.
 
-In case of a tie, you can play the status quo or have the protagonist win in extremis if there is a protagonist in the narrative.
-If the conflict is not compatible with a status quo, you can redraw by adding one bet to each camp to express the **escalation** linked to the temporary tie during the conflict. This additional bet for each camp represents the will to put an end to it. Escalations can follow one another.
+It frames honestly what remains possible: survive, drive it back, reach a weakness, accomplish a necessary step, or transform the Situation.
 
-In all cases, the bets and worldviews serve the narration of the interpretation.
+When the frame makes one side markedly more or less powerful without closing the action entirely, **weakened** or **heroic** modes may be used when the relevant Worldview rule provides for them.
 
-And what is essential to keep in mind is the context of the situation that serves to interpret the result.
+## 6. Roll according to the Worldview
 
-A child wanting to kill a God and who through a miracle would achieve a success would be interpreted as a mere scratch on the God but that would already be quite a feat!
+Once Stakes are set, each side rolls its pool.
 
-And the hero's death? That is up to you. It is too important a subject for chance to decide. Death is the end of one story, the beginning of another. In the worst case, if you are torn, flip a coin.
+How the pool is read depends on its **Worldview**:
 
-### Gradation of the Result
+- [Animism](../animism/)
+- [Theism](../theism/)
+- [Logic](../logic/)
+- [Mysticism](../mysticism/)
+- [Draconic Thought](../draconic/)
 
-If you want, you can use the following interpretive grid:
+An obstacle without a Worldview of its own may be read in two ways:
 
-- Fiasco / Feat when the number of successes is strictly greater than 1 and than half the successes of the other camp.
-- Victory, Success / Defeat, Failure when the difference is between 1 and half the successes of the other camp.
-- Status quo, Reversal in case of a tie
+- **Mirror**: it uses the same reading as the Protagonist when the trial mainly represents their own overcoming;
+- **Middle World**: every even die is a Success and every odd die produces none when the obstacle is simply material or external.
 
-### Retributions and Evolution
+Place can change that reading. Climbing an ordinary mountain is not the same as climbing a mountain that is itself a sacred power.
 
-The system avoids meta-game as much as possible: there are no mechanical bonuses or penalties at the end of the game. Characters evolve in a purely diegetic way. It is indeed the narration that serves as the exclusive engine of evolution.
+## 7. Compare Successes
 
-**How does one evolve?** Evolution goes through the dynamics of the character's keywords: adding new keywords, removing obsolete traits, or modifying existing elements. To this are added the retributions granted by Destiny, such as new links, attachments, gifts, a new power or an epiphany.
+The side with more Successes prevails on the question set by the Focus.
 
-**When does one evolve?** This evolution does not occur at the end of a scenario. It happens organically during a Fiasco or a Feat (which translate into a difference of 2 successes or more in a draw), or simply when the story demands it.
+- **Victory / Defeat**: one side has more Successes than the other;
+- **Status quo**: a tie;
+- **Feat / Fiasco available**: the result is dominated.
+
+A result is **dominated** when both conditions are true:
+
+1. the difference is **strictly greater than 1 Success**;
+2. the winner has **strictly more than twice** the loser's Successes.
+
+Examples:
+
+- `2–0` → dominated result;
+- `3–1` → dominated result;
+- `4–2` → simple Victory / Defeat;
+- `5–2` → dominated result;
+- `6–3` → simple Victory / Defeat.
+
+Domination makes amplification available: the winner may achieve a **Feat** and the loser may suffer a **Fiasco**. The two are not automatically symmetrical; the fiction decides what amplification means on either side.
+
+On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Stakes, let each side that pushes the confrontation add a Stake representing its determination to end it, then resolve again.
+
+## 8. Interpret what happened
+
+Stakes do not disappear after the dice are rolled. They provide the material for interpretation.
+
+Return to:
+
+- the Intentions;
+- the Focus and its Zoom;
+- any important consequences that were announced;
+- the Stakes that explained what mattered;
+- the shape of the result.
+
+The dice decide the relationship between the two directions of the Situation. **The Stakes explain how that result becomes fiction.**
+
+A lasting consequence may then add, transform, or remove a truth of the Protagonist: an injury, bond, reputation, obligation, object, power, understanding, or loss.
+
+## The Fate Gauge
+
+The **Fate Gauge** is an optional shared tool that remembers successive asymmetries.
+
+It contains dice of two colours: one for the Protagonists, one for adversity. Opposing colours cancel each other.
+
+Before the roll, when pools are unequal, add the difference to the Gauge in favour of the currently disadvantaged side. **These dice do not change the current resolution.**
+
+Example: the Protagonists have 5 Stakes and adversity 3. The resolution remains **5 against 3**, but the Gauge receives **2 adversity dice**. They may be spent later when a difficulty coherent with the fiction appears, according to the authority agreed by the table.
+
+The Gauge is a visible safety net, not an account that must be balanced after every scene. A table that does not need it may leave it out.
+
+## Development
+
+Protagonists change when what they experience changes what is genuinely true of them: a new bond, injury, reputation, obligation, power, understanding, or loss.
+
+A Feat or Fiasco is a good moment to look at what may have changed, but development does not wait for the end of an adventure. If the fiction transforms the Protagonist, their description must be able to reflect it.
