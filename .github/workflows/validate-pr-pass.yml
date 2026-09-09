@@ -24,7 +24,15 @@ jobs:
       - run: npm ci
       - run: npm run build:fr
       - run: npm run build:en
-      - run: npm run publication:build
+
+      - name: Build publications without missing images
+        run: |
+          set -o pipefail
+          npm run publication:build 2>&1 | tee publication-build.log
+          if grep -qE '404.*http://localhost:[0-9]+/img/' publication-build.log; then
+            echo 'Vivliostyle reported missing /img assets'
+            exit 1
+          fi
 
       - name: Check publication outputs
         run: |
