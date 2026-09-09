@@ -4,7 +4,7 @@ title: "The Pantheons"
 
 ![Divine world](/img/runes/gods.png)
 
-> A theist interprets the world in relation to the exemplary deeds of the Gods of their pantheon and cult. They mold themselves into a pre-existing framework and reproduce acts, thoughts that are standardized. They hope to draw divine strength from it in the form of support or even "intervention" (which is more of a manifestation than a true intervention, since there is the Great Compromise).
+> A theist interprets the world in relation to the exemplary deeds of the Gods of their pantheon and cult. They mold themselves into a pre-existing framework and reproduce acts and thoughts that are standardized. They hope to draw divine strength from it in the form of support or even "intervention" — more a manifestation than a true intervention, because of the Great Compromise.
 
 *Derogatory names for others: slaves, sheep, false gods...*
 
@@ -12,14 +12,16 @@ title: "The Pantheons"
 
 > At the hour of trial, we recall our own exploits and the glory of our Gods, and we let the Gods judge whether it is us or the enemy who is most worthy of triumphing.
 
-- We count the number of successes of a theist [vision](../bets) as follows:
-    - We count the even numbers
-    - 6s allow rerolling odd dice (divine support) and this is cumulative if you roll another 6. If you have no more odd dice, you can even gain dice to roll (intervention, divine manifestation of a sort)
+To read a roll according to **Theism**:
+
+- count even numbers as Successes;
+- 6s allow odd dice to be rerolled — divine support — and this effect is cumulative if another 6 appears;
+- if there are no odd dice left, a 6 may even provide a new die to roll, like a divine manifestation.
 
 **Power modes**
 
-- **Weakened** mode: no effect from 6s
-- **Heroic** mode: even numbers allow rerolling odd numbers
+- **Weakened** mode: 6s have no special effect.
+- **Heroic** mode: even numbers allow odd dice to be rerolled.
 
 **Comments**
 

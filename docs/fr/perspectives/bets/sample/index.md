@@ -1,58 +1,57 @@
 ---
-title: Exemple de détermination des mises
+title: Exemple de détermination des Mises
 ---
 
-Voici un exemple concret de détermination des mises pour une opposition dans **Glorantha Perspectives**, en illustrant spécifiquement l'impact du focus et d'un facteur cadre.
+Voici un exemple concret de détermination des Mises pour une opposition dans **Glorantha Perspectives**, en illustrant spécifiquement l'impact du Focus et d'un Facteur Cadre.
 
-### Le Contexte de la Scène
+### Le contexte de la scène
 
-**Kallyr**, une jeune cheffe de clan Orlanthi (vision du monde : Théiste), s'introduit dans le sanctuaire souterrain du temple de la Terre. Elle fait face à **Yanela**, la Grande Prêtresse d'Ernalda (l'obstacle).
-**La situation :** Kallyr veut convaincre Yanela de lui confier le *Bâton Tremble-Terre*, une relique sacrée, car une patrouille de l'Empire Lunaire s'approche de leur village. Yanela, ancrée dans la tradition, refuse de voir la relique quitter le sanctuaire.
+**Kallyr**, une jeune cheffe de clan orlanthi (Vision du monde : Théisme), s'introduit dans le sanctuaire souterrain du temple de la Terre. Elle fait face à **Yanela**, la Grande Prêtresse d'Ernalda.
 
-### 1. Le Choix du Focus (Ce qui est important à ce moment-là)
+**La Situation :** Kallyr veut convaincre Yanela de lui confier le *Bâton Tremble-Terre*, une relique sacrée, car une patrouille de l'Empire Lunaire s'approche de leur village. Yanela, ancrée dans la tradition, refuse de voir la relique quitter le sanctuaire.
 
-Le système précise que chaque partie détermine ce qui est important en s'immergeant dans la situation pour choisir le focus de l'action.
+### 1. Choisir le Focus
 
-- **Le Focus choisi :** L'opposition est purement politique, religieuse et rhétorique (convaincre par la nécessité de survie de la communauté).
-- **Conséquence sur les facteurs :** Kallyr possède des mots-clés redoutables comme *Épéiste fulgurante*, *Agile comme le vent* ou son équipement *Épée longue en fer*. Cependant, à cause du focus choisi (la persuasion et non le combat physique), ces facteurs ne sont pas importants et **ne seront pas mis dans la balance**.
+La table précise ce qu'elle veut réellement trancher maintenant.
 
-### 2. Le Facteur Cadre Fort (Ce qu'il n'est pas possible de tenter)
+- **Focus :** *Kallyr obtient-elle de Yanela qu'elle lui confie le Bâton Tremble-Terre ?*
+- **Première issue :** Yanela confie la relique à Kallyr pour protéger le clan.
+- **Seconde issue :** Yanela maintient la relique dans sa stase protectrice au sein du temple.
 
-Les règles expliquent que certains facteurs sont des "facteurs cadre" qui sont tellement impactants qu'ils expriment ce qu'il ne sera pas possible de tenter.
+Kallyr possède des vérités redoutables comme *Épéiste fulgurante*, *Agile comme le vent* ou son *Épée longue en fer*. Mais le Focus porte sur une négociation politique et religieuse, pas sur un combat physique. Ces vérités ne deviennent donc pas des Mises ici.
 
-- **Le Facteur Cadre :** Le lieu est le *Saint des Saints d'Ernalda*, régi par le mythe de **La Paix d'Ernalda**. Dans cet espace, toute forme d'agression, de violence ou même de haussement de voix est métaphysiquement étouffée par la Déesse de la Terre.
-- **Conséquence sur les facteurs :** Kallyr aurait pu vouloir utiliser son trait *Colérique* ou son statut de *Guerrière intimidante* pour faire pression sur la prêtresse. Mais le facteur cadre force les autres facteurs à s'aligner. Il est strictement impossible de recourir à l'intimidation ici sous peine de voir la magie du temple la paralyser. Ces facteurs lui sont inaccessibles.
+### 2. Repérer le Facteur Cadre
 
-### 3. La Mise en place des mises
+Le lieu est le *Saint des Saints d'Ernalda*, régi par le mythe de **La Paix d'Ernalda**. Dans cet espace, toute forme d'agression, de violence ou même de haussement de voix est métaphysiquement étouffée par la Déesse de la Terre.
 
-Pour déterminer les mises valables de manière narrative, la méthode consiste à croiser les facteurs favorables et défavorables en fonction des objectifs de chacun.
-**Définition des objectifs :**
+Kallyr aurait pu vouloir utiliser son trait *Colérique* ou son statut de *Guerrière intimidante* pour faire pression sur la prêtresse. Mais ce moyen est fermé par la fiction : il ne devient pas une Mise négative, il n'est simplement pas recevable tant que la Situation n'a pas changé.
 
-- **Vision A (Kallyr) :** Veut obtenir la relique pour protéger le clan.
-- **Vision B (Yanela / L'Obstacle) :** Veut préserver la relique dans sa stase protectrice au sein du temple.
-- 
-**Détermination des mises :**
-- **Facteurs pro-Kallyr :**
-    - *Lignée royale Orlanthi* (légitimité à demander l'aide de la Terre).
-    - *Éloquence du Chef de clan* (capacité à formuler son plaidoyer).
-    - *Urgence de la menace Lunaire* (l'argument choc).
-- **Facteurs contrecarrant Kallyr :**
-    - *Impatience juvénile* (un de ses traits de caractère qui la dessert dans une négociation formelle).
-- **Facteurs pro-Yanela :**
-    - *Devoir Sacré de Gardienne* (sa motivation première).
-    - *La Stase du Temple* (la force inerte du lieu qui incite à ne rien changer).
-    - *Méfiance envers les adorateurs de la Tempête* (trait culturel du culte de la Terre).
-- **Facteurs contrecarrant Yanela :**
-    - *L'Amour de la communauté* (Yanela est une mère pour le clan, l'idée que son peuple soit massacré affaiblit sa résolution).
+### 3. Repérer les Mises de chaque côté
 
-### 4. Bilan de l'Opposition
+Chaque vérité retenue joue en faveur de l'une des deux issues.
 
-On se retrouve donc avec une résolution de 4 mises contre 4 mises.
+**Mises en faveur de Kallyr obtenant la relique :**
 
-Une fois les mises posées, on oublie le le lien mental entre la mise (le dé) et le facteur qui l'a créé. On peut procéder au tirage et on ne s'intéresse alors  qu'au nombre de réussites finales de chaque vision. Les deux visions étant Théistes, les deux lanceront leurs 4 dés en cherchant les chiffres pairs et les 6 explosifs, pour voir vers quel destin les Dieux feront pencher la balance.
+- *Lignée royale orlanthi* — légitimité à demander l'aide de la Terre ;
+- *Éloquence du chef de clan* — capacité à formuler son plaidoyer ;
+- *Urgence de la menace lunaire* — nécessité immédiate de protéger le clan ;
+- *L'Amour de la communauté* de Yanela — l'idée que son peuple soit massacré affaiblit sa résolution.
 
-> Note: il était aussi tout a fait possible de jouer l'opposition de manière graduelle: 1 argument contre 1 argument.  Donc dans notre cas, il y aurait 3 tirages a faire a priori. Le résultat de chaque argumentation pourrait influencer alors le tirage suivant en fonction du résultat avec 1D pour le vainqueur pour la prochaine confrontation d’arguments. C'est plus long. A vous de voir ce que vous préférez comme gameplay. 
+**Mises en faveur de Yanela gardant la relique :**
 
-En **solo** j'aime bien la méthode de résolution globale  pour obtenir le résultat puis je passe à la narration. La méthode globale me permet d’organiser la future narration avec les facteurs qu’il me semble logique de mettre en avant. 
+- *Impatience juvénile* de Kallyr — elle la dessert dans une négociation formelle ;
+- *Devoir Sacré de Gardienne* — motivation première de Yanela ;
+- *La Stase du Temple* — le lieu lui-même incite à ne rien changer ;
+- *Méfiance envers les adorateurs de la Tempête* — trait culturel du culte de la Terre.
 
-Autour d'une table en **groupe**, la méthode graduelle est plus appropriée, surtout si les joueurs sont pris de cours et n’ont pas le temps de préparer une stratégie.
+Cet exemple montre qu'une Mise n'appartient pas mécaniquement à son propriétaire : une faiblesse de Yanela peut jouer en faveur de l'issue recherchée par Kallyr, et une faiblesse de Kallyr en faveur de l'autre issue.
+
+### 4. Lire la réponse du réel
+
+La résolution est donc **4 Mises contre 4 Mises**.
+
+Les Mises des deux côtés sont ici lues selon le **Théisme**. Chaque côté lance ses quatre dés en cherchant les nombres pairs et les 6 explosifs. Le tirage produit une **réponse du réel** sous la forme d'un nombre de Réussites, puis les deux réponses sont comparées pour savoir quelle issue s'impose.
+
+Les Mises ne disparaissent pas pour autant : elles restent la matière avec laquelle la table racontera comment Yanela cède, résiste, hésite ou transforme la Situation.
+
+> Il serait aussi possible de jouer cette opposition de manière graduelle, argument contre argument, plutôt que de résoudre toute la négociation en une fois. Le Zoom choisi détermine simplement quelle question la table veut trancher maintenant.

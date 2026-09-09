@@ -4,9 +4,9 @@ title: Repères de probabilités
 
 # Repères de probabilités
 
-Cette table donne un ordre de grandeur du nombre moyen de réussites obtenu selon la taille du pool et la manière de lire les dés.
+Cette table donne un ordre de grandeur du nombre moyen de Réussites obtenu selon le **nombre de Mises d'un côté** et la manière de lire les dés.
 
-Elle n'est pas nécessaire pendant une partie. Elle sert surtout à vérifier les écarts entre les différentes visions du monde et à comprendre leur comportement général.
+Elle n'est pas nécessaire pendant une partie. Elle sert surtout à vérifier les écarts entre les différentes Visions du monde et à comprendre leur comportement général.
 
 | Mises | Théisme | Animisme | Logique | Mysticisme | Draconique (Wyrm) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -26,7 +26,7 @@ Elle n'est pas nécessaire pendant une partie. Elle sert surtout à vérifier le
 - **Théisme** : pairs, avec relances produites par les 6 selon sa règle propre ;
 - **Animisme** : pairs, auxquels s'ajoutent les pactes formés par les doubles impairs ;
 - **Logique** : somme du tirage divisée par 5, arrondie à l'inférieur ;
-- **Mysticisme** : la colonne montre uniquement les réussites de base du pool ; son pouvoir d'annihilation agit sur le tirage adverse et dépend donc de l'opposition ;
+- **Mysticisme** : la colonne montre uniquement les Réussites de base du tirage ; son pouvoir d'annihilation agit sur le tirage opposé et dépend donc de l'opposition ;
 - **Draconique (Wyrm)** : inclut les motifs draconiques convertis en avantage matériel.
 
-Ces moyennes ne disent pas quelle vision du monde est « meilleure ». Leurs effets ne sont pas tous contenus dans le seul nombre moyen de réussites : relances, interaction avec l'adversaire, conséquences spirituelles et modes de puissance changent également la manière dont une résolution se joue.
+Ces moyennes ne disent pas quelle Vision du monde est « meilleure ». Leurs effets ne sont pas tous contenus dans le seul nombre moyen de Réussites : relances, interaction avec l'adversaire, conséquences spirituelles et modes de puissance changent également la manière dont une résolution se joue.

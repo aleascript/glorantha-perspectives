@@ -18,7 +18,7 @@ Use this zoom when one precise moment deserves to be played on its own.
 
 A **Sequence** gathers several actions into one unit of play: a full fight, a chase, a raid, a ceremony, a dangerous crossing, a prolonged negotiation.
 
-Gather the Stakes that matter across the whole sequence and make a single resolution.
+Gather the Stakes that matter across the whole Sequence and make a single resolution.
 
 The result then describes what happened across the scene as a whole. The Stakes provide ingredients for narrating its important moments.
 
@@ -30,9 +30,9 @@ Before the roll, name the main steps.
 
 Then gather the Stakes that matter for getting through the Script as a whole and resolve normally.
 
-If the Protagonist side fails, the number of successes may help show how far it got before something broke the plan. One success may correspond to one completed step when that reading fits the Situation.
+If **the outcome sought by the Protagonists does not prevail**, the number of Successes obtained on their side may help show how far they got before something broke the plan. One Success may correspond to one completed step when that reading fits the Situation.
 
-On a success, the Script reaches its end; the quality of the success and the Stakes present show how.
+If that outcome prevails, the Script reaches its end; the quality of the result and the Stakes present show how.
 
 ## Choose the zoom before rolling
 

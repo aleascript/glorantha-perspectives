@@ -1,53 +1,53 @@
 ---
-title: "Reflections on visions and bets"
+title: "Reflections on Stakes"
 ---
 
-![Destin](/img/runes/fate.png)
+![Fate](/img/runes/fate.png)
 
-### Hybrid visions
+### Several Worldviews on the same side
 
-A pool can be built from multiple worldviews.
+The same outcome may be favoured by Stakes coming from several characters with **different Worldviews**.
 
-This is the case when the opposition involves several characters with different worldviews.
+In that case, the Stakes are read according to the Worldview that applies to each, then compatible outputs are brought together on the same side before comparison.
 
-For a character who has integrated multiple worldviews, depending on the chosen strategy, one worldview will be selected over another rather than using a hybrid vision, even though it remains possible.
+For a character who has integrated several Worldviews, strategy or fiction may determine which one applies to a given Stake. A more complex combination remains imaginable, but it must clearly state how the different readings become comparable.
 
-### More than two visions?
+### More than two outcomes?
 
-The majority of resolutions break down into two visions.
+The current Glorantha Perspectives resolution puts **two outcomes in the balance**.
 
-However, nothing prevents imagining an opposition with N visions.
+A Situation can obviously contain many more possible futures. The Focus does not try to represent all of them; it isolates the question the table wants to decide now.
 
-Then you interpret based on a cross-reading of differences.
+An opposition genuinely designed to compare three or more outcomes would therefore require another resolution procedure, rather than simply adding a third “side” to the standard procedure.
 
-### Archetype visions?
+### Archetypal Stakes?
 
-If determining bets feels tedious at a given moment and you just want a simple test, run a **2D vs 2D** contest: innate/acquired vs innate/acquired, or asset/handicap vs asset/handicap.
+If determining Stakes feels too slow for a minor Situation and you only want a quick reading, one could imagine predefined sets such as **2D vs 2D**: innate/acquired against innate/acquired, or asset/handicap against asset/handicap.
 
-Or **3D vs 3D** with a reading grid like this:
+Or **3D vs 3D** with a grid like this:
 
-**Protagonist Vision (3D)**
-- Die 1: The Body (The Innate) The character's raw nature, their people, their physical strength or instinct.
-- Die 2: The Spirit (The Acquired) Their technique, their training, the tool or weapon in hand.
-- Die 3: The Soul (The Sacred / The Runes) The character's resonance with the situation.
+**Protagonist Stakes (3D)**
+- Die 1: **Body (Innate)** — raw nature, people, physical strength, or instinct.
+- Die 2: **Spirit (Acquired)** — technique, training, tool, or weapon in hand.
+- Die 3: **Soul (Sacred / Runes)** — the character's resonance with the Situation.
 
-**Obstacle Vision (3D)**
-- Die 1: Stasis (Matter) The raw resistance of the obstacle (the height of a wall, the hardness of a rock, the innate vigilance of a guard).
-- Die 2: Movement/Disorder (Friction) External circumstances that complicate the task (rain making the wall slippery, the clamor of a crowd, the urgency of pressing time).
-- Die 3: Shadow (Myth / Taboo) The invisible opposition (the spirit of the place refusing to be disturbed, a religious taboo weighing on the action, or the opposing Rune of the scene pushing toward failure).
+**Obstacle Stakes (3D)**
+- Die 1: **Stasis (Matter)** — raw resistance: height of a wall, hardness of stone, innate vigilance of a guard.
+- Die 2: **Movement / Disorder (Friction)** — external circumstances: rain, crowd, urgency, instability.
+- Die 3: **Shadow (Myth / Taboo)** — invisible opposition: spirit of the place, religious taboo, Rune weighing on the Situation.
 
-The 2D or 3D examples above are just examples.
+The 2D and 3D examples above are only examples.
 
-> Any dyad or triad carrying a Gloranthan meaning is welcome to explore.
+> Any dyad or triad carrying a Gloranthan meaning remains worth exploring.
 
-### Runic visions?
+### Runic Stakes?
 
-It would even be tempting to ask players to associate a rune with each bet.
+It would be tempting to ask players to associate a Rune with each Stake.
 
-With the restriction of not being able to place more than one bet for the same rune within a given vision.
+One could, for example, decide that the same Rune may only be represented once among the Stakes on a given side.
 
-But this requires in-depth knowledge of runes and the ability to quickly associate a bet with a rune, which is perhaps less trivial than bets without runic association.
+But this requires detailed knowledge of the Runes and the ability to associate a fictional truth with a Rune quickly, which is probably heavier than the ordinary procedure.
 
-It is possible that one might place a rune with which one does not necessarily have an affinity. In that case, it could alert to the relevance of this factor regarding the character's coherence and their place in the world, or even a potential attachment problem if one accepts that the factor be taken into account.
+A surprising runic association may still be a useful signal: is this really the right reading of the truth? does it reveal something about the character? is an Attachment beginning to emerge?
 
-However, it may help settle debates regarding the placement of this or that factor, if a factor of the same runic category has already been placed.
+A Rune can therefore serve as a design constraint or reflective tool without becoming a fundamental category of resolution.

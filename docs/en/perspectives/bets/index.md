@@ -1,22 +1,24 @@
 ---
-title: Sides and Stakes
+title: Stakes
 ---
 
-# Sides and Stakes
+# Stakes
 
 A resolution decides an outcome that is **possible, important, and genuinely uncertain**. If an action is impossible in the world, there is nothing to roll. If its outcome is not in doubt, the fiction simply moves forward.
 
 When resolution is needed, begin by looking at the Situation.
 
-## 1. Define the sides and their Intentions
+## 1. State Intentions and put two outcomes in the balance
 
-Each side is trying to obtain something concrete.
+State what the Protagonists, Forces, or other involved actors are actually trying to achieve when they carry an Intention.
 
-Before taking the dice, state what each side wants. Two sides may want directly opposed things, but they do not have to: a traveller can struggle against a storm, a mystic against their own fear, a community against famine.
+An Intention often gives the first outcome. The **Focus** specifies what must be decided now by putting **two possible outcomes in the balance**.
 
-For a Force or obstacle that is not carried as a Protagonist, **Time** carries what pushes the Situation in the other direction.
+The two outcomes may be directly opposed, but they do not have to be: a traveller can struggle against a storm, a mystic against their own fear, a community against famine.
 
-The two pools therefore do not always represent two people. They represent the two directions in which the Situation can turn for the Focus.
+For a Force or obstacle that is not carried as a Protagonist, **Time** carries what pushes the Situation on the other side.
+
+> **The two outcomes state what the resolution must decide. They do not claim to describe everything that may happen next.**
 
 ### Make important consequences visible
 
@@ -30,7 +32,7 @@ If a fall may be lethal, a ceremony puts a relationship at risk, or failure leav
 
 The **Focus** is the precise question the resolution must answer.
 
-It does not ask the dice to revisit what the fiction already knows. It looks at what genuinely remains open.
+It does not ask the dice to revisit what the fiction already knows. It looks at what genuinely remains open and states the two outcomes in the balance.
 
 > **What is closed by the fiction must be closed before the roll. What the Focus accepts must genuinely be able to happen.**
 
@@ -58,17 +60,21 @@ It may come from:
 
 Something does not enter resolution because it appears on a character sheet. It enters because the table can explain **why it matters here**.
 
-Each Stake gives one die to the pool in the direction it supports.
+Each Stake gives one die **on the side of the outcome it favours**.
 
 ### A truth can work against its owner
 
-A Stake is not favourable or adverse by itself. Its direction depends on the Focus.
+A Stake is not favourable or adverse by itself.
 
-Heavy armour protects against a blade but hinders crossing a torrent. A fearsome reputation intimidates some people and makes others refuse all trust. An injury written on a Protagonist's sheet may feed the adverse pool.
+Heavy armour protects against a blade but hinders crossing a torrent. A fearsome reputation intimidates some people and makes others refuse all trust. An injury written on a Protagonist's sheet may favour the other outcome.
 
-The source of a Stake and the direction in which it weighs are separate questions.
+> **A Stake favours one of the two outcomes relative to the present Focus.**
 
-Time does not hunt for counter-Stakes to balance the numbers artificially. It simply brings forward the truths of the Situation that genuinely matter in the other direction.
+The source of a Stake and the side it favours are separate questions.
+
+Time does not hunt for counter-Stakes to balance the numbers artificially. It simply brings forward the truths of the Situation that genuinely matter on the other side.
+
+There is no need to give a technical name to the sets of Stakes that emerge. At the table, simply speak of **the Stakes favouring this outcome**, **the Stakes on the other side**, or, when it genuinely matches the fiction, **each camp's Stakes**.
 
 ### Relevance and non-redundancy
 
@@ -86,21 +92,21 @@ The table does not need to search the sheet, the scene, or the lore exhaustively
 
 When nobody immediately sees another relevant truth that does not repeat what is already present, resolve.
 
-> **A Stake is not searched for to inflate a pool. It is noticed because it matters.**
+> **A Stake is not searched for to accumulate dice. It is noticed because it matters.**
 
-## 4. A pool may be empty
+## 4. An outcome may have no Stake
 
-A side may receive no Stakes. Its pool then contains **zero dice**.
+One of the two outcomes may receive no Stake. It is then represented by **zero dice**.
 
-Neither the Intention nor the mere existence of a side provides an implicit die. There is no “base die”.
+Neither the Intention nor the mere fact that an outcome is in the balance provides an implicit die. There is no “base die”.
 
 > **Every die must represent a fictional truth actually made relevant by the Focus.**
 
-A **0 / N** resolution is therefore valid. It does not mean the Protagonist has zero skill; it means no retained truth weighs in their favour for this precise question.
+A **0 / N** resolution is therefore valid. It does not mean the Protagonist has zero skill; it means no retained truth favours that outcome for this precise question.
 
 By contrast, **0 / 0 is not a roll**. It is a framing signal. Ask:
 
-> **If nothing matters in either direction, what actually makes this outcome uncertain?**
+> **If nothing matters in favour of either outcome, what actually makes this resolution uncertain?**
 
 If the answer reveals a relevant truth, it may become a Stake. If nothing appears, the Situation probably does not need resolution and the fiction moves on.
 
@@ -116,11 +122,11 @@ It frames honestly what remains possible: survive, drive it back, reach a weakne
 
 When the frame makes one side markedly more or less powerful without closing the action entirely, **weakened** or **heroic** modes may be used when the relevant Worldview rule provides for them.
 
-## 6. Roll according to the Worldview
+## 6. Roll and read according to the Worldview
 
-Once Stakes are set, each side rolls its pool.
+Roll the dice corresponding to the Stakes on each side.
 
-How the pool is read depends on its **Worldview**:
+How a roll is read depends on the **Worldview** that applies to it:
 
 - [Animism](../animism/)
 - [Theism](../theism/)
@@ -135,9 +141,11 @@ An obstacle without a Worldview of its own may be read in two ways:
 
 Place can change that reading. Climbing an ordinary mountain is not the same as climbing a mountain that is itself a sacred power.
 
-## 7. Compare Successes
+The roll and its reading provide, for each side, **reality's answer**. In most Worldviews, that answer can be expressed as a number of Successes comparable to the other side.
 
-The side with more Successes prevails on the question set by the Focus.
+## 7. Compare reality's answers
+
+The outcome whose Stakes produce more Successes prevails on the question set by the Focus.
 
 - **Victory / Defeat**: one side has more Successes than the other;
 - **Status quo**: a tie;
@@ -158,7 +166,9 @@ Examples:
 
 Domination makes amplification available: the winner may achieve a **Feat** and the loser may suffer a **Fiasco**. The two are not automatically symmetrical; the fiction decides what amplification means on either side.
 
-On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Stakes, let each side that pushes the confrontation add a Stake representing its determination to end it, then resolve again.
+The two outcomes stated before the roll are not an exhaustive catalogue of what may happen. They only define **what this resolution must decide**. The **And** of a Feat or Fiasco may add a consequence, discovery, transformation, or advantage that was not contained in their initial wording.
+
+On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Stakes, let each actor who pushes the confrontation add a Stake representing their determination to end it, then resolve again.
 
 ## 8. Interpret what happened
 
@@ -167,12 +177,13 @@ Stakes do not disappear after the dice are rolled. They provide the material for
 Return to:
 
 - the Intentions;
+- the two outcomes put in the balance;
 - the Focus and its Zoom;
 - any important consequences that were announced;
 - the Stakes that explained what mattered;
 - the shape of the result.
 
-The dice decide the relationship between the two directions of the Situation. **The Stakes explain how that result becomes fiction.**
+The dice and Worldviews provide **reality's answer** to what was put in the balance. **The Stakes explain how that answer becomes fiction.**
 
 A lasting consequence may then add, transform, or remove a truth of the Protagonist: an injury, bond, reputation, obligation, object, power, understanding, or loss.
 
@@ -182,7 +193,7 @@ The **Fate Gauge** is an optional shared tool that remembers successive asymmetr
 
 It contains dice of two colours: one for the Protagonists, one for adversity. Opposing colours cancel each other.
 
-Before the roll, when pools are unequal, add the difference to the Gauge in favour of the currently disadvantaged side. **These dice do not change the current resolution.**
+Before the roll, when the number of Stakes differs between the two sides, add the difference to the Gauge in favour of the currently disadvantaged side. **These dice do not change the current resolution.**
 
 Example: the Protagonists have 5 Stakes and adversity 3. The resolution remains **5 against 3**, but the Gauge receives **2 adversity dice**. They may be spent later when a difficulty coherent with the fiction appears, according to the authority agreed by the table.
 

@@ -4,10 +4,10 @@ title: "Runic Cards"
 
 ![cards](/img/rules/runic-cards.png)
 
-One could replace the bets with a deck of cards containing:
-- 1/6 of the God's major rune (for 6s)
-- 2/6 with minor runes of the pantheon or the God (for 2s and 4s)
-- 2/6 with nothing or neutral runes (for 3s and 5s)
-- 1/6 of the rune most opposed to the God (for 1s)
+One could replace the dice for Stakes with a deck of cards containing:
+- 1/6 of the God's major Rune — for 6s;
+- 2/6 with minor Runes of the pantheon or God — for 2s and 4s;
+- 2/6 with nothing or neutral Runes — for 3s and 5s;
+- 1/6 of the Rune most opposed to the God — for 1s.
 
-You would need many cards to prevent "cheating" and also to avoid having to reshuffle each time you seek runic support. Number to plan for: 60 provides equivalent coverage for pools of 10 bets (there are indeed 10 of each element). The divine explosion is slightly contained but it is statistically negligible.
+You would need many cards to prevent "cheating" and avoid reshuffling every time runic support is sought. As a reference, 60 cards comfortably support **up to 10 Stakes on one side** while keeping ten copies of every possible result. The divine explosion is slightly constrained, but the statistical effect is negligible.

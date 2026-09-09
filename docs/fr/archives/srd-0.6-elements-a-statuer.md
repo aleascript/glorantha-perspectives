@@ -6,7 +6,7 @@ title: "Archives — éléments du SRD 0.6 à statuer"
 
 > **Archive de migration.** Cette page ne fait pas partie des règles actuelles de *Glorantha Perspectives*. Elle rassemble des éléments présents dans `srd/glorantha-perspectives-fr.adoc`, révision **0.6 du 30 août 2026**, qui ne sont pas repris tels quels dans la nouvelle organisation ou dont le sens a été matériellement modifié. Ils sont conservés ici pour décision ultérieure.
 
-La comparaison n'a pas considéré comme « oubliés » les contenus déjà repris ailleurs : création et exemples de Protagonistes, Visions et Mises, Focus et Facteurs Cadres, Jauge de Destin, obstacles abstraits, Action/Séquence/Script, obstacles à clés, risques létaux, visions du monde, Voie Lunaire, Illumination, Chaos, tabous et serments, Quêtes héroïques, création de mythes, inspiration runique, calendrier, monnaies, empreinte runique, FAQ principale, probabilités et personnages prêts à jouer.
+La comparaison n'a pas considéré comme « oubliés » les contenus déjà repris ailleurs : création et exemples de Protagonistes, Mises et résolution, Focus et Facteurs Cadres, Jauge de Destin, obstacles abstraits, Action/Séquence/Script, obstacles à clés, risques létaux, Visions du monde, Voie Lunaire, Illumination, Chaos, tabous et serments, Quêtes héroïques, création de mythes, inspiration runique, calendrier, monnaies, empreinte runique, FAQ principale, probabilités et personnages prêts à jouer.
 
 ## Positionnement historique par rapport à HeroQuest et RuneQuest
 

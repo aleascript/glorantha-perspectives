@@ -1,22 +1,24 @@
 ---
-title: Visions et Mises
+title: Mises
 ---
 
-# Visions et Mises
+# Mises
 
 Une résolution sert à trancher une issue **possible, importante et réellement incertaine**. Si l'action est impossible dans le monde, il n'y a rien à lancer. Si son résultat ne fait aucun doute, la fiction avance simplement.
 
 Quand une résolution est nécessaire, commencez par regarder la Situation.
 
-## 1. Définir les Visions et leurs Intentions
+## 1. Dire les Intentions et mettre deux issues en balance
 
-Chaque vision cherche quelque chose de concret.
+Dites ce que les Protagonistes, Forces ou autres acteurs engagés cherchent réellement à obtenir lorsqu'ils portent une Intention.
 
-Avant de prendre les dés, dites ce que chacun veut obtenir. Deux visions peuvent vouloir des choses directement opposées, mais ce n'est pas obligatoire : un voyageur peut lutter contre une tempête, un mystique contre sa propre peur, une communauté contre une famine.
+Une Intention fournit souvent une première issue. Le **Focus** précise ce qui doit être tranché maintenant en mettant **deux issues possibles en balance**.
 
-Pour une Force ou un obstacle qui n'est pas porté comme Protagoniste, le **Temps** porte ce qui pousse la Situation dans l'autre sens.
+Les deux issues peuvent être directement opposées, mais ce n'est pas obligatoire : un voyageur peut lutter contre une tempête, un mystique contre sa propre peur, une communauté contre une famine.
 
-Les deux pools ne représentent donc pas toujours deux personnes. Ils représentent les deux directions dans lesquelles la Situation peut basculer pour le Focus.
+Pour une Force ou un obstacle qui n'est pas porté comme Protagoniste, le **Temps** fait vivre ce qui pousse la Situation de l'autre côté.
+
+> **Les deux issues disent ce que la résolution doit trancher. Elles ne prétendent pas décrire à elles seules tout ce qui pourra arriver.**
 
 ### Rendre visibles les conséquences importantes
 
@@ -30,7 +32,7 @@ Si une chute peut être mortelle, si une cérémonie met une relation en danger 
 
 Le **Focus** est la question précise à laquelle la résolution doit répondre.
 
-Il ne demande pas aux dés de revenir sur ce que la fiction sait déjà. Il regarde ce qui reste réellement ouvert.
+Il ne demande pas aux dés de revenir sur ce que la fiction sait déjà. Il regarde ce qui reste réellement ouvert et formule les deux issues mises en balance.
 
 > **Ce qui est fermé par la fiction doit être fermé avant le jet. Ce que le Focus accepte doit réellement pouvoir arriver.**
 
@@ -58,17 +60,21 @@ Elle peut provenir :
 
 Une chose n'entre pas dans la résolution parce qu'elle figure sur une fiche. Elle entre parce que la table peut expliquer **pourquoi elle compte ici**.
 
-Chaque Mise retenue donne un dé au pool dans le sens duquel elle pèse.
+Chaque Mise retenue donne un dé **du côté de l'issue qu'elle favorise**.
 
 ### Une vérité peut jouer contre son propriétaire
 
-Une Mise n'est pas favorable ou adverse en soi. Son orientation dépend du Focus.
+Une Mise n'est pas favorable ou adverse en soi.
 
-Une lourde armure protège d'une lame mais gêne pour traverser un torrent. Une réputation redoutable intimide certains interlocuteurs et en pousse d'autres à refuser toute confiance. Une blessure inscrite sur la feuille du Protagoniste peut alimenter le pool adverse.
+Une lourde armure protège d'une lame mais gêne pour traverser un torrent. Une réputation redoutable intimide certains interlocuteurs et en pousse d'autres à refuser toute confiance. Une blessure inscrite sur la feuille du Protagoniste peut jouer en faveur de l'autre issue.
 
-L'origine d'une Mise et le sens dans lequel elle pèse sont deux questions distinctes.
+> **Une Mise joue en faveur de l'une des deux issues relativement au Focus présent.**
 
-Le Temps ne cherche pas des contre-Mises pour équilibrer artificiellement les nombres. Il fait simplement vivre les vérités de la Situation qui comptent réellement dans l'autre sens.
+L'origine d'une Mise et le côté en faveur duquel elle joue sont deux questions distinctes.
+
+Le Temps ne cherche pas des contre-Mises pour équilibrer artificiellement les nombres. Il fait simplement vivre les vérités de la Situation qui comptent réellement de l'autre côté.
+
+Il n'est pas nécessaire de donner un nom particulier aux ensembles de Mises ainsi formés. À la table, on peut simplement parler des **Mises en faveur de cette issue**, des **Mises de l'autre côté** ou, lorsque cela correspond réellement à la fiction, des **Mises de chaque camp**.
 
 ### Pertinence et non-redondance
 
@@ -86,21 +92,21 @@ La table n'a pas à fouiller la fiche, la scène ou le lore jusqu'à épuisement
 
 Quand personne ne voit immédiatement une autre vérité pertinente qui ne répète pas ce qui est déjà posé, on résout.
 
-> **Une Mise ne se cherche pas pour grossir un pool. Elle se remarque parce qu'elle compte.**
+> **Une Mise ne se cherche pas pour accumuler des dés. Elle se remarque parce qu'elle compte.**
 
-## 4. Un pool peut être vide
+## 4. Une issue peut n'avoir aucune Mise
 
-Une vision peut ne recevoir aucune Mise. Son pool contient alors **zéro dé**.
+L'une des deux issues peut ne recevoir aucune Mise. Elle est alors représentée par **zéro dé**.
 
-Ni l'Intention ni le simple fait d'exister dans la résolution ne fournissent un dé implicite. Il n'y a pas de « dé de base ».
+Ni l'Intention ni le simple fait qu'une issue soit mise en balance ne fournissent un dé implicite. Il n'y a pas de « dé de base ».
 
 > **Chaque dé doit représenter une vérité fictionnelle effectivement rendue pertinente par le Focus.**
 
-Une résolution **0 / N** est donc valide. Elle ne signifie pas que le Protagoniste possède zéro compétence ; elle signifie simplement qu'aucune vérité retenue ne pèse en sa faveur dans cette question précise.
+Une résolution **0 / N** est donc valide. Elle ne signifie pas que le Protagoniste possède zéro compétence ; elle signifie simplement qu'aucune vérité retenue ne joue en faveur de cette issue dans cette question précise.
 
 En revanche, **0 / 0 n'est pas un tirage**. C'est un signal de cadrage. Demandez :
 
-> **Si rien ne compte dans un sens ni dans l'autre, qu'est-ce qui rend réellement cette issue incertaine ?**
+> **Si rien ne compte en faveur d'une issue ni de l'autre, qu'est-ce qui rend réellement cette résolution incertaine ?**
 
 Si la réponse révèle une vérité pertinente, elle peut devenir une Mise. Si rien n'apparaît, la Situation n'a probablement pas besoin d'une résolution et la fiction avance.
 
@@ -114,13 +120,13 @@ Un humain ordinaire ne tue pas un Dragon avec un cure-dent en accumulant suffisa
 
 Elle cadre honnêtement ce qui reste possible : survivre, le repousser, atteindre une faiblesse, accomplir une étape nécessaire ou transformer la Situation.
 
-Lorsque le cadre rend une vision nettement plus ou moins puissant sans fermer complètement l'action, les modes **affaibli** ou **héroïque** peuvent être utilisés quand la règle de la Vision du monde concernée le prévoit.
+Lorsque le cadre rend un côté nettement plus ou moins puissant sans fermer complètement l'action, les modes **affaibli** ou **héroïque** peuvent être utilisés quand la règle de la Vision du monde concernée le prévoit.
 
-## 6. Lancer selon la Vision du monde
+## 6. Lancer et lire selon la Vision du monde
 
-Une fois les Mises retenues, chaque vision lance son pool.
+Lancez les dés correspondant aux Mises de chaque côté.
 
-La manière de le lire dépend de sa **Vision du monde** :
+La manière de lire un tirage dépend de la **Vision du monde** qui s'y applique :
 
 - [Animisme](../animism/)
 - [Théisme](../theism/)
@@ -135,11 +141,13 @@ Un obstacle sans Vision du monde propre peut être lu de deux façons :
 
 Le lieu peut changer cette lecture. Escalader une montagne ordinaire n'est pas la même chose que gravir une montagne qui est elle-même une puissance sacrée.
 
-## 7. Comparer les Réussites
+Le tirage et sa lecture donnent, pour chaque côté, une **réponse du réel**. Dans la plupart des Visions du monde, cette réponse peut être exprimée sous la forme d'un nombre de Réussites comparable à celui de l'autre côté.
 
-La vision qui obtient le plus de Réussites l'emporte sur la question que le Focus devait trancher.
+## 7. Comparer les réponses du réel
 
-- **Victoire / Défaite** : une vision obtient plus de Réussites que l'autre ;
+L'issue dont les Mises produisent le plus de Réussites s'impose sur la question posée par le Focus.
+
+- **Victoire / Défaite** : un côté obtient plus de Réussites que l'autre ;
 - **Statu quo** : égalité ;
 - **Exploit / Fiasco possibles** : le résultat est dominé.
 
@@ -158,7 +166,9 @@ Exemples :
 
 La domination rend une amplification disponible : le vainqueur peut accomplir un **Exploit** et le perdant peut subir un **Fiasco**. Les deux ne sont pas automatiquement symétriques ; la fiction décide ce que cette amplification signifie de chaque côté.
 
-En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque vision qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
+Les deux issues posées avant le tirage ne constituent pas un catalogue exhaustif de ce qui peut arriver. Elles définissent seulement **ce que cette résolution doit trancher**. L'**Et** d'un Exploit ou d'un Fiasco peut ajouter une conséquence, une découverte, une transformation ou un avantage qui n'était pas contenu dans leur formulation initiale.
+
+En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque acteur qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
 
 ## 8. Interpréter ce qui vient d'arriver
 
@@ -167,12 +177,13 @@ Les Mises ne disparaissent pas une fois les dés lancés. Elles fournissent la m
 Reprenez :
 
 - les Intentions ;
+- les deux issues mises en balance ;
 - le Focus et son Zoom ;
 - les conséquences importantes annoncées ;
 - les Mises qui expliquaient ce qui comptait ;
 - la forme du résultat.
 
-Les dés tranchent le rapport entre les deux directions de la Situation. **Les Mises expliquent comment ce résultat devient fiction.**
+Les dés et les Visions du monde donnent la **réponse du réel** à ce qui a été mis en balance. **Les Mises expliquent comment cette réponse devient fiction.**
 
 Une conséquence durable peut alors ajouter, transformer ou supprimer une vérité du Protagoniste : blessure, lien, réputation, obligation, objet, pouvoir, compréhension ou perte.
 
@@ -182,7 +193,7 @@ La **Jauge de Destin** est un outil optionnel, commun à la table, qui garde la 
 
 Elle contient des dés de deux couleurs : une couleur pour les Protagonistes, une pour l'adversité. Des dés de couleurs opposées s'annulent.
 
-Avant le tirage, lorsque les pools sont inégaux, ajoutez à la Jauge la différence en faveur de la vision actuellement désavantagée. **Ces dés ne modifient pas la résolution en cours.**
+Avant le tirage, lorsque le nombre de Mises diffère entre les deux côtés, ajoutez à la Jauge la différence en faveur du côté actuellement désavantagé. **Ces dés ne modifient pas la résolution en cours.**
 
 Exemple : les Protagonistes ont 5 Mises et l'adversité 3. La résolution reste à **5 contre 3**, mais la Jauge reçoit **2 dés d'adversité**. Ils pourront être dépensés plus tard lorsqu'une difficulté cohérente avec la fiction se présente, selon l'autorité convenue par la table.
 

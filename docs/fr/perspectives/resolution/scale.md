@@ -18,7 +18,7 @@ Utilisez ce zoom lorsqu'un moment précis mérite d'être joué pour lui-même.
 
 Une **Séquence** rassemble plusieurs actions qui forment une seule unité de jeu : un combat complet, une poursuite, un raid, une cérémonie, une traversée dangereuse, une négociation prolongée.
 
-On rassemble les Mises pertinentes pour l'ensemble de la séquence et l'on effectue une seule résolution.
+On rassemble les Mises pertinentes pour l'ensemble de la Séquence et l'on effectue une seule résolution.
 
 Le résultat décrit alors ce qui s'est passé dans l'ensemble de la scène. Les Mises servent d'ingrédients pour raconter les moments importants.
 
@@ -30,9 +30,9 @@ Avant le tirage, nommez les principales étapes.
 
 Rassemblez ensuite les Mises qui comptent pour traverser l'ensemble du Script et procédez à la résolution normalement.
 
-Si la vision protagoniste échoue, le nombre de réussites obtenues peut aider à situer jusqu'où il est allé avant que quelque chose ne rompe le plan. Une réussite peut correspondre à une étape franchie lorsque cette lecture est adaptée à la Situation.
+Si **l'issue recherchée par les Protagonistes ne s'impose pas**, le nombre de Réussites obtenues de leur côté peut aider à situer jusqu'où ils sont allés avant que quelque chose ne rompe le plan. Une Réussite peut correspondre à une étape franchie lorsque cette lecture est adaptée à la Situation.
 
-En cas de réussite, le Script va jusqu'au bout ; la qualité de cette réussite et les Mises présentes indiquent comment.
+Si cette issue s'impose, le Script va jusqu'au bout ; la qualité du résultat et les Mises présentes indiquent comment.
 
 ## Choisir le zoom avant de lancer
 

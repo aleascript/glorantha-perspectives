@@ -1,53 +1,53 @@
 ---
-title: "Réflexions sur les visions et les mises"
+title: "Réflexions sur les Mises"
 ---
 
 ![Destin](/img/runes/fate.png)
 
-### Vision hybride
+### Plusieurs Visions du monde du même côté
 
-Un pool peut être construite à partir de plusieurs visions du monde. 
+Une même issue peut être favorisée par des Mises provenant de plusieurs personnages ayant des **Visions du monde différentes**.
 
-C’est le cas quand l'opposition comporte plusieurs personnages ayant des visions du monde différentes. 
+Dans ce cas, les Mises sont lues selon la Vision du monde qui s'applique à chacune, puis leurs sorties compatibles sont réunies du même côté avant la comparaison.
 
-Pour un personnage, qui aurait intégré plusieurs visions du monde, selon la stratégie choisie, on choisira telle ou telle vision du monde plutôt qu'une vision hybride même si ça reste possible.
+Pour un personnage ayant intégré plusieurs Visions du monde, la stratégie ou la fiction peuvent déterminer laquelle s'applique à une Mise donnée. Une combinaison plus complexe reste imaginable, mais elle doit dire clairement comment les différentes lectures deviennent comparables.
 
-### Plus de deux visions?
+### Plus de deux issues ?
 
-La majorité des résolutions se découpe en deux visions. 
+La résolution actuelle de Glorantha Perspectives met **deux issues en balance**.
 
-Pour autant, rien n’empêche d’imaginer une opposition en N visions. 
+Une Situation peut évidemment contenir beaucoup plus de futurs possibles. Le Focus n'essaie pas de tous les représenter : il isole la question que la table veut trancher maintenant.
 
-Puis on interprète selon la lecture des différences croisées. 
+Une opposition réellement conçue pour comparer trois issues ou davantage demanderait donc une autre procédure de résolution, et non simplement l'ajout d'un troisième « côté » à la procédure standard.
 
-### Visions archétypes?
+### Mises archétypes ?
 
-Si la détermination des mises vous semble fastidieuse à un moment donné et que vous voulez juste faire un test simple, faites une opposition **2D vs 2D**: inné/acquis vs inné/acquis ou bien encore atout/handicap vs atout/handicap. 
+Si la détermination des Mises semble trop longue pour une Situation peu importante et que vous voulez seulement une lecture rapide, on peut imaginer des ensembles prédéfinis comme **2D vs 2D** : inné/acquis contre inné/acquis, ou atout/handicap contre atout/handicap.
 
-Ou bien **3D vs 3D** avec une grille de lecture comme celle là: 
+Ou bien **3D vs 3D** avec une grille de lecture comme celle-ci :
 
-**Vision de Protagoniste (3D)**
-- Dé 1 : Le Corps (L'Inné) La nature brute du personnage, son peuple, sa force physique ou son instinct.
-- Dé 2 : L'Esprit (L'Acquis) Sa technique, son entraînement, l'outil ou l'arme qu'il a en main.
-- Dé 3 : L'Âme (Le Sacré / Les Runes) La résonance du personnage avec la situation.
+**Mises du Protagoniste (3D)**
+- Dé 1 : **Le Corps (L'Inné)** — nature brute du personnage, peuple, force physique ou instinct.
+- Dé 2 : **L'Esprit (L'Acquis)** — technique, entraînement, outil ou arme en main.
+- Dé 3 : **L'Âme (Le Sacré / Les Runes)** — résonance du personnage avec la Situation.
 
-**Vision de l'Obstacle (3D)**
-- Dé 1 : La Stase (La Matière) La résistance brute de l'obstacle (la hauteur d'un mur, la dureté d'une roche, la vigilance innée d'un garde).
-- Dé 2 : Le Mouvement/Désordre (La Friction) Les circonstances extérieures qui compliquent la tâche (la pluie qui rend le mur glissant, le vacarme de la foule, l'urgence du temps qui presse).
-- Dé 3 : L'Ombre (Le Mythe / L'Interdit) L'opposition invisible (l'esprit du lieu qui refuse qu'on le perturbe, un tabou religieux qui pèse sur l'action, ou la Rune adverse de la scène qui pousse à l'échec).  
+**Mises de l'obstacle (3D)**
+- Dé 1 : **La Stase (La Matière)** — résistance brute de l'obstacle : hauteur d'un mur, dureté d'une roche, vigilance innée d'un garde.
+- Dé 2 : **Le Mouvement / Désordre (La Friction)** — circonstances extérieures : pluie, foule, urgence, instabilité.
+- Dé 3 : **L'Ombre (Le Mythe / L'Interdit)** — opposition invisible : esprit du lieu, tabou religieux, Rune qui pèse sur la Situation.
 
-Les 2D ou les 3D cités ci-dessus ne sont que des exemples.
+Les 2D ou 3D ci-dessus ne sont que des exemples.
 
-> Toute dyade, triade porteuse d’un sens gloranthien est bienvenue à explorer.
+> Toute dyade ou triade porteuse d’un sens gloranthien reste intéressante à explorer.
 
-### Visions runiques?
+### Mises runiques ?
 
-Il serait même tentant de demander aux joueurs d’associer une rune à chaque mise. 
+Il serait tentant de demander aux joueurs d’associer une Rune à chaque Mise.
 
-En ne pouvant pas poser plus d’une mise pour une même rune dans une vision donnée.
+On pourrait par exemple décider qu'une même Rune ne peut être représentée qu'une fois parmi les Mises d'un même côté.
 
-Mais cela nécessite une connaissance pointue des runes et une habilité à les associer rapidement une mise à une rune ce qui est peut-être moins trivial que les mises sans l’association runique. 
+Mais cela exige une connaissance fine des Runes et la capacité d'associer rapidement une vérité à une Rune, ce qui est probablement plus lourd que la procédure ordinaire.
 
-Il est possible qu’on pose une rune avec laquelle on n’a pas forcément d’affinité. Dans ce cas, ça pourrait alerter sur la pertinence de ce facteur par rapport à la cohérence du personnage et dans le monde, voire même un problème d’attache potentiel si on accepte que le facteur soit pris en compte. 
+Une association runique surprenante peut toutefois devenir un signal intéressant : est-ce réellement la bonne lecture de cette vérité ? révèle-t-elle quelque chose du personnage ? une Attache en train d'apparaître ?
 
-Par contre, ça permet peut être de trancher sur des débats concernant la pose de tel ou tel facteur, si un facteur de même catégorie runique a déjà été posé.   
+La Rune peut donc servir de contrainte de design ou d'outil de réflexion sans avoir besoin de devenir une catégorie fondamentale de la résolution.

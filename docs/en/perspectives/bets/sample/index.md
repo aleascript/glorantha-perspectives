@@ -1,58 +1,57 @@
 ---
-title: Example of Bet Determination
+title: Example of Stake Determination
 ---
 
-Here is a concrete example of bet determination for an opposition in **Glorantha Perspectives**, specifically illustrating the impact of focus and a framework factor.
+Here is a concrete example of determining Stakes for an opposition in **Glorantha Perspectives**, specifically illustrating the impact of Focus and a Frame Factor.
 
-### The Scene Context
+### The scene
 
-**Kallyr**, a young Orlanthi clan chief (worldview: Theist), infiltrates the underground sanctuary of the Earth Temple. She faces **Yanela**, the High Priestess of Ernalda (the obstacle).
-**The situation:** Kallyr wants to convince Yanela to entrust her with the *Earthshaker Staff*, a sacred relic, because a patrol of the Lunar Empire is approaching their village. Yanela, rooted in tradition, refuses to let the relic leave the sanctuary.
+**Kallyr**, a young Orlanthi clan chief (Worldview: Theism), enters the underground sanctuary of the Earth Temple. She faces **Yanela**, the High Priestess of Ernalda.
 
-### 1. The Choice of Focus (What is important at that moment)
+**The Situation:** Kallyr wants to convince Yanela to entrust her with the *Earthshaker Staff*, a sacred relic, because a patrol of the Lunar Empire is approaching their village. Yanela, rooted in tradition, refuses to let the relic leave the sanctuary.
 
-The system specifies that each party determines what is important by immersing themselves in the situation to choose the focus of the action.
+### 1. Choose the Focus
 
-- **The Focus chosen:** The opposition is purely political, religious, and rhetorical (convincing through the necessity of the community's survival).
-- **Consequence on factors:** Kallyr possesses formidable keywords like *Lightning Swordswoman*, *Agile as the Wind* or her equipment *Iron Longsword*. However, due to the chosen focus (persuasion rather than physical combat), these factors are not important and **will not be placed on the scale**.
+The table states what it actually wants to decide now.
 
-### 2. The Strong Framework Factor (What it is not possible to attempt)
+- **Focus:** *Does Kallyr convince Yanela to entrust her with the Earthshaker Staff?*
+- **First outcome:** Yanela gives Kallyr the relic to protect the clan.
+- **Second outcome:** Yanela keeps the relic in its protective stasis within the temple.
 
-The rules explain that certain factors are "framework factors" that are so impactful they express what it will not be possible to attempt.
+Kallyr possesses formidable truths such as *Lightning Swordswoman*, *Agile as the Wind*, or her *Iron Longsword*. But the Focus concerns political and religious negotiation, not physical combat. Those truths therefore do not become Stakes here.
 
-- **The Framework Factor:** The location is the *Holy of Holies of Ernalda*, governed by the myth of **The Peace of Ernalda**. In this space, any form of aggression, violence, or even raising one's voice is metaphysically silenced by the Earth Goddess.
-- **Consequence on factors:** Kallyr might have wanted to use her *Hot-tempered* trait or her *Intimidating Warrior* status to pressure the priestess. But the framework factor forces the other factors to align. It is strictly impossible to resort to intimidation here, on pain of the temple's magic paralyzing her. These factors are inaccessible to her.
+### 2. Identify the Frame Factor
 
-### 3. Setting the Bets
+The location is the *Holy of Holies of Ernalda*, governed by the myth of **The Peace of Ernalda**. In this space, aggression, violence, and even raised voices are metaphysically suppressed by the Earth Goddess.
 
-To determine the narratively valid bets, the method consists of cross-referencing favorable and unfavorable factors based on each party's objectives.
-**Definition of objectives:**
+Kallyr might have wanted to use her *Hot-tempered* trait or her status as an *Intimidating Warrior* to pressure the priestess. But that means is closed by the fiction: it does not become a negative Stake; it is simply inadmissible until the Situation changes.
 
-- **Vision A (Kallyr):** Wants to obtain the relic to protect the clan.
-- **Vision B (Yanela / The Obstacle):** Wants to preserve the relic in its protective stasis within the temple.
+### 3. Identify the Stakes on each side
 
-**Determination of bets:**
-- **Pro-Kallyr factors:**
-    - *Royal Orlanthi Lineage* (legitimacy to ask for the Earth's help).
-    - *Clan Chief's Eloquence* (ability to formulate her plea).
-    - *Urgency of the Lunar Threat* (the shocking argument).
-- **Factors countering Kallyr:**
-    - *Youthful Impatience* (one of her character traits that works against her in a formal negotiation).
-- **Pro-Yanela factors:**
-    - *Sacred Duty of the Guardian* (her primary motivation).
-    - *The Temple's Stasis* (the inert force of the place that incites changing nothing).
-    - *Distrust of Storm Worshippers* (cultural trait of the Earth cult).
-- **Factors countering Yanela:**
-    - *Love of the community* (Yanela is a mother to the clan; the idea that her people would be slaughtered weakens her resolve).
+Each retained truth favours one of the two outcomes.
 
-### 4. Summary of the Opposition
+**Stakes favouring Kallyr obtaining the relic:**
 
-We thus end up with a resolution of 4 bets versus 4 bets.
+- *Royal Orlanthi Lineage* — legitimacy to ask for the Earth's help;
+- *Clan Chief's Eloquence* — ability to formulate her plea;
+- *Urgency of the Lunar Threat* — immediate need to protect the clan;
+- Yanela's *Love of the community* — the thought of her people being slaughtered weakens her resolve.
 
-Once the bets are set, we forget the mental link between the bet (the die) and the factor that created it. We can proceed with the draw and then only care about the final number of successes of each vision. Both visions being Theists, both will roll their 4 dice looking for even numbers and explosive 6s, to see toward which destiny the Gods will tip the scales.
+**Stakes favouring Yanela keeping the relic:**
 
-> Note: it was also entirely possible to play the opposition in a graduated manner: 1 argument against 1 argument. So in our case, there would be 3 draws to make a priori. The result of each argumentation could then influence the following draw based on the result, with 1D for the winner for the next confrontation of arguments. It takes longer. It is up to you to decide which gameplay you prefer.
+- Kallyr's *Youthful Impatience* — it works against her in a formal negotiation;
+- *Sacred Duty of the Guardian* — Yanela's primary motivation;
+- *The Temple's Stasis* — the place itself presses toward leaving things unchanged;
+- *Distrust of Storm Worshippers* — a cultural trait of the Earth cult.
 
-In **solo** I like the overall resolution method to obtain the result and then move on to narration. The global method allows me to organize the future narration with the factors that seem logical to highlight.
+This example shows that a Stake does not mechanically belong to its owner: a weakness of Yanela can favour Kallyr's desired outcome, while a weakness of Kallyr can favour the other one.
 
-Around a table in **group** play, the graduated method is more appropriate, especially if players are caught off guard and do not have time to prepare a strategy.
+### 4. Read reality's answer
+
+The resolution therefore has **4 Stakes against 4 Stakes**.
+
+The Stakes on both sides are read according to **Theism**. Each side rolls four dice, looking for even numbers and explosive 6s. The roll produces **reality's answer** as a number of Successes, then the two answers are compared to determine which outcome prevails.
+
+The Stakes do not disappear afterwards: they remain the material the table uses to describe how Yanela yields, resists, hesitates, or transforms the Situation.
+
+> The same opposition could instead be played gradually, argument against argument, rather than resolving the whole negotiation at once. The chosen Zoom simply determines what question the table wants to decide now.

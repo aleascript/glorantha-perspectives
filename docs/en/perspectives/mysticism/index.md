@@ -4,7 +4,7 @@ title: "Mysticism: Illumination"
 
 ![Mystical world: the center, the void](/img/runes/void.png)
 
-> A mystic has a vision of the world founded on an inner but real deconstruction of the illusion of reality, of the senses, etc... They know there is no absolute truth. They see transformations. In this way, they can interpret, decide, and act upon the world.
+> A mystic has a vision of the world founded on an inner but real deconstruction of the illusion of reality and the senses. They know there is no absolute truth. They see transformations. In this way, they can interpret, decide, and act upon the world.
 
 *Derogatory name used by others: nihilists, charlatans,...*
 
@@ -12,26 +12,27 @@ title: "Mysticism: Illumination"
 
 > In adversity, one draws from inner calm, not to struggle, but to observe how our will and the world will intertwine and transform.
 
-- We count the number of successes of a logical [vision](../bets) as follows:
-    - We count the even numbers
-    - 1s can make the opponent's 6s disappear and disappear at the same time. A failure can therefore be a tremendous success.
+To read a roll according to **Mysticism**:
+
+- count even numbers as Successes;
+- 1s may remove 6s from the opposing roll and disappear at the same time. A failure can therefore become a tremendous success.
 
 **Power modes**
 
-- **Weakened** mode: you must remove two 1s from your vision to remove one 6 from the other vision.
-- **Heroic** mode: the mystic chooses between
-    - gaining as many bets as their opponent (without needing to provide justification for this)
-    - placing their bets normally but after the draw, the 1s may take any die from the other side (generally the highest possible evens, but it could be high odds to counter a logician and confront them with their vanity) and transform by taking the value of the die taken from the other vision.
+- **Weakened** mode: two 1s from your roll are required to remove one 6 from the opposing roll.
+- **Heroic** mode: the mystic chooses between:
+    - gaining as many Stakes as the other side, without needing an additional fictional justification;
+    - placing Stakes normally, but after the roll using 1s to take any die from the other side — usually the highest evens, but possibly high odds to counter a logician — and transform by taking the chosen die's value.
 
 **Comments**
 
-It is the only worldview that can act on the opponent's vision. And that is very unsettling, hence the underlying illumination.
+It is the only Worldview that can act directly on **the roll on the other side**. That is deeply unsettling, hence the underlying Illumination.
 
 When a mystic faces adversity, they distinguish what is favorable or can act as a lever from what is unfavorable or must remain in the background. They also distinguish what can mutate and generate a transformation.
 
 The famous mystical paradoxes and the annihilation of duality!
 
-The cancellation of the opponent's 6s happens *after* they have completed their full draw — including all rerolls. The theist has genuinely experienced the divine invocation and felt a support aligned with their faith. The mystic does not deny this experience: they merely reveal it *a posteriori* as a layer of illusion that their insight transcends. This is why the cancellation is resolved at the comparison stage, not during the opponent's roll. On a practical level, it also allows each vision to resolve their draw independently.
+The cancellation of 6s in the opposing roll happens *after* that roll has been completely resolved — including all rerolls. The theist has genuinely experienced divine invocation and felt support aligned with their faith. The mystic does not deny that experience: they reveal it *a posteriori* as a layer of illusion their insight transcends. This is why cancellation happens at comparison, not during the opposing roll. In practical terms, it also allows each side to complete its roll independently.
 
 It is a mystical opposition. After a while, you can no longer reduce or see new transformations. It is the ultimate synthesis that represents the heart of the manifestation.
 
