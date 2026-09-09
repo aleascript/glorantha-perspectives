@@ -12,18 +12,18 @@ title: "Peek-ee-peek"
 
 # Runes
 
-<img src="/img/runes/moon.png" width="10%" />
+![Moon](/img/runes/moon.png)
 
 * Sense of superiority
 * Curious
 
-<img src="/img/runes/death.png" width="10%" />
+![Death](/img/runes/death.png)
 
 * Sure arrow
 * Sharp opinions
 * Impulsive
 
-<img src="/img/runes/spirits.png" width="10%" />
+![Spirits](/img/runes/spirits.png)
 
 * Sensitive
 * Feel, see spirits
