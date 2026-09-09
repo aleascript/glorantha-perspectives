@@ -10,7 +10,7 @@ title: "Fazia Hanout"
 * **Standard of living**: average
 * **Equipment**: books and scholar's gear, burglar tools (picks, rope, pliers)
 
-# Runes
+## Runes
 
 <img src="/img/runes/darkness.png" width="10%" />
 
@@ -33,7 +33,7 @@ title: "Fazia Hanout"
 * Persuade
 * Steal from a thief
 
-# Pavisite
+## Pavisite
 
 * Rogue scholar
 * Bookworm
@@ -41,7 +41,7 @@ title: "Fazia Hanout"
 * Knowledge of Pavis and the Old Town
 * **Virtues**: independence, resourcefulness, merchant spirit, distrust of the Lunar Empire
 
-# Initiate of the Grand Mystery
+## Initiate of the Grand Mystery
 
 (Thieves' cult of Pavis)
 

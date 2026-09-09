@@ -10,7 +10,7 @@ title: "Irinus Solantis"
 * **Standard of living**: average
 * **Equipment**: the danger ring
 
-# Runes
+## Runes
 
 <img src="/img/runes/fire.png" width="10%" />
 
@@ -28,7 +28,7 @@ title: "Irinus Solantis"
 
 * Organized war with rules, not butchery
 
-# Dara Happan
+## Dara Happan
 
 Decurion
 
@@ -41,7 +41,7 @@ Decurion
     - Family honor
     - Defense of the Empire's interests
 
-# Initiate of Urvairinus the Conqueror
+## Initiate of Urvairinus the Conqueror
 
 * **Virtues**: organized war with rules, not butchery, merciless toward the enemies of Dara Happa, command
 

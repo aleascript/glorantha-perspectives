@@ -10,7 +10,7 @@ title: "Duckita"
 * **Standard of living**: poor
 * **Equipment**: feather fetishes
 
-# Runes
+## Runes
 
 <img src="/img/runes/water.png" width="10%" />
 
@@ -31,11 +31,11 @@ title: "Duckita"
 * "See" in the dark
 * Summon a shadow
 
-# Durulz of the Dragon Pass
+## Durulz of the Dragon Pass
 
 * **Virtues**: survive, distrust of humans, pride despite the curse
 
-# Shadow Swimmer
+## Shadow Swimmer
 
 * Slip through fingers
 * Very good hearing

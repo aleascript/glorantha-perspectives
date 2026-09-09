@@ -10,7 +10,7 @@ title: "Korlanth Lucky"
 * **Standard of living**: poor
 * **Equipment**: construction tools and training weapons
 
-# Runes
+## Runes
 
 <img src="/img/runes/air.png" width="10%" />
 
@@ -32,7 +32,7 @@ title: "Korlanth Lucky"
 * Attract sympathy
 * Believe in one's Destiny
 
-# Sartarite Exile
+## Sartarite Exile
 
 * Young rebel
 * Jack-of-all-trades (building sites, odd jobs, marauding)
@@ -44,7 +44,7 @@ title: "Korlanth Lucky"
     - His family
     - Hatred of the Lunars
 
-# Initiate of Orlanth
+## Initiate of Orlanth
 
 (Storm Pantheon)
 

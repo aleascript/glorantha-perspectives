@@ -14,11 +14,9 @@ But he also needs arms to row and to fend off the dangers of the Big Rubble. Sla
 
 Oh, I almost forgot, it's also the story of Korlanth called Lucky, who is currently rotting in a Lunar prison following a brawl in a Pavis inn where he reportedly made outright revolutionary remarks, which he takes with optimism since it is his destiny.
 
-# The heroes
-
 ![The heroes](/img/narratives/heirs-of-zola-fel/heroes/heroes.jpg)
 
-- [Irinus Solantis, Dara Happan decurion](heroes/irinus)
-- [Fazia Hanout, young rogue scholar](heroes/fazia)
-- [Duckita, Durulz, Shadow Swimmer](heroes/duckita)
-- [Korlanth Lucky, young Orlanthi](heroes/korlanth)
+- Irinus Solantis, Dara Happan decurion
+- Fazia Hanout, young rogue scholar
+- Duckita, Durulz, Shadow Swimmer
+- Korlanth Lucky, young Orlanthi

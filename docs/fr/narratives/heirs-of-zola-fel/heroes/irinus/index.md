@@ -10,7 +10,7 @@ title: "Irinus Solantis"
 * **Niveau de vie**: standard
 * **Équipement**: la bague de danger
 
-# Runes
+## Runes
 
 <img src="/img/runes/fire.png" width="10%" />
 
@@ -28,7 +28,7 @@ title: "Irinus Solantis"
 
 * Guerre organisée avec des règles, pas la boucherie
 
-# Dara Happan
+## Dara Happan
 
 Décurion
 
@@ -41,7 +41,7 @@ Décurion
     - Honneur de la famille
     - Défense des intérêts de l'Empire
 
-# Initié d'Urvairinus le Conquérant
+## Initié d'Urvairinus le Conquérant
 
 * **Vertus**: guerre organisée avec des règles, pas la boucherie, impitoyable envers les ennemis de Dara Happa, commandement
 

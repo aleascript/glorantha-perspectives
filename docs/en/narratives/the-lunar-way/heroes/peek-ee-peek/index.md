@@ -10,7 +10,7 @@ title: "Peek-ee-peek"
 * **Standard of living**: poor (relatively)
 * **Equipment**: bow, lance, helmet, fetishes
 
-# Runes
+## Runes
 
 ![Moon](/img/runes/moon.png)
 
@@ -29,7 +29,7 @@ title: "Peek-ee-peek"
 * Feel, see spirits
 * Bargain with spirits
 
-# Sand Nomad
+## Sand Nomad
 
 * Ride an Antilope (is one with Fta-Ah)
 * Contempt for horses
@@ -44,14 +44,15 @@ title: "Peek-ee-peek"
   - Tribe
   - Khan's Daughter 
 * **Virtues** : pride, freedom
-# Scout
+
+## Scout
 
 * Stealthy
 * Good sight
 * Bow
 * Lance 
 
-# Tradition of Waha the Butcher
+## Tradition of Waha the Butcher
 
 * **Virtues**: Eliminate Chaos, Pacification of the soul (killed animal), Nourish, defend, alert the tribe
 * **Miracles**: Death Lance 
@@ -62,7 +63,7 @@ title: "Peek-ee-peek"
    - Water-seeking spirit (drink nothing but water) 
    - Pacification of spirits (never desecrate a place inhabited by a spirit)
 
-# Fta-Ah 
+## Fta-Ah 
 
 * Sand Antilope
 * Courageous

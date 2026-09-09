@@ -11,7 +11,7 @@ title: "Jaridan"
 * **Wergild**: Thane
 * **Equipment**: a mule, a horse, bags, merchandise, dagger, staff 
 
-# Runes
+## Runes
 
 ![Earth](/img/runes/earth.png)
 
@@ -30,7 +30,7 @@ title: "Jaridan"
 * Diplomatic
 * Empathic
 
-# Tarshite
+## Tarshite
 
 * Basic knowledge of culture and animal husbandry
 * Geography of Tarsh 
@@ -42,7 +42,7 @@ title: "Jaridan"
   - Clan 
 * **Virtues**: Courage, Generosity, Personal Honor, Social Justice, Piety, Wisdom, Vassalage 
 
-# Merchant
+## Merchant
 
 * Numerous contacts
 * Knowledge of neighboring cultures & cults (Empire + Sartar)
@@ -54,16 +54,16 @@ title: "Jaridan"
 * Evaluate goods
 * Merchant's tongue
 
-# Initiate of Issaries
+## Initiate of Issaries
 
-## Communication
+### Communication
  - Shout clearly 
  - Impressive speech 
  - Convince buyer or seller 
  - Soft tongue 
  - Speak with hands
 
-## Merchant
+### Merchant
  - Bless a market 
  - Create a win-win bond 
  - Evaluate currency 
@@ -71,7 +71,7 @@ title: "Jaridan"
  - Lock a box 
  - Recognize a magical object. 
 
-# Initiate of Gultha Languedor
+## Initiate of Gultha Languedor
 
 - Staff combat 
 - Cartography
@@ -81,14 +81,14 @@ title: "Jaridan"
 - Speaks New Pelorian and Sartarite
 - **Virtues**: spirit of adventure
 
-## Travel 
+### Travel 
  - Cover tracks 
  - Detect an ambush
  - Find an escape route 
  - Find a path 
  - Protection during sleep
 
-## Communication 
+### Communication 
 
  - Make oneself understood 
  - Friendly greetings

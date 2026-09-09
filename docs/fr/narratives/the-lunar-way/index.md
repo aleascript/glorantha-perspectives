@@ -6,39 +6,13 @@ title: "La Voie Lunaire"
 
 Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G puis petit à petit avec des tests d'autres règles qui ont fini par aboutir à **Glorantha Perspectives**.
 
-# Les héros
-
 ![Les héros](/img/narratives/the-lunar-way/heroes/heroes.jpg)
 
 *De gauche à droite:*
-- [Jaridan, marchand Tarshite pacifiste](heroes/jaridan)
-- [Ikarnos de Raibanth, Ombre impérial](heroes/ikarnos)
-- [Hanya, gardienne de Jillaro, mercenaire investie](heroes/hanya)
-- [Peek-ee-peek, fille de chef, fière nomade Sable](heroes/peek-ee-peek)
-
-# Les autres
-
-Ils sont regroupés dans un [glossaire](others) par ordre alphabétique.
-
-# L'histoire
-
-- [Les préludes](01)
-- [Dunstop](02)
-- [Bagnot](03)
-- [Vers les Ruines Tombantes](04)
-- [Les Ruines Tombantes](05)
-- [Mine de Nain](06)
-- [Cai et Visa Delli](07)
-- [Le clan des pommiers](08)
-- [Camping forcé dans la Passe du Dragon](09)
-- [Le chemin de la falaise (Peek & Jaridan)](10)
-- [Les Marches Naines (Ikarnos & Hanya)](11)
-- [Une alliance décevante (Ikarnos & Hanya)](12)
-- [Glasswall (Jaridan & Peek)](13)
-- [Esclavagistes (Ikarnos & Hanya)](14)
-- [En route vers AldaChur (Jaridan & Peek)](15)
-- [Accusés à tort (Ikarnos & Hanya)](16)
-- [Rencontre avec des Aldryami (Jaridan & Peek)](17)
+- Jaridan, marchand Tarshite pacifiste
+- Ikarnos de Raibanth, Ombre impérial
+- Hanya, gardienne de Jillaro, mercenaire investie
+- Peek-ee-peek, fille de chef, fière nomade Sable
 
 # Notes:
 

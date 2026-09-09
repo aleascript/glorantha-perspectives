@@ -10,7 +10,7 @@ title: "Ikarnos of Raibanth"
 * Standard of living: average 
 * Equipment: poisoned dagger, travel gear, books and writing supplies, horse
 
-# Runes
+## Runes
 
 ![Darkness](/img/runes/darkness.png)
 
@@ -29,7 +29,7 @@ title: "Ikarnos of Raibanth"
 * Charismatic
 * Inferiority complex
 
-# Pelorian (Silver Shadow)
+## Pelorian (Silver Shadow)
 
 * Knowledge of the Empire's rules and myths (Lunar and Dara Happan)
 * Read/Write New Pelorian
@@ -39,7 +39,7 @@ title: "Ikarnos of Raibanth"
 * **Relations**: 
    - Anti-Durulz (Bizarre theory about the Ducks: Water + Disorder and the Moon)
 
-# Imperial Shadow
+## Imperial Shadow
 
 * **Virtues**: Omerta, Self-denial, Impersonal
 * Have a cover 
@@ -55,7 +55,7 @@ title: "Ikarnos of Raibanth"
    - The Emperor (Indefectible) 
    - Fazzur (Loyalty)
 
-# Diplomatica Scriptoriae (*Grimoire*)
+## Diplomatica Scriptoriae (*Grimoire*)
 
 (Subject to the lunar cycle)
 
@@ -64,7 +64,7 @@ title: "Ikarnos of Raibanth"
 * Understand any text 
 * Make people forget names
 
-# Lunar Charms (*Fetish*)
+## Lunar Charms (*Fetish*)
 
 (Subject to the lunar cycle)
 

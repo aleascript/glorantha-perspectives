@@ -10,7 +10,7 @@ title: "Fazia Hanout"
 * **Niveau de vie**: standard
 * **Équipement**: livres et effets d'érudite, outillage de cambrioleuse (crochets, corde, pince)
 
-# Runes
+## Runes
 
 <img src="/img/runes/darkness.png" width="10%" />
 
@@ -33,7 +33,7 @@ title: "Fazia Hanout"
 * Convaincre
 * Voler un voleur
 
-# Pavisite
+## Pavisite
 
 * Érudite roublarde
 * Rat de bibliothèque
@@ -41,7 +41,7 @@ title: "Fazia Hanout"
 * Connaissance de Pavis et de la Vieille Ville
 * **Vertus**: indépendance, débrouillardise, esprit marchand, méfiance envers l'Empire lunaire
 
-# Initiée du Grand Mystère
+## Initiée du Grand Mystère
 
 (Culte des voleurs de Pavis)
 

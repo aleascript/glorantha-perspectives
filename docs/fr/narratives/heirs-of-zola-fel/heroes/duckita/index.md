@@ -10,7 +10,7 @@ title: "Duckita"
 * **Niveau de vie**: pauvre
 * **Équipement**: fétiches de plumes
 
-# Runes
+## Runes
 
 <img src="/img/runes/water.png" width="10%" />
 
@@ -31,11 +31,11 @@ title: "Duckita"
 * « Voir » dans le noir
 * Invoquer une ombre
 
-# Durulz de la Passe du Dragon
+## Durulz de la Passe du Dragon
 
 * **Vertus**: survivre, méfiance envers les humains, fierté malgré la malédiction
 
-# Nageuse de l'Ombre
+## Nageuse de l'Ombre
 
 * Glisser entre les doigts
 * Très bonne ouïe

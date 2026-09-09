@@ -10,7 +10,7 @@ title: "Hanya of Jillaro"
 * **Standard of living**: average
 * **Equipment**: double-edged axe, bow, mercury armor (doesn't sink), horse (thoroughbred)
 
-# Runes
+## Runes
 
 ![Fire](/img/runes/fire.png)
 
@@ -30,7 +30,7 @@ title: "Hanya of Jillaro"
 * Cleaving axe blow
 * Committed (the Empire is in danger!)
 
-# Lunar (Sylila)
+## Lunar (Sylila)
 
 Celestial Pantheon
 
@@ -40,7 +40,7 @@ Celestial Pantheon
 
 * **Virtues**: opposes the Storm Pantheon, never harm the Goddess, the Emperor and the Empire, We are one, Tithe reversal, Can only be judged by an imperial tribunal.
 
-# Guardian of Jillaro
+## Guardian of Jillaro
 
 * Great axe combat (double-edged)
 * Forced march
@@ -58,7 +58,7 @@ Celestial Pantheon
     - the Fort of the Conquering Sister
     - some Silver Shields (regiment)
 
-# Novice of Hwarin Dalthippa
+## Novice of Hwarin Dalthippa
 
 (Magic subject to the lunar cycle)
 

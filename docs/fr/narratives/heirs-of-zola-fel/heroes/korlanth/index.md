@@ -10,7 +10,7 @@ title: "Korlanth La Chance"
 * **Niveau de vie**: pauvre
 * **Équipement**: outils de chantier et armes d'entraînement
 
-# Runes
+## Runes
 
 <img src="/img/runes/air.png" width="10%" />
 
@@ -32,7 +32,7 @@ title: "Korlanth La Chance"
 * Attirer la sympathie
 * Croire en son Destin
 
-# Exilé Sartarite
+## Exilé Sartarite
 
 * Jeune rebelle
 * Touche-à-tout (chantiers, manœuvres, maraudes)
@@ -44,7 +44,7 @@ title: "Korlanth La Chance"
     - Sa famille
     - Haine des Lunaires
 
-# Initié d'Orlanth
+## Initié d'Orlanth
 
 (Panthéon des Tempêtes)
 
