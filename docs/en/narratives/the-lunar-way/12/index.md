@@ -229,4 +229,3 @@ The two heroes join each other and embrace. Hanya explains everything that happe
 
 Indeed, he recognized in Hanya's vision the landscapes of Prax. It is logical, the ogres will probably try a new life there. It remains to determine whether they will or will not rejoin Jaridan and Peek especially with their project in mind. But that, that will be the rest of the story to tell...
 
-| [Previous](../11) | [Next](../13/) |

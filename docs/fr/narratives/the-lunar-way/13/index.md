@@ -124,4 +124,3 @@ Alors qu'un des jeunes semble sur le point de parler, soudain un autre l'arrête
 
 Le jeune se tait aussitôt et Peek n'en apprendra pas plus pendant cette nuit et se rend compte que finalement l'évasion risque d'être passablement compliquée si les trois jeunes ne lui font pas confiance et la croient même dans le camp ennemi et évidemment impossible d'en savoir plus sur leurs capacités qui pourraient être utiles pour faciliter l'opération. Les trois jeunes étant enchaînés, elle se trouve un coin éloigné d'eux pour dormir d'un oeil. 
 
-| [Précédent](../12) | [Suivant](../14/) |

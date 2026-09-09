@@ -106,4 +106,3 @@ We decided to depart at dawn the next day. Our group debated for quite some time
 
 In Jaridan's and my opinion, it seemed the route *shortest in distance*, but undoubtedly **the longest in time and the most dangerous above all!**
 
-| [Previous](../01) | [Next](../03/) |

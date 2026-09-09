@@ -150,4 +150,3 @@ Ikarnos: "tu as sans doute raison et merci de nous avoir sauvés."
 
 Mais il n'en pense pas moins et a bien l'intention d'en relater à Fazzur dès qu'il pourra retrouver un réseau d'informations à AldaChur. Hanya esquisse un merci également envers Peek.
 
-| [Précédent](../06) | [Suivant](../08/) |

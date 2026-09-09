@@ -141,4 +141,3 @@ Jaridan et Peek s'approche alors de la créature qui se relève difficilement et
 
 La créature semble hésiter alors que Peek a libéré l'esprit de la bête supérieure à l'homme et semble maintenant rayonner d'une aura en harmonie avec les bois alentours, mais sans doute la petite créature est-elle trop prudente ou trop affaiblie pour risquer un contact avec de tels géants et finalement elle s'envole de plus en plus haut et prise d'une soudaine accélération, elle file d'un coup dans la forêt profonde disparaissant de la vue de nos deux héros.
 
-| [Précédent](../14) | [Suivant](../16/) |

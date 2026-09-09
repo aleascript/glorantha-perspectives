@@ -124,4 +124,3 @@ While one of the young men seems about to speak, suddenly another stops him. "Do
 
 The young man falls silent immediately and Peek will not learn more during this night, realizing that the escape risks being quite complicated if the three young men do not trust her and even believe she is in the enemy camp and obviously impossible to learn more about their abilities which could be useful to facilitate the operation. The three young men being chained, she finds a corner away from them to sleep with one eye open.
 
-| [Previous](../12) | [Next](../14/) |

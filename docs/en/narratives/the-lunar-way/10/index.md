@@ -75,4 +75,3 @@ Peek and Jaridan leave, casting an eye at the winding road that snakes along the
 
 ![The cliff village](/img/narratives/the-lunar-way/10/flying-orlanthi.jpg)
 
-| [Previous](../09) | [Next](../11/) |

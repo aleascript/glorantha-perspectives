@@ -75,4 +75,3 @@ Peek et Jaridan repartent en jetant un oeil à la route sinueuse qui serpente le
 
 ![Le village de la falaise](/img/narratives/the-lunar-way/10/flying-orlanthi.jpg)
 
-| [Précédent](../09) | [Suivant](../11/) |

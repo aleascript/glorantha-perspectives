@@ -109,4 +109,3 @@ I decided to advance my pieces:
 
 We departed a few days later heading for the mountains, marching toward what was indicated on our maps as the **Falling Ruins** — the only passage allowing access to the *Dragon Pass* without having to bypass through the North.
 
-| [Previous](../02) | [Next](../04/) |

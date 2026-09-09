@@ -56,4 +56,3 @@ Peek declares: "you see Jaridan, I only believe what the great spirits whisper t
 
 ![Aldryami](/img/narratives/the-lunar-way/17/aldryami.jpg)
 
-| [Previous](../16) | [Next](../18/) |

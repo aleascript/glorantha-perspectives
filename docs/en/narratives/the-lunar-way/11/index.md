@@ -102,4 +102,3 @@ The robed Dwarf replies: "Deal then."
 
 *And so our two heroes find themselves embroiled in a mission with the Dwarves to recover one of their objects within the Apple Clan.*
 
-| [Previous](../10) | [Next](../12/) |

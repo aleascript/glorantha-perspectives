@@ -109,4 +109,3 @@ Je décidai d'avancer mes pions :
 
 Nous partîmes quelques jours plus tard en direction de la montagne, marchant vers ce qui était indiqué sur nos cartes comme les **Ruines Tombantes** — le seul passage permettant de rejoindre la *Passe du Dragon* sans avoir à contourner par le Nord.
 
-| [Précédent](../02) | [Suivant](../04/) |

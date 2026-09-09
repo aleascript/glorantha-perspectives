@@ -229,4 +229,3 @@ Jaridan manages to convince her that it would not be honorable to kill one of hi
 
 Then with authority, he takes Peek aside and prepares the departure in the middle of the night. The group separates to avoid killing each other. Ikarnos is worried. Without mounts, on foot, in territory hostile to the Empire this will not be simple but he may have a plan. The ogres fascinated him and in the end if Hanya returned to Dunstop to serve as an emissary for the ogres and make the latter allies for the Empire, what formidable allies they would be! After all, Broos are found in the ranks of the Empire, so why not Ogres and Hanya could have a role to play there.
 
-| [Previous](../08) | [Next](../10/) |

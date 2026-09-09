@@ -102,5 +102,4 @@ Le Nain en robe répond: "Marché conclu alors."
 
 *Et c'est ainsi que nos deux héros se retrouvent embarqués dans une mission avec les Nains pour récupérer un de leurs objets au sein du clan des Pommiers.*
 
-| [Précédent](../10) | [Suivant](../12/) |
 

@@ -142,4 +142,3 @@ Jaridan and Peek then approach the creature who rises with difficulty and flaps 
 
 The creature seems to hesitate while Peek has released the spirit beast superior to man and now seems to radiate an aura in harmony with the surrounding woods, but the small creature is perhaps too cautious or too weakened to risk contact with such giants and finally it flies higher and higher and with a sudden acceleration, it dashes deep into the forest disappearing from the sight of our two heroes.
 
-| [Previous](../14) | [Next](../16/) |

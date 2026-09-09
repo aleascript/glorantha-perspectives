@@ -158,4 +158,3 @@ Peek-ee-Peek se détendit et partagea avec nous une vieille histoire : comment, 
 Ikarnos flatta un peu l'orgueil de Peek-ee-Peek en lui laissant entendre qu'elle pourrait bien être l'une de ces héroïnes promises à changer le destin de tout un peuple. La soirée se termina ainsi dans une atmosphère nettement plus sereine qu'elle n'avait commencé.
 
 
-| [Précédent](../03) | [Suivant](../05/) |

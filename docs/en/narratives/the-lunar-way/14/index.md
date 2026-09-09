@@ -130,4 +130,3 @@ The men surround them. They are too numerous and too armed to attempt anything t
 
 We leave the heroes tied and disarmed, dragged by the Sartarite party through the heath to reach the clan's domain.
 
-| [Previous](../13) | [Next](../15/) |

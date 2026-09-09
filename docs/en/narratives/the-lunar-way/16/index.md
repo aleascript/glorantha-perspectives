@@ -124,4 +124,3 @@ Hanya casts a dark look at Jarindar but complies with Ikarnos's orders who leave
 
 Ikarnos finds the men's tracks in the mud. Wide strides, signs of fleeing. They head toward the village exit. Ikarnos thus passes the gate and finds himself at the fields. Exiles would not have risked treading the fields property of their Earth goddess Ernalda. He thus stays on the path and arrives in the wild lands around the clan and continues his pursuit.
 
-| [Previous](../15) | [Next](../17/) |

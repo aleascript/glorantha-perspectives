@@ -106,4 +106,3 @@ Nous décidâmes de partir à l'aube le lendemain. Notre groupe se divisa pas ma
 
 De l'avis de Jaridan et de moi-même, cela semblait être la route *la plus courte en distance*, mais assurément **la plus longue en temps et la plus dangereuse surtout !**
 
-| [Précédent](../01) | [Suivant](../03/) |

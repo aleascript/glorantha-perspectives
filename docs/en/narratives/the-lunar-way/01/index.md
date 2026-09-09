@@ -99,4 +99,3 @@ It was a **major defeat** for the attackers. The nomad tribes that had rushed to
 
 As for me, I came out alive but greatly weakened, my body marked by a few bloody abrasions and my mind emptied by a deep spiritual exhaustion from having called upon the Spirit of the Beast so much. Fta-Ah, exhausted by her exploits, is equally weakened. But what do our wounds matter: our victory at the Battle of Bullion-of-Moon remains absolute and historic.
 
-| [Previous](..) | [Next](../02/) |

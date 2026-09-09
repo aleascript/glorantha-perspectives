@@ -58,4 +58,3 @@ Peek déclare: "tu vois Jaridan, je ne crois que ce que les grands esprits me so
 
 ![Aldryami](/img/narratives/the-lunar-way/17/aldryami.jpg)
 
-| [Précédent](../16) | [Suivant](../18/) |

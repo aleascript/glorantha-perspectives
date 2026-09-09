@@ -130,4 +130,3 @@ Les hommes les entourent. Ils sont trop nombreux et trop armés pour tenter quel
 
 Nous quittons les héros attachés et désarmés trainés par la troupe sartarite à travers la lande pour rejoindre le domaine du clan. 
 
-| [Précédent](../13) | [Suivant](../15/) |

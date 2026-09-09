@@ -230,4 +230,3 @@ Les deux héros se rejoignent et se serrent dans les bras. Hanya lui explique to
 
 En effet, il a reconnu dans la vision d'Hanya les paysages de Prax. C'est logique, les ogres vont probablement tenter une nouvelle vie là-bas. Reste à déterminer s'ils vont ou non rejoindre Jaridan et Peek surtout avec leur projet en tête. Mais ça, ça sera la suite de l'histoire qui le dira...
 
-| [Précédent](../11) | [Suivant](../13/) |

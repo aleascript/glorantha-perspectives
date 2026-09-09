@@ -99,4 +99,3 @@ Ce fut une **défaite majeure** pour les assaillants. Les tribus de nomades qui 
 
 De mon côté, je m'en sors vivante mais grandement affaiblie, le corps marqué par quelques écorchures sanglantes et l'esprit vidé par une profonde fatigue spirituelle pour avoir tant sollicité l'Esprit de la Bête. Fta-Ah, épuisée par ses prouesses, est tout aussi affaiblie. Mais qu'importe nos blessures : notre victoire lors de la Bataille du Bouillon-de-Lune reste absolue et historique.
 
-| [Précédent](..) | [Suivant](../02/) |

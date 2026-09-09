@@ -186,4 +186,3 @@ Ils se trouvent en bas de la falaise au début d'une grande plaine. Ils regarden
 Jaridan murmure: "on dit que ces statues peuvent s'animer pour défendre l'entrée. Brrrr, je n'aimerais pas être face à de tels colosses en mouvement."
 
 
-| [Précédent](../05) | [Suivant](../07/) |

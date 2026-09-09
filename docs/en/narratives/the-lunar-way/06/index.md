@@ -186,4 +186,3 @@ They find themselves at the bottom of the cliff at the beginning of a great plai
 Jaridan whispers: "they say these statues can animate to defend the entrance. Brrrr, I would not want to face such colossi in motion."
 
 
-| [Previous](../05) | [Next](../07/) |

@@ -150,4 +150,3 @@ Ikarnos: "you are probably right and thank you for saving us."
 
 But he thinks otherwise and intends to report it to Fazzur as soon as he can find an information network in AldaChur. Hanya also offers a thank you toward Peek.
 
-| [Previous](../06) | [Next](../08/) |

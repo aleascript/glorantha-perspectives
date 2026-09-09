@@ -156,4 +156,3 @@ Peek-ee-Peek relaxed and shared with us an old story: how, several centuries ago
 Ikarnos flattered Peek-ee-Peek's pride a bit, hinting that she might well be one of those heroines destined to change the destiny of an entire people. The evening ended in a much more serene atmosphere than it had begun.
 
 
-| [Previous](../03) | [Next](../05/) |
