@@ -2,6 +2,8 @@
 title: "Korlanth Lucky"
 ---
 
+# Korlanth Lucky
+
 > "I believe in my Destiny"
 
 ![Korlanth](/img/narratives/heirs-of-zola-fel/heroes/korlanth.jpg)

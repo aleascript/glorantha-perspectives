@@ -2,6 +2,8 @@
 title: "Fazia Hanout"
 ---
 
+# Fazia Hanout
+
 > "Stealing from a thief isn't theft, is it?"
 
 ![Fazia](/img/narratives/heirs-of-zola-fel/heroes/fazia.jpg)

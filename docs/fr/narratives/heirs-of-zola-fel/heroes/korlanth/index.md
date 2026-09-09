@@ -2,6 +2,8 @@
 title: "Korlanth La Chance"
 ---
 
+# Korlant La Chance
+
 > "Je crois en mon Destin"
 
 ![Korlanth](/img/narratives/heirs-of-zola-fel/heroes/korlanth.jpg)

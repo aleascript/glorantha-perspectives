@@ -2,6 +2,8 @@
 title: "Fazia Hanout"
 ---
 
+# Fazia Hanout
+
 > "Voler un voleur, ce n'est pas du vol, non ?"
 
 ![Fazia](/img/narratives/heirs-of-zola-fel/heroes/fazia.jpg)

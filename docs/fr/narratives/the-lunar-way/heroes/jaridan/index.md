@@ -2,6 +2,8 @@
 title: "Jaridan"
 ---
 
+# Jaridan
+
 > "La guerre n'est jamais bonne pour le commerce"
 
 ![Jaridan](/img/narratives/the-lunar-way/heroes/jaridan/jaridan.jpg)

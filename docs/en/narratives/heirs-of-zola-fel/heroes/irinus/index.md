@@ -2,6 +2,8 @@
 title: "Irinus Solantis"
 ---
 
+# Irinus Solantis
+
 > "Organized war with rules, not butchery"
 
 ![Irinus](/img/narratives/heirs-of-zola-fel/heroes/irinus.jpg)

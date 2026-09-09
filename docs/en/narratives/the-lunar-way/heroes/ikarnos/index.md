@@ -2,6 +2,8 @@
 title: "Ikarnos of Raibanth"
 ---
 
+# Ikarnos of Raibanth
+
 > "The Lunar Way will triumph inevitably"
 
 ![Ikarnos](/img/narratives/the-lunar-way/heroes/ikarnos/ikarnos.jpg)

@@ -2,6 +2,8 @@
 title: "Irinus Solantis"
 ---
 
+# Irinus Solantis
+
 > "Guerre organisée avec des règles, pas la boucherie"
 
 ![Irinus](/img/narratives/heirs-of-zola-fel/heroes/irinus.jpg)

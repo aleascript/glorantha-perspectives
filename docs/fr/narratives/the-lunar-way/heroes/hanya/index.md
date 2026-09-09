@@ -2,6 +2,8 @@
 title: "Hanya de Jillaro"
 ---
 
+# Hanya de Jillaro
+
 > "Il faut aider la Déesse et préserver la civilisation"
 
 ![Hanya](/img/narratives/the-lunar-way/heroes/hanya/hanya.jpg)
