@@ -12,18 +12,18 @@ title: "Peek-ee-peek"
 
 # Runes
 
-<img src="/img/runes/moon.png" width="10%" />
+![Lune](/img/runes/moon.png)
 
 * Sentiment de supériorité
 * Curieuse
 
-<img src="/img/runes/death.png" width="10%" />
+![Mort](/img/runes/death.png)
 
 * Flèche sûre
 * Avis tranchés
 * Impulsive
 
-<img src="/img/runes/spirits.png" width="10%" />
+![Esprits](/img/runes/spirits.png)
 
 * Sensible
 * Ressentir, voir les esprits
