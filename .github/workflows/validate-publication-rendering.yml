@@ -1,0 +1,51 @@
+name: Validate publication rendering
+
+on:
+  push:
+    branches:
+      - refactor/player-guide-docusaurus
+    paths:
+      - .github/workflows/validate-publication-rendering.yml
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build publications
+        run: |
+          set -o pipefail
+          npm run publication:build 2>&1 | tee publication-build.log
+          if grep -qE '404.*http://localhost:[0-9]+/img/' publication-build.log; then
+            echo 'Vivliostyle reported missing /img assets'
+            exit 1
+          fi
+
+      - name: Check dice adaptation
+        run: |
+          if grep -R -n '🎲' .publication-workspace/the-lunar-way; then
+            echo 'Raw dice emoji remains in the Vivliostyle workspace'
+            exit 1
+          fi
+          grep -R -q '/img/publication/dice.svg' .publication-workspace/the-lunar-way
+          test -s dist/publications/the-lunar-way-fr.pdf
+          test -s dist/publications/the-lunar-way-en.pdf
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: publication-rendering-check
+          path: |
+            dist/publications/the-lunar-way-fr.pdf
+            dist/publications/the-lunar-way-en.pdf
+          if-no-files-found: error
