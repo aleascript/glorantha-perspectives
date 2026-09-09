@@ -12,26 +12,26 @@ title: "Mysticism: Illumination"
 
 > In adversity, one draws from inner calm, not to struggle, but to observe how our will and the world will intertwine and transform.
 
-- We count the number of successes of a logical [camp](../bets) as follows:
+- We count the number of successes of a logical [vision](../bets) as follows:
     - We count the even numbers
     - 1s can make the opponent's 6s disappear and disappear at the same time. A failure can therefore be a tremendous success.
 
 **Power modes**
 
-- **Weakened** mode: you must remove two 1s from your camp to remove one 6 from the other camp.
+- **Weakened** mode: you must remove two 1s from your vision to remove one 6 from the other vision.
 - **Heroic** mode: the mystic chooses between
     - gaining as many bets as their opponent (without needing to provide justification for this)
-    - placing their bets normally but after the draw, the 1s may take any die from the other side (generally the highest possible evens, but it could be high odds to counter a logician and confront them with their vanity) and transform by taking the value of the die taken from the other camp.
+    - placing their bets normally but after the draw, the 1s may take any die from the other side (generally the highest possible evens, but it could be high odds to counter a logician and confront them with their vanity) and transform by taking the value of the die taken from the other vision.
 
 **Comments**
 
-It is the only worldview that can act on the opponent's camp. And that is very unsettling, hence the underlying illumination.
+It is the only worldview that can act on the opponent's vision. And that is very unsettling, hence the underlying illumination.
 
 When a mystic faces adversity, they distinguish what is favorable or can act as a lever from what is unfavorable or must remain in the background. They also distinguish what can mutate and generate a transformation.
 
 The famous mystical paradoxes and the annihilation of duality!
 
-The cancellation of the opponent's 6s happens *after* they have completed their full draw — including all rerolls. The theist has genuinely experienced the divine invocation and felt a support aligned with their faith. The mystic does not deny this experience: they merely reveal it *a posteriori* as a layer of illusion that their insight transcends. This is why the cancellation is resolved at the comparison stage, not during the opponent's roll. On a practical level, it also allows each camp to resolve their draw independently.
+The cancellation of the opponent's 6s happens *after* they have completed their full draw — including all rerolls. The theist has genuinely experienced the divine invocation and felt a support aligned with their faith. The mystic does not deny this experience: they merely reveal it *a posteriori* as a layer of illusion that their insight transcends. This is why the cancellation is resolved at the comparison stage, not during the opponent's roll. On a practical level, it also allows each vision to resolve their draw independently.
 
 It is a mystical opposition. After a while, you can no longer reduce or see new transformations. It is the ultimate synthesis that represents the heart of the manifestation.
 

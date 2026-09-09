@@ -1,37 +1,37 @@
 ---
-title: "Reflections on camps and bets"
+title: "Reflections on visions and bets"
 ---
 
 ![Destin](/img/runes/fate.png)
 
-### Hybrid camp
+### Hybrid visions
 
-A camp can be built from multiple worldviews.
+A pool can be built from multiple worldviews.
 
 This is the case when the opposition involves several characters with different worldviews.
 
-For a character who has integrated multiple worldviews, depending on the chosen strategy, one worldview will be selected over another rather than using a hybrid camp, even though it remains possible.
+For a character who has integrated multiple worldviews, depending on the chosen strategy, one worldview will be selected over another rather than using a hybrid vision, even though it remains possible.
 
-### More than two camps?
+### More than two visions?
 
-The majority of resolutions break down into two camps.
+The majority of resolutions break down into two visions.
 
-However, nothing prevents imagining an opposition with N camps.
+However, nothing prevents imagining an opposition with N visions.
 
 Then you interpret based on a cross-reading of differences.
 
-### Archetype camps?
+### Archetype visions?
 
 If determining bets feels tedious at a given moment and you just want a simple test, run a **2D vs 2D** contest: innate/acquired vs innate/acquired, or asset/handicap vs asset/handicap.
 
 Or **3D vs 3D** with a reading grid like this:
 
-**Protagonist Camp (3D)**
+**Protagonist Vision (3D)**
 - Die 1: The Body (The Innate) The character's raw nature, their people, their physical strength or instinct.
 - Die 2: The Spirit (The Acquired) Their technique, their training, the tool or weapon in hand.
 - Die 3: The Soul (The Sacred / The Runes) The character's resonance with the situation.
 
-**Obstacle Camp (3D)**
+**Obstacle Vision (3D)**
 - Die 1: Stasis (Matter) The raw resistance of the obstacle (the height of a wall, the hardness of a rock, the innate vigilance of a guard).
 - Die 2: Movement/Disorder (Friction) External circumstances that complicate the task (rain making the wall slippery, the clamor of a crowd, the urgency of pressing time).
 - Die 3: Shadow (Myth / Taboo) The invisible opposition (the spirit of the place refusing to be disturbed, a religious taboo weighing on the action, or the opposing Rune of the scene pushing toward failure).
@@ -40,11 +40,11 @@ The 2D or 3D examples above are just examples.
 
 > Any dyad or triad carrying a Gloranthan meaning is welcome to explore.
 
-### Runic camps?
+### Runic visions?
 
 It would even be tempting to ask players to associate a rune with each bet.
 
-With the restriction of not being able to place more than one bet for the same rune within a given camp.
+With the restriction of not being able to place more than one bet for the same rune within a given vision.
 
 But this requires in-depth knowledge of runes and the ability to quickly associate a bet with a rune, which is perhaps less trivial than bets without runic association.
 

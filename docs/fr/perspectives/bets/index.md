@@ -1,18 +1,18 @@
 ---
-title: Camps et Mises
+title: Visions et Mises
 ---
 
-# Camps et Mises
+# Visions et Mises
 
 Une résolution sert à trancher une issue **possible, importante et réellement incertaine**. Si l'action est impossible dans le monde, il n'y a rien à lancer. Si son résultat ne fait aucun doute, la fiction avance simplement.
 
 Quand une résolution est nécessaire, commencez par regarder la Situation.
 
-## 1. Définir les camps et leurs Intentions
+## 1. Définir les Visions et leurs Intentions
 
-Chaque camp cherche quelque chose de concret.
+Chaque vision cherche quelque chose de concret.
 
-Avant de prendre les dés, dites ce que chacun veut obtenir. Deux camps peuvent vouloir des choses directement opposées, mais ce n'est pas obligatoire : un voyageur peut lutter contre une tempête, un mystique contre sa propre peur, une communauté contre une famine.
+Avant de prendre les dés, dites ce que chacun veut obtenir. Deux visions peuvent vouloir des choses directement opposées, mais ce n'est pas obligatoire : un voyageur peut lutter contre une tempête, un mystique contre sa propre peur, une communauté contre une famine.
 
 Pour une Force ou un obstacle qui n'est pas porté comme Protagoniste, le **Temps** porte ce qui pousse la Situation dans l'autre sens.
 
@@ -90,7 +90,7 @@ Quand personne ne voit immédiatement une autre vérité pertinente qui ne rép�
 
 ## 4. Un pool peut être vide
 
-Un camp peut ne recevoir aucune Mise. Son pool contient alors **zéro dé**.
+Une vision peut ne recevoir aucune Mise. Son pool contient alors **zéro dé**.
 
 Ni l'Intention ni le simple fait d'exister dans la résolution ne fournissent un dé implicite. Il n'y a pas de « dé de base ».
 
@@ -114,11 +114,11 @@ Un humain ordinaire ne tue pas un Dragon avec un cure-dent en accumulant suffisa
 
 Elle cadre honnêtement ce qui reste possible : survivre, le repousser, atteindre une faiblesse, accomplir une étape nécessaire ou transformer la Situation.
 
-Lorsque le cadre rend un camp nettement plus ou moins puissant sans fermer complètement l'action, les modes **affaibli** ou **héroïque** peuvent être utilisés quand la règle de la Vision du monde concernée le prévoit.
+Lorsque le cadre rend une vision nettement plus ou moins puissant sans fermer complètement l'action, les modes **affaibli** ou **héroïque** peuvent être utilisés quand la règle de la Vision du monde concernée le prévoit.
 
 ## 6. Lancer selon la Vision du monde
 
-Une fois les Mises retenues, chaque camp lance son pool.
+Une fois les Mises retenues, chaque vision lance son pool.
 
 La manière de le lire dépend de sa **Vision du monde** :
 
@@ -137,9 +137,9 @@ Le lieu peut changer cette lecture. Escalader une montagne ordinaire n'est pas l
 
 ## 7. Comparer les Réussites
 
-Le camp qui obtient le plus de Réussites l'emporte sur la question que le Focus devait trancher.
+La vision qui obtient le plus de Réussites l'emporte sur la question que le Focus devait trancher.
 
-- **Victoire / Défaite** : un camp obtient plus de Réussites que l'autre ;
+- **Victoire / Défaite** : une vision obtient plus de Réussites que l'autre ;
 - **Statu quo** : égalité ;
 - **Exploit / Fiasco possibles** : le résultat est dominé.
 
@@ -158,7 +158,7 @@ Exemples :
 
 La domination rend une amplification disponible : le vainqueur peut accomplir un **Exploit** et le perdant peut subir un **Fiasco**. Les deux ne sont pas automatiquement symétriques ; la fiction décide ce que cette amplification signifie de chaque côté.
 
-En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque camp qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
+En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque vision qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
 
 ## 8. Interpréter ce qui vient d'arriver
 
@@ -182,7 +182,7 @@ La **Jauge de Destin** est un outil optionnel, commun à la table, qui garde la 
 
 Elle contient des dés de deux couleurs : une couleur pour les Protagonistes, une pour l'adversité. Des dés de couleurs opposées s'annulent.
 
-Avant le tirage, lorsque les pools sont inégaux, ajoutez à la Jauge la différence en faveur du camp actuellement désavantagé. **Ces dés ne modifient pas la résolution en cours.**
+Avant le tirage, lorsque les pools sont inégaux, ajoutez à la Jauge la différence en faveur de la vision actuellement désavantagée. **Ces dés ne modifient pas la résolution en cours.**
 
 Exemple : les Protagonistes ont 5 Mises et l'adversité 3. La résolution reste à **5 contre 3**, mais la Jauge reçoit **2 dés d'adversité**. Ils pourront être dépensés plus tard lorsqu'une difficulté cohérente avec la fiction se présente, selon l'autorité convenue par la table.
 

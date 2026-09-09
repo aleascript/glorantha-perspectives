@@ -31,7 +31,7 @@ Avant le tirage, nommez les principales étapes.
 
 Rassemblez ensuite les Mises qui comptent pour traverser l'ensemble du Script et procédez à la résolution normalement.
 
-Si le camp protagoniste échoue, le nombre de réussites obtenues peut aider à situer jusqu'où il est allé avant que quelque chose ne rompe le plan. Une réussite peut correspondre à une étape franchie lorsque cette lecture est adaptée à la Situation.
+Si la vision protagoniste échoue, le nombre de réussites obtenues peut aider à situer jusqu'où il est allé avant que quelque chose ne rompe le plan. Une réussite peut correspondre à une étape franchie lorsque cette lecture est adaptée à la Situation.
 
 En cas de réussite, le Script va jusqu'au bout ; la qualité de cette réussite et les Mises présentes indiquent comment.
 

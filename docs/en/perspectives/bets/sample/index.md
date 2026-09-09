@@ -28,8 +28,8 @@ The rules explain that certain factors are "framework factors" that are so impac
 To determine the narratively valid bets, the method consists of cross-referencing favorable and unfavorable factors based on each party's objectives.
 **Definition of objectives:**
 
-- **Camp A (Kallyr):** Wants to obtain the relic to protect the clan.
-- **Camp B (Yanela / The Obstacle):** Wants to preserve the relic in its protective stasis within the temple.
+- **Vision A (Kallyr):** Wants to obtain the relic to protect the clan.
+- **Vision B (Yanela / The Obstacle):** Wants to preserve the relic in its protective stasis within the temple.
 
 **Determination of bets:**
 - **Pro-Kallyr factors:**
@@ -49,7 +49,7 @@ To determine the narratively valid bets, the method consists of cross-referencin
 
 We thus end up with a resolution of 4 bets versus 4 bets.
 
-Once the bets are set, we forget the mental link between the bet (the die) and the factor that created it. We can proceed with the draw and then only care about the final number of successes of each camp. Both camps being Theists, both will roll their 4 dice looking for even numbers and explosive 6s, to see toward which destiny the Gods will tip the scales.
+Once the bets are set, we forget the mental link between the bet (the die) and the factor that created it. We can proceed with the draw and then only care about the final number of successes of each vision. Both visions being Theists, both will roll their 4 dice looking for even numbers and explosive 6s, to see toward which destiny the Gods will tip the scales.
 
 > Note: it was also entirely possible to play the opposition in a graduated manner: 1 argument against 1 argument. So in our case, there would be 3 draws to make a priori. The result of each argumentation could then influence the following draw based on the result, with 1D for the winner for the next confrontation of arguments. It takes longer. It is up to you to decide which gameplay you prefer.
 

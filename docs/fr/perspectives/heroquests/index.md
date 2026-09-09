@@ -20,7 +20,7 @@ Chaque étape devient une Situation à part entière.
 
 Les Protagonistes savent parfois ce que le mythe attend d'eux. Cela ne signifie pas qu'ils savent exactement ce qui va arriver, ni qu'ils sont obligés de reproduire chaque geste sans réfléchir.
 
-Quand une étape contient une véritable incertitude, utilisez les règles habituelles de [Camps et Mises](../bets/). Les vérités du mythe, les rôles endossés, les objets sacrés, les relations et les écarts déjà commis peuvent tous compter.
+Quand une étape contient une véritable incertitude, utilisez les règles habituelles de [Visions et Mises](../bets/). Les vérités du mythe, les rôles endossés, les objets sacrés, les relations et les écarts déjà commis peuvent tous compter.
 
 ## Suivre ou quitter le chemin
 

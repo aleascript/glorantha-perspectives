@@ -12,7 +12,7 @@ title: "The Logic of the Invisible God"
 
 > Facing a problem, we simply align our knowledge and resources, and measure with precision whether the sum of our strengths surpasses what stands in our way.
 
-- We count the number of successes of a logical [camp](../bets) as follows:
+- We count the number of successes of a logical [vision](../bets) as follows:
     - We sum and divide by 5. The result is the number of whole 5s.
 
 **Power modes**
@@ -32,6 +32,6 @@ Somewhat like animists, preparation is important to maximize their chances and h
 
 The number 5 was often justified by the 5 elements (excluding the Moon) or associated with the 5 fingers of man seen as a creative being.
 
-The heroic mode is gradual. This is not surprising from Logicians who are always seeking efficiency. It is safe to bet that Zzabur reached the stage where one divided the camp's score by 1 or 2.
+The heroic mode is gradual. This is not surprising from Logicians who are always seeking efficiency. It is safe to bet that Zzabur reached the stage where one divided the vision's score by 1 or 2.
 
 It is probably the only mode in which you can keep the dice, which in this case truly represent a logical object of quantification.

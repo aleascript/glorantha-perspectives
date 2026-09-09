@@ -19,7 +19,7 @@ Puis cherchez les **motifs complexes** :
 - **Stase de l'Œuf** : plusieurs dés montrent la même valeur ;
 - **Ouroboros** : le tirage contient à la fois un 1 et un 8.
 
-Pour chaque motif complexe, le joueur qui porte le camp draconique choisit entre **Wyrm** et **Utuma**.
+Pour chaque motif complexe, le joueur qui porte la vision draconique choisit entre **Wyrm** et **Utuma**.
 
 ![Dés draconiques](/img/rules/draconic-dice.png)
 

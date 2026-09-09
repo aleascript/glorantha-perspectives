@@ -28,8 +28,8 @@ Les règles expliquent que certains facteurs sont des "facteurs cadre" qui sont 
 Pour déterminer les mises valables de manière narrative, la méthode consiste à croiser les facteurs favorables et défavorables en fonction des objectifs de chacun.
 **Définition des objectifs :**
 
-- **Camp A (Kallyr) :** Veut obtenir la relique pour protéger le clan.
-- **Camp B (Yanela / L'Obstacle) :** Veut préserver la relique dans sa stase protectrice au sein du temple.
+- **Vision A (Kallyr) :** Veut obtenir la relique pour protéger le clan.
+- **Vision B (Yanela / L'Obstacle) :** Veut préserver la relique dans sa stase protectrice au sein du temple.
 - 
 **Détermination des mises :**
 - **Facteurs pro-Kallyr :**
@@ -49,7 +49,7 @@ Pour déterminer les mises valables de manière narrative, la méthode consiste 
 
 On se retrouve donc avec une résolution de 4 mises contre 4 mises.
 
-Une fois les mises posées, on oublie le le lien mental entre la mise (le dé) et le facteur qui l'a créé. On peut procéder au tirage et on ne s'intéresse alors  qu'au nombre de réussites finales de chaque camp. Les deux camps étant Théistes, les deux lanceront leurs 4 dés en cherchant les chiffres pairs et les 6 explosifs, pour voir vers quel destin les Dieux feront pencher la balance.
+Une fois les mises posées, on oublie le le lien mental entre la mise (le dé) et le facteur qui l'a créé. On peut procéder au tirage et on ne s'intéresse alors  qu'au nombre de réussites finales de chaque vision. Les deux visions étant Théistes, les deux lanceront leurs 4 dés en cherchant les chiffres pairs et les 6 explosifs, pour voir vers quel destin les Dieux feront pencher la balance.
 
 > Note: il était aussi tout a fait possible de jouer l'opposition de manière graduelle: 1 argument contre 1 argument.  Donc dans notre cas, il y aurait 3 tirages a faire a priori. Le résultat de chaque argumentation pourrait influencer alors le tirage suivant en fonction du résultat avec 1D pour le vainqueur pour la prochaine confrontation d’arguments. C'est plus long. A vous de voir ce que vous préférez comme gameplay. 
 

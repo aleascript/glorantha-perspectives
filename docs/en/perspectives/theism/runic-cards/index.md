@@ -10,4 +10,4 @@ One could replace the bets with a deck of cards containing:
 - 2/6 with nothing or neutral runes (for 3s and 5s)
 - 1/6 of the rune most opposed to the God (for 1s)
 
-You would need many cards to prevent "cheating" and also to avoid having to reshuffle each time you seek runic support. Number to plan for: 60 provides equivalent coverage for camps of 10 bets (there are indeed 10 of each element). The divine explosion is slightly contained but it is statistically negligible.
+You would need many cards to prevent "cheating" and also to avoid having to reshuffle each time you seek runic support. Number to plan for: 60 provides equivalent coverage for pools of 10 bets (there are indeed 10 of each element). The divine explosion is slightly contained but it is statistically negligible.

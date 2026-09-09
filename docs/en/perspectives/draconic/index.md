@@ -19,7 +19,7 @@ The dice draw reveals how the dragonewt integrates into reality or if they decid
 
 Draconic bets are represented by D8s.
 
-- We count the number of successes of a draconic [camp](../bets) as follows:
+- We count the number of successes of a draconic [vision](../bets) as follows:
     - **Materialism (The Standardized Action):** Every even die (2, 4, 6, 8) counts as a success with no negative spiritual consequence.
 - **The Draconic Rend:** If the draw reveals patterns of alteration beyond the norm, a strict decision must be made for *each* complex pattern identified:
     - **The Egg's Stasis:** Dice showing identical values (doubles, triples,...).
@@ -30,7 +30,7 @@ Draconic bets are represented by D8s.
     - **The Wyrm:** The complex pattern can be converted into a success. And that will allow winning the opposition in addition to the materialist successes. But as a consequence, the dragonewt forces the world with the Auld Wyrmish and becomes anchored in it. They are obligatorily given a new *link* or *negative attachment*. They win the material conflict but regress spiritually.
     - **The Utuma (The Sacrifice):** They choose to ignore the advantage of the Auld Wyrmish to maintain their spiritual evolution. In case of death, they will likely gain a higher stage upon their next incarnation.
 
-> Note: in case of an abstract, non-draconic obstacle, thus a mirror of the draconic character, the opposing camp will have no scruples about playing the Wyrm.
+> Note: in case of an abstract, non-draconic obstacle, thus a mirror of the draconic character, the opposing vision will have no scruples about playing the Wyrm.
 
 **Power modes**
 

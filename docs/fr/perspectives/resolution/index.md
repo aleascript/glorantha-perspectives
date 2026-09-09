@@ -11,7 +11,7 @@ La procédure complète tient en huit étapes.
 
 ## 1. Dire les Intentions
 
-Que cherche réellement chaque camp ?
+Que cherche réellement chaque vision ?
 
 Une **Intention** n'est pas une action de menu ni le nom d'une capacité. C'est ce qu'un Protagoniste, une Force ou une autre direction de la Situation cherche à obtenir.
 
@@ -60,13 +60,13 @@ Vérifiez deux choses :
 
 Un pool peut contenir **zéro dé**. Il n'existe aucun dé de base implicite. Une résolution 0 / N est valide ; un 0 / 0 signale qu'il faut revenir au cadrage plutôt que lancer des dés qui ne représentent rien.
 
-Voir [Camps et Mises](../bets/).
+Voir [Visions et Mises](../bets/).
 
 ## 7. Tirer et lire selon la Vision du monde
 
-Chaque camp lance son pool, puis lit ses dés selon sa **Vision du monde**.
+Chaque vision lance son pool, puis lit ses dés selon sa **Vision du monde**.
 
-Un obstacle sans Vision du monde propre peut utiliser le mode **Miroir** ou le **Monde médian** décrit dans [Camps et Mises](../bets/).
+Un obstacle sans Vision du monde propre peut utiliser le mode **Miroir** ou le **Monde médian** décrit dans [Visions et Mises](../bets/).
 
 Comparez ensuite le nombre de Réussites.
 
