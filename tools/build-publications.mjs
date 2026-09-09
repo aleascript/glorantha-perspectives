@@ -106,6 +106,14 @@ function publicationThemeOverrides(localeConfig) {
   const toc = localeConfig.toc ?? {};
   const rules = [];
 
+  if (toc.skipFirstDocument === true) {
+    rules.push(`
+nav[role='doc-toc'] > ol > li:first-child {
+  display: none;
+}
+`);
+  }
+
   if (toc.numbered === false) {
     rules.push(`
 nav[role='doc-toc'] ol {
@@ -211,7 +219,7 @@ async function preparePublication(publicationName, publication, locale, localeCo
     language: locale,
     size: publication.size ?? 'A4',
     entry: [
-      ...(coverEntry ? [{path: coverEntry, rel: 'cover'}] : []),
+      ...(coverEntry ? [coverEntry] : []),
       {rel: 'contents'},
       ...entries,
     ],
