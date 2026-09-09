@@ -4,8 +4,6 @@ title: "Les Héritiers de Zola Fel"
 
 Exploration de la campagne de Multisim sortie en 2001 pour HeroWars, librement adaptée. 
 
-**Télécharger le PDF consolidé : [les-heritiers-de-zola-fel.pdf](les-heritiers-de-zola-fel.pdf)**
-
 # Prémisse
 
 C’est l’histoire de Fazia, qui a volé à des aventuriers revenant de la Grande Ruine, une carte du mythique Canal-Puzzle. Mais voler des voleurs, c’est pas vraiment voler hein? 
@@ -24,7 +22,3 @@ Ha j’oubliais, c’est aussi l’histoire de Korlanth dit La Chance qui pourri
 - [Fazia Hanout, jeune érudite roublarde](heroes/fazia)
 - [Duckita, Durulz, Nageuse de l'Ombre](heroes/duckita)
 - [Korlanth La Chance, jeune Orlanthi](heroes/korlanth)
-
-# Les autres
-
-Ils sont regroupés dans un [glossaire](others) par ordre alphabétique.

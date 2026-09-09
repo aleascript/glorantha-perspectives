@@ -88,7 +88,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: t('Porter le Temps', 'Carrying Time'),
+      label: t('Le Temps', 'Time'),
       link: {type: 'doc', id: 'facilitating/index'},
       items: [
         'facilitating/generating-bonds/index',

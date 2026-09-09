@@ -4,8 +4,6 @@ title: "The Heirs of Zola Fel"
 
 Exploration of the Multisim campaign released in 2001 for HeroWars, freely adapted.
 
-**Download the consolidated PDF: [les-heritiers-de-zola-fel.pdf](les-heritiers-de-zola-fel.pdf)**
-
 # Premise
 
 This is the story of Fazia, who stole a map of the mythical Puzzle Canal from adventurers returning from the Big Rubble. But stealing from thieves isn't really stealing, right?
@@ -24,7 +22,3 @@ Oh, I almost forgot, it's also the story of Korlanth called Lucky, who is curren
 - [Fazia Hanout, young rogue scholar](heroes/fazia)
 - [Duckita, Durulz, Shadow Swimmer](heroes/duckita)
 - [Korlanth Lucky, young Orlanthi](heroes/korlanth)
-
-# The others
-
-They are gathered in a [glossary](others) in alphabetical order.
