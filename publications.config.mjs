@@ -62,6 +62,10 @@ const lunarWayToc = {
 };
 
 export default definePublications({
+  site: {
+    publicUrl: 'https://aleascript.github.io/glorantha-perspectives',
+    defaultLocale: 'fr',
+  },
   release: {
     initialVersion: '0.1.0',
   },

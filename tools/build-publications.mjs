@@ -8,6 +8,7 @@ import config from '../publications.config.mjs';
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const workRoot = path.join(projectRoot, '.publication-workspace');
 const outputRoot = path.join(projectRoot, 'dist', 'publications');
+const knownDocsByLocale = new Map();
 
 function resolvePublicationVersion() {
   const explicit = process.env.PUBLICATION_VERSION?.trim();
@@ -60,13 +61,247 @@ function ensureDocumentTitleHeading(markdown) {
   return `${markdown.slice(0, insertionPoint)}\n# ${title}\n${markdown.slice(insertionPoint)}`;
 }
 
-function adaptPublicationMarkdown(markdown, locale) {
+function normalizeRepoPath(value) {
+  return value.split(path.sep).join('/');
+}
+
+function splitHref(href) {
+  const match = href.match(/^([^?#]*)([?#][\s\S]*)?$/);
+  return match
+    ? {pathname: match[1], suffix: match[2] ?? ''}
+    : {pathname: href, suffix: ''};
+}
+
+function hasExternalScheme(href) {
+  return /^[A-Za-z][A-Za-z0-9+.-]*:/.test(href) || href.startsWith('//');
+}
+
+async function collectMarkdownDocs(locale) {
+  if (knownDocsByLocale.has(locale)) return knownDocsByLocale.get(locale);
+
+  const localeRoot = path.join(projectRoot, 'docs', locale);
+  const docs = new Set();
+
+  async function walk(directory) {
+    for (const entry of await fs.readdir(directory, {withFileTypes: true})) {
+      const absolute = path.join(directory, entry.name);
+      if (entry.isDirectory()) {
+        await walk(absolute);
+      } else if (/\.mdx?$/.test(entry.name)) {
+        docs.add(normalizeRepoPath(path.relative(projectRoot, absolute)));
+      }
+    }
+  }
+
+  await walk(localeRoot);
+  knownDocsByLocale.set(locale, docs);
+  return docs;
+}
+
+function canonicalDocTarget(href, sourcePath, locale, knownDocs) {
+  if (!href || href.startsWith('#') || hasExternalScheme(href)) return null;
+
+  const {pathname: rawPath, suffix} = splitHref(href);
+  if (!rawPath) return null;
+
+  let decodedPath = rawPath;
+  try {
+    decodedPath = decodeURIComponent(rawPath);
+  } catch {
+    // Keep malformed percent-encoding untouched; Docusaurus will report it separately.
+  }
+
+  const localeRoot = `docs/${locale}`;
+  const base = decodedPath.startsWith('/')
+    ? localeRoot
+    : path.posix.dirname(sourcePath);
+  const relativeTarget = decodedPath.startsWith('/')
+    ? decodedPath.replace(/^\/+/, '')
+    : decodedPath;
+  const resolved = path.posix.normalize(path.posix.join(base, relativeTarget));
+  const stem = resolved.replace(/\/+$/, '');
+  const extension = path.posix.extname(stem);
+  const candidates = [];
+
+  if (extension === '.md' || extension === '.mdx') {
+    candidates.push(stem);
+  } else if (!extension) {
+    if (decodedPath.endsWith('/') || decodedPath === '.' || decodedPath === '..') {
+      candidates.push(path.posix.join(stem, 'index.md'));
+      candidates.push(`${stem}.md`);
+    } else {
+      candidates.push(`${stem}.md`);
+      candidates.push(path.posix.join(stem, 'index.md'));
+    }
+  }
+
+  const target = candidates.find((candidate) => knownDocs.has(candidate));
+  return target ? {target, suffix} : null;
+}
+
+function siteHrefForDoc(target, suffix, locale) {
+  const site = config.site ?? {};
+  const publicUrl = site.publicUrl?.replace(/\/+$/, '');
+  if (!publicUrl) {
+    throw new Error('publications.config.mjs must define site.publicUrl');
+  }
+
+  const localeRoot = `docs/${locale}`;
+  let route = path.posix.relative(localeRoot, target);
+  if (route === 'index.md' || route === 'index.mdx') {
+    route = '';
+  } else if (/\/index\.mdx?$/.test(route)) {
+    route = route.replace(/index\.mdx?$/, '');
+  } else {
+    route = `${route.replace(/\.mdx?$/, '')}/`;
+  }
+
+  const defaultLocale = site.defaultLocale ?? 'fr';
+  const localePrefix = locale === defaultLocale ? '' : `${locale}/`;
+  return `${new URL(`${localePrefix}${route}`, `${publicUrl}/`).href}${suffix}`;
+}
+
+function rewritePublicationHref(
+  href,
+  sourcePath,
+  locale,
+  publicationDocs,
+  knownDocs,
+  stats,
+) {
+  const resolved = canonicalDocTarget(href, sourcePath, locale, knownDocs);
+  if (!resolved) return href;
+
+  const {target, suffix} = resolved;
+  if (!publicationDocs.has(target)) {
+    const rewritten = siteHrefForDoc(target, suffix, locale);
+    if (rewritten !== href) stats.site += 1;
+    return rewritten;
+  }
+
+  if (target === sourcePath && suffix.startsWith('#')) {
+    if (suffix !== href) stats.internal += 1;
+    return suffix;
+  }
+
+  let relative = path.posix.relative(path.posix.dirname(sourcePath), target);
+  if (!relative.startsWith('.')) relative = `./${relative}`;
+  const rewritten = `${relative}${suffix}`;
+  if (rewritten !== href) stats.internal += 1;
+  return rewritten;
+}
+
+function transformOutsideInlineCode(line, transform) {
+  let output = '';
+  let cursor = 0;
+  let delimiterLength = null;
+
+  while (cursor < line.length) {
+    const match = /`+/.exec(line.slice(cursor));
+    if (!match) {
+      const remainder = line.slice(cursor);
+      output += delimiterLength === null ? transform(remainder) : remainder;
+      break;
+    }
+
+    const markerStart = cursor + match.index;
+    const before = line.slice(cursor, markerStart);
+    output += delimiterLength === null ? transform(before) : before;
+
+    const marker = match[0];
+    output += marker;
+    if (delimiterLength === null) delimiterLength = marker.length;
+    else if (marker.length === delimiterLength) delimiterLength = null;
+    cursor = markerStart + marker.length;
+  }
+
+  return output;
+}
+
+function rewritePublicationLinks(
+  markdown,
+  sourcePath,
+  locale,
+  publicationDocs,
+  knownDocs,
+  stats,
+) {
+  const lines = markdown.split(/\r?\n/);
+  let fenceMarker = null;
+
+  const rewrite = (href) =>
+    rewritePublicationHref(
+      href,
+      sourcePath,
+      locale,
+      publicationDocs,
+      knownDocs,
+      stats,
+    );
+
+  function rewriteSegment(segment) {
+    let rewritten = segment.replace(
+      /(?<!!)(\[[^\]\n]+\]\()(<[^>]+>|[^)\s]+)([^)]*\))/g,
+      (_match, opening, rawHref, closing) => {
+        const wrapped = rawHref.startsWith('<') && rawHref.endsWith('>');
+        const href = wrapped ? rawHref.slice(1, -1) : rawHref;
+        const result = rewrite(href);
+        return `${opening}${wrapped ? `<${result}>` : result}${closing}`;
+      },
+    );
+
+    rewritten = rewritten.replace(
+      /^(\s{0,3}\[[^\]\n]+\]:\s*)(<[^>]+>|\S+)(.*)$/,
+      (_match, opening, rawHref, closing) => {
+        const wrapped = rawHref.startsWith('<') && rawHref.endsWith('>');
+        const href = wrapped ? rawHref.slice(1, -1) : rawHref;
+        const result = rewrite(href);
+        return `${opening}${wrapped ? `<${result}>` : result}${closing}`;
+      },
+    );
+
+    return rewritten.replace(
+      /(<a\b[^>]*\bhref=["'])([^"']+)(["'])/gi,
+      (_match, opening, href, closing) => `${opening}${rewrite(href)}${closing}`,
+    );
+  }
+
+  return lines
+    .map((line) => {
+      const fence = line.match(/^\s*(```+|~~~+)/);
+      if (fence) {
+        if (!fenceMarker) fenceMarker = fence[1][0];
+        else if (fence[1][0] === fenceMarker) fenceMarker = null;
+        return line;
+      }
+      if (fenceMarker) return line;
+      return transformOutsideInlineCode(line, rewriteSegment);
+    })
+    .join('\n');
+}
+
+function adaptPublicationMarkdown(
+  markdown,
+  locale,
+  sourcePath,
+  publicationDocs,
+  knownDocs,
+  linkStats,
+) {
   const diceAlt = locale === 'fr' ? 'Dé' : 'Dice';
   const diceImage = `![${diceAlt}](/img/publication/dice.svg)`;
 
-  // Keep the canonical source friendly to the web, but replace emoji glyphs
-  // that are not reliably available in PDF fonts with a vector publication asset.
-  return ensureDocumentTitleHeading(markdown).replaceAll('🎲', diceImage);
+  // Keep the canonical source friendly to the web, but adapt links and glyphs
+  // for the multi-file publication assembled by Vivliostyle.
+  const withHeading = ensureDocumentTitleHeading(markdown).replaceAll('🎲', diceImage);
+  return rewritePublicationLinks(
+    withHeading,
+    sourcePath,
+    locale,
+    publicationDocs,
+    knownDocs,
+    linkStats,
+  );
 }
 
 function escapeHtml(value) {
@@ -171,19 +406,31 @@ async function preparePublication(publicationName, publication, locale, localeCo
     );
   }
 
+  const knownDocs = await collectMarkdownDocs(locale);
+  const publicationDocs = new Set(localeConfig.contents.map(normalizeRepoPath));
+  const linkStats = {internal: 0, site: 0};
   const entries = [];
   for (const sourcePath of localeConfig.contents) {
+    const normalizedSourcePath = normalizeRepoPath(sourcePath);
     const sourceAbsolute = path.join(projectRoot, sourcePath);
     const destinationAbsolute = path.join(publicationWorkDir, sourcePath);
     const markdown = adaptPublicationMarkdown(
       await fs.readFile(sourceAbsolute, 'utf8'),
       locale,
+      normalizedSourcePath,
+      publicationDocs,
+      knownDocs,
+      linkStats,
     );
 
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, markdown, 'utf8');
     entries.push(sourcePath);
   }
+
+  console.log(
+    `  Links: ${linkStats.internal} internalized, ${linkStats.site} redirected to site`,
+  );
 
   // Docusaurus exposes static/img at /img. Mirror that route explicitly in
   // Vivliostyle instead of changing the canonical Markdown asset URLs.
