@@ -6,6 +6,8 @@ on:
       - refactor/player-guide-docusaurus
     paths:
       - .github/workflows/validate-lunar-toc.yml
+      - publications.config.mjs
+      - tools/build-publications.mjs
 
 permissions:
   contents: read
