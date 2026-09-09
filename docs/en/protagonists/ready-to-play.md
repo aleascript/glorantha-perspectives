@@ -1,11 +1,11 @@
 ---
-title: Ready-to-Play Protagonists
+title: Protagonists samples
 sidebar_position: 3
 ---
 
-# Ready-to-Play Protagonists
+# Protagonists samples
 
-The Narratives contain several Protagonists already described in detail. Rather than maintaining a second copy of their sheets here, this page points to their canonical version in the relevant narrative.
+The Narratives contain several Protagonists already described in detail.
 
 ## The Lunar Way
 
@@ -23,8 +23,3 @@ These four characters show several ways of being caught up in the Lunar Empire o
 - [Irinus](../narratives/heirs-of-zola-fel/heroes/irinus/index.md)
 - [Korlanth](../narratives/heirs-of-zola-fel/heroes/korlanth/index.md)
 
-## Using these characters elsewhere
-
-A ready-to-play Protagonist is not locked into their original Narrative. You can use them in another Situation, at another point in their life, or use their sheet as an example for creating someone from the same culture.
-
-Simply adapt truths that are no longer valid: relationships, injuries, resources, responsibilities, reputation, or political situation.
