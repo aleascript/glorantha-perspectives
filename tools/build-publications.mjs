@@ -133,14 +133,16 @@ async function preparePublication(publicationName, publication, locale, localeCo
     entries.push(sourcePath);
   }
 
-  // Docusaurus exposes the contents of static/ at the web root. Publications
-  // preserve the same /img/... URLs, so mirror that layout in Vivliostyle.
+  // Docusaurus exposes static/img at /img. Mirror that route explicitly in
+  // Vivliostyle instead of changing the canonical Markdown asset URLs.
   const staticSource = path.join(projectRoot, 'static');
   const staticDestination = path.join(publicationWorkDir, 'static');
   const hasStatic = await pathExists(staticSource);
   if (hasStatic) {
     await fs.cp(staticSource, staticDestination, {recursive: true});
   }
+  const staticImageDestination = path.join(staticDestination, 'img');
+  const hasStaticImages = hasStatic && (await pathExists(staticImageDestination));
 
   const themeSource = path.join(projectRoot, publication.theme);
   const themeDestination = path.join(publicationWorkDir, 'theme.css');
@@ -159,10 +161,6 @@ async function preparePublication(publicationName, publication, locale, localeCo
     author: publication.author,
     language: locale,
     size: publication.size ?? 'A4',
-    // Vivliostyle serves documents below /vivliostyle by default. Using /
-    // keeps Docusaurus-style absolute assets such as /img/foo.jpg on the
-    // same origin as the publication preview/render server.
-    base: '/',
     entry: [
       ...(coverEntry ? [coverEntry] : []),
       {rel: 'contents'},
@@ -177,7 +175,7 @@ async function preparePublication(publicationName, publication, locale, localeCo
     },
     output,
     workspaceDir: '.vivliostyle',
-    ...(hasStatic ? {static: {'/': staticDestination}} : {}),
+    ...(hasStaticImages ? {static: {'/img': staticImageDestination}} : {}),
   };
 
   const configPath = path.join(publicationWorkDir, 'vivliostyle.config.json');
