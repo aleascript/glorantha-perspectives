@@ -223,7 +223,11 @@ async function main() {
         locale,
         localeConfig,
       );
-      await build({config: configPath, logLevel: 'info'});
+      await build({
+        config: configPath,
+        logLevel: 'info',
+        enableStaticServe: true,
+      });
     }
   }
 
