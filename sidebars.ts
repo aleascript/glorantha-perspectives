@@ -21,7 +21,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: t('Protagonistes', 'Protagonists'),
       link: {type: 'doc', id: 'protagonists/index'},
-      items: ['protagonists/examples', 'protagonists/ready-to-play'],
+      items: ['protagonists/examples'],
     },
     {
       type: 'category',
