@@ -111,11 +111,26 @@ img {
   object-fit: contain;
 }
 
+/* VFM turns an image-only Markdown paragraph into a figure and mirrors the
+   alt text into an aria-hidden figcaption. Keep the alt text for semantics,
+   but do not print that generated caption. */
+figure > figcaption[aria-hidden='true'] {
+  display: none;
+}
+
 img[src*="/img/runes/"] {
   width: 9mm;
   height: auto;
   margin-right: 1.5mm;
   vertical-align: middle;
+}
+
+img[src*="/img/publication/dice.svg"] {
+  width: 1.05em;
+  height: 1.05em;
+  max-height: none;
+  margin: 0 0.18em 0 0;
+  vertical-align: -0.14em;
 }
 
 blockquote {
