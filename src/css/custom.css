@@ -23,6 +23,13 @@ html, body {background: var(--site-background); color: var(--site-text);}
 .theme-doc-markdown > h1:first-child {letter-spacing: -0.035em;}
 .theme-doc-markdown p, .theme-doc-markdown li {font-size: 1.04rem;}
 .theme-doc-markdown blockquote {border-left-color: var(--site-primary); color: var(--site-muted);}
+.theme-doc-markdown img[src*="/img/runes/"] {
+  display: inline-block;
+  width: 3rem;
+  height: auto;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+}
 .table-of-contents {border-left-color: var(--site-border);}
 
 .publications-page {max-width: var(--site-content-width);}
