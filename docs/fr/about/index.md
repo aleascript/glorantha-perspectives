@@ -12,7 +12,7 @@ Glorantha Perspectives a été conçu avec [**Regard**](https://aleascript.githu
     <img src="https://aleascript.github.io/regard/img/site/regard_mosaic_valid_pips_400.svg" alt="Regard" width="120" />
   </a>
   <a href="https://aleascript.github.io/resonance/" aria-label="Découvrir Resonance">
-    <img src="https://aleascript.github.io/resonance/img/site/resonance-mode-maitre-icon-100.png" alt="Resonance" width="100" />
+    <img src="https://aleascript.github.io/resonance/assets/images/resonance_proposals_medium-a6de62ac4e18eb7dc6a4888ce5cf9de2.svg" alt="Resonance" width="100" />
   </a>
 </div>
 

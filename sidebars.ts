@@ -28,14 +28,13 @@ const sidebars: SidebarsConfig = {
       label: t('Le Temps', 'Time'),
       link: {type: 'doc', id: 'time/index'},
       items: [
-        'glorantha/index',
-        'glorantha/runes/index',
-        'glorantha/calendar',
-        'glorantha/currency',
-        'glorantha/runic-imprint',
         'time/runic-inspiration/index',
-        'time/generating-bonds/index',
+        'time/runes/index',
+        'time/runic-imprint',
         'time/creating-myths/index',
+        'time/generating-bonds/index',
+        'time/calendar',
+        'time/currency',
       ],
     },
     {
@@ -98,9 +97,6 @@ const sidebars: SidebarsConfig = {
         'perspectives/chaos/index',
         'perspectives/taboos/index',
         'perspectives/heroquests/index',
-        ...(!isFrench
-          ? ['perspectives/heroquests/myths/index', 'perspectives/games/index']
-          : []),
       ],
     },
     {
@@ -167,16 +163,7 @@ const sidebars: SidebarsConfig = {
           ],
         },
         'narratives/gurdtars-banishment/index',
-        {
-          type: 'category',
-          label: t('La Route de Talimar', "Talimar's Road"),
-          link: {type: 'doc', id: 'narratives/talimar-road/index'},
-          items: [
-            'narratives/talimar-road/character',
-            'narratives/talimar-road/actual-play',
-            'narratives/talimar-road/story',
-          ],
-        },
+        'narratives/talimar-road/index',
       ],
     },
     {
