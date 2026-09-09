@@ -7,7 +7,7 @@ type PublicationLocale = {title: string; formats: PublicationFormat[]};
 type Publication = {
   id: string;
   outputName: string;
-  revision: string | null;
+  status: string;
   locales: Record<string, PublicationLocale>;
 };
 type PublicationManifest = {version: string; publications: Publication[]};
@@ -18,7 +18,7 @@ const copy = {
     description: 'Éditions téléchargeables de Glorantha Perspectives.',
     intro: 'Téléchargez les éditions générées à partir du corpus du site.',
     version: 'Version',
-    revision: 'Révision',
+    status: 'Statut',
     unavailable: "Aucune publication générée n'est disponible dans ce build.",
     loading: 'Chargement des publications…',
   },
@@ -27,7 +27,7 @@ const copy = {
     description: 'Downloadable editions of Glorantha Perspectives.',
     intro: 'Download editions generated from the site corpus.',
     version: 'Version',
-    revision: 'Revision',
+    status: 'Status',
     unavailable: 'No generated publication is available in this build.',
     loading: 'Loading publications…',
   },
@@ -92,9 +92,9 @@ export default function PublicationsPage(): React.ReactNode {
           {localized.map(({publication, locale: localizedPublication}) => (
             <article className="publication-card" key={publication.id}>
               <h2>{localizedPublication.title}</h2>
-              {publication.revision ? (
-                <p className="publication-revision">
-                  {text.revision} : {publication.revision}
+              {publication.status ? (
+                <p className="publication-status">
+                  {text.status} : {publication.status}
                 </p>
               ) : null}
               <div className="publication-formats">

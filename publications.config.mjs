@@ -77,7 +77,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      revision: 'Draft',
+      status: 'Draft',
       lineage: {
         designedWith: {
           label: 'Regard',
@@ -117,7 +117,7 @@ export default definePublications({
     },
     'the-lunar-way': {
       author: 'AleaScript',
-      revision: 'Draft',
+      status: 'Draft',
       lineage: {
         designedWith: {
           label: 'Regard',

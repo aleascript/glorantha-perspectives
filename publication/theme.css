@@ -58,12 +58,15 @@ body { margin: 0; }
 
 .publication-cover__text {
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   min-height: 62mm;
   padding: 10mm 12mm 12mm;
 }
 
 .publication-cover__series,
-.publication-cover__author {
+.publication-cover__author,
+.publication-cover__metadata {
   margin: 0;
   font-family: Inter, ui-sans-serif, system-ui, sans-serif;
 }
@@ -84,8 +87,47 @@ body { margin: 0; }
 }
 
 .publication-cover__author {
-  margin-top: 5mm;
   font-size: 9.5pt;
+}
+
+.publication-cover__footer {
+  display: flex;
+  gap: 8mm;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: 5mm;
+}
+
+.publication-cover__metadata {
+  display: grid;
+  gap: 1.5mm;
+  min-width: 42mm;
+  max-width: 62mm;
+  margin-left: auto;
+  text-align: right;
+}
+
+.publication-cover__metadata-field {
+  break-inside: avoid;
+}
+
+.publication-cover__metadata dt {
+  margin: 0 0 0.25mm;
+  color: #c8bdb4;
+  font-size: 6.5pt;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.publication-cover__metadata dd {
+  margin: 0;
+  font-size: 8.5pt;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  line-height: 1.15;
 }
 
 h1, h2, h3, h4 {

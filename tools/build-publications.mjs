@@ -10,22 +10,51 @@ const workRoot = path.join(projectRoot, '.publication-workspace');
 const outputRoot = path.join(projectRoot, 'dist', 'publications');
 const knownDocsByLocale = new Map();
 
+function isPublicationDate(value) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value ?? '')) return false;
+  const parsed = new Date(`${value}T00:00:00Z`);
+  return (
+    !Number.isNaN(parsed.getTime()) &&
+    parsed.toISOString().slice(0, 10) === value
+  );
+}
+
 function resolvePublicationVersion() {
   const explicit = process.env.PUBLICATION_VERSION?.trim();
-  if (explicit) return explicit;
+  if (explicit) {
+    if (!isPublicationDate(explicit)) {
+      throw new Error(
+        `Invalid PUBLICATION_VERSION: ${explicit}. Expected YYYY-MM-DD.`,
+      );
+    }
+    return explicit;
+  }
 
   try {
     const tag = execFileSync(
       'git',
-      ['describe', '--tags', '--abbrev=0', '--match', 'v[0-9]*'],
+      [
+        'describe',
+        '--tags',
+        '--abbrev=0',
+        '--match',
+        'v[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]',
+      ],
       {cwd: projectRoot, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore']},
     ).trim();
-    if (/^v\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?$/.test(tag)) return tag.slice(1);
+    const taggedVersion = tag.replace(/^v/, '');
+    if (isPublicationDate(taggedVersion)) return taggedVersion;
   } catch {
     // A working branch may not have a release tag yet.
   }
 
-  return config.release?.initialVersion ?? '0.1.0';
+  const initialVersion = config.release?.initialVersion;
+  if (!isPublicationDate(initialVersion)) {
+    throw new Error(
+      'publications.config.mjs must define release.initialVersion as YYYY-MM-DD.',
+    );
+  }
+  return initialVersion;
 }
 
 function decodeFrontmatterScalar(value) {
@@ -313,10 +342,30 @@ function escapeHtml(value) {
     .replaceAll("'", '&#39;');
 }
 
-function publicationCoverMarkdown(publication, localeConfig) {
+function publicationStatus(publicationName, publication) {
+  const status = publication.status?.trim();
+  if (!status) {
+    throw new Error(
+      `Publication "${publicationName}" must define a non-empty status.`,
+    );
+  }
+  return status;
+}
+
+function publicationCoverMarkdown(
+  publication,
+  locale,
+  localeConfig,
+  version,
+  status,
+) {
   const cover = localeConfig.cover;
   if (!cover) return null;
 
+  const labels =
+    locale === 'fr'
+      ? {date: 'Date de publication', status: 'Statut'}
+      : {date: 'Publication date', status: 'Status'};
   const seriesTitle = cover.seriesTitle
     ? `<p class="publication-cover__series">${escapeHtml(cover.seriesTitle)}</p>`
     : '';
@@ -331,7 +380,19 @@ function publicationCoverMarkdown(publication, localeConfig) {
   <div class="publication-cover__text">
     ${seriesTitle}
     <div class="publication-cover__title">${escapeHtml(localeConfig.title)}</div>
-    ${author}
+    <div class="publication-cover__footer">
+      ${author}
+      <dl class="publication-cover__metadata">
+        <div class="publication-cover__metadata-field">
+          <dt>${labels.date}</dt>
+          <dd><time datetime="${escapeHtml(version)}">${escapeHtml(version)}</time></dd>
+        </div>
+        <div class="publication-cover__metadata-field">
+          <dt>${labels.status}</dt>
+          <dd>${escapeHtml(status)}</dd>
+        </div>
+      </dl>
+    </div>
   </div>
 </div>
 `;
@@ -390,13 +451,26 @@ async function pathExists(target) {
   }
 }
 
-async function preparePublication(publicationName, publication, locale, localeConfig) {
+async function preparePublication(
+  publicationName,
+  publication,
+  locale,
+  localeConfig,
+  version,
+) {
   const publicationWorkDir = path.join(workRoot, publicationName, locale);
   await fs.rm(publicationWorkDir, {recursive: true, force: true});
   await fs.mkdir(publicationWorkDir, {recursive: true});
 
+  const status = publicationStatus(publicationName, publication);
   let coverEntry = null;
-  const coverMarkdown = publicationCoverMarkdown(publication, localeConfig);
+  const coverMarkdown = publicationCoverMarkdown(
+    publication,
+    locale,
+    localeConfig,
+    version,
+    status,
+  );
   if (coverMarkdown) {
     coverEntry = 'publication-cover.md';
     await fs.writeFile(
@@ -493,7 +567,7 @@ function publicationManifest(version) {
     publications: Object.entries(config.publications).map(([id, publication]) => ({
       id,
       outputName: publication.outputName ?? id,
-      revision: publication.revision ?? null,
+      status: publicationStatus(id, publication),
       locales: Object.fromEntries(
         Object.entries(publication.locales).map(([locale, localeConfig]) => [
           locale,
@@ -526,6 +600,7 @@ async function main() {
         publication,
         locale,
         localeConfig,
+        version,
       );
       await build({
         config: configPath,
