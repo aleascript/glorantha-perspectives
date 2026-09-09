@@ -55,6 +55,26 @@ npm run release:prepare
 
 Cette commande génère les publications, construit le site puis copie les publications dans le site.
 
+### Publication continue
+
+Le workflow `.github/workflows/deploy-pages.yml` valide le site et toutes les
+publications sur chaque pull request. Sur `main`, il déploie toujours le site
+avec les PDF courants sous `/downloads/`.
+
+Les releases GitHub constituent des snapshots éditoriaux distincts du
+déploiement continu :
+
+- chaque publication possède sa propre version calendaire ISO `YYYY-MM-DD` ;
+- le workflow compare les couples `id` / `version` au manifeste de la dernière
+  release `publications-*` ;
+- si au moins une version a changé, il publie tous les PDF courants dans une
+  release `publications-YYYY-MM-DD` ;
+- plusieurs publications le même jour remplacent le snapshot de cette journée.
+
+Une modification sans changement de version est donc visible sur le site, mais
+ne crée pas de nouvelle release GitHub. Il faut mettre à jour la version de la
+publication concernée pour en conserver un nouveau snapshot.
+
 ## Structure éditoriale
 
 ```text
