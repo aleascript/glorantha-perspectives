@@ -1,6 +1,5 @@
 ---
 title: Risques et conséquences
-sidebar_position: 4
 ---
 
 # Risques et conséquences

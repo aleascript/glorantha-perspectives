@@ -1,6 +1,5 @@
 ---
 title: Table Agreement
-sidebar_position: 4
 ---
 
 # Table Agreement
@@ -33,7 +32,7 @@ Before play, agree at least on what you are willing to genuinely put at stake.
 
 When a resolution could produce an exceptionally severe consequence, state it before the roll. The Protagonist can then keep the same intention, change approach, or reduce the goal.
 
-See [Risks and Consequences](../rules/resolution/risk.md).
+See [Risks and Consequences](../perspectives/resolution/risk.md).
 
 ## Rules do not replace conversation
 

@@ -1,6 +1,5 @@
 ---
 title: Perspectives
-sidebar_position: 5
 ---
 
 # Perspectives

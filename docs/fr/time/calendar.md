@@ -1,6 +1,5 @@
 ---
 title: Calendrier aléatoire
-sidebar_position: 2
 ---
 
 # Calendrier aléatoire
@@ -23,7 +22,7 @@ Lancez **2D6**. Lisez le premier dé, sauf en cas de double.
 | 6 | Sauvage | pleine lune |
 | double | Divin | dernier quartier |
 
-Le jour peut compter directement pour la [Voie Lunaire](../perspectives/moon/), surtout hors de la Ligne Brillante.
+Le jour peut compter directement pour la [Voie Lunaire](../perspectives/moon/index.md), surtout hors de la Ligne Brillante.
 
 ## Semaine
 
@@ -40,7 +39,7 @@ Lancez **1D8**.
 | 7 | Illusion |
 | 8 | Vérité |
 
-Le même D8 peut servir de point de départ à une [inspiration runique](../time/runic-inspiration/).
+Le même D8 peut servir de point de départ à une [inspiration runique](runic-inspiration/index.md).
 
 ## Saison
 

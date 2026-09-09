@@ -1,6 +1,5 @@
 ---
 title: Monnaies et échanges
-sidebar_position: 3
 ---
 
 # Monnaies et échanges

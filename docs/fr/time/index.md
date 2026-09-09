@@ -1,6 +1,5 @@
 ---
 title: Le Temps
-sidebar_position: 5
 ---
 
 # Le Temps

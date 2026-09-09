@@ -181,7 +181,7 @@ This may seem abstract but it is much easier to handle than it appears. It const
 
 The relationship between the two runes is also free: it can be a cause-and-effect relationship, a temporal relationship, a hierarchical relationship, etc... or even have no relationship at all and be two independent things in the continuation of the narrative. They are symbolic entities serving the inspiration of the ongoing story.
 
-*Happy [meditation on the runes](../../../notes/runes-meditation) of power*
+*Happy [meditation on the runes](../../notes/runes-meditation/index.md) of power*
 
 ### When to draw the runes?
 

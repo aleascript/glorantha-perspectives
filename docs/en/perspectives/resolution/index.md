@@ -1,6 +1,5 @@
 ---
 title: Resolving Uncertainty
-sidebar_position: 1
 ---
 
 # Resolving Uncertainty

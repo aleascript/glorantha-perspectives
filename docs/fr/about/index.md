@@ -1,6 +1,5 @@
 ---
 title: À propos
-sidebar_position: 8
 ---
 
 # À propos

@@ -1,6 +1,5 @@
 ---
 title: Exemples de Protagonistes
-sidebar_position: 2
 ---
 
 # Exemples de Protagonistes

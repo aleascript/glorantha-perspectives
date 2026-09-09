@@ -20,7 +20,7 @@ Some thoughts on the rules as well.
 
 [Meditations on the Runes](runes-meditation)
 
-[Ars Draconis Magica](../rules/draconic/ars-draconis-magica)
+[Ars Draconis Magica](../perspectives/draconic/ars-draconis-magica/index.md)
 
 [Gloranthan Themes](themas)
 

@@ -1,6 +1,5 @@
 ---
 title: Risks and Consequences
-sidebar_position: 4
 ---
 
 # Risks and Consequences

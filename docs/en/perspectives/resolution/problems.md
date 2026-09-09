@@ -1,6 +1,5 @@
 ---
 title: Problems with Keys
-sidebar_position: 3
 ---
 
 # Problems with Keys

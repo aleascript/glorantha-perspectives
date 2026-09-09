@@ -1,6 +1,5 @@
 ---
 title: The Imprint of the Runes
-sidebar_position: 4
 ---
 
 # The Imprint of the Runes

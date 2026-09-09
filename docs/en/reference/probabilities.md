@@ -1,6 +1,5 @@
 ---
 title: Probability Landmarks
-sidebar_position: 6
 ---
 
 # Probability Landmarks

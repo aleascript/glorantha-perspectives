@@ -1,6 +1,5 @@
 ---
 title: Problèmes à clés
-sidebar_position: 3
 ---
 
 # Problèmes à clés

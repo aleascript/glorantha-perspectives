@@ -1,6 +1,5 @@
 ---
 title: Repères de probabilités
-sidebar_position: 6
 ---
 
 # Repères de probabilités

@@ -1,6 +1,5 @@
 ---
 title: Accord de table
-sidebar_position: 4
 ---
 
 # Accord de table
@@ -33,7 +32,7 @@ Avant la partie, convenez au moins de ce que vous acceptez de mettre réellement
 
 Quand une résolution peut produire une conséquence exceptionnellement grave, annoncez-le avant le tirage. Le Protagoniste peut alors maintenir son intention, changer de méthode ou réduire son objectif.
 
-Voir [Risques et conséquences](../rules/resolution/risk.md).
+Voir [Risques et conséquences](../perspectives/resolution/risk.md).
 
 ## Les règles ne remplacent pas la conversation
 

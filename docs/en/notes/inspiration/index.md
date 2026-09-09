@@ -8,4 +8,4 @@ Your first source of inspiration is Glorantha. Research it. Read. Appreciate. Di
 
 The keywords for building strategies, objectives, questions, and of course for constructing bets to use in contests come naturally from reading the lore. The HW and HQ supplements are in fact models of the genre with almost no stats: pure lore directly usable, and many RuneQuest supplements essentially contain lore.
 
-That said, you can also draw from [runic inspiration](../../rules/runes/inspiration).
+That said, you can also draw from [runic inspiration](../../time/runic-inspiration/index.md).

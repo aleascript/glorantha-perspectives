@@ -1,6 +1,5 @@
 ---
 title: Glorantha en quelques repères
-sidebar_position: 3
 ---
 
 # Glorantha en quelques repères
@@ -43,7 +42,7 @@ Glorantha est souvent chatoyante. Les couleurs peuvent être culturelles, religi
 
 Le troc et les petites monnaies restent importants dans la vie quotidienne. Les monnaies de grande valeur sont souvent liées aux cités, aux temples, aux cultes ou aux autorités qui garantissent les échanges.
 
-Voir [Monnaies et échanges](../glorantha/currency.md) pour quelques repères pratiques.
+Voir [Monnaies et échanges](../time/currency.md) pour quelques repères pratiques.
 
 ## La guérison n'efface pas tout
 

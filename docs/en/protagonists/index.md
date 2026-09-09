@@ -1,6 +1,5 @@
 ---
 title: Protagonists
-sidebar_position: 4
 ---
 
 # Protagonists

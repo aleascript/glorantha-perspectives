@@ -1,6 +1,5 @@
 ---
 title: Récits
-sidebar_position: 6
 ---
 
 # Récits

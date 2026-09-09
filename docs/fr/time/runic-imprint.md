@@ -1,6 +1,5 @@
 ---
 title: L'empreinte des Runes
-sidebar_position: 4
 ---
 
 # L'empreinte des Runes

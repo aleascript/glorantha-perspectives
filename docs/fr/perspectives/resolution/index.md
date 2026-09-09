@@ -1,6 +1,5 @@
 ---
 title: Résoudre une incertitude
-sidebar_position: 1
 ---
 
 # Résoudre une incertitude

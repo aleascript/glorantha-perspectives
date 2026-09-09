@@ -1,6 +1,5 @@
 ---
 title: Runes
-sidebar_position: 30
 ---
 
 # Runes

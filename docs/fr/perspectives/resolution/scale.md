@@ -1,6 +1,5 @@
 ---
 title: Action, Séquence et Script
-sidebar_position: 2
 ---
 
 # Action, Séquence et Script

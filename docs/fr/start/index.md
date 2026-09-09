@@ -1,6 +1,5 @@
 ---
 title: Commencer à jouer
-sidebar_position: 2
 ---
 
 # Commencer à jouer

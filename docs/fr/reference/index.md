@@ -1,6 +1,5 @@
 ---
 title: Références
-sidebar_position: 7
 ---
 
 # Références

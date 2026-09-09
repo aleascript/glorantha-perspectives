@@ -1,6 +1,5 @@
 ---
 title: Frequently Asked Questions
-sidebar_position: 5
 ---
 
 # Frequently Asked Questions
@@ -54,7 +53,7 @@ Death is at stake only when it genuinely belongs to the consequences understood 
 
 If a resolution can be fatal, the player should know and be able to keep the intention, change approach, or reduce the goal.
 
-See [Risks and Consequences](../rules/resolution/risk.md).
+See [Risks and Consequences](../perspectives/resolution/risk.md).
 
 ## Do I roll for every difficult action?
 
@@ -64,7 +63,7 @@ A resolution serves an important uncertainty that the table wants to play. An ac
 
 Conversely, one roll can cover an entire scene, battle, or sequence of steps.
 
-See [Action, Sequence and Script](../rules/resolution/scale.md).
+See [Action, Sequence and Script](../perspectives/resolution/scale.md).
 
 ## Can we play without a game master?
 

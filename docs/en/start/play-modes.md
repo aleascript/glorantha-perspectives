@@ -1,6 +1,5 @@
 ---
 title: Playing Together
-sidebar_position: 2
 ---
 
 # Playing Together

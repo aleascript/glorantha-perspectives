@@ -1,6 +1,5 @@
 ---
 title: Start Playing
-sidebar_position: 2
 ---
 
 # Start Playing

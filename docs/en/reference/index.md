@@ -1,6 +1,5 @@
 ---
 title: Reference
-sidebar_position: 7
 ---
 
 # Reference

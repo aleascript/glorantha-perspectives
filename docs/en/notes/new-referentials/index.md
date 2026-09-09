@@ -14,4 +14,4 @@ The only immutable rule remains, a priori, the balance of destiny (bets of A vs 
 
 > The hardest part is ensuring that the rule truly reflects a way of thinking and that the gameplay aligns with the roleplay.
 
-> Isn't that the true [HeroQuest](../../rules/heroquests) in the end?
+> Isn't that the true [HeroQuest](../../perspectives/heroquests/index.md) in the end?

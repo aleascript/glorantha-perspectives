@@ -1,6 +1,5 @@
 ---
 title: Jouer ensemble
-sidebar_position: 2
 ---
 
 # Jouer ensemble

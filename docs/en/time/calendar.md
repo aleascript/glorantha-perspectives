@@ -1,6 +1,5 @@
 ---
 title: Random Calendar
-sidebar_position: 2
 ---
 
 # Random Calendar
@@ -23,7 +22,7 @@ Roll **2D6**. Read the first die unless you roll a double.
 | 6 | Wild | full moon |
 | double | Gods | last quarter |
 
-The day may directly matter for the [Lunar Way](../perspectives/moon/), especially outside the Glowline.
+The day may directly matter for the [Lunar Way](../perspectives/moon/index.md), especially outside the Glowline.
 
 ## Week
 
@@ -40,7 +39,7 @@ Roll **1D8**.
 | 7 | Illusion |
 | 8 | Truth |
 
-The same D8 can provide a starting point for [Runic Inspiration](../time/runic-inspiration/).
+The same D8 can provide a starting point for [Runic Inspiration](runic-inspiration/index.md).
 
 ## Season
 

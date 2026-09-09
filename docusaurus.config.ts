@@ -73,10 +73,10 @@ const config: Config = {
   organizationName,
   projectName,
   trailingSlash: true,
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownLinks: 'throw',
     },
   },
   future: {v4: true},

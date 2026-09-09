@@ -1,6 +1,5 @@
 ---
 title: Protagonistes et Temps
-sidebar_position: 1
 ---
 
 # Protagonistes et Temps

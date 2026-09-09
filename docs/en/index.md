@@ -1,6 +1,5 @@
 ---
 title: Glorantha Perspectives
-sidebar_position: 1
 slug: /
 ---
 

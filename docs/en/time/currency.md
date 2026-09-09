@@ -1,6 +1,5 @@
 ---
 title: Currency and Exchange
-sidebar_position: 3
 ---
 
 # Currency and Exchange
