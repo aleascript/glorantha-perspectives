@@ -89,7 +89,7 @@ function lunarWayContents(locale) {
   ];
 }
 
-const lunarWayToc = {
+const tocConfig = {
   sectionDepth: 0,
   skipFirstDocument: true,
   numbered: false,
@@ -123,16 +123,26 @@ export default definePublications({
       outputName: 'glorantha-perspectives-guide',
       locales: {
         fr: {
-          title: 'Glorantha Perspectives — Guide de jeu',
+          title: 'Guide de jeu',
           tocTitle: 'Sommaire',
-          toc: lunarWayToc,
+          toc: tocConfig,
+          cover: {
+            image: '/img/site/glorantha-perspectives-emblem.png',
+            alt: 'Glorantha Perspectives',
+            //seriesTitle: 'Glorantha Perspectives',
+          },
           contents: guideFr,
           outputs: ['pdf'],
         },
         en: {
-          title: 'Glorantha Perspectives — Player Guide',
+          title: 'Player Guide',
           tocTitle: 'Contents',
-          toc: lunarWayToc,
+          toc: tocConfig,
+          cover: {
+            image: '/img/site/glorantha-perspectives-emblem.png',
+            alt: 'Glorantha Perspectives',
+            //seriesTitle: 'Glorantha Perspectives',
+          },
           contents: guideEn,
           outputs: ['pdf'],
         },
@@ -158,7 +168,7 @@ export default definePublications({
         fr: {
           title: 'La Voie Lunaire',
           tocTitle: 'Sommaire',
-          toc: lunarWayToc,
+          toc: tocConfig,
           cover: {
             image: '/img/narratives/the-lunar-way/heroes/heroes.original.png',
             alt: 'Les quatre héros de La Voie Lunaire',
@@ -170,7 +180,7 @@ export default definePublications({
         en: {
           title: 'The Lunar Way',
           tocTitle: 'Contents',
-          toc: lunarWayToc,
+          toc: tocConfig,
           cover: {
             image: '/img/narratives/the-lunar-way/heroes/heroes.original.png',
             alt: 'The four heroes of The Lunar Way',
