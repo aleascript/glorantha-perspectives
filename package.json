@@ -11,7 +11,7 @@
     "build": "docusaurus build",
     "build:fr": "docusaurus build --locale fr",
     "build:en": "docusaurus build --locale en",
-    "publication:build": "node tools/build-publications.mjs",
+    "publication:build": "node tools/run-publication-build.mjs",
     "publication:site": "node tools/copy-publications-to-site.mjs",
     "release:prepare": "node tools/prepare-release.mjs",
     "check": "npm run typecheck && npm run build",
