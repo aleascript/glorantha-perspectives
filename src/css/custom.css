@@ -34,7 +34,7 @@ html, body {background: var(--site-background); color: var(--site-text);}
 
 .publications-page {max-width: var(--site-content-width);}
 .publications-header {margin-bottom: 2rem;}
-.publications-version, .publication-status {color: var(--site-muted);}
+.publication-date, .publication-status {color: var(--site-muted);}
 .publications-grid {
   display: grid;
   gap: 1rem;

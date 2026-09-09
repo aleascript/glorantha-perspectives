@@ -1,25 +1,15 @@
 import {spawnSync} from 'node:child_process';
 import fs from 'node:fs/promises';
+import config from '../publications.config.mjs';
 
-const version = process.argv[2]?.trim();
-
-function isCalVer(value) {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(value ?? '')) return false;
-  const parsed = new Date(`${value}T00:00:00Z`);
-  return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === value;
-}
-
-if (!isCalVer(version)) {
+if (process.argv.length > 2) {
   throw new Error(
-    `Invalid release version: ${version ?? '<missing>'}. Expected YYYY-MM-DD.`,
+    'release:prepare no longer accepts a global version. Set each publication version in publications.config.mjs.',
   );
 }
 
-const env = {...process.env, PUBLICATION_VERSION: version};
-
 function run(command, args) {
   const result = spawnSync(command, args, {
-    env,
     stdio: 'inherit',
     shell: process.platform === 'win32',
   });
@@ -32,5 +22,16 @@ run('npm', ['run', 'publication:build']);
 run('npm', ['run', 'build']);
 run('npm', ['run', 'publication:site']);
 
-await fs.writeFile('.release-prepared', `${version}\n`, 'utf8');
-console.log(`Prepared release ${version}.`);
+const versions = Object.fromEntries(
+  Object.entries(config.publications).map(([id, publication]) => [
+    id,
+    publication.version,
+  ]),
+);
+
+await fs.writeFile(
+  '.release-prepared',
+  `${JSON.stringify({publications: versions}, null, 2)}\n`,
+  'utf8',
+);
+console.log('Prepared publications from publications.config.mjs.');

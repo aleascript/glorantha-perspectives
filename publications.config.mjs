@@ -71,12 +71,10 @@ export default definePublications({
     publicUrl: 'https://aleascript.github.io/glorantha-perspectives',
     defaultLocale: 'fr',
   },
-  release: {
-    initialVersion: '2026-09-09',
-  },
   publications: {
     guide: {
       author: 'AleaScript',
+      version: '2026-09-09',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -117,6 +115,7 @@ export default definePublications({
     },
     'the-lunar-way': {
       author: 'AleaScript',
+      version: '2026-09-09',
       status: 'Draft',
       lineage: {
         designedWith: {

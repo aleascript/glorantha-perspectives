@@ -7,17 +7,18 @@ type PublicationLocale = {title: string; formats: PublicationFormat[]};
 type Publication = {
   id: string;
   outputName: string;
+  version: string;
   status: string;
   locales: Record<string, PublicationLocale>;
 };
-type PublicationManifest = {version: string; publications: Publication[]};
+type PublicationManifest = {publications: Publication[]};
 
 const copy = {
   fr: {
     title: 'Publications',
     description: 'Éditions téléchargeables de Glorantha Perspectives.',
     intro: 'Téléchargez les éditions générées à partir du corpus du site.',
-    version: 'Version',
+    publicationDate: 'Date de publication',
     status: 'Statut',
     unavailable: "Aucune publication générée n'est disponible dans ce build.",
     loading: 'Chargement des publications…',
@@ -26,7 +27,7 @@ const copy = {
     title: 'Publications',
     description: 'Downloadable editions of Glorantha Perspectives.',
     intro: 'Download editions generated from the site corpus.',
-    version: 'Version',
+    publicationDate: 'Publication date',
     status: 'Status',
     unavailable: 'No generated publication is available in this build.',
     loading: 'Loading publications…',
@@ -76,11 +77,6 @@ export default function PublicationsPage(): React.ReactNode {
         <header className="publications-header">
           <h1>{text.title}</h1>
           <p>{text.intro}</p>
-          {manifest ? (
-            <p className="publications-version">
-              {text.version} : <strong>{manifest.version}</strong>
-            </p>
-          ) : null}
         </header>
 
         {failed ? (
@@ -92,6 +88,10 @@ export default function PublicationsPage(): React.ReactNode {
           {localized.map(({publication, locale: localizedPublication}) => (
             <article className="publication-card" key={publication.id}>
               <h2>{localizedPublication.title}</h2>
+              <p className="publication-date">
+                {text.publicationDate} :{' '}
+                <time dateTime={publication.version}>{publication.version}</time>
+              </p>
               {publication.status ? (
                 <p className="publication-status">
                   {text.status} : {publication.status}

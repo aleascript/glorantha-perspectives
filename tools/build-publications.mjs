@@ -1,4 +1,3 @@
-import {execFileSync} from 'node:child_process';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -17,44 +16,6 @@ function isPublicationDate(value) {
     !Number.isNaN(parsed.getTime()) &&
     parsed.toISOString().slice(0, 10) === value
   );
-}
-
-function resolvePublicationVersion() {
-  const explicit = process.env.PUBLICATION_VERSION?.trim();
-  if (explicit) {
-    if (!isPublicationDate(explicit)) {
-      throw new Error(
-        `Invalid PUBLICATION_VERSION: ${explicit}. Expected YYYY-MM-DD.`,
-      );
-    }
-    return explicit;
-  }
-
-  try {
-    const tag = execFileSync(
-      'git',
-      [
-        'describe',
-        '--tags',
-        '--abbrev=0',
-        '--match',
-        'v[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]',
-      ],
-      {cwd: projectRoot, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore']},
-    ).trim();
-    const taggedVersion = tag.replace(/^v/, '');
-    if (isPublicationDate(taggedVersion)) return taggedVersion;
-  } catch {
-    // A working branch may not have a release tag yet.
-  }
-
-  const initialVersion = config.release?.initialVersion;
-  if (!isPublicationDate(initialVersion)) {
-    throw new Error(
-      'publications.config.mjs must define release.initialVersion as YYYY-MM-DD.',
-    );
-  }
-  return initialVersion;
 }
 
 function decodeFrontmatterScalar(value) {
@@ -352,6 +313,17 @@ function publicationStatus(publicationName, publication) {
   return status;
 }
 
+function publicationVersion(publicationName, publication) {
+  const version =
+    typeof publication.version === 'string' ? publication.version.trim() : '';
+  if (!isPublicationDate(version)) {
+    throw new Error(
+      `Publication "${publicationName}" must define version as YYYY-MM-DD.`,
+    );
+  }
+  return version;
+}
+
 function publicationCoverMarkdown(
   publication,
   locale,
@@ -561,12 +533,12 @@ async function preparePublication(
   return configPath;
 }
 
-function publicationManifest(version) {
+function publicationManifest() {
   return {
-    version,
     publications: Object.entries(config.publications).map(([id, publication]) => ({
       id,
       outputName: publication.outputName ?? id,
+      version: publicationVersion(id, publication),
       status: publicationStatus(id, publication),
       locales: Object.fromEntries(
         Object.entries(publication.locales).map(([locale, localeConfig]) => [
@@ -589,12 +561,12 @@ async function main() {
   await fs.rm(outputRoot, {recursive: true, force: true});
   await fs.mkdir(outputRoot, {recursive: true});
 
-  const version = resolvePublicationVersion();
-  console.log(`Building publication corpus version ${version}...`);
+  console.log('Building publication corpus...');
 
   for (const [publicationName, publication] of Object.entries(config.publications)) {
+    const version = publicationVersion(publicationName, publication);
     for (const [locale, localeConfig] of Object.entries(publication.locales)) {
-      console.log(`Building ${publicationName} (${locale})...`);
+      console.log(`Building ${publicationName} ${version} (${locale})...`);
       const configPath = await preparePublication(
         publicationName,
         publication,
@@ -612,7 +584,7 @@ async function main() {
 
   await fs.writeFile(
     path.join(outputRoot, 'publications.json'),
-    `${JSON.stringify(publicationManifest(version), null, 2)}\n`,
+    `${JSON.stringify(publicationManifest(), null, 2)}\n`,
     'utf8',
   );
 

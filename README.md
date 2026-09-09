@@ -37,16 +37,20 @@ npm run publication:build
 
 Les PDF et le manifeste sont générés dans `dist/publications/`.
 
+Chaque publication déclare indépendamment sa version au format `YYYY-MM-DD`
+dans `publications.config.mjs`, à côté de son statut.
+
 Pour les copier dans le build du site sous `build/downloads/` :
 
 ```bash
 npm run publication:site
 ```
 
-Pour préparer un build de release avec une version explicite :
+Pour préparer un build de release avec les versions déclarées dans la
+configuration :
 
 ```bash
-npm run release:prepare -- 0.1.0
+npm run release:prepare
 ```
 
 Cette commande génère les publications, construit le site puis copie les publications dans le site.
