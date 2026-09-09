@@ -44,6 +44,12 @@ function lunarWayContents(locale) {
   ];
 }
 
+const lunarWayToc = {
+  sectionDepth: 0,
+  numbered: false,
+  pageNumbers: false,
+};
+
 export default definePublications({
   release: {
     initialVersion: '0.1.0',
@@ -94,6 +100,7 @@ export default definePublications({
         fr: {
           title: 'La Voie Lunaire',
           tocTitle: 'Sommaire',
+          toc: lunarWayToc,
           cover: {
             image: '/img/narratives/the-lunar-way/heroes/heroes.original.png',
             alt: 'Les quatre héros de La Voie Lunaire',
@@ -105,6 +112,7 @@ export default definePublications({
         en: {
           title: 'The Lunar Way',
           tocTitle: 'Contents',
+          toc: lunarWayToc,
           cover: {
             image: '/img/narratives/the-lunar-way/heroes/heroes.original.png',
             alt: 'The four heroes of The Lunar Way',
