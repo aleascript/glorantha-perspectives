@@ -81,4 +81,4 @@ Le Grand Compromis rappelle à l'échelle cosmique combien un engagement peut st
 - Un Brithini vit sous les interdits de sa caste et de sa tradition ; une rupture peut transformer radicalement ce qui était vrai de lui.
 - Révéler un nom secret peut donner à quelqu'un une prise durable sur celui qui l'a livré.
 
-Pour inventer rapidement un lien lorsque le Temps en a besoin, voir [Générer un lien](../../facilitating/generating-bonds/).
+Pour inventer rapidement un lien lorsque le Temps en a besoin, voir [Générer un lien](../../time/generating-bonds/).

@@ -43,7 +43,7 @@ Glorantha is often vivid. Colors may carry cultural, religious, or runic meaning
 
 Barter and small coinage remain important in everyday life. High-value currencies are often tied to cities, temples, cults, or authorities that guarantee exchange.
 
-See [Currency and Exchange](../reference/glorantha/currency.md) for a few practical landmarks.
+See [Currency and Exchange](../glorantha/currency.md) for a few practical landmarks.
 
 ## Healing does not erase everything
 

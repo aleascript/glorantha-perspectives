@@ -47,4 +47,4 @@ La réussite ne se mesure donc pas seulement à « avoir terminé les étapes »
 
 ## Préparer un mythe pour le jeu
 
-Glorantha contient déjà de nombreux mythes utilisables. Les outils détaillés de préparation seront consolidés dans la section [Le Temps](../../facilitating/).
+Glorantha contient déjà de nombreux mythes utilisables. Les outils détaillés de préparation sont rassemblés dans la section [Le Temps](../../time/).

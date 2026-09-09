@@ -19,4 +19,4 @@ Runes can, among other things:
 - support a Stake when the fiction allows it;
 - provide inspiration when Time needs something to emerge.
 
-To use Runes as a tool for exploration and inspiration, see [Runic Inspiration](./inspiration/).
+To use Runes as a tool for exploration and inspiration, see [Runic Inspiration](../../time/runic-inspiration/).

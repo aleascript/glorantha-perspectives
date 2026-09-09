@@ -51,20 +51,24 @@ npm run release:prepare -- 0.1.0
 
 Cette commande génère les publications, construit le site puis copie les publications dans le site.
 
-## Structure
+## Structure éditoriale
 
 ```text
-docs/
-├── assets/
-└── fr/
-    ├── start/
-    ├── rules/
-    ├── characters/
-    ├── facilitating/
-    ├── narratives/
-    ├── reference/
-    └── about/
+docs/<lang>/
+├── index.md
+├── start/
+├── protagonists/
+├── time/
+├── perspectives/
+├── glorantha/
+├── narratives/
+├── reference/
+├── notes/
+├── about/
+└── archives/      # corpus historique, actuellement surtout FR
 ```
+
+La navigation publique est centrée sur **Commencer**, **Protagonistes**, **Le Temps**, **Perspectives**, **Glorantha**, **Récits** et **Référence**. `notes/` et `archives/` restent dans le corpus sans constituer des pans du manuel de jeu.
 
 Les récits utilisent le répertoire de référence `narratives/` : par exemple `narratives/the-lunar-way/` pour *La Voie Lunaire*.
 

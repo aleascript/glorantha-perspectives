@@ -23,7 +23,7 @@ Lancez **2D6**. Lisez le premier dé, sauf en cas de double.
 | 6 | Sauvage | pleine lune |
 | double | Divin | dernier quartier |
 
-Le jour peut compter directement pour la [Voie Lunaire](../../rules/moon/), surtout hors de la Ligne Brillante.
+Le jour peut compter directement pour la [Voie Lunaire](../perspectives/moon/), surtout hors de la Ligne Brillante.
 
 ## Semaine
 
@@ -40,7 +40,7 @@ Lancez **1D8**.
 | 7 | Illusion |
 | 8 | Vérité |
 
-Le même D8 peut servir de point de départ à une [inspiration runique](../../rules/runes/inspiration/).
+Le même D8 peut servir de point de départ à une [inspiration runique](../time/runic-inspiration/).
 
 ## Saison
 

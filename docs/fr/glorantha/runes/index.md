@@ -19,4 +19,4 @@ Les Runes peuvent notamment :
 - servir d'appui à une Mise lorsque la fiction le permet ;
 - nourrir l'inspiration lorsque le Temps a besoin de faire émerger quelque chose.
 
-Pour utiliser les Runes comme outil d'exploration et d'inspiration, voir [Inspiration runique](./inspiration/).
+Pour utiliser les Runes comme outil d'exploration et d'inspiration, voir [Inspiration runique](../../time/runic-inspiration/).
