@@ -48,7 +48,7 @@ const lunarWayToc = {
   sectionDepth: 0,
   skipFirstDocument: true,
   numbered: false,
-  pageNumbers: false,
+  pageNumbers: true,
 };
 
 export default definePublications({
