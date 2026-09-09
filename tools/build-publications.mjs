@@ -102,6 +102,38 @@ function publicationCoverMarkdown(publication, localeConfig) {
 `;
 }
 
+function publicationThemeOverrides(localeConfig) {
+  const toc = localeConfig.toc ?? {};
+  const rules = [];
+
+  if (toc.numbered === false) {
+    rules.push(`
+nav[role='doc-toc'] ol {
+  padding-inline-start: 0;
+  list-style: none;
+}
+`);
+  }
+
+  if (toc.pageNumbers === false) {
+    rules.push(`
+nav[role='doc-toc'] a {
+  display: block;
+  width: auto;
+}
+
+nav[role='doc-toc'] a::before,
+nav[role='doc-toc'] a::after {
+  margin: 0;
+  border: 0;
+  content: none;
+}
+`);
+  }
+
+  return rules.join('');
+}
+
 function assetName(baseName, locale, format) {
   return `${baseName}-${locale}.${format}`;
 }
@@ -158,7 +190,12 @@ async function preparePublication(publicationName, publication, locale, localeCo
 
   const themeSource = path.join(projectRoot, publication.theme);
   const themeDestination = path.join(publicationWorkDir, 'theme.css');
-  await fs.copyFile(themeSource, themeDestination);
+  const theme = await fs.readFile(themeSource, 'utf8');
+  await fs.writeFile(
+    themeDestination,
+    `${theme}${publicationThemeOverrides(localeConfig)}`,
+    'utf8',
+  );
 
   const output = localeConfig.outputs.map((format) => ({
     path: path.join(
@@ -174,7 +211,7 @@ async function preparePublication(publicationName, publication, locale, localeCo
     language: locale,
     size: publication.size ?? 'A4',
     entry: [
-      ...(coverEntry ? [coverEntry] : []),
+      ...(coverEntry ? [{path: coverEntry, rel: 'cover'}] : []),
       {rel: 'contents'},
       ...entries,
     ],
@@ -183,7 +220,7 @@ async function preparePublication(publicationName, publication, locale, localeCo
     vfm: {rewriteRelativeHrefExtensions: true},
     toc: {
       title: localeConfig.tocTitle ?? (locale === 'fr' ? 'Sommaire' : 'Contents'),
-      sectionDepth: 2,
+      sectionDepth: localeConfig.toc?.sectionDepth ?? 2,
     },
     output,
     workspaceDir: '.vivliostyle',
