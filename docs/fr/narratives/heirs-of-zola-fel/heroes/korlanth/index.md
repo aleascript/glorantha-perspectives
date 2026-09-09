@@ -14,20 +14,20 @@ title: "Korlanth La Chance"
 
 ## Runes
 
-<img src="/img/runes/air.png" width="10%" />
+![Air](/img/runes/air.png)
 
 * Rebelle
 * Agir avec énergie
 * Liberté
 
-<img src="/img/runes/movement.png" width="10%" />
+![Mouvement](/img/runes/movement.png)
 
 * Rapide
 * Surprendre l'adversaire
 * Envol
 * Coureur d'orage
 
-<img src="/img/runes/luck.png" width="10%" />
+![Chance](/img/runes/luck.png)
 
 * Chanceux
 * Attirer les coïncidences

@@ -29,13 +29,19 @@ Tal a été apprenti auprès d'**Hendrik, fils d'Enderos**, Sage Gris de Lhankor
 
 ### Air — le milieu
 
+![Air](/img/runes/air.png)
+
 Tal se reconnaît dans l'espace entre les choses : terre et ciel, haut et bas, nuages, vent, Lune et étoiles. L'Air est aussi devenu, loin du clan, le rappel sensible de ses racines.
 
 ### Loi — ce qui lie
 
+![Loi](/img/runes/law.png)
+
 Tal avait d'abord reconnu cette aspiration comme **Harmonie** : les choses peuvent être différentes, voire contraires, tout en appartenant au même Cosmos. Lors de son initiation, il comprend que ce qu'il cherchait à nommer ainsi était pour lui la **Loi** : ce qui lie les choses sans abolir leurs différences.
 
 ### Vérité — ce qui met en mouvement
+
+![Vérité](/img/runes/truth.png)
 
 Tal avait d'abord reconnu cette aspiration comme **Mouvement**, sa curiosité et son besoin d'aller voir ailleurs. Lors de son initiation, il comprend que ce mouvement avait une direction : il cherchait la **Vérité**. La Vérité n'est pas pour lui la certitude possédée, mais ce qui oblige à continuer de chercher.
 

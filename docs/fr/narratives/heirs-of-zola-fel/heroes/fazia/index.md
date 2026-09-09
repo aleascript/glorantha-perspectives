@@ -14,21 +14,21 @@ title: "Fazia Hanout"
 
 ## Runes
 
-<img src="/img/runes/darkness.png" width="10%" />
+![Obscurité](/img/runes/darkness.png)
 
 * Se fondre dans la foule
 * Effacer ses traces
 * Cachette parfaite
 * Vol parfait
 
-<img src="/img/runes/illusion.png" width="10%" />
+![Illusion](/img/runes/illusion.png)
 
 * Masque méconnaissable
 * Dissimuler la vérité
 * Mentir avec conviction
 * Cacher un objet
 
-<img src="/img/runes/exchange.png" width="10%" />
+![Echange](/img/runes/exchange.png)
 
 * Égoïste
 * Inventive

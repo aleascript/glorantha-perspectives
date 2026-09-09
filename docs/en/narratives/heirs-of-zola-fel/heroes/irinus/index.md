@@ -14,19 +14,19 @@ title: "Irinus Solantis"
 
 ## Runes
 
-<img src="/img/runes/fire.png" width="10%" />
+![Sky](/img/runes/fire.png)
 
 * Thoughtful
 * Man of duty
 * Personal discipline
 
-<img src="/img/runes/mastery.png" width="10%" />
+![Mastery](/img/runes/mastery.png)
 
 * Merciless
 * Intimidating
 * Organize a plan
 
-<img src="/img/runes/war.png" width="10%" />
+![Guerre](/img/runes/war.png)
 
 * Organized war with rules, not butchery
 

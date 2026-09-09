@@ -14,21 +14,21 @@ title: "Fazia Hanout"
 
 ## Runes
 
-<img src="/img/runes/darkness.png" width="10%" />
+![Darkness](/img/runes/darkness.png)
 
 * Blend into the crowd
 * Erase one's tracks
 * Perfect hiding place
 * Perfect theft
 
-<img src="/img/runes/illusion.png" width="10%" />
+![Illusion](/img/runes/illusion.png)
 
 * Unrecognizable mask
 * Conceal the truth
 * Lie with conviction
 * Hide an object
 
-<img src="/img/runes/exchange.png" width="10%" />
+![Exchange](/img/runes/exchange.png)
 
 * Selfish
 * Resourceful

@@ -14,19 +14,19 @@ title: "Duckita"
 
 ## Runes
 
-<img src="/img/runes/water.png" width="10%" />
+![Water](/img/runes/water.png)
 
 * Moody
 * Perched
 * Lives by night
 
-<img src="/img/runes/spirits.png" width="10%" />
+![Spirits](/img/runes/spirits.png)
 
 * Hear, feel the spirit world
 * Negotiate with and fight spirits
 * Travel in spirit
 
-<img src="/img/runes/darkness.png" width="10%" />
+![Darkness](/img/runes/darkness.png)
 
 * Slip into the night
 * Sinister

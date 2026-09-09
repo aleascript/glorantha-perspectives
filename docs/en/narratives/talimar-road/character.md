@@ -29,13 +29,19 @@ Tal apprenticed under **Hendrik, son of Enderos**, a Grey Sage of Lhankor Mhy, b
 
 ### Air — the middle
 
+![Air](/img/runes/air.png)
+
 Tal recognizes himself in the space between things: earth and sky, high and low, clouds, wind, Moon and stars. Far from his clan, Air has also become the tangible reminder of his roots.
 
 ### Law — what binds
 
+![Law](/img/runes/law.png)
+
 Tal first recognized this aspiration as **Harmony**: things can be different, even contrary, while still belonging to the same Cosmos. During initiation, he understands that what he was trying to name was, for him, **Law**: what binds things without erasing their differences.
 
 ### Truth — what sets him in motion
+
+![Truth](/img/runes/truth.png)
 
 Tal first recognized this aspiration as **Movement**, his curiosity and need to go elsewhere. During initiation, he understands that this movement had a direction: he was seeking **Truth**. Truth is not certainty possessed, but what compels him to continue searching.
 
