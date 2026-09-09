@@ -1,8 +1,23 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-Gemfile.lock
-vendor/
-.bundle/
-.*.adoc
+# Dependencies
+/node_modules
+
+# Production
+/build
+/dist
+
+# Generated files
+.docusaurus
+.cache-loader
+.publication-workspace
+.release-prepared
+
+# Misc
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vivliostyle
+.vivliostyle/

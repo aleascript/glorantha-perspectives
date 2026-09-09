@@ -1,214 +1,99 @@
 # Glorantha Perspectives
 
-Ressources diverses pour l'univers-jeu **Glorantha** : règles diégétiques, moteur
-d'inspiration runique, histoires et notes.
+Glorantha Perspectives est un jeu de rôle pour explorer Glorantha à travers les vérités, croyances et choix de ceux qui y vivent.
 
-## Prérequis
-
-- **Ruby** 3.x ([ruby-lang.org](https://www.ruby-lang.org/))
-- **Bundler**
-
-### Installation de Ruby
-
-```bash
-# Ubuntu / Debian
-sudo apt install ruby-full build-essential
-
-# macOS (Homebrew)
-brew install ruby
-
-# Windows
-# https://rubyinstaller.org/
-```
-
-### Installation de Bundler
-
-```bash
-gem install bundler
-```
+Le contenu éditorial canonique se trouve dans `docs/`. Les chemins de référence sont en anglais ; les titres et le texte restent dans la langue de publication.
 
 ## Développement local
 
-```bash
-# 1. Cloner le projet
-git clone https://github.com/aleascript/glorantha-perspectives.git
-cd glorantha-perspectives
-
-# 2. Installer les dépendances (gems)
-bundle config set --local path vendor/bundle
-bundle install
-
-# 3. Lancer le serveur de développement
-bundle exec jekyll serve
-```
-
-Le site est accessible sur **http://localhost:4000/glorantha-perspectives/**.
-
-Le serveur rebuild automatiquement le site à chaque modification de fichier.
-
-### Build statique (sans serveur)
+Prérequis : Node.js 22 ou supérieur.
 
 ```bash
-bundle exec jekyll build
+npm install
+npm start
 ```
 
-Les fichiers générés se trouvent dans le dossier `_site/`.
+`npm start` est un alias de `npm run start:fr`.
 
-## Outils
-
-Des scripts dans `tools/` permettent de générer les PDF du SRD et des histoires, et d'optimiser les images.
-
-### Prérequis techniques
-
-- **asciidoctor-pdf** (pour `generate-srd-pdf.sh` et `generate-story-pdf.sh`)
-- **pandoc** (pour `generate-story-pdf.sh` : conversion Markdown → AsciiDoc)
-- **python3** (pour `generate-story-pdf.sh` : assemblage du document)
-- **Pillow** (pour `optimize-images.py` : conversion des images)
+### Commandes utiles
 
 ```bash
-# Installation d'asciidoctor-pdf (gem Ruby)
-gem install asciidoctor-pdf
-
-# Installation de pandoc
-sudo apt install pandoc
-
-# Installation de Pillow (Python)
-pip3 install pillow
+npm run start:fr           # serveur Docusaurus en français
+npm run build              # build complet du site
+npm run build:fr           # build français explicite
+npm run preview            # build puis prévisualisation du site généré
+npm run check              # typecheck + build
+npm run clear              # nettoyage du cache Docusaurus
+npm run typecheck          # vérification TypeScript
 ```
 
-### `optimize-images.py`
+## Publications
 
-Convertit en JPEG les PNG volumineux (`> 150 Ko` par défaut) pour réduire la taille du dépôt, des PDF et du site. Les PNG sous `content/assets/stories/`, `content/assets/srd/` et `assets/` (racine du site, ex. `header.png`) sont concernés ; les autres (runes, icônes) restent en PNG.
-
-Pour chaque image convertie, l'original est conservé à côté sous le nom `<nom>.original.png` et les références `<nom>.png` sont réécrites en `<nom>.jpg` dans les chapitres (`content/{fr,en}/stories/**/*.md`), les documents SRD (`srd/*.adoc`), les layouts (`_layouts/`) et `_config.yml`.
-
-Paramètres par défaut : qualité JPEG 85, dimension maximale 1400 px, aplati sur le fond du thème (`FBF7EF`). Le script est idempotent : relancer ne modifie rien si tout est déjà fait.
+Les publications sont composées depuis les mêmes fichiers Markdown que le site, selon `publications.config.mjs`.
 
 ```bash
-# Prévisualisation (aucune modification)
-python3 tools/optimize-images.py --dry-run
-
-# Application
-python3 tools/optimize-images.py
-
-# Personnalisation
-python3 tools/optimize-images.py --quality 90 --max-dim 1600
+npm run publication:build
 ```
 
-> Les originaux `.original.png` restent versionnés (source de secours) mais ne sont référencés par aucune page.
+Les PDF et le manifeste sont générés dans `dist/publications/`.
 
+Chaque publication déclare indépendamment sa version au format `YYYY-MM-DD`
+dans `publications.config.mjs`, à côté de son statut.
 
-### `generate-srd-pdf.sh`
-
-Convertit le SRD AsciiDoc `srd/glorantha-perspectives-${lang}.adoc` en PDF (page de garde, table des matières, runes intégrées) dans `content/${lang}/srd/`. Le PDF est nommé `glorantha-perspectives-${lang}.pdf` (sans version dans le nom, celle-ci étant lue dans l'attribut `:revnumber:` du document).
+Pour les copier dans le build du site sous `build/downloads/` :
 
 ```bash
-# Depuis la racine du projet (français par défaut)
-bash tools/generate-srd-pdf.sh
-
-# Autre langue (ex: anglais une fois le SRD traduit)
-bash tools/generate-srd-pdf.sh en
+npm run publication:site
 ```
 
-Le rendu est contrôlé par le thème `tools/srd-pdf-theme.yml` (inspiration Glorantha) qui peut être personnalisé.
-
-Le PDF `content/${lang}/srd/glorantha-perspectives-${lang}.pdf` est écrasé à chaque génération.
-
-### `generate-story-pdf.sh`
-
-Convertit l'histoire Markdown `content/${lang}/stories/${slug}/` en un PDF consolidé dans le même dossier. Le PDF contient, dans l'ordre : la présentation (`index.md`), les héros (`heroes/`), le récit (chapitres `NN/`) et le glossaire en annexe (`others/`), avec les images et une page de garde (`heroes.png`).
+Pour préparer un build de release avec les versions déclarées dans la
+configuration :
 
 ```bash
-# Depuis la racine du projet (français par défaut)
-bash tools/generate-story-pdf.sh la-voie-lunaire
-bash tools/generate-story-pdf.sh les-heritiers-de-zola-fel
-
-# Autre langue (ex: anglais)
-bash tools/generate-story-pdf.sh la-voie-lunaire en
+npm run release:prepare
 ```
 
-Les slugs disponibles sont `la-voie-lunaire` et `les-heritiers-de-zola-fel`. Le rendu réutilise le thème `tools/srd-pdf-theme.yml` (inspiration Glorantha). Le PDF `content/${lang}/stories/${slug}/${slug}.pdf` est écrasé à chaque génération ; il est référencé depuis la page d'accueil de l'histoire.
+Cette commande génère les publications, construit le site puis copie les publications dans le site.
 
-### Hooks git (génération automatique des PDF)
+### Publication continue
 
-Un hook `pre-commit` versionné (`git-hooks/pre-commit`) régénère automatiquement les PDF SRD et les PDF des histoires lorsque leurs fichiers sources sont modifiés. Pour l'activer sur un clone :
+Le workflow `.github/workflows/deploy-pages.yml` valide le site et toutes les
+publications sur chaque pull request. Sur `main`, il déploie toujours le site
+avec les PDF courants sous `/downloads/`.
 
-```bash
-bash tools/install-hooks.sh
+Les releases GitHub constituent des snapshots éditoriaux distincts du
+déploiement continu :
+
+- chaque publication possède sa propre version calendaire ISO `YYYY-MM-DD` ;
+- le workflow compare les couples `id` / `version` au manifeste de la dernière
+  release `publications-*` ;
+- si au moins une version a changé, il publie tous les PDF courants dans une
+  release `publications-YYYY-MM-DD` ;
+- plusieurs publications le même jour remplacent le snapshot de cette journée.
+
+Une modification sans changement de version est donc visible sur le site, mais
+ne crée pas de nouvelle release GitHub. Il faut mettre à jour la version de la
+publication concernée pour en conserver un nouveau snapshot.
+
+## Structure éditoriale
+
+```text
+docs/<lang>/
+├── index.md
+├── start/
+├── protagonists/
+├── time/
+├── perspectives/
+├── glorantha/
+├── narratives/
+├── reference/
+├── notes/
+├── about/
+└── archives/      # corpus historique, actuellement surtout FR
 ```
 
-Le hook s'exécute au moment du commit :
-- il détecte les `srd/*.adoc` en staging,
-- lance `tools/generate-srd-pdf.sh <lang>` pour chacun,
-- il détecte les changements sous `content/{fr,en}/stories/<slug>/` et `content/assets/stories/<slug>/` (hors `.pdf`), plus `content/assets/srd/` pour `les-heritiers-de-zola-fel` (portraits des héros),
-- lance `tools/generate-story-pdf.sh <slug> <lang>` pour chaque histoire concernée,
-- stage les PDF régénérés (et les suppressions d'anciennes versions).
+La navigation publique est centrée sur **Commencer**, **Protagonistes**, **Le Temps**, **Perspectives**, **Glorantha**, **Récits** et **Référence**. `notes/` et `archives/` restent dans le corpus sans constituer des pans du manuel de jeu.
 
-Si la génération échoue, le commit est annulé. Prérequis : `asciidoctor-pdf`, `pandoc` et `python3` (voir `install-hooks.sh`, qui les vérifie).
+Les récits utilisent le répertoire de référence `narratives/` : par exemple `narratives/the-lunar-way/` pour *La Voie Lunaire*.
 
-## Structure du projet
-
-```
-.
-├── _config.yml          # Configuration Jekyll
-├── _layouts/            # Templates HTML (layout principal)
-│   └── default.html
-├── assets/              # Fichiers statiques (CSS, images, JS)
-│   └── css/
-│       └── custom.scss
-├── content/             # Contenu du site (pages Markdown)
-│   ├── assets/          # Images partagées (stories, srd, rules)
-│   ├── notes/           # Notes diverses
-│   ├── stories/         # Histoires et sagas
-│   └── rules/           # Règles diégétiques
-├── git-hooks/           # Hooks git versionnés
-│   └── pre-commit       # Régénère les PDF SRD et des histoires
-├── tools/               # Scripts utilitaires
-│   ├── generate-srd-pdf.sh
-│   ├── generate-story-pdf.sh
-│   ├── install-hooks.sh
-│   ├── optimize-images.py
-│   ├── story-pdf.py
-│   └── srd-pdf-theme.yml
-├── index.md             # Page d'accueil
-├── Gemfile              # Dépendances Ruby
-├── .gitignore           # Fichiers ignorés par Git
-└── README.md            # Ce fichier
-```
-
-## Ajouter du contenu
-
-1. Créer un fichier Markdown dans le dossier `content/` correspondant
-2. Ajouter un **front matter YAML** en tête de fichier :
-   ```yaml
-   ---
-   title: Titre de la page
-   ---
-   ```
-3. Si le titre contient des `:`, le mettre entre guillemets :
-   ```yaml
-   title: "Mon titre: sous-titre"
-   ```
-4. Vérifier le rendu local avec `bundle exec jekyll serve`
-
-## Déploiement
-
-Le site est automatiquement déployé sur **GitHub Pages** à chaque push sur `main`
-via le support natif Jekyll de GitHub.
-
-**URL :** https://aleascript.github.io/glorantha-perspectives/
-
-### Configuration GitHub Pages
-
-Dans **Settings > Pages** du dépôt :
-- **Source** : `Deploy from a branch`
-- **Branch** : `main`, dossier `/ (root)`
-
----
-
-> *"This website uses trademarks and/or copyrights owned by Chaosium Inc/Moon
-> Design Publications LLC, which are used under Chaosium Inc's Fan Material
-> Policy. We are expressly prohibited from charging you to use or access this
-> content. This website is not published, endorsed, or specifically approved by
-> Chaosium Inc. For more information about Chaosium Inc's products, please visit
-> [www.chaosium.com](https://www.chaosium.com)."*
+Glorantha Perspectives est conçu dans le cadre de Resonance et utilise Regard comme framework de game design.
