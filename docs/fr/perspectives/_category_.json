@@ -1,5 +1,5 @@
 {
-  "label": "Règles",
-  "position": 3,
-  "link": {"type": "doc", "id": "rules/index"}
+  "label": "Perspectives",
+  "position": 5,
+  "link": {"type": "doc", "id": "perspectives/index"}
 }

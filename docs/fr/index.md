@@ -23,6 +23,6 @@ Vous n'avez pas besoin d'adopter une seule organisation de table. Le Temps peut 
 1. Lisez [Commencer à jouer](start/) pour comprendre la boucle générale.
 2. Fixez le vocabulaire avec [Protagonistes et Temps](start/vocabulary).
 3. Choisissez une [organisation de jeu](start/play-modes).
-4. Consultez les [règles](rules/) lorsque l'incertitude doit être résolue.
+4. Consultez les [Perspectives](perspectives/) lorsque l'incertitude doit être résolue.
 
 Les chapitres suivants approfondissent ensuite les visions du monde, les Runes, le Chaos, l'Illumination, les Quêtes héroïques et d'autres manières dont Glorantha transforme la résolution.

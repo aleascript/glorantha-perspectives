@@ -1,5 +1,5 @@
 {
   "label": "Protagonistes",
-  "position": 4,
-  "link": {"type": "doc", "id": "characters/index"}
+  "position": 3,
+  "link": {"type": "doc", "id": "protagonists/index"}
 }

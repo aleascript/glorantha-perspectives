@@ -23,6 +23,6 @@ You do not need to adopt a single table structure. Time may be carried by one pe
 1. Read [Start Playing](start/) to understand the overall loop.
 2. Establish the vocabulary with [Protagonists and Time](start/vocabulary).
 3. Choose how you want to [organize play](start/play-modes).
-4. Consult the [rules](rules/) when uncertainty needs to be resolved.
+4. Consult [Perspectives](perspectives/) when uncertainty needs to be resolved.
 
 Later chapters explore worldviews, Runes, Chaos, Illumination, Heroquests, and other ways in which Glorantha transforms resolution.

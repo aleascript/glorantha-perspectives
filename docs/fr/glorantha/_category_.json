@@ -1,5 +1,5 @@
 {
-  "label": "Glorantha au quotidien",
-  "position": 1,
-  "link": {"type": "doc", "id": "reference/glorantha/index"}
+  "label": "Glorantha",
+  "position": 6,
+  "link": {"type": "doc", "id": "glorantha/index"}
 }
