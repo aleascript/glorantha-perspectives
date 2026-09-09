@@ -8,6 +8,14 @@ title: Talimar's Road
 
 This narrative is not a mandatory creation method. It shows one simple possibility: **begin with a few truths, play, then let the character become more precise as the fiction gives them a history.**
 
+## Read Talimar's Road
+
+Three views let you go further:
+
+- [**Talimar's character sheet**](character.md) — the Protagonist as he stands at the end of the first session;
+- [**Actual Play — first session**](actual-play.md) — a detailed account of choices, Stakes, rolls, and table decisions;
+- [**Story — becoming a Grey Sage**](story.md) — the same events told as a continuous narrative.
+
 ## Tal before the sheet
 
 Talimar, called **Tal**, belongs to the Grey Heron clan of the Colymar tribe.

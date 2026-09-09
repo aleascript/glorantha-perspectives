@@ -28,6 +28,11 @@ const sidebars: SidebarsConfig = {
       label: t('Le Temps', 'Time'),
       link: {type: 'doc', id: 'time/index'},
       items: [
+        'glorantha/index',
+        'glorantha/runes/index',
+        'glorantha/calendar',
+        'glorantha/currency',
+        'glorantha/runic-imprint',
         'time/runic-inspiration/index',
         'time/generating-bonds/index',
         'time/creating-myths/index',
@@ -100,17 +105,6 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Glorantha',
-      link: {type: 'doc', id: 'glorantha/index'},
-      items: [
-        'glorantha/runes/index',
-        'glorantha/calendar',
-        'glorantha/currency',
-        'glorantha/runic-imprint',
-      ],
-    },
-    {
-      type: 'category',
       label: t('Récits', 'Narratives'),
       link: {type: 'doc', id: 'narratives/index'},
       items: [
@@ -173,6 +167,16 @@ const sidebars: SidebarsConfig = {
           ],
         },
         'narratives/gurdtars-banishment/index',
+        {
+          type: 'category',
+          label: t('La Route de Talimar', "Talimar's Road"),
+          link: {type: 'doc', id: 'narratives/talimar-road/index'},
+          items: [
+            'narratives/talimar-road/character',
+            'narratives/talimar-road/actual-play',
+            'narratives/talimar-road/story',
+          ],
+        },
       ],
     },
     {

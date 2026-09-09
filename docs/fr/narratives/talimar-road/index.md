@@ -8,6 +8,14 @@ title: La Route de Talimar
 
 Ce récit n'est pas un modèle obligatoire de création. Il montre une possibilité simple : **commencer avec quelques vérités, jouer, puis laisser le personnage se préciser à mesure que la fiction lui donne une histoire.**
 
+## Lire la Route de Talimar
+
+Trois lectures permettent d'aller plus loin :
+
+- [**Fiche de Talimar**](character.md) — l'état du Protagoniste à l'issue de cette première séance ;
+- [**Actual Play — première séance**](actual-play.md) — le déroulé détaillé des choix, Mises, tirages et décisions de table ;
+- [**Récit — devenir Sage Gris**](story.md) — la même histoire racontée comme un récit continu.
+
 ## Tal avant la fiche
 
 Talimar, dit **Tal**, appartient au clan du Héron Gris de la tribu Colymar.
