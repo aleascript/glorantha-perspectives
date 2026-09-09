@@ -107,7 +107,15 @@ const config: Config = {
     metadata: [{name: 'description', content: site.description}],
     colorMode: {respectPrefersColorScheme: true},
     navbar: {
-      title: site.title,
+title: site.title,
+      ...(site.identity.logo
+        ? {
+            logo: {
+              alt: `${site.title} logo`,
+              src: site.identity.logo,
+            },
+          }
+        : {}),
       items: [
         {
           type: 'docSidebar',

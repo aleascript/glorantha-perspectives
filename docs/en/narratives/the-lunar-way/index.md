@@ -2,13 +2,11 @@
 title: "The Lunar Way"
 ---
 
-# E PLVRIBVS VNVM. We Are All One [(1)](#note1)
+# E PLVRIBVS VNVM. We Are All One
 
 A Gloranthan solo exploration story first using HQ/G rules, then gradually incorporating tests of other rules that ultimately led to **Glorantha Perspectives**.
 
-**Download the consolidated PDF: [la-voie-lunaire.pdf](la-voie-lunaire.pdf)**
-
-# The heroes [(2)](#note2) 
+# The heroes
 
 ![The heroes](/img/narratives/the-lunar-way/heroes/heroes.jpg)
 
@@ -44,6 +42,6 @@ They are gathered in a [glossary](others) in alphabetical order.
 
 # Notes:
 
-<a id="note1"></a>(1) My initial project was to explore the lunar vision of the world a bit further, but the heroes' incursion into Sartar ended up changing their outlook. And as the story progressed, I have the feeling they may end up straying completely from the Lunar Way, at least some of them. It goes to show that characters eventually escape their creator.
+> (1) My initial project was to explore the lunar vision of the world a bit further, but the heroes' incursion into Sartar ended up changing their outlook. And as the story progressed, I have the feeling they may end up straying completely from the Lunar Way, at least some of them. It goes to show that characters eventually escape their creator.
 
-<a id="note2"></a>(2) The heroes were built in the HeroQuest/Glorantha fashion and reworked with [Rune Hearts](https://uzzgame.wordpress.com/rune-hearts/) style: runes, culture, occupation, beliefs, relationships... All keywords that could serve as bets (on top of the bets obtained according to the situation)
+> (2) The heroes were built in the HeroQuest/Glorantha fashion and reworked with [Rune Hearts](https://uzzgame.wordpress.com/rune-hearts/) style: runes, culture, occupation, beliefs, relationships... All keywords that could serve as bets (on top of the bets obtained according to the situation)

@@ -4,6 +4,8 @@ sidebar_position: 1
 slug: /
 ---
 
+![](/img/site/gp-logo-white-on-dark.png)
+
 # Glorantha Perspectives
 
 > *In tribute to Greg Stafford, the Great Shaman who first pierced the Veil to reveal the Hero Plane to us. May his spirit dance forever in God Time, and may his visions continue to inspire our own myths.*

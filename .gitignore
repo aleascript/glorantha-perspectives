@@ -11,10 +11,6 @@
 .publication-workspace
 .release-prepared
 
-# Legacy generated files
-vendor/
-_site/
-
 # Misc
 .DS_Store
 .env

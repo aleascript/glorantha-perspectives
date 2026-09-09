@@ -33,7 +33,6 @@ Les publications sont composées depuis les mêmes fichiers Markdown que le site
 
 ```bash
 npm run publication:build
-npm run publications:build   # alias accepté
 ```
 
 Les PDF et le manifeste sont générés dans `dist/publications/`.
@@ -42,7 +41,6 @@ Pour les copier dans le build du site sous `build/downloads/` :
 
 ```bash
 npm run publication:site
-npm run publications:site    # alias accepté
 ```
 
 Pour préparer un build de release avec une version explicite :

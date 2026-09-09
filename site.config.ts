@@ -1,3 +1,7 @@
+export type SiteIdentity = {
+  logo: string | null;
+  favicon: string | null;
+};
 export type ProjectLink = {label: string; href: string};
 export type SiteLineage = {designedWith: ProjectLink | null; poweredBy: ProjectLink | null};
 export type ThemePalette = {primary: string; background: string; surface: string; text: string; muted: string; border: string};
@@ -18,6 +22,10 @@ export const site = {
     fr: {htmlLang: 'fr', label: 'Français'},
     en: {htmlLang: 'en', label: 'English'},
   },
+    identity: {
+    logo: 'img/site/gp-logo-white-on-dark.png',
+    favicon: 'img/site/gp-logo-white-on-dark.png',
+  } satisfies SiteIdentity,
   repository: {defaultFullName: 'aleascript/glorantha-perspectives'},
   lineage: {
     designedWith: {label: 'Resonance', href: 'https://aleascript.github.io/resonance/'},
