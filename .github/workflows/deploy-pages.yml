@@ -74,6 +74,7 @@ jobs:
       - name: Detect unpublished publication versions
         id: publication_versions
         env:
+          GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
@@ -130,6 +131,7 @@ jobs:
       - name: Publish dated publication snapshot
         if: steps.publication_versions.outputs.changed == 'true'
         env:
+          GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
