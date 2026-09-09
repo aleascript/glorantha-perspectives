@@ -11,13 +11,13 @@ The Protagonists act freely within that Situation. Most of the time, the fiction
 
 When resolution becomes necessary:
 
-1. say what the Protagonists are trying to achieve;
-2. clarify what the scene is really deciding;
-3. identify what matters here and now;
-4. turn those relevant elements into Stakes;
+1. state what each side is actually trying to achieve;
+2. make important consequences visible when they are not obvious;
+3. state the **Focus** and its **Zoom**;
+4. identify **Frame Factors**, then the **Stakes** that matter here and now;
 5. roll the dice;
-6. read each side according to its worldview;
-7. interpret the result in the fiction;
+6. read each side according to its **Worldview**;
+7. interpret the result from the Situation and the Stakes;
 8. continue from what has just changed.
 
 Glorantha Perspectives is played by looking at the world first. The rules are there to decide what happens when that attention alone is no longer enough to make the outcome certain.

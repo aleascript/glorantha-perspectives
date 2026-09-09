@@ -11,13 +11,13 @@ Les Protagonistes agissent librement dans cette Situation. La plupart du temps, 
 
 Quand une résolution devient nécessaire :
 
-1. dites ce que les Protagonistes cherchent à obtenir ;
-2. précisez ce que la scène est réellement en train de trancher ;
-3. repérez ce qui compte ici et maintenant ;
-4. transformez ces éléments pertinents en Mises ;
+1. dites ce que chaque camp cherche réellement à obtenir ;
+2. rendez visibles les conséquences importantes qui ne sont pas évidentes ;
+3. précisez le **Focus** et son **Zoom** ;
+4. repérez les **Facteurs Cadres** puis les **Mises** qui comptent ici et maintenant ;
 5. lancez les dés ;
-6. lisez chaque camp selon sa vision du monde ;
-7. interprétez le résultat dans la fiction ;
+6. lisez chaque camp selon sa **Vision du monde** ;
+7. interprétez le résultat à partir de la Situation et des Mises ;
 8. poursuivez à partir de ce qui vient de changer.
 
 Glorantha Perspectives se joue en regardant d'abord le monde. Les règles servent à décider ce qui arrive quand ce regard ne suffit plus à rendre l'issue certaine.
