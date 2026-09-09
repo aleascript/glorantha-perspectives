@@ -133,6 +133,8 @@ async function preparePublication(publicationName, publication, locale, localeCo
     entries.push(sourcePath);
   }
 
+  // Docusaurus exposes the contents of static/ at the web root. Publications
+  // preserve the same /img/... URLs, so mirror that layout in Vivliostyle.
   const staticSource = path.join(projectRoot, 'static');
   const staticDestination = path.join(publicationWorkDir, 'static');
   const hasStatic = await pathExists(staticSource);
@@ -157,6 +159,10 @@ async function preparePublication(publicationName, publication, locale, localeCo
     author: publication.author,
     language: locale,
     size: publication.size ?? 'A4',
+    // Vivliostyle serves documents below /vivliostyle by default. Using /
+    // keeps Docusaurus-style absolute assets such as /img/foo.jpg on the
+    // same origin as the publication preview/render server.
+    base: '/',
     entry: [
       ...(coverEntry ? [coverEntry] : []),
       {rel: 'contents'},
