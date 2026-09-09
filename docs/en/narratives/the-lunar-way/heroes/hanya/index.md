@@ -12,19 +12,19 @@ title: "Hanya of Jillaro"
 
 # Runes
 
-<img src="/img/runes/fire.png" width="10%" />
+![Fire](/img/runes/fire.png)
 
 * Disciplined
 * Intransigent
 * Haughty toward barbarians
 
-<img src="/img/runes/harmony.png" width="10%" />
+![Harmony](/img/runes/harmony.png)
 
 * Calm tensions
 * Self-sacrifice
 * Ride a horse
 
-<img src="/img/runes/movement.png" width="10%" />
+![Movement](/img/runes/movement.png)
 
 * Fast
 * Cleaving axe blow
