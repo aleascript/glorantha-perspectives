@@ -60,6 +60,15 @@ function ensureDocumentTitleHeading(markdown) {
   return `${markdown.slice(0, insertionPoint)}\n# ${title}\n${markdown.slice(insertionPoint)}`;
 }
 
+function adaptPublicationMarkdown(markdown, locale) {
+  const diceAlt = locale === 'fr' ? 'Dé' : 'Dice';
+  const diceImage = `![${diceAlt}](/img/publication/dice.svg)`;
+
+  // Keep the canonical source friendly to the web, but replace emoji glyphs
+  // that are not reliably available in PDF fonts with a vector publication asset.
+  return ensureDocumentTitleHeading(markdown).replaceAll('🎲', diceImage);
+}
+
 function escapeHtml(value) {
   return String(value)
     .replaceAll('&', '&amp;')
@@ -126,7 +135,10 @@ async function preparePublication(publicationName, publication, locale, localeCo
   for (const sourcePath of localeConfig.contents) {
     const sourceAbsolute = path.join(projectRoot, sourcePath);
     const destinationAbsolute = path.join(publicationWorkDir, sourcePath);
-    const markdown = ensureDocumentTitleHeading(await fs.readFile(sourceAbsolute, 'utf8'));
+    const markdown = adaptPublicationMarkdown(
+      await fs.readFile(sourceAbsolute, 'utf8'),
+      locale,
+    );
 
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, markdown, 'utf8');
