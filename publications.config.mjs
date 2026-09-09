@@ -39,8 +39,8 @@ function lunarWayContents(locale) {
   return [
     `${root}/index.md`,
     ...lunarWayHeroes.map((hero) => `${root}/heroes/${hero}/index.md`),
-    `${root}/others/index.md`,
     ...lunarWayChapters.map((chapter) => `${root}/${chapter}/index.md`),
+    `${root}/others/index.md`,
   ];
 }
 
