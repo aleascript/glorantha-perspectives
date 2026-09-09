@@ -1,10 +1,10 @@
 ---
-title: "Meeting with the Aldryami"
+title: "Meeting with the Aldryami (Jaridan & Peek)"
 ---
 
 *Continuation of Jaridan & Peek's adventures*
 
-# The deep forest
+## The deep forest
 
 > 🎲 Having lost the notes on the conflicts, only the narrative remains.
 
