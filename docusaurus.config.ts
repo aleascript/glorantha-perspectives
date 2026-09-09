@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import remarkLocalImageBaseUrl from './plugins/remark-local-image-base-url.mjs';
 import {site} from './site.config';
 
 const repositoryFullName =
@@ -97,6 +98,9 @@ const config: Config = {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+          beforeDefaultRemarkPlugins: [
+            [remarkLocalImageBaseUrl, {baseUrl}],
+          ],
         },
         blog: false,
         theme: {customCss: './src/css/custom.css'},
