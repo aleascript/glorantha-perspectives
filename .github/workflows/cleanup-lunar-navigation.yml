@@ -1,0 +1,62 @@
+name: Cleanup Lunar Way navigation
+
+on:
+  push:
+    branches:
+      - refactor/player-guide-docusaurus
+    paths:
+      - .github/workflows/cleanup-lunar-navigation.yml
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: refactor/player-guide-docusaurus
+
+      - name: Remove legacy previous/next navigation
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          nav = re.compile(
+              r'^\|\s*\[(?:Précédent|Previous)\]\([^)]*\)\s*'
+              r'\|\s*\[(?:Suivant|Next)\]\([^)]*\)\s*\|\s*$'
+          )
+
+          roots = [
+              Path('docs/fr/narratives/the-lunar-way'),
+              Path('docs/en/narratives/the-lunar-way'),
+          ]
+
+          changed = []
+          for root in roots:
+              for path in root.rglob('*.md'):
+                  text = path.read_text(encoding='utf-8')
+                  lines = text.splitlines()
+                  cleaned = [line for line in lines if not nav.match(line)]
+                  if cleaned != lines:
+                      path.write_text('\n'.join(cleaned) + '\n', encoding='utf-8')
+                      changed.append(str(path))
+
+          print(f'Removed legacy navigation from {len(changed)} files')
+          for path in changed:
+              print(path)
+          PY
+
+      - name: Commit migration
+        run: |
+          if git diff --quiet -- docs/fr/narratives/the-lunar-way docs/en/narratives/the-lunar-way; then
+            echo "No legacy navigation found"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/fr/narratives/the-lunar-way docs/en/narratives/the-lunar-way
+          git commit -m "chore: remove legacy Lunar Way navigation"
+          git push origin HEAD:refactor/player-guide-docusaurus
