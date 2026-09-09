@@ -46,6 +46,7 @@ function lunarWayContents(locale) {
 
 const lunarWayToc = {
   sectionDepth: 0,
+  skipFirstDocument: true,
   numbered: false,
   pageNumbers: false,
 };
