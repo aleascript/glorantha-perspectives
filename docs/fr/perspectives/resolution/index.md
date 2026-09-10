@@ -28,7 +28,29 @@ Il ne s'agit pas de prédire toute la scène. Il s'agit de permettre au joueur d
 
 Si une chute peut être mortelle, si une cérémonie met une relation en danger ou si un échec livre un village à l'ennemi, dites-le avant de résoudre lorsque le Protagoniste peut raisonnablement le savoir.
 
-Voir aussi [Risques et conséquences](risk.md).
+### Annoncer le danger
+
+Quelques formulations simples peuvent suffire :
+
+- **« Ceci pourrait vous coûter cher. »** — blessure grave, perte d'un objet important, rupture d'un lien, réputation détruite ou autre conséquence lourde ;
+- **« Un échec pourrait être fatal. »** — la mort du Protagoniste est réellement en jeu ;
+- **« Le Chaos vous guette. »** — une transformation, une Souillure ou une conséquence irréversible est possible.
+
+Ces phrases ne constituent pas une échelle mécanique. Elles rendent le risque compréhensible avant que le joueur engage son Protagoniste.
+
+### Pouvoir revoir son Intention
+
+Une fois le danger compris, le joueur peut maintenir son Intention, changer de méthode ou réduire son objectif.
+
+Un Protagoniste qui voulait tuer un général lunaire peut décider qu'il cherche seulement à le retenir assez longtemps pour permettre une fuite. Le Focus, les Mises et les conséquences possibles changent avec cette nouvelle Intention.
+
+La résolution ne piège donc pas le joueur dans une formulation annoncée avant qu'il sache ce qu'elle engage réellement.
+
+### La mort n'est pas un résultat banal
+
+La mort met fin à une manière de suivre un Protagoniste et transforme souvent plusieurs relations autour de lui. Elle doit donc être cohérente avec ce qui était réellement engagé dans la Situation.
+
+Un tirage ordinaire dont personne n'avait compris le caractère létal ne devrait pas soudain devenir une sentence de mort.
 
 ## 3. Choisir le Focus et mettre deux issues en balance
 
@@ -60,11 +82,45 @@ Ce principe vaut aussi pour un échec déjà certain. Si un roi refusera nécess
 
 Le **Zoom** indique l'échelle du Focus : Action, Séquence ou Script.
 
+> **Le Focus dit ce que nous résolvons. Le Zoom dit à quelle échelle nous le résolvons.**
+
 Le même système peut trancher un geste, une scène entière, un voyage ou une opération complexe. Ne multipliez pas les tirages si une seule résolution suffit à répondre à la question qui intéresse la table.
 
 Le Zoom ne règle pas la difficulté. Il détermine quelles dimensions de la fiction restent distinctes à cette échelle.
 
-Voir [Action, Séquence et Script](scale.md).
+### Zoom Action
+
+Le Focus porte sur un geste ou un moment précis.
+
+> *Passer la porte avant qu'elle se referme.*
+
+L'espace des Mises est naturellement restreint. Plusieurs formulations d'un même avantage tendent à être redondantes parce que la résolution observe un instant étroit.
+
+### Zoom Séquence
+
+Le Focus porte sur une succession cohérente d'actions.
+
+> *Traverser les toits et semer les gardes avant d'atteindre le temple.*
+
+Des éléments qui auraient été redondants dans une action ponctuelle peuvent devenir distincts parce qu'ils concernent différentes dimensions de la Séquence : endurance, connaissance du quartier, aide d'un complice, pluie qui rend les tuiles glissantes, peur d'être reconnu.
+
+### Zoom Script
+
+Le Focus couvre un ensemble plus large : voyage, enquête, campagne militaire, négociation prolongée, projet complexe.
+
+> *Faire parvenir une caravane jusqu'à la cité assiégée.*
+
+Le Protagoniste ou le groupe peut alors mobiliser plusieurs dimensions réellement différentes : relations, logistique, réputation, savoir, endurance, richesse, protection politique, préparation ou sacrifices.
+
+Ce ne sont pas davantage de bonus parce que le conflit est plus long. **Ce sont davantage de dimensions pertinentes parce que la question posée est plus vaste.**
+
+Le Script n'ajoute pas, par lui-même, de procédure spéciale : il élargit le regard porté par le Focus.
+
+### Choisir le Zoom avant de lancer
+
+Le Zoom doit être compris avant le tirage. Un joueur doit savoir s'il risque de perdre **un échange de coups**, **tout le duel** ou **l'ensemble du plan**.
+
+Quand plusieurs échelles seraient raisonnables, choisissez celle qui laisse la meilleure place aux décisions que vous voulez réellement jouer.
 
 ### Un même raid, plusieurs manières de regarder
 
@@ -234,7 +290,13 @@ L'interprétation ne cherche donc pas nécessairement **la** cause correcte du r
 
 > **Avant le jet : qu'est-ce qui pourrait compter ? Après le jet : qu'est-ce qui semble avoir compté ?**
 
-Si un changement est durable et appartient désormais au Protagoniste, inscrivez-le sur sa description. Une blessure, un lien, une réputation, une obligation, un objet, un pouvoir, une compréhension ou une perte peuvent ainsi devenir de nouvelles vérités. Voir [Faire évoluer un Protagoniste](../../protagonists/#faire-évoluer-un-protagoniste).
+### Les conséquences deviennent des vérités
+
+Une blessure, une perte, un serment brisé ou une disgrâce n'est pas seulement un « malus ». Si la conséquence demeure vraie après la scène, inscrivez-la dans la fiction.
+
+Elle pourra ensuite peser comme Mise, devenir un Facteur Cadre ou simplement modifier ce qui est possible dans les Situations suivantes.
+
+Si ce changement appartient désormais au Protagoniste, inscrivez-le sur sa description. Une blessure, un lien, une réputation, une obligation, un objet, un pouvoir, une compréhension ou une perte peuvent ainsi devenir de nouvelles vérités. Voir [Faire évoluer un Protagoniste](../../protagonists/#faire-évoluer-un-protagoniste).
 
 La boucle complète devient :
 
