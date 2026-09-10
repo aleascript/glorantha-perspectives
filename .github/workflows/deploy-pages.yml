@@ -71,14 +71,22 @@ jobs:
           name: site-build
           path: build
 
-      - name: Detect unpublished publication versions
-        id: publication_versions
+      - name: Detect unpublished publication content
+        id: publication_state
         env:
           GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
           set -euo pipefail
+
+          current_manifest='dist/publications/publications.json'
+          release_date="$(date -u +%F)"
+
+          jq -e '
+            (.publications | length > 0) and
+            all(.publications[]; (.contentHash // "") != "")
+          ' "$current_manifest" > /dev/null
 
           latest_tag="$(
             gh release list \
@@ -103,24 +111,55 @@ jobs:
             fi
           fi
 
-          current_versions="$(
+          current_state="$(
             jq -cS \
-              '[.publications[] | {id, version}] | sort_by(.id)' \
-              dist/publications/publications.json
+              '[.publications[] | {id, version, contentHash}] | sort_by(.id)' \
+              "$current_manifest"
           )"
-          previous_versions='[]'
+          previous_state='[]'
+          previous_has_fingerprints=false
+
           if [[ -n "$previous_manifest" ]]; then
-            previous_versions="$(
+            previous_state="$(
               jq -cS \
-                '[.publications[] | {id, version}] | sort_by(.id)' \
+                '[.publications[] | {id, version, contentHash}] | sort_by(.id)' \
                 "$previous_manifest"
             )"
+            if jq -e '
+              (.publications | length > 0) and
+              all(.publications[]; (.contentHash // "") != "")
+            ' "$previous_manifest" > /dev/null; then
+              previous_has_fingerprints=true
+            fi
           fi
 
-          if [[ "$current_versions" == "$previous_versions" ]]; then
+          if [[ "$current_state" == "$previous_state" ]]; then
             changed=false
           else
             changed=true
+          fi
+
+          if [[ "$changed" == true && "$previous_has_fingerprints" == true ]]; then
+            stale_changes="$(
+              jq -r \
+                --arg today "$release_date" \
+                --slurpfile previous "$previous_manifest" '
+                  .publications[] as $current
+                  | ($previous[0].publications[] | select(.id == $current.id)) as $old
+                  | select(
+                      $old.contentHash != $current.contentHash and
+                      $current.version != $today
+                    )
+                  | "\($current.id) (version \($current.version))"
+                ' "$current_manifest"
+            )"
+
+            if [[ -n "$stale_changes" ]]; then
+              echo '::error::Publication content changed without updating its version to today.'
+              echo 'Update these publication versions before merging:'
+              echo "$stale_changes"
+              exit 1
+            fi
           fi
 
           {
@@ -129,7 +168,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Publish dated publication snapshot
-        if: steps.publication_versions.outputs.changed == 'true'
+        if: steps.publication_state.outputs.changed == 'true'
         env:
           GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -146,7 +185,7 @@ jobs:
             echo
             echo 'Versions publiées :'
             echo
-            jq -r '.publications[] | "- `\(.id)` : `\(.version)`"' \
+            jq -r '.publications[] | "- `\(.id)` : `\(.version)` — `\(.contentHash[0:12])`"' \
               dist/publications/publications.json
             echo
             printf 'Source : [%s](%s/%s/commit/%s)\n' \
