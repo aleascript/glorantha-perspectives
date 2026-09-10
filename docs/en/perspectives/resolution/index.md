@@ -28,7 +28,29 @@ This is not about predicting the whole scene. It is about letting the player dec
 
 If a fall may be lethal, a ceremony puts a relationship at risk, or failure leaves a village to the enemy, say so before resolving when the Protagonist could reasonably know it.
 
-See also [Risks and Consequences](risk.md).
+### State the danger
+
+A few simple phrases may be enough:
+
+- **“This could cost you dearly.”** — serious injury, loss of an important object, a broken bond, ruined reputation, or another heavy consequence;
+- **“Failure could be fatal.”** — the Protagonist's death is genuinely at stake;
+- **“Chaos is waiting for you.”** — transformation, Taint, or an irreversible consequence is possible.
+
+These phrases are not a mechanical scale. They make the risk understandable before the player commits their Protagonist.
+
+### Let the player reconsider the Intention
+
+Once the danger is understood, the player may keep the same Intention, change approach, or reduce the goal.
+
+A Protagonist who wanted to kill a Lunar general might decide instead to hold them back long enough for an escape. The Focus, Bets, and possible consequences change with that new Intention.
+
+Resolution therefore does not trap a player inside wording chosen before they knew what it would genuinely commit.
+
+### Death is not an ordinary result
+
+Death ends one way of following a Protagonist and often transforms several relationships around them. It should therefore be coherent with what was genuinely committed in the Situation.
+
+An ordinary roll that nobody understood to be lethal should not suddenly become a death sentence.
 
 ## 3. Choose the Focus and put two outcomes in the balance
 
@@ -60,11 +82,45 @@ The same principle applies to an already certain failure. If a king is bound to 
 
 The **Zoom** sets the scale of the Focus: Action, Sequence, or Script.
 
+> **The Focus says what we resolve. The Zoom says at what scale we resolve it.**
+
 The same system can decide a gesture, a whole scene, a journey, or a complex operation. Do not multiply rolls if one resolution answers the question the table actually cares about.
 
 Zoom does not set difficulty. It determines which dimensions of the fiction remain distinct at that scale.
 
-See [Action, Sequence and Script](scale.md).
+### Action Zoom
+
+The Focus concerns a gesture or a precise moment.
+
+> *Pass through the door before it closes.*
+
+The space of Bets is naturally restricted. Several phrasings of the same advantage tend to be redundant because the resolution is looking at a narrow instant.
+
+### Sequence Zoom
+
+The Focus concerns a coherent succession of actions.
+
+> *Cross the rooftops and lose the guards before reaching the temple.*
+
+Elements that would have been redundant in a single action can become distinct because they concern different dimensions of the Sequence: endurance, knowledge of the neighbourhood, help from an accomplice, rain making the tiles slippery, fear of being recognized.
+
+### Script Zoom
+
+The Focus covers a broader whole: journey, investigation, military campaign, prolonged negotiation, complex project.
+
+> *Get a caravan through to the besieged city.*
+
+The Protagonist or group can then bring several genuinely different dimensions into play: relationships, logistics, reputation, knowledge, endurance, wealth, political protection, preparation, or sacrifices.
+
+These are not more bonuses because the conflict lasts longer. **They are more relevant dimensions because the question itself is broader.**
+
+A Script does not, by itself, add a special procedure: it widens the view taken by the Focus.
+
+### Choose the Zoom before rolling
+
+The Zoom must be understood before the roll. A player should know whether they risk losing **one exchange of blows**, **the whole duel**, or **the entire plan**.
+
+When several scales would make sense, choose the one that leaves the most room for the decisions you actually want to play.
 
 ### One raid, several ways to look at it
 
@@ -82,7 +138,7 @@ At this scale, few dimensions matter: *Jarstang's long spear*, *Element of surpr
 
 Other dimensions become distinct: *Knowledge of the pastures*, *Fresh horses*, *Sparse sentries*, *Morning fog*, *A shepherd accomplice*, *Opposing warriors already close*.
 
-**Script Zoom.** The table does not want to play every step and wants to know how the raid went overall:
+**Script Zoom.** The table does not want to play each moment and wants to know how the raid went overall:
 
 > *When the riders return, can the clan consider that the raid went well?*
 
@@ -234,7 +290,13 @@ Interpretation therefore does not necessarily seek **the** correct cause of the 
 
 > **Before the roll: what might matter? After the roll: what now seems to have mattered?**
 
-If a change is lasting and now belongs to the Protagonist, record it in their description. An injury, bond, reputation, obligation, object, power, understanding, or loss may thus become a new truth. See [Protagonists](../../protagonists/).
+### Consequences become truths
+
+An injury, loss, broken oath, or disgrace is not merely a “penalty.” If the consequence remains true after the scene, write it into the fiction.
+
+It may later weigh as a Bet, become a Frame Factor, or simply change what is possible in later Situations.
+
+If that change now belongs to the Protagonist, record it in their description. An injury, bond, reputation, obligation, object, power, understanding, or loss may thus become a new truth. See [Protagonists](../../protagonists/).
 
 The complete loop is:
 
