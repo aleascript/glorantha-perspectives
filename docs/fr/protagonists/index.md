@@ -4,9 +4,22 @@ title: Protagonistes
 
 # Protagonistes
 
-Un Protagoniste est décrit par ce qui est vrai de lui dans Glorantha : ses appartenances, ses relations, ses obligations, ses croyances, ses blessures, ses ressources, sa magie et tout ce qui peut devenir important lorsqu'il agit.
+Créer un Protagoniste consiste d'abord à découvrir **ce qui compte pour lui** et ce qui pourra compter lorsqu'il agit dans Glorantha : ses appartenances, ses relations, ses obligations, ses croyances, ses Runes, ses blessures, ses ressources et sa magie.
 
-Il n'y a pas de liste de caractéristiques chiffrées à remplir. La création consiste à établir suffisamment de vérités pour savoir **qui est ce Protagoniste, ce qu'il veut et ce qui pourra peser dans ses Situations**.
+Il n'y a pas de liste de caractéristiques chiffrées à remplir ni d'inventaire exhaustif à compléter. Il suffit d'établir assez d'éléments pour savoir **qui est ce Protagoniste, ce qu'il veut et ce qui pourra peser dans ses Situations**.
+
+## Qu'est-ce qui compte pour lui ?
+
+Avant de chercher des détails, posez quelques questions simples :
+
+- **À qui appartient-il ?** Quelle communauté lui donne une place, des devoirs et des soutiens ?
+- **Quelles Runes le marquent ?** Que disent-elles de son caractère, de ses affinités et de ses contradictions ?
+- **Comment comprend-il le monde ?** Quels dieux, esprits, traditions ou principes donnent forme à sa Vision du monde ?
+- **À qui est-il lié ?** Qui aime-t-il, qui déteste-t-il, envers qui a-t-il une dette, un serment ou une responsabilité ?
+- **Qu'est-ce qui le distingue ?** Quel talent, défaut, objet, statut, savoir ou souvenir risque de revenir en jeu ?
+- **Qu'est-ce qui pourrait le mettre en mouvement ?** Que veut-il protéger, obtenir, réparer, comprendre ou refuser ?
+
+Vous n'avez pas besoin de répondre à tout avant de jouer. Ces questions servent à orienter le regard ; les Situations révéleront ce qui mérite réellement d'être développé.
 
 ## Identité
 
@@ -52,7 +65,7 @@ Elles peuvent exprimer :
 
 Une Rune n'est pas un bonus automatique. Elle devient une Mise lorsqu'elle compte réellement dans la Situation.
 
-Par exemple, une forte affinité avec **Air** peut soutenir l'impulsion, la fierté ou la violence d'un personnage ; **Illusion** peut soutenir le secret, la tromperie ou le jeu des apparences. Ces mêmes vérités peuvent aussi se retourner contre lui.
+Par exemple, une forte affinité avec **Air** peut soutenir l'impulsion, la fierté ou la violence d'un personnage ; **Illusion** peut soutenir le secret, la tromperie ou le jeu des apparences. Ces mêmes éléments peuvent aussi se retourner contre lui.
 
 ## Mots-clés et traits
 
@@ -73,7 +86,7 @@ Préférez ce qui évoque immédiatement une personne et un monde.
 
 ## État
 
-Notez les états qui méritent de rester vrais d'une Situation à l'autre :
+Notez les états qui méritent de rester présents d'une Situation à l'autre :
 
 - blessure ;
 - épuisement ;
@@ -114,13 +127,13 @@ Arrêtez la création lorsque vous savez répondre à ces questions :
 4. **Qu'est-ce qui compte profondément pour lui ?**
 5. **Qu'est-ce qui peut l'aider ou lui compliquer la vie dès la première Situation ?**
 
-Le reste peut apparaître pendant le jeu. Une vérité découverte plus tard peut être ajoutée lorsqu'elle devient importante.
+Le reste peut apparaître pendant le jeu. Un élément découvert plus tard peut être ajouté lorsqu'il devient important.
 
 ## Créer en jouant
 
 Il n'est pas nécessaire que toutes les réponses existent avant la première Situation.
 
-Vous pouvez commencer avec quelques vérités suffisamment solides pour jouer, puis découvrir le reste par les choix, les rencontres, les mythes et les conséquences. La feuille devient alors la mémoire de ce que la partie a réellement révélé du Protagoniste.
+Vous pouvez commencer avec quelques éléments suffisamment solides pour jouer, puis découvrir le reste par les choix, les rencontres, les mythes et les conséquences. La feuille devient alors la mémoire de ce que la partie a réellement révélé du Protagoniste.
 
 [**La Route de Talimar**](../narratives/talimar-road/) montre cette possibilité en jeu : Tal commence avec une appartenance, des contradictions et des questions, puis sa relation à Lhankor Mhy, ses Runes et son initiation se précisent au fil de la fiction.
 

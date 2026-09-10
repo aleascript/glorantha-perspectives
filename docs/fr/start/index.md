@@ -6,6 +6,14 @@ title: Commencer à jouer
 
 Une partie de Glorantha Perspectives commence dans une **Situation** : un endroit, des personnes, des relations et quelque chose qui mérite votre attention.
 
+Le geste fondamental du jeu est simple : **regardez ce qui compte**.
+
+- Pour les **Protagonistes** : qu'est-ce qui compte pour eux ?
+- Pour le **Temps** : qu'est-ce qui compte autour d'eux ?
+- Pour les **Perspectives** : qu'est-ce qui compte ici et maintenant, lorsque l'issue devient incertaine ?
+
+Vous n'avez pas besoin de tout connaître ni de tout prendre en compte. Commencez par ce que la Situation rend visible et important. Glorantha Perspectives se joue en portant son attention sur le monde, pas en cherchant d'abord la bonne règle.
+
 Les Protagonistes agissent librement dans cette Situation. La plupart du temps, la fiction avance sans lancer de dés. On résout seulement lorsque l'issue est à la fois **possible, importante et réellement incertaine**.
 
 Quand une résolution devient nécessaire :
@@ -19,4 +27,4 @@ Quand une résolution devient nécessaire :
 7. comparez ces réponses et interprétez le résultat à partir de la Situation et des Mises ;
 8. poursuivez à partir de ce qui vient de changer.
 
-Glorantha Perspectives se joue en regardant d'abord le monde. Les règles servent à décider ce qui arrive quand ce regard ne suffit plus à rendre l'issue certaine.
+Si vous découvrez Glorantha, commencez par [Glorantha en quelques repères](glorantha.md). Cette page ne cherche pas à résumer l'univers : elle vous donne une boussole pour savoir **où regarder** pendant la partie.
