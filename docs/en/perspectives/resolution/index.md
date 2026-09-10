@@ -26,6 +26,10 @@ When significant consequences of a choice are not obvious but the Protagonist co
 
 This is not about predicting the whole scene. It is about letting the player decide while genuinely knowing what is at risk.
 
+If a fall may be lethal, a ceremony puts a relationship at risk, or failure leaves a village to the enemy, say so before resolving when the Protagonist could reasonably know it.
+
+See also [Risks and Consequences](risk.md).
+
 ## 3. Choose the Focus and put two outcomes in the balance
 
 The **Focus** is the question the roll must answer.
@@ -109,6 +113,12 @@ Before counting dice, ask whether a truth closes a possibility, makes a means in
 
 A **Frame Factor** is not a bonus or penalty: it changes the space of possibilities. The fiction must change before a closed possibility can become an acceptable Focus.
 
+An ordinary human does not kill a Dragon with a toothpick by accumulating enough Bets. If that possibility is not open in Glorantha, the table does not frame “Do we kill it?” and then downgrade a Victory to a scratch after the roll.
+
+Instead, frame honestly what remains possible: survive, drive it back, reach a weakness, accomplish a necessary step, or transform the Situation.
+
+When the frame makes one side markedly more or less powerful without closing the action entirely, **weakened** or **heroic** modes may be used when the relevant Worldview rule provides for them.
+
 ## 6. Gather the Bets on each side
 
 Identify the elements that genuinely matter to the Focus. Each becomes a **Bet** and gives one die **on the side of the outcome it favours**.
@@ -124,21 +134,69 @@ A Bet is not favourable or unfavourable in the abstract. Its meaning depends on 
 
 An outcome may have **no Bet** and be represented by zero dice. A 0 / N resolution is valid; a 0 / 0 tells you to return to framing rather than roll dice that represent nothing.
 
-See [Bets](../bets/).
+The [Bets](../bets/) page explains relevance, non-redundancy, counter-Bets, and when to stop gathering them.
 
-## 7. Roll and read according to the Worldview
+### The Fate Gauge
 
-Roll the dice corresponding to the Bets on each side, then read each roll according to the **Worldview** that applies to it.
+The **Fate Gauge** is an optional shared tool that remembers successive asymmetries.
 
-An obstacle without a Worldview of its own may use **Mirror** or the **Middle World** described in [Bets](../bets/).
+It contains dice of two colours: one for the Protagonists, one for adversity. Opposing colours cancel each other.
 
-The roll and its reading produce, for each side, **reality's answer**. In most cases, it takes the form of a number of Successes.
+Before the roll, when the number of Bets differs between the two sides, add the difference to the Gauge in favour of the currently disadvantaged side. **These dice do not change the current resolution.**
 
-Then compare those Successes.
+Example: the Protagonists have 5 Bets and adversity 3. The resolution remains **5 against 3**, but the Gauge receives **2 adversity dice**. They may be spent later when a difficulty coherent with the fiction appears, according to the authority agreed by the table.
 
-A dominated result requires both a difference strictly greater than 1 and a winner's score strictly greater than twice the loser's score.
+The Gauge is a visible safety net, not an account that must be balanced after every scene. A table that does not need it may leave it out.
+
+## 7. Roll, read, and compare reality's answers
+
+Roll the dice corresponding to the Bets on each side.
+
+How a roll is read depends on the **Worldview** that applies to it:
+
+- [Animism](../animism/)
+- [Theism](../theism/)
+- [Logic](../logic/)
+- [Mysticism](../mysticism/)
+- [Draconic Thought](../draconic/)
+
+An obstacle without a Worldview of its own may be read in two ways:
+
+- **Mirror**: it uses the same reading as the Protagonist when the trial mainly represents their own overcoming;
+- **Middle World**: every even die is a Success and every odd die produces none when the obstacle is simply material or external.
+
+Place can change that reading. Climbing an ordinary mountain is not the same as climbing a mountain that is itself a sacred power.
+
+The roll and its reading provide, for each side, **reality's answer**. In most Worldviews, that answer can be expressed as a number of Successes comparable to the other side.
 
 The dice do not need to remain individually associated with Bets. Resolution answers **the whole of what was put into the balance**, not a series of independent little causes.
+
+### Compare reality's answers
+
+The outcome whose Bets produce more Successes prevails on the question set by the Focus.
+
+- **Victory / Defeat**: one side has more Successes than the other;
+- **Status quo**: a tie;
+- **Feat / Fiasco available**: the result is dominated.
+
+A result is **dominated** when both conditions are true:
+
+1. the difference is **strictly greater than 1 Success**;
+2. the winner has **strictly more than twice** the loser's Successes.
+
+Examples:
+
+- `2–0` → dominated result;
+- `3–1` → dominated result;
+- `4–2` → simple Victory / Defeat;
+- `5–2` → dominated result;
+- `6–3` → simple Victory / Defeat.
+
+Domination makes amplification available: the winner may achieve a **Feat** and the loser may suffer a **Fiasco**. The two are not automatically symmetrical; the fiction decides what amplification means on either side.
+
+The two outcomes stated before the roll are not an exhaustive catalogue of what may happen. They only define **what this resolution must decide**. The **And** of a Feat or Fiasco may add a consequence, discovery, transformation, or advantage that was not contained in their initial wording.
+
+On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Bets, let each actor who pushes the confrontation add a Bet representing their determination to end it, then resolve again.
 
 ## 8. Interpret and continue
 
@@ -176,7 +234,7 @@ Interpretation therefore does not necessarily seek **the** correct cause of the 
 
 > **Before the roll: what might matter? After the roll: what now seems to have mattered?**
 
-If a change is lasting and now belongs to the Protagonist, record it in their description.
+If a change is lasting and now belongs to the Protagonist, record it in their description. An injury, bond, reputation, obligation, object, power, understanding, or loss may thus become a new truth. See [Protagonists](../../protagonists/).
 
 The complete loop is:
 
