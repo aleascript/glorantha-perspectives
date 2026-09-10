@@ -32,7 +32,7 @@ Avant la partie, convenez au moins de ce que vous acceptez de mettre réellement
 
 Quand une résolution peut produire une conséquence exceptionnellement grave, annoncez-le avant le tirage. Le Protagoniste peut alors maintenir son intention, changer de méthode ou réduire son objectif.
 
-Voir [Résoudre une incertitude](../perspectives/resolution/).
+Voir [Risques et conséquences](../perspectives/resolution/framing.md#annoncer-le-danger).
 
 ## Les règles ne remplacent pas la conversation
 
