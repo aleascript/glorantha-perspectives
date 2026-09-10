@@ -14,11 +14,11 @@ Roll the dice corresponding to the Bets on each side.
 
 How a roll is read depends on the **Worldview** that applies to it:
 
-- [Animism](../animism/)
-- [Theism](../theism/)
-- [Logic](../logic/)
-- [Mysticism](../mysticism/)
-- [Draconic Thought](../draconic/)
+- [Animism](../../animism/)
+- [Theism](../../theism/)
+- [Logic](../../logic/)
+- [Mysticism](../../mysticism/)
+- [Draconic Thought](../../draconic/)
 
 An obstacle without a Worldview of its own may be read in two ways:
 
