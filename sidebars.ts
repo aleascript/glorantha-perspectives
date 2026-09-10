@@ -55,9 +55,10 @@ const sidebars: SidebarsConfig = {
           label: t('Résolution', 'Resolution'),
           link: {type: 'doc', id: 'perspectives/resolution/index'},
           items: [
-            'perspectives/resolution/scale',
-            'perspectives/resolution/problems',
-            'perspectives/resolution/risk',
+            'perspectives/resolution/framing',
+            'perspectives/resolution/balance',
+            'perspectives/resolution/reading-reality',
+            'perspectives/resolution/interpretation',
           ],
         },
         {

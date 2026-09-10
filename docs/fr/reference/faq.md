@@ -53,7 +53,7 @@ La mort n'est mise en jeu que lorsqu'elle fait réellement partie des conséquen
 
 Si une résolution peut être fatale, le joueur doit le savoir et pouvoir maintenir son intention, changer d'approche ou réduire son objectif.
 
-Voir [Risques et conséquences](../perspectives/resolution/risk.md).
+Voir [Risques et conséquences](../perspectives/resolution/framing.md#annoncer-le-danger).
 
 ## Dois-je lancer les dés pour chaque action difficile ?
 
@@ -63,7 +63,7 @@ Une résolution sert une incertitude importante que la table veut jouer. Une act
 
 Inversement, un seul tirage peut couvrir une scène entière, une bataille ou une suite d'étapes.
 
-Voir [Action, Séquence et Script](../perspectives/resolution/scale.md).
+Voir [Choisir le Zoom](../perspectives/resolution/framing.md#4-choisir-le-zoom).
 
 ## Peut-on jouer sans meneur de jeu ?
 
