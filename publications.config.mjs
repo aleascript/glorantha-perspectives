@@ -74,7 +74,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-09',
+      version: '2026-09-10',
       status: 'Draft',
       lineage: {
         designedWith: {
