@@ -4,9 +4,22 @@ title: Protagonists
 
 # Protagonists
 
-A Protagonist is described by what is true of them in Glorantha: their communities, relationships, obligations, beliefs, injuries, resources, magic, and anything that may become important when they act.
+Creating a Protagonist begins by discovering **what matters to them** and what may matter when they act in Glorantha: their communities, relationships, obligations, beliefs, Runes, injuries, resources, and magic.
 
-There is no list of numerical characteristics to fill in. Creation means establishing enough truths to know **who this Protagonist is, what they want, and what may weigh on their Situations**.
+There is no list of numerical characteristics to fill in and no exhaustive inventory to complete. You only need enough elements to know **who this Protagonist is, what they want, and what may weigh on their Situations**.
+
+## What matters to them?
+
+Before looking for details, ask a few simple questions:
+
+- **Who do they belong with?** What community gives them a place, duties, and support?
+- **What Runes mark them?** What do those Runes say about their character, affinities, and contradictions?
+- **How do they understand the world?** What gods, spirits, traditions, or principles shape their Worldview?
+- **Who are they bound to?** Whom do they love or hate, and to whom do they owe a debt, oath, or responsibility?
+- **What sets them apart?** What talent, flaw, object, status, knowledge, or memory is likely to return in play?
+- **What could move them to act?** What do they want to protect, gain, repair, understand, or refuse?
+
+You do not need to answer everything before play begins. These questions direct your attention; Situations will reveal what actually deserves to be developed.
 
 ## Identity
 
@@ -52,7 +65,7 @@ They may express:
 
 A Rune is not an automatic bonus. It becomes a Bet when it genuinely matters in the Situation.
 
-For example, a strong affinity with **Air** may support a character's impulsiveness, pride, or violence; **Illusion** may support secrecy, deception, or the play of appearances. The same truths can also turn against them.
+For example, a strong affinity with **Air** may support a character's impulsiveness, pride, or violence; **Illusion** may support secrecy, deception, or the play of appearances. The same elements can also turn against them.
 
 ## Keywords and traits
 
@@ -73,7 +86,7 @@ Prefer wording that immediately evokes a person and a world.
 
 ## State
 
-Record states that deserve to remain true from one Situation to the next:
+Record states that deserve to remain present from one Situation to the next:
 
 - injury;
 - exhaustion;
@@ -114,13 +127,13 @@ Stop creation when you can answer these questions:
 4. **What matters deeply to them?**
 5. **What can help them or complicate their life in the first Situation?**
 
-The rest can appear during play. A truth discovered later can be added when it becomes important.
+The rest can appear during play. An element discovered later can be added when it becomes important.
 
 ## Creating through play
 
 Not every answer has to exist before the first Situation.
 
-You can begin with a few truths solid enough to play, then discover the rest through choices, encounters, myths, and consequences. The sheet then becomes the memory of what play has actually revealed about the Protagonist.
+You can begin with a few elements solid enough to play, then discover the rest through choices, encounters, myths, and consequences. The sheet then becomes the memory of what play has actually revealed about the Protagonist.
 
 [**Talimar's Road**](../narratives/talimar-road/) shows this possibility in play: Tal begins with a community, contradictions, and questions, while his relationship with Lhankor Mhy, his Runes, and his initiation become clearer through the fiction.
 
