@@ -51,9 +51,15 @@ const sidebars: SidebarsConfig = {
           items: ['perspectives/bets/sample/index'],
         },
         {
-          type: 'doc',
+          type: 'category',
           label: t('Résolution', 'Resolution'),
-          id: 'perspectives/resolution/index',
+          link: {type: 'doc', id: 'perspectives/resolution/index'},
+          items: [
+            'perspectives/resolution/framing',
+            'perspectives/resolution/balance',
+            'perspectives/resolution/reading-reality',
+            'perspectives/resolution/interpretation',
+          ],
         },
         {
           type: 'category',
