@@ -14,11 +14,11 @@ Lancez les dés correspondant aux Mises de chaque côté.
 
 La manière de lire un tirage dépend de la **Vision du monde** qui s'y applique :
 
-- [Animisme](../animism/)
-- [Théisme](../theism/)
-- [Logique](../logic/)
-- [Mysticisme](../mysticism/)
-- [Pensée draconique](../draconic/)
+- [Animisme](../../animism/)
+- [Théisme](../../theism/)
+- [Logique](../../logic/)
+- [Mysticisme](../../mysticism/)
+- [Pensée draconique](../../draconic/)
 
 Un obstacle sans Vision du monde propre peut être lu de deux façons :
 
