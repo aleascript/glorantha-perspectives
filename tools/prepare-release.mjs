@@ -19,6 +19,7 @@ function run(command, args) {
 }
 
 run('npm', ['run', 'publication:build']);
+run('node', ['tools/fingerprint-publications.mjs']);
 run('npm', ['run', 'build']);
 run('npm', ['run', 'publication:site']);
 
