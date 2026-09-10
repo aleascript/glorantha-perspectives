@@ -6,6 +6,14 @@ title: Start Playing
 
 A game of Glorantha Perspectives begins in a **Situation**: a place, people, relationships, and something that deserves your attention.
 
+The game's fundamental gesture is simple: **look at what matters**.
+
+- For the **Protagonists**: what matters to them?
+- For **Time**: what matters around them?
+- For **Perspectives**: what matters here and now, when the outcome becomes uncertain?
+
+You do not need to know everything or take everything into account. Start with what the Situation makes visible and important. Glorantha Perspectives is played by paying attention to the world, not by searching for the right rule first.
+
 The Protagonists act freely within that Situation. Most of the time, the fiction moves forward without rolling dice. Resolve only when the outcome is **possible, important, and genuinely uncertain**.
 
 When resolution becomes necessary:
@@ -19,4 +27,4 @@ When resolution becomes necessary:
 7. compare those answers and interpret the result from the Situation and the Bets;
 8. continue from what has just changed.
 
-Glorantha Perspectives is played by looking at the world first. The rules are there to decide what happens when that attention alone is no longer enough to make the outcome certain.
+If you are discovering Glorantha, begin with [Glorantha at a Glance](glorantha.md). That page does not try to summarize the setting: it gives you a compass for knowing **where to look** during play.
