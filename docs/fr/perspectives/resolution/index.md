@@ -26,6 +26,10 @@ Lorsque les conséquences significatives d'un choix ne sont pas évidentes mais 
 
 Il ne s'agit pas de prédire toute la scène. Il s'agit de permettre au joueur de décider en sachant réellement ce qu'il risque.
 
+Si une chute peut être mortelle, si une cérémonie met une relation en danger ou si un échec livre un village à l'ennemi, dites-le avant de résoudre lorsque le Protagoniste peut raisonnablement le savoir.
+
+Voir aussi [Risques et conséquences](risk.md).
+
 ## 3. Choisir le Focus et mettre deux issues en balance
 
 Le **Focus** est la question à laquelle le jet doit répondre.
@@ -109,6 +113,12 @@ Avant de compter des dés, demandez si une vérité ferme une possibilité, rend
 
 Un **Facteur Cadre** n'est pas un bonus ou un malus : il change l'espace des possibles. La fiction doit évoluer avant qu'une possibilité fermée puisse devenir un Focus recevable.
 
+Un humain ordinaire ne tue pas un Dragon avec un cure-dent en accumulant suffisamment de Mises. Si cette possibilité n'est pas ouverte dans Glorantha, la table ne formule pas le Focus « Le tuons-nous ? » pour réduire ensuite une Victoire à une égratignure.
+
+Elle cadre honnêtement ce qui reste possible : survivre, le repousser, atteindre une faiblesse, accomplir une étape nécessaire ou transformer la Situation.
+
+Lorsque le cadre rend un côté nettement plus ou moins puissant sans fermer complètement l'action, les modes **affaibli** ou **héroïque** peuvent être utilisés quand la règle de la Vision du monde concernée le prévoit.
+
 ## 6. Réunir les Mises de chaque côté
 
 Repérez les éléments qui comptent réellement pour le Focus. Chacun devient une **Mise** et donne un dé **du côté de l'issue qu'elle favorise**.
@@ -124,21 +134,69 @@ Une Mise n'est pas favorable ou défavorable dans l'absolu. Son sens dépend de 
 
 Une issue peut n'avoir **aucune Mise** et être représentée par zéro dé. Une résolution 0 / N est valide ; un 0 / 0 signale qu'il faut revenir au cadrage plutôt que lancer des dés qui ne représentent rien.
 
-Voir [Mises](../bets/).
+La page [Mises](../bets/) détaille la pertinence, la non-redondance, les contre-Mises et la manière de clore cette étape.
 
-## 7. Tirer et lire selon la Vision du monde
+### La Jauge de Destin
 
-Lancez les dés correspondant aux Mises de chaque côté, puis lisez chaque tirage selon la **Vision du monde** qui s'y applique.
+La **Jauge de Destin** est un outil optionnel, commun à la table, qui garde la mémoire des asymétries successives.
 
-Un obstacle sans Vision du monde propre peut utiliser le mode **Miroir** ou le **Monde médian** décrit dans [Mises](../bets/).
+Elle contient des dés de deux couleurs : une couleur pour les Protagonistes, une pour l'adversité. Des dés de couleurs opposées s'annulent.
 
-Le tirage et sa lecture produisent, pour chaque côté, une **réponse du réel**. Dans la plupart des cas, elle prend la forme d'un nombre de Réussites.
+Avant le tirage, lorsque le nombre de Mises diffère entre les deux côtés, ajoutez à la Jauge la différence en faveur du côté actuellement désavantagé. **Ces dés ne modifient pas la résolution en cours.**
 
-Comparez ensuite ces Réussites.
+Exemple : les Protagonistes ont 5 Mises et l'adversité 3. La résolution reste à **5 contre 3**, mais la Jauge reçoit **2 dés d'adversité**. Ils pourront être dépensés plus tard lorsqu'une difficulté cohérente avec la fiction se présente, selon l'autorité convenue par la table.
 
-Un résultat dominé demande à la fois un écart strictement supérieur à 1 et un score du vainqueur strictement supérieur au double de celui du perdant.
+La Jauge sert de filet de sécurité visible, pas de comptabilité à équilibrer après chaque scène. Une table qui n'en a pas besoin peut ne pas l'utiliser.
+
+## 7. Tirer, lire et comparer les réponses du réel
+
+Lancez les dés correspondant aux Mises de chaque côté.
+
+La manière de lire un tirage dépend de la **Vision du monde** qui s'y applique :
+
+- [Animisme](../animism/)
+- [Théisme](../theism/)
+- [Logique](../logic/)
+- [Mysticisme](../mysticism/)
+- [Pensée draconique](../draconic/)
+
+Un obstacle sans Vision du monde propre peut être lu de deux façons :
+
+- **Miroir** : il utilise la même lecture que le Protagoniste lorsque l'épreuve représente surtout son propre dépassement ;
+- **Monde médian** : chaque dé pair est une Réussite et chaque dé impair n'en produit pas lorsque l'obstacle est simplement matériel ou extérieur.
+
+Le lieu peut changer cette lecture. Escalader une montagne ordinaire n'est pas la même chose que gravir une montagne qui est elle-même une puissance sacrée.
+
+Le tirage et sa lecture donnent, pour chaque côté, une **réponse du réel**. Dans la plupart des Visions du monde, cette réponse peut être exprimée sous la forme d'un nombre de Réussites comparable à celui de l'autre côté.
 
 Les dés n'ont pas besoin de rester associés un par un aux Mises. La résolution répond à **l'ensemble de ce qui a été mis dans la balance**, pas à une série de petites causes indépendantes.
+
+### Comparer les réponses du réel
+
+L'issue dont les Mises produisent le plus de Réussites s'impose sur la question posée par le Focus.
+
+- **Victoire / Défaite** : un côté obtient plus de Réussites que l'autre ;
+- **Statu quo** : égalité ;
+- **Exploit / Fiasco possibles** : le résultat est dominé.
+
+Un résultat est **dominé** lorsque les deux conditions suivantes sont réunies :
+
+1. l'écart est **strictement supérieur à 1 Réussite** ;
+2. le vainqueur obtient **strictement plus du double** des Réussites du perdant.
+
+Exemples :
+
+- `2–0` → résultat dominé ;
+- `3–1` → résultat dominé ;
+- `4–2` → Victoire / Défaite simples ;
+- `5–2` → résultat dominé ;
+- `6–3` → Victoire / Défaite simples.
+
+La domination rend une amplification disponible : le vainqueur peut accomplir un **Exploit** et le perdant peut subir un **Fiasco**. Les deux ne sont pas automatiquement symétriques ; la fiction décide ce que cette amplification signifie de chaque côté.
+
+Les deux issues posées avant le tirage ne constituent pas un catalogue exhaustif de ce qui peut arriver. Elles définissent seulement **ce que cette résolution doit trancher**. L'**Et** d'un Exploit ou d'un Fiasco peut ajouter une conséquence, une découverte, une transformation ou un avantage qui n'était pas contenu dans leur formulation initiale.
+
+En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque acteur qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
 
 ## 8. Interpréter et continuer
 
@@ -176,7 +234,7 @@ L'interprétation ne cherche donc pas nécessairement **la** cause correcte du r
 
 > **Avant le jet : qu'est-ce qui pourrait compter ? Après le jet : qu'est-ce qui semble avoir compté ?**
 
-Si un changement est durable et appartient désormais au Protagoniste, inscrivez-le sur sa description.
+Si un changement est durable et appartient désormais au Protagoniste, inscrivez-le sur sa description. Une blessure, un lien, une réputation, une obligation, un objet, un pouvoir, une compréhension ou une perte peuvent ainsi devenir de nouvelles vérités. Voir [Faire évoluer un Protagoniste](../../protagonists/#faire-évoluer-un-protagoniste).
 
 La boucle complète devient :
 
@@ -207,6 +265,6 @@ Les deux issues mises en balance sont :
 
 Le Protagoniste est théiste. Il obtient `4, 2, 1` : **2 Réussites**. L'adversité est lue selon le Monde médian et obtient `2, 5` : **1 Réussite**.
 
-La réponse du réel fait donc pencher la Situation vers la première issue. Le résultat est une **Victoire simple**, pas un Exploit : l'écart n'est que de 1.
+La réponse du réel fait donc pencher la Situation vers la première issue. Le résultat est une **Victoire** simple, pas un Exploit : l'écart n'est que de 1.
 
-Le messager atteint l'autre rive avant la patrouille. Les Mises donnent la matière de la description : sa connaissance du gué lui permet de choisir le bon passage, son cheval tient dans le courant et le vent couvre assez longtemps sa fuite. La fiction reprend à partir de ce nouvel état de la Situation : **il a franchi le gué avec le message**.
+Le messager atteint l'autre rive avant la patrouille. Les Mises fournissent la matière de la description : sa connaissance du gué lui fait choisir le bon passage, son cheval tient dans le courant et le vent couvre assez longtemps sa fuite. La fiction reprend depuis le nouvel état de la Situation : **il a franchi le gué avec le message**.
