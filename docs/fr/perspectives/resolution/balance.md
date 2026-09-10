@@ -35,7 +35,7 @@ Une Mise n'est pas favorable ou défavorable dans l'absolu. Son sens dépend de 
 
 Une issue peut n'avoir **aucune Mise** et être représentée par zéro dé. Une résolution 0 / N est valide ; un 0 / 0 signale qu'il faut revenir au cadrage plutôt que lancer des dés qui ne représentent rien.
 
-La page [Mises](../bets/) détaille la pertinence, la non-redondance, les contre-Mises et la manière de clore cette étape.
+La page [Mises](../../bets/) détaille la pertinence, la non-redondance, les contre-Mises et la manière de clore cette étape.
 
 ### La Jauge de Destin
 
