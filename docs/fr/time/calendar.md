@@ -12,15 +12,15 @@ Le calendrier le plus répandu divise l'année en **jours**, **semaines** et **s
 
 Lancez **2D6**. Lisez le premier dé, sauf en cas de double.
 
-| Résultat | Jour | Repère lunaire |
+| Résultat | Jour | Etat de la lune |
 | --- | --- | --- |
-| 1 | Gel | dernier croissant |
-| 2 | Eau | lune mourante |
-| 3 | Argile | nouvelle lune |
-| 4 | Vent | premier croissant |
-| 5 | Feu | premier quartier |
-| 6 | Sauvage | pleine lune |
-| double | Divin | dernier quartier |
+| 1 | ![](/img/runes/darkness.png) Gel | dernier croissant |
+| 2 | ![](/img/runes/water.png) Eau | lune mourante |
+| 3 | ![](/img/runes/earth.png) Argile | nouvelle lune |
+| 4 | ![](/img/runes/air.png) Vent | 1er croissant |
+| 5 | ![](/img/runes/fire.png) Feu | 1er quartier |
+| 6 | ![](/img/runes/moon.png) Sauvage | pleine lune |
+| double | ![](/img/runes/gods.png) Divin | dernier quartier |
 
 Le jour peut compter directement pour la [Voie Lunaire](../perspectives/moon/index.md), surtout hors de la Ligne Brillante.
 
@@ -30,14 +30,14 @@ Lancez **1D8**.
 
 | D8 | Semaine |
 | --- | --- |
-| 1 | Désordre |
-| 2 | Harmonie |
-| 3 | Mort |
-| 4 | Fertilité |
-| 5 | Stase |
-| 6 | Mouvement |
-| 7 | Illusion |
-| 8 | Vérité |
+| 1 | ![](/img/runes/disorder.png) Désordre |
+| 2 | ![](/img/runes/harmony.png) Harmonie |
+| 3 | ![](/img/runes/death.png) Mort |
+| 4 | ![](/img/runes/life.png) Fertilité |
+| 5 | ![](/img/runes/stasis.png) Stase |
+| 6 | ![](/img/runes/movement.png) Mouvement |
+| 7 | ![](/img/runes/illusion.png) Illusion |
+| 8 | ![](/img/runes/truth.png) Vérité |
 
 Le même D8 peut servir de point de départ à une [inspiration runique](runic-inspiration/index.md).
 
@@ -47,11 +47,11 @@ Lancez **2D20**. Lisez le premier dé, sauf en cas de double.
 
 | Résultat | Saison | Repère |
 | --- | --- | --- |
-| 1–4 | Mer | printemps |
-| 5–8 | Feu | été |
-| 9–12 | Terre | fin d'été et automne |
-| 13–16 | Sombre | hiver |
-| 17–20 | Tempêtes | fin d'hiver agitée |
-| double | Temps Sacré | période de rituels de nouvelle année |
+| 1–4 | ![](/img/runes/water.png) Mer | printemps |
+| 5–8 | ![](/img/runes/fire.png) Feu | été |
+| 9–12 | ![](/img/runes/earth.png) Terre | fin d'été et automne |
+| 13–16 | ![](/img/runes/darkness.png) Sombre | hiver |
+| 17–20 | ![](/img/runes/air.png) Tempêtes | fin d'hiver agitée |
+| double | ![](/img/runes/luck.png)![](/img/runes/fate.png) Temps Sacré | période de rituels de nouvelle année |
 
-En Temps Sacré, un double pair peut suggérer la Chance et un double impair le Destin lorsque vous utilisez ce tirage comme source d'inspiration.
+En Temps Sacré, un double pair peut indiquer la semaine de la Chance et un double impair la semaine du Destin lorsque vous utilisez ce tirage comme source d'inspiration.
