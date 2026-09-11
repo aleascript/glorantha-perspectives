@@ -25,6 +25,26 @@ Dans Glorantha Perspectives, les huit étapes suivent l'ordre numérique des hui
 | 7 | ![Vérité](/img/runes/truth.png) **Vérité** | La comparaison établit ce que le réel a effectivement répondu. |
 | 8 | ![Illusion](/img/runes/illusion.png) **Illusion** | Cette vérité reçoit une apparence fictionnelle particulière et devient Situation vécue. |
 
+## Les oppositions qui traversent le cycle
+
+Les huit Runes de Pouvoir ne forment pas une simple série : dans Glorantha, elles se répondent par **quatre couples opposés**. L'ordre numérique employé par Glorantha Perspectives n'est pas présenté comme un ordre canonique des Runes ; c'est celui déjà utilisé par l'Inspiration runique. Pourtant, une structure remarquable y apparaît :
+
+| Étape | Rune |  | Étape | Rune |
+| ---: | --- | :---: | ---: | --- |
+| 1 | ![Mouvement](/img/runes/movement.png) **Mouvement** | ↔ | 4 | ![Stase](/img/runes/stasis.png) **Stase** |
+| 2 | ![Mort](/img/runes/death.png) **Mort** | ↔ | 5 | ![Vie](/img/runes/life.png) **Vie** |
+| 3 | ![Harmonie](/img/runes/harmony.png) **Harmonie** | ↔ | 6 | ![Désordre](/img/runes/disorder.png) **Désordre** |
+| 7 | ![Vérité](/img/runes/truth.png) **Vérité** | ↔ | 8 | ![Illusion](/img/runes/illusion.png) **Illusion** |
+
+Sur les six premières positions, le Grand Cycle dessine ainsi **deux triades en miroir** : chaque Rune des étapes 1 à 3 retrouve son opposée exactement trois étapes plus loin. Ce motif symbolique ne remplace pas les quatre mouvements pratiques de la procédure ; il révèle une autre lecture du même cycle. Le dernier couple, ![Vérité](/img/runes/truth.png) **Vérité** / ![Illusion](/img/runes/illusion.png) **Illusion**, se referme directement en adjacence.
+
+- ![Mouvement](/img/runes/movement.png) **Mouvement** ↔ ![Stase](/img/runes/stasis.png) **Stase** — l'Intention ouvre une direction ; les Facteurs Cadres et les Mises arrêtent ensuite provisoirement le monde assez longtemps pour peser ce qui compte. **Mettre en mouvement, puis fixer.**
+- ![Mort](/img/runes/death.png) **Mort** ↔ ![Vie](/img/runes/life.png) **Vie** — les conséquences nomment ce qui peut finir, être perdu ou séparé ; le lancer anime ensuite la constellation ainsi constituée et fait naître une réponse encore potentielle. **Nommer ce qui peut finir, puis faire naître.**
+- ![Harmonie](/img/runes/harmony.png) **Harmonie** ↔ ![Désordre](/img/runes/disorder.png) **Désordre** — la table accorde d'abord ses regards sur une même question ; la Vision du monde recompose ensuite le tirage selon sa propre ontologie. **Accorder, puis recomposer.**
+- ![Vérité](/img/runes/truth.png) **Vérité** ↔ ![Illusion](/img/runes/illusion.png) **Illusion** — la comparaison établit ce que le réel a répondu ; cette réponse reçoit ensuite une apparence fictionnelle particulière et devient Situation vécue. Ici, Glorantha Perspectives lit l'opposition runique à travers sa propre procédure : **Vérité tranche ; Illusion manifeste.**
+
+Le cycle n'enchaîne donc pas seulement huit symboles. Il passe d'une puissance à son contraire jusqu'à ce qu'une réponse puisse devenir, à nouveau, le monde vécu.
+
 Ce cycle est **la Perspective de Glorantha Perspectives sur sa propre résolution**, pas une vérité cosmologique absolue qui surplomberait toutes les autres Perspectives de Glorantha. Son symbolisme approfondit la procédure ; il n'est jamais nécessaire pour simplement la suivre.
 
 Ceux qui souhaitent explorer davantage ces correspondances peuvent utiliser l'[Inspiration runique](../../time/runic-inspiration/) ou poursuivre la [Méditation sur les runes](../../notes/runes-meditation/).
