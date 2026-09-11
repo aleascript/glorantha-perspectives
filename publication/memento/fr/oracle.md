@@ -141,15 +141,6 @@ Cherchez librement une relation entre elles : cause / conséquence, personnes, a
 - **Musique :** unisson
 - **Liens / interdits :** ne jamais révéler son vrai nom ; ne jamais se montrer deux fois sous la même apparence ; toujours porter un masque dans certaines circonstances
 
-## Générer un Lien ou un interdit
-
-Choisissez ou tirez une Rune de Pouvoir, puis vérifiez :
-
-1. **Pourquoi ce lien existe-t-il ici ?**
-2. **Qui ou quoi l'impose ?**
-3. **Qu'apporte-t-il ou que protège-t-il ?**
-4. **Quelle conséquence fictionnelle aurait sa rupture ?**
-
 ## Oracle temporel
 
 Tirez 1D6.
