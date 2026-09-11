@@ -496,7 +496,7 @@ function publicationCoverMarkdown(
 
   return `<div class="publication-cover">
   <div class="publication-cover__visual">
-    <img class="publication-cover__image" src="${escapeHtml(cover.image)}" alt="${escapeHtml(cover.alt ?? localeConfig.title)}" />
+    <img role="doc-cover" class="publication-cover__image" src="${escapeHtml(cover.image)}" alt="${escapeHtml(cover.alt ?? localeConfig.title)}" />
   </div>
   <div class="publication-cover__text">
     ${seriesTitle}
@@ -671,6 +671,14 @@ async function preparePublication(
       title: localeConfig.tocTitle ?? (locale === 'fr' ? 'Sommaire' : 'Contents'),
       sectionDepth: localeConfig.toc?.sectionDepth ?? 2,
     },
+    ...(localeConfig.cover
+      ? {
+          cover: {
+            src: localeConfig.cover.image,
+            name: localeConfig.cover.alt ?? localeConfig.title,
+          },
+        }
+      : {}),
     output,
     workspaceDir: '.vivliostyle',
     ...(hasStaticImages ? {static: {'/img': staticImageDestination}} : {}),
