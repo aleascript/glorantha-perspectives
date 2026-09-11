@@ -74,7 +74,21 @@ Elle peut d'abord apparaître comme une anomalie, une exception ou un phénomèn
 
 Si cette nouvelle manière d'habiter le Cosmos devient stable, elle peut alors acquérir son propre Prisme et devenir une véritable Vision du monde.
 
-Et si d'autres commencent à voir le monde ainsi, les conséquences peuvent dépasser le Protagoniste. Des rites peuvent naître. Des institutions peuvent se former. Des mythes peuvent être relus. Des communautés peuvent changer leurs pratiques. Ce qui n'était au départ qu'une découverte individuelle peut finir par transformer la réalité sociale, magique ou mythique de Glorantha.
+Mais toute découverte de cette ampleur ne devient pas nécessairement une Vision. Certaines ne remplacent pas la manière dont on habite le Cosmos : elles peuvent **traverser plusieurs Visions**, les infléchir ou leur ouvrir une possibilité commune. Elles deviennent alors une [**Influence**](../influences/) plutôt qu'une Vision du monde.
+
+### Le précédent lunaire
+
+Glorantha possède déjà un précédent spectaculaire.
+
+En 1220, les **Sept Mères** retrouvèrent dans l'Autre Monde les fragments d'une déesse brisée et les recomposèrent en une entité vivante : la **Déesse Rouge, Sedenya**. Initiée par les Sept Mères, elle entreprit ensuite sa propre Quête de la Déesse. Les sept phases de la Lune conservent la trace des stations de cette Quête ; elle y rencontra notamment Nysalor et atteignit l'Illumination. Elle créa la magie lunaire et, en 1247, s'éleva dans le ciel sous la forme de la Lune Rouge.
+
+**Glorantha Perspectives** représente cet héritage par l'[**Influence lunaire**](../moon/) : un Théiste, un Animiste ou un Logicien peut rester dans sa Vision du monde tout en laissant sa relation à la Lune modifier la manière dont cette Vision lit le réel. Le principe nouveau ne remplace pas les ontologies antérieures : il les traverse.
+
+Les Sept Mères n'ont donc pas seulement ramené une déesse perdue. Elles ont déclenché un processus qui a fini par introduire dans Glorantha une nouvelle manière transmissible d'agir sur le réel.
+
+> **Et si vos Protagonistes accomplissaient quelque chose d'un ordre comparable ?** Ils n'ont pas besoin de créer une nouvelle Lune ni même une nouvelle divinité. Une Quête pourrait faire apparaître une Influence que d'autres pourront ensuite recevoir sans abandonner leur propre Vision du monde.
+
+Et si d'autres commencent à voir le monde ainsi — ou à subir cette nouvelle Influence — les conséquences peuvent dépasser le Protagoniste. Des rites peuvent naître. Des institutions peuvent se former. Des mythes peuvent être relus. Des communautés peuvent changer leurs pratiques. Ce qui n'était au départ qu'une découverte individuelle peut finir par transformer la réalité sociale, magique ou mythique de Glorantha.
 
 ## La Quête héroïque ultime ?
 
