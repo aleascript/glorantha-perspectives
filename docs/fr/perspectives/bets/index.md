@@ -88,7 +88,7 @@ Une Mise **pèse dans la balance**. Un **Facteur Cadre** détermine ce qui peut 
 
 Un humain ordinaire ne tue pas un Dragon avec un cure-dent en accumulant suffisamment de Mises. Si cette possibilité n'est pas ouverte dans Glorantha, elle ne devient simplement pas l'une des issues du Focus.
 
-La manière de repérer et d'appliquer ces limites appartient au [cadrage de la résolution](../resolution/#5-repérer-les-facteurs-cadres).
+La manière de repérer et d'appliquer ces limites appartient à l'étape [Stase de la résolution](../resolution/balance.md#repérer-les-facteurs-cadres).
 
 ## Opposition et contre-Mises
 
