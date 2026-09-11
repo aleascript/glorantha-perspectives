@@ -1,0 +1,87 @@
+---
+title: "Découvrir une nouvelle Vision du monde"
+---
+
+# Découvrir une nouvelle Vision du monde
+
+<div data-runes="chapter">
+  <img src="/img/runes/disorder.png" alt="Désordre" />
+</div>
+
+Les [Visions du monde](../worldviews/) présentées dans **Glorantha Perspectives** décrivent plusieurs manières profondes d'habiter le Cosmos. Elles ne constituent pas nécessairement un catalogue fermé.
+
+Une Quête héroïque peut transformer un Protagoniste, un culte, un mythe ou une part du monde. Dans les cas les plus extraordinaires, elle peut aller plus loin encore : faire apparaître une manière de comprendre le réel qui n'existait pas auparavant — ou que personne n'avait encore su reconnaître.
+
+Ce n'est pas simplement apprendre une pratique étrangère ni adopter une Vision déjà connue.
+
+**C'est découvrir que le monde peut répondre autrement.**
+
+## Désordre — quand les catégories connues ne suffisent plus
+
+Dans le [Grand Cycle de la résolution](../resolution/), la rune du **Désordre** correspond au moment où une Vision du monde recompose le tirage selon sa propre manière de lire le réel.
+
+Une découverte héroïque peut provoquer une rupture comparable à une autre échelle.
+
+Le Protagoniste a vécu quelque chose que sa Vision actuelle ne permet plus de comprendre pleinement. Une Rune peut avoir révélé un rapport inattendu au Cosmos. Une rencontre dans l'Autre Monde peut avoir rendu opératoire ce qui semblait impossible. Deux vérités jusque-là incompatibles peuvent avoir été réunies. Une voie entièrement nouvelle peut avoir été ouverte.
+
+Le point important n'est pas l'étrangeté de l'expérience, mais sa conséquence : **l'ancienne manière de lire le réel ne suffit plus**.
+
+## Une découverte, pas une invention de règle
+
+Ne commencez pas par chercher une mécanique originale.
+
+Commencez par ce qui s'est réellement passé dans la fiction.
+
+Demandez-vous :
+
+- qu'est-ce que le Protagoniste a découvert sur le Cosmos ?
+- qu'est-ce qui devient désormais important pour lui lorsqu'une Situation est incertaine ?
+- quels signes, motifs, relations ou ruptures perçoit-il que les autres ne perçoivent pas de la même manière ?
+- qu'est-ce que cette Vision lui fait espérer, craindre ou rechercher lorsque le réel doit répondre ?
+
+La règle ne vient qu'ensuite.
+
+Elle doit exprimer cette manière de penser assez fortement pour que le joueur la ressente en jouant. Si la même mécanique pouvait être remplacée par n'importe quel thème sans rien changer à l'expérience, la nouvelle Vision n'est probablement pas encore assez claire.
+
+> **Une nouvelle Vision du monde ne décore pas la résolution. Elle transforme ce que l'incertitude signifie pour celui qui habite ce monde.**
+
+## Du vécu au Prisme
+
+Dans **Glorantha Perspectives**, une Vision du monde agit normalement au moment du **Désordre** : les Mises ont déjà été réunies, les dés ont été lancés, puis la Vision détermine comment cette constellation devient lisible.
+
+Pour faire émerger une nouvelle Vision, cherchez donc d'abord son **Prisme** : la manière particulière dont elle transforme le tirage en réponse du réel.
+
+Quelques questions peuvent guider la table :
+
+1. **Quelle vérité sur le monde vient d'être découverte ?**  
+   Formulez-la sans parler de dés.
+2. **Quelle expérience doit-elle produire chez le joueur ?**  
+   Que doit-il commencer à remarquer, espérer ou redouter ?
+3. **Quelle propriété du tirage peut rendre cela perceptible ?**  
+   Une somme, des répétitions, des oppositions, des transformations, des annulations, des formes particulières ou autre chose encore peuvent devenir significatives.
+4. **La mécanique reste-t-elle lisible ?**  
+   Une Vision peut être étrange sans détourner toute l'attention vers sa procédure.
+5. **Correspond-elle vraiment à ce qui a été découvert dans la fiction ?**  
+   Le Prisme doit être la conséquence de l'expérience, pas son prétexte.
+
+Le reste du cycle de résolution de GP fournit un cadre commun : Intention, conséquences, Focus, Mises, réponse du réel et manifestation fictionnelle continuent d'ancrer cette nouvelle Perspective dans le même monde partagé.
+
+## Quand la découverte devient réelle
+
+Une intuition née pendant une Quête n'a pas nécessairement besoin de devenir immédiatement une Vision complète.
+
+Elle peut d'abord apparaître comme une anomalie, une exception ou un phénomène que personne ne sait expliquer. Le Protagoniste peut chercher à reproduire l'expérience, à la transmettre, à trouver des alliés capables de la comprendre ou à découvrir jusqu'où elle s'étend.
+
+Si cette nouvelle manière d'habiter le Cosmos devient stable, elle peut alors acquérir son propre Prisme et devenir une véritable Vision du monde.
+
+Et si d'autres commencent à voir le monde ainsi, les conséquences peuvent dépasser le Protagoniste. Des rites peuvent naître. Des institutions peuvent se former. Des mythes peuvent être relus. Des communautés peuvent changer leurs pratiques. Ce qui n'était au départ qu'une découverte individuelle peut finir par transformer la réalité sociale, magique ou mythique de Glorantha.
+
+## La Quête héroïque ultime ?
+
+Une Quête héroïque peut rapporter une connaissance, une bénédiction, un pouvoir, un objet ou une transformation du monde.
+
+Mais il existe peut-être une conquête plus profonde encore : **revenir avec une manière nouvelle pour le monde de devenir intelligible**.
+
+Le héros ne change alors pas directement toutes choses. Il change la relation par laquelle certaines choses peuvent être perçues, comprises et rendues possibles. Si cette Perspective se diffuse, le monde lui-même peut finir par en être transformé.
+
+> **Le Protagoniste n'est pas revenu avec une nouvelle règle. Il est revenu avec un monde auquel les anciennes règles ne suffisent plus.**
