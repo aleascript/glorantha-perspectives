@@ -12,7 +12,7 @@ It does not necessarily test whether an action “succeeds.” Success or failur
 
 ## The Grand Cycle of resolution
 
-In Glorantha Perspectives, the eight steps follow the numerical order of the eight Power Runes already used by [Runic Inspiration](../../../time/runic-inspiration/). A Situation is set in motion, passes through these powers, then becomes a new Situation.
+In Glorantha Perspectives, the eight steps follow the numerical order of the eight Power Runes already used by [Runic Inspiration](../../time/runic-inspiration/). A Situation is set in motion, passes through these powers, then becomes a new Situation.
 
 | Step | Rune | Function in resolution |
 | ---: | --- | --- |
@@ -27,7 +27,7 @@ In Glorantha Perspectives, the eight steps follow the numerical order of the eig
 
 This cycle is **Glorantha Perspectives' Perspective on its own resolution**, not an absolute cosmological truth standing above every other Perspective in Glorantha. Its symbolism deepens the procedure; it is never required simply to follow it.
 
-Those who want to explore these correspondences further can use [Runic Inspiration](../../../time/runic-inspiration/) or continue with [Meditations on the Runes](../../../notes/runes-meditation/).
+Those who want to explore these correspondences further can use [Runic Inspiration](../../time/runic-inspiration/) or continue with [Meditations on the Runes](../../notes/runes-meditation/).
 
 ## Four movements
 
