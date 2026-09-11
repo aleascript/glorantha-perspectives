@@ -130,9 +130,10 @@ function tocDocumentBlueprint(localeConfig) {
   return blueprint;
 }
 
-function vivliostyleConfigSource(task, tocBlueprint) {
+function vivliostyleConfigSource(task, tocBlueprint, documentOffset) {
   return `const task = ${JSON.stringify(task, null, 2)};
 const tocBlueprint = ${JSON.stringify(tocBlueprint, null, 2)};
+const documentOffset = ${JSON.stringify(documentOffset)};
 
 function renderTocList(nodes, nodeList, propsList) {
   return {
@@ -157,11 +158,12 @@ function renderTocList(nodes, nodeList, propsList) {
         }];
       }
 
-      const document = nodeList[node.index];
+      const documentIndex = node.index + documentOffset;
+      const document = nodeList[documentIndex];
       if (!document) {
         throw new Error(\`Publication ToC cannot resolve document index \${node.index}.\`);
       }
-      const sectionChildren = [propsList[node.index]?.children]
+      const sectionChildren = [propsList[documentIndex]?.children]
         .flat()
         .filter(Boolean);
       const nestedDocuments = node.children?.length
@@ -680,7 +682,7 @@ async function preparePublication(
   const configPath = path.join(publicationWorkDir, 'vivliostyle.config.js');
   await fs.writeFile(
     configPath,
-    vivliostyleConfigSource(task, tocBlueprint),
+    vivliostyleConfigSource(task, tocBlueprint, coverEntry ? 1 : 0),
     'utf8',
   );
   return configPath;
