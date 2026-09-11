@@ -38,6 +38,7 @@ const guideDocuments = [
   'perspectives/chaos/index.md',
   'perspectives/heroquests/index.md',
   'perspectives/creating-myths/index.md',
+  'perspectives/discovering-a-worldview/index.md',
   'reference/faq.md',
   'reference/probabilities.md',
   'about/index.md',

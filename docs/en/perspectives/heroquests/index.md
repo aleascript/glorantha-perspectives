@@ -25,4 +25,4 @@ Some aspects of heroquests:
 
 Even though Gloranthian myths are already very numerous to explore, you may want to [invent](../creating-myths/index.md) some.
 
-You could even return from a Heroquest [deeply transformed](../../notes/new-referentials).
+Some Heroquests can transform more than a myth or the visible world: they can lead a Protagonist to [**discover a new Worldview**](../discovering-a-worldview/).
