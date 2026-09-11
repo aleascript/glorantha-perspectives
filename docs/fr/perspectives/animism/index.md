@@ -1,36 +1,86 @@
 ---
-title: "L'animisme: le monde des esprits"
+title: "L'animisme : le monde des esprits"
 ---
 
 <div data-runes="chapter">
   <img src="/img/runes/spirits.png" alt="Monde des esprits" />
 </div>
 
-> Un animiste ressent le monde. Il ressent le lien entre le monde invisible et visible. C’est comme ça qu’il peut interpréter, décider, agir. Les animistes sont entre les deux mondes: le mondain et le spirituel. C’est leur Vision du monde. Toujours. Tout le temps.
+## Habiter le monde
 
-*Noms péjoratifs pour les autres: primitifs, sauvages, ...*
+L'animiste habite un monde peuplé.
 
-**Règles de résolution**
+Un ruisseau, une colline, une maladie, un animal, une arme ou un vent peuvent avoir une présence avec laquelle il faut compter.
 
-> Quand la piste s'efface, on appelle à soi les esprits du lieu et nos alliés invisibles, puis on écoute si le monde choisit de nous répondre à nous plutôt qu'à la menace.
- 
-- Les dés pairs (2, 4, 6) comptent comme une réussite (les esprits répondent).  
-- **Le Pacte Spirituel (Double impair) :** Les dés impairs représentent les esprits locaux, erratiques par nature. Cependant, si deux dés affichent exactement la même face impaire (ex : deux "3" ou deux "5"), ils forment ensemble 1 réussite. Cela traduit une résonance spirituelle entre la propre force spirituelle du personnage (l'un des dés) et un esprit spécifique (l'autre dé). Un pacte temporaire est alors scellé pour obtenir du soutien. Les impairs orphelins restent indifférents.
-- **Le Fétiche :** La relation avec les esprits est libre et spontanée. Il est possible de lier un esprit dans un fétiche (ou à l'inverse, subir le départ d'un esprit lié), mais cela ne survient qu'en cas de résultat narratif décisif. Cela demande l'obtention d'un **Exploit** (pour lier) ou la survenue d'un **Fiasco** (l'esprit s'enfuit).
+Les esprits ne constituent pas une armée invisible attendant ses ordres. Certains sont familiers, d'autres étrangers. Certains répondent spontanément. Certains doivent être reconnus, convaincus, apaisés ou liés.
 
-**Modes de puissance :**
+L'animiste ne demande donc pas seulement : « qu'est-ce qui peut m'aider ? » Il demande : **« qui est là, et quelle relation est possible maintenant ? »**
 
-- Mode **Affaibli :** Le lien avec le monde des esprits est rompu. Les pactes spirituels deviennent impossibles à sceller : les **"double impairs"** ne comptent plus et ne génèrent aucune réussite. Seuls les esprits indépendants (les dés pairs) continuent de se manifester.
-- Mode **Héroïque :** Alignement spirituel. Si le plus petit dé et le plus grand dé tirés sont de même parité (tous deux pairs ou tous deux impairs), le personnage obtient une réussite totale sur toutes ses mises.
+*Les autres les qualifient volontiers de primitifs ou de sauvages.*
 
-**Commentaires**
+## Lire le tirage
 
-Quand un animiste affronte une difficulté, il cherche à capter les énergies des esprits environnants ou en sa possession pour l’affronter. Il ne perçoit donc que des esprits qui peuvent l’aider, certains sont difficiles à convaincre, certains restent indifférents. Les dés ne font que représenter ce troc spirituel qui s’effectue en coulisse. 
+- Chaque dé **pair** compte comme une Réussite : un esprit répond.
+- Deux dés montrant le **même nombre impair** forment un **Pacte spirituel** et produisent ensemble une Réussite.
+- Un impair solitaire reste sans effet : quelque chose était présent, mais aucune relation utile n'a pu être établie.
 
-Le focus spécifique sur les tirages impairs représente l'attention permanente du personnage tournée vers le monde spirituel.  
+Un résultat décisif peut transformer une relation momentanée en relation durable :
 
-On pourrait presque voir chaque dé comme représentant un esprit. 
+- un **Exploit** peut permettre de lier un esprit dans un fétiche ;
+- un **Fiasco** peut entraîner le départ d'un esprit lié.
 
-[Et pourquoi pas un spirit bag?](spirit-bag)
+## Quand la Vision vacille ou s'accomplit
 
-[Rappel sur les aptitudes chamaniques](aptitudes) qui permet à certains animistes de réaliser des actions spirituelles que les autres ne peuvent absolument pas faire. 
+### Les Liens dénoués — Vision affaiblie
+
+Les dés pairs continuent de produire leurs Réussites. Les esprits existent toujours et certains répondent encore.
+
+Mais les doubles impairs ne peuvent plus former de Pacte spirituel.
+
+Le problème n'est pas l'absence du monde des esprits. C'est l'impossibilité d'établir avec lui une relation nouvelle.
+
+### Le Cercle des Esprits — Vision héroïque
+
+Si **le plus petit dé et le plus grand dé du tirage sont de même parité**, toutes les Mises réussissent.
+
+Les extrêmes se répondent. Ce qui semblait n'être qu'une collection de présences indépendantes apparaît soudain comme un ensemble accordé.
+
+Ce n'est plus un esprit qui répond, ni même un pacte particulier.
+
+**Le cercle entier s'est refermé autour de l'action.**
+
+## Où porter le regard
+
+Les pairs donnent immédiatement leurs Réussites.
+
+Mais votre attention doit surtout aller vers **les impairs**. Cherchez ceux qui se ressemblent : *qui vient de reconnaître qui ?*
+
+En Vision héroïque, élargissez ensuite votre regard aux deux extrêmes : *le plus humble et le plus puissant de ce qui s'est manifesté appartiennent-ils au même mouvement ?*
+
+## Exemple joué
+
+Une chamane cherche le passage permettant de traverser une zone marécageuse avant la tombée de la nuit.
+
+Elle obtient :
+
+`3 · 3 · 4 · 5 · 5`
+
+Le `4` répond directement : une Réussite. Les deux `3` forment un premier **Pacte spirituel**. Les deux `5` en forment un second.
+
+Le tirage donne donc trois Réussites.
+
+Dans la fiction, cela ne signifie pas nécessairement que trois esprits apparaissent devant elle. La chamane peut sentir le marais lui-même s'organiser autour de son passage : des insectes changent de direction, une nappe d'eau se retire, les roseaux révèlent un ancien chemin.
+
+Elle ne découvre pas seulement une route. Elle comprend avec quelles présences du lieu elle vient momentanément de s'accorder.
+
+> **CONCEPTION — Pourquoi cette lecture ?**
+>
+> L'Animisme ne transforme pas les impairs en simples résultats ratés. Ils représentent un monde spirituel présent mais difficile à accorder.
+>
+> Le Pacte spirituel fait émerger une Réussite de la **relation entre deux présences** plutôt que d'une face isolée.
+>
+> Le Cercle des Esprits porte cette logique à son accomplissement : lorsque les extrêmes eux-mêmes s'accordent, l'ensemble du tirage peut être lu comme une seule relation cohérente.
+
+[Et pourquoi pas un spirit bag ?](spirit-bag)
+
+[Rappel sur les aptitudes chamaniques](aptitudes) qui permettent à certains animistes de réaliser des actions spirituelles que les autres ne peuvent absolument pas faire.

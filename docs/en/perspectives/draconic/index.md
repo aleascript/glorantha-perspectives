@@ -7,48 +7,112 @@ title: "Draconic Thought: the Dragon's Dream"
   <img src="/img/runes/dragon.png" alt="Dragon" />
 </div>
 
-> An adept of the draconic path reads the world through paradoxes and a holistic view of their own draw. They participate in material reality like the others, but know that forcing the illusion with their cosmic magic ties them a little more to this world, delaying their own shedding into the True Dragon stage. Their true spiritual power lies in their strength to renounce victory when the magical opportunity presents itself.
+## Inhabiting the world
 
-![dices](/img/rules/draconic-dice.png)
-`Utuma with II successes or Wyrm with IV successes?`
+A dragonewt does not necessarily judge a Situation by what a human would call victory or defeat.
 
-*Derogatory names for others: monsters, incomprehensible...*
+Acting effectively in the material world is sometimes necessary. But using an available power can also strengthen precisely what the dragonewt seeks to shed.
 
-**Resolution rules**
+They therefore inhabit a tension uncommon to the other Worldviews: **being able to do something does not mean that doing it is desirable**.
 
-> Facing the illusion of conflict, one observes the patterns of the world, torn between the temptation to alter material reality to triumph, and the wisdom of renouncing to accomplish one's own shedding.
+The material world can be crossed, transformed, and even defeated. But every victory can become a new attachment.
 
-The roll reveals how the dragonewt integrates into reality or whether they decide to twist it.
+## Reading the roll
 
-Draconic Bets are represented by D8s.
+Draconic Bets use **D8s**.
 
-To read a roll according to **Draconic Thought**:
+Each even die — `2`, `4`, `6`, or `8` — is one ordinary Success.
 
-- **Materialism (The Standardized Action):** every even die — 2, 4, 6, 8 — counts as a Success with no negative spiritual consequence.
-- **The Draconic Rend:** if the roll reveals patterns of alteration beyond the norm, a strict decision must be made for *each* complex pattern identified:
-    - **The Egg's Stasis:** dice showing identical values — doubles, triples, and so on;
-    - **The Ouroboros:** the simultaneous presence of a 1 and an 8.
+Then look for complex patterns:
 
-Facing these complex patterns, the player chooses:
+- **The Egg's Stasis**: several dice show the same value;
+- **The Ouroboros**: the roll contains both a `1` and an `8`.
 
-- **The Wyrm:** the complex pattern can be converted into an additional Success. The dragonewt forces the world with Auld Wyrmish and becomes more anchored in it. They gain a new *link* or *negative attachment*. They may win the material conflict but regress spiritually.
-- **The Utuma (The Sacrifice):** the player ignores the advantage of Auld Wyrmish to preserve spiritual evolution. In case of death, the dragonewt will likely gain a higher stage on their next incarnation.
+![Draconic dice](/img/rules/draconic-dice.png)
 
-> Note: when an abstract, non-draconic obstacle is read through Draconic Thought by Mirror, it has no spiritual evolution to preserve. If a complex pattern appears in its roll, it uses **Wyrm**.
+For each complex pattern, choose:
 
-**Power modes**
+### Wyrm
 
-- **Weakened mode:** the spirit is numbed by matter. If complex patterns appear, the dragonewt is forced to assign them to the Wyrm, with its regression consequences. They cannot choose to elevate themselves through Utuma.
-- **Heroic mode (The Awakening of the True Dragon):** the paradox is resolved and duality fades. The dragonewt no longer has to choose between material victory and spiritual evolution. All complex patterns automatically count as spectacular Successes for the conflict, **AND** they gain the spiritual benefits of detachment through Utuma. They twist reality to triumph without becoming bound to it, because they have fully realized that the world itself is only a Dream of which they are the author.
+The pattern becomes an additional Success.
 
-**Comments**
+But the dragonewt becomes more attached to the world. Add or transform a **Bond** or **Negative Attachment** that expresses this new fixation.
 
-In Glorantha, Wyrms and Dream Dragons are draconic creatures that have remained prisoners of their earthly passions and matter. Choosing Wyrm means the dragonewt consciously uses cosmic power for mundane purposes. They lower themselves toward the level of a terrestrial monster anchored in the world rather than seeking spiritual elevation.
+The dragonewt may win here and now, but the choice weighs on their spiritual evolution.
 
-Note also the correspondence of the 8 power runes with the 8 numbers of the D8. The even runes are Death (2), Stasis (4), Disorder (6), Illusion (8). The runes that yield successes in the material world are seen as imperfect compared with Movement (1), Harmony (3), Life (5), and Truth (7). The use of those ordinary powers is not itself regressive; the moral dilemma appears when complex patterns make deeper magic available.
+### Utuma
 
-This mechanic allows the dragonewt to function normally in everyday tasks through the Materialist Path. The drama begins when deep magic operates: an exceptional roll is no longer simply an opportunity to crush an adversary, but a spiritual test in the eyes of their kind.
+The pattern gives no additional Success.
 
-Since dragonewts are rarely explored as player characters, the rule also provides a way to play those strange moments when overwhelmingly powerful creatures accept slaughter in pursuit of elevation. Whether a dragonewt is reborn immediately or ages later remains a narrative decision.
+The dragonewt refuses to twist reality for a material victory. This renunciation preserves spiritual progress and may matter when the next incarnation is understood.
 
-For Logicians, see also the [Ars Draconis Magica grimoire](ars-draconis-magica).
+Utuma is therefore not an imposed failure. It is **refusing a victory that could have been taken**.
+
+When an abstract obstacle is read through Draconic Thought by Mirror, it has no dragonewt spiritual evolution to preserve. If a complex pattern appears in its roll, it uses **Wyrm**: the pattern counts as a Success and no Utuma choice applies.
+
+## When the Worldview falters or is fulfilled
+
+### The Grip of the Wyrm — Weakened Worldview
+
+Every complex pattern must be played as **Wyrm**, with the corresponding consequences.
+
+The dragonewt still recognizes signs of their deeper nature, but can no longer renounce their material power.
+
+Transcendence is possible. Attachment is nevertheless always chosen.
+
+### The Awakening of the Dragon — Heroic Worldview
+
+The paradox between action and detachment disappears.
+
+Each complex pattern produces both:
+
+- the Success of **Wyrm**;
+- the spiritual benefit of **Utuma**.
+
+The dragonewt can act fully upon the world without becoming more bound to it.
+
+What was previously a dilemma becomes a unity.
+
+## Where to look
+
+Count the even dice first.
+
+Then, for a moment, forget the Successes.
+
+**Look for patterns.**
+
+Is there an Egg's Stasis? An Ouroboros?
+
+Above all: *what is this victory worth to the dragonewt?*
+
+The essential moment of the roll is not discovering the pattern. It is the choice that follows: **Wyrm or Utuma?**
+
+## Example of play
+
+A dragonewt rolls:
+
+`1 · 4 · 4 · 8`
+
+The two `4`s and the `8` give three ordinary Successes.
+
+But the roll also contains an **Egg's Stasis**, through the two `4`s, and an **Ouroboros**, through the `1` and `8`.
+
+Two complex patterns are therefore available.
+
+For the Stasis, the player chooses **Wyrm**: they gain one additional Success, but something about that victory now attaches the dragonewt more firmly to the world.
+
+For the Ouroboros, they choose **Utuma**: they renounce the additional Success and accept that this power will not serve their immediate interest.
+
+Material result: **4 Successes**.
+
+But the essential result for the dragonewt is not contained in that number alone. One part of what occurred drew them closer to the world. Another allowed them to detach from it.
+
+> **DESIGN — Why this reading?**
+>
+> Draconic Thought shifts the game's usual question. The player must not merely determine how to obtain the best result. They must decide whether **obtaining that result is worth the spiritual price of obtaining it**.
+>
+> The Egg's Stasis and the Ouroboros make that potential power visible. Wyrm and Utuma turn it into a choice.
+>
+> The Grip of the Wyrm removes the possibility of renunciation; the Awakening of the Dragon resolves the paradox by allowing action without attachment.
+
+For Logicians, see also the [Ars Draconis Magica grimoire](ars-draconis-magica/).
