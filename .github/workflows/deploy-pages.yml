@@ -35,31 +35,50 @@ jobs:
       - name: Diagnose English dev-server rune assets
         shell: bash
         run: |
-          set -euo pipefail
+          set -u
+          report=/tmp/dev-en-diagnostic.txt
+          : > "$report"
           npm run start:en -- --no-open --host 127.0.0.1 > /tmp/docusaurus-en.log 2>&1 &
           server_pid=$!
           trap 'kill "$server_pid" 2>/dev/null || true' EXIT
 
           page='http://127.0.0.1:3000/glorantha-perspectives/en/perspectives/resolution/framing/'
+          page_status=000
           for attempt in {1..60}; do
-            if curl --silent --fail --output /tmp/framing-en.html "$page"; then
+            page_status="$(curl --silent --output /tmp/framing-en.html --write-out '%{http_code}' "$page" || true)"
+            if [[ "$page_status" == 200 ]]; then
               break
             fi
             sleep 1
           done
 
-          test -s /tmp/framing-en.html || { cat /tmp/docusaurus-en.log; exit 1; }
-          grep -q 'data-runes=chapter' /tmp/framing-en.html
+          root_asset_status="$(curl --silent --output /dev/null --write-out '%{http_code}' \
+            'http://127.0.0.1:3000/glorantha-perspectives/img/runes/movement.png' || true)"
+          localized_asset_status="$(curl --silent --output /dev/null --write-out '%{http_code}' \
+            'http://127.0.0.1:3000/glorantha-perspectives/en/img/runes/movement.png' || true)"
 
-          echo 'Root asset:'
-          curl --silent --show-error --output /dev/null --write-out '%{http_code}\n' \
-            'http://127.0.0.1:3000/glorantha-perspectives/img/runes/movement.png'
-          echo 'Localized asset:'
-          curl --silent --show-error --output /dev/null --write-out '%{http_code}\n' \
-            'http://127.0.0.1:3000/glorantha-perspectives/en/img/runes/movement.png'
+          {
+            echo "page_status=$page_status"
+            echo "root_asset_status=$root_asset_status"
+            echo "localized_asset_status=$localized_asset_status"
+            echo '--- movement image refs in page ---'
+            if [[ -f /tmp/framing-en.html ]]; then
+              grep -o 'src=[^ >]*movement.png' /tmp/framing-en.html | head -10 || true
+              echo '--- data-runes snippets ---'
+              grep -o 'data-runes[^>]*' /tmp/framing-en.html | head -10 || true
+            fi
+            echo '--- dev server log ---'
+            tail -80 /tmp/docusaurus-en.log || true
+          } >> "$report"
 
-          grep -o 'src=[^ >]*movement.png' /tmp/framing-en.html | head -5
-          cat /tmp/docusaurus-en.log | tail -30
+          cat "$report"
+
+      - name: Upload English dev diagnostic
+        uses: actions/upload-artifact@v4
+        with:
+          name: dev-en-diagnostic
+          path: /tmp/dev-en-diagnostic.txt
+          if-no-files-found: error
 
       - name: Build site and publications
         run: npm run release:prepare
