@@ -74,7 +74,21 @@ It may first appear as an anomaly, an exception, or a phenomenon nobody knows ho
 
 If this new way of inhabiting the Cosmos becomes stable, it can then acquire its own Prism and become a true Worldview.
 
-And if others begin to see the world in the same way, the consequences can extend far beyond the Protagonist. Rites may arise. Institutions may form. Myths may be reread. Communities may change their practices. What began as an individual discovery may eventually transform Glorantha's social, magical, or mythical reality.
+But a discovery of this magnitude does not necessarily become a Worldview. Some discoveries do not replace the way one inhabits the Cosmos: they can **cross several Worldviews**, bend them, or open a common possibility within them. In that case they become an [**Influence**](../influences/) rather than a Worldview.
+
+### The Lunar precedent
+
+Glorantha already contains a spectacular precedent.
+
+In 1220, the **Seven Mothers** found the shattered pieces of a broken goddess in the Otherworld and reconstructed them into a living entity: the **Red Goddess, Sedenya**. Initiated by the Seven Mothers, she then undertook her own Goddess Quest. The seven phases of the Moon preserve the stations of that Quest; during it she encountered Nysalor and attained Illumination. She created Lunar magic and, in 1247, rose into the sky as the Red Moon.
+
+**Glorantha Perspectives** represents this legacy through the [**Lunar Influence**](../moon/): a Theist, Animist, or Logician can remain within their Worldview while their relationship to the Moon alters how that Worldview reads reality. The new principle does not replace earlier ontologies: it crosses them.
+
+The Seven Mothers therefore did more than restore a lost goddess. They set in motion a process that ultimately introduced into Glorantha a new, transmissible way of acting upon reality.
+
+> **What if your Protagonists accomplished something of comparable magnitude?** They need not create another Moon, or even another deity. A Quest could bring forth an Influence that others can later receive without abandoning their own Worldview.
+
+And if others begin to see the world this way — or come under this new Influence — the consequences can extend far beyond the Protagonist. Rites may arise. Institutions may form. Myths may be reread. Communities may change their practices. What began as an individual discovery may eventually transform Glorantha's social, magical, or mythical reality.
 
 ## The ultimate Heroquest?
 
