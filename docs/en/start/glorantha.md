@@ -69,7 +69,7 @@ You do not need to know every myth. When a resemblance becomes meaningful, it is
 
 Where an ordinary opponent still has a place in the Cosmos, Chaos can call into question what the Protagonists thought possible or stable. Its presence is recognized less by cruelty than by the way it distorts reality itself.
 
-See [Chaos](../perspectives/chaos/) for how this rupture can become an Influence in Glorantha Perspectives.
+See [Chaos](../perspectives/chaos/index.md) for how this rupture can become an Influence in Glorantha Perspectives.
 
 ## Beliefs change how people act
 
