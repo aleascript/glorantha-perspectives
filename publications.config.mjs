@@ -2,50 +2,106 @@ export function definePublications(config) {
   return config;
 }
 
-const guideDocuments = [
-  'index.md',
-  'start/index.md',
-  'start/vocabulary.md',
-  'start/glorantha.md',
-  'start/table-agreement.md',
-  'start/play-modes.md',
-  'protagonists/index.md',
-  'protagonists/examples.md',
-  'perspectives/taboos/index.md',
-  'time/index.md',
-  'time/runic-inspiration/index.md',
-  'time/runes/index.md',
-  'time/runic-imprint.md',
-  'time/generating-bonds/index.md',
-  'time/calendar.md',
-  'time/currency.md',
-  'perspectives/index.md',
-  'perspectives/bets/index.md',
-  'perspectives/resolution/index.md',
-  'perspectives/resolution/framing.md',
-  'perspectives/resolution/balance.md',
-  'perspectives/resolution/reading-reality.md',
-  'perspectives/resolution/interpretation.md',
-  'perspectives/worldviews/index.md',
-  'perspectives/theism/index.md',
-  'perspectives/animism/index.md',
-  'perspectives/logic/index.md',
-  'perspectives/mysticism/index.md',
-  'perspectives/draconic/index.md',
-  'perspectives/influences/index.md',
-  'perspectives/moon/index.md',
-  'perspectives/illumination/index.md',
-  'perspectives/chaos/index.md',
-  'perspectives/heroquests/index.md',
-  'perspectives/creating-myths/index.md',
-  'perspectives/discovering-a-worldview/index.md',
-  'reference/faq.md',
-  'reference/probabilities.md',
-  'about/index.md',
-];
+function mapDocumentTree(tree, mapPath) {
+  return tree.map((node) => {
+    if (typeof node === 'string') return mapPath(node);
+    const children = mapDocumentTree(node.children ?? [], mapPath);
+    return node.path
+      ? {...node, path: mapPath(node.path), children}
+      : {...node, children};
+  });
+}
+
+function flattenDocumentTree(tree) {
+  return tree.flatMap((node) => {
+    if (typeof node === 'string') return [node];
+    return [
+      ...(node.path ? [node.path] : []),
+      ...flattenDocumentTree(node.children ?? []),
+    ];
+  });
+}
+
+function guideDocumentTree(locale) {
+  return [
+    'index.md',
+    {
+      path: 'start/index.md',
+      children: [
+        'start/vocabulary.md',
+        'start/glorantha.md',
+        'start/table-agreement.md',
+        'start/play-modes.md',
+      ],
+    },
+    {
+      path: 'protagonists/index.md',
+      children: ['protagonists/examples.md', 'perspectives/taboos/index.md'],
+    },
+    {
+      path: 'time/index.md',
+      children: [
+        'time/runic-inspiration/index.md',
+        'time/runes/index.md',
+        'time/runic-imprint.md',
+        'time/generating-bonds/index.md',
+        'time/calendar.md',
+        'time/currency.md',
+      ],
+    },
+    {
+      path: 'perspectives/index.md',
+      children: [
+        'perspectives/bets/index.md',
+        {
+          path: 'perspectives/resolution/index.md',
+          children: [
+            'perspectives/resolution/framing.md',
+            'perspectives/resolution/balance.md',
+            'perspectives/resolution/reading-reality.md',
+            'perspectives/resolution/interpretation.md',
+          ],
+        },
+        {
+          path: 'perspectives/worldviews/index.md',
+          children: [
+            'perspectives/theism/index.md',
+            'perspectives/animism/index.md',
+            'perspectives/logic/index.md',
+            'perspectives/mysticism/index.md',
+            'perspectives/draconic/index.md',
+          ],
+        },
+        {
+          path: 'perspectives/influences/index.md',
+          children: [
+            'perspectives/moon/index.md',
+            'perspectives/illumination/index.md',
+            'perspectives/chaos/index.md',
+          ],
+        },
+        'perspectives/heroquests/index.md',
+        'perspectives/creating-myths/index.md',
+        'perspectives/discovering-a-worldview/index.md',
+      ],
+    },
+    {
+      label: locale === 'fr' ? 'Référence' : 'Reference',
+      children: ['reference/faq.md', 'reference/probabilities.md'],
+    },
+    'about/index.md',
+  ];
+}
+
+function guideStructure(locale) {
+  return mapDocumentTree(
+    guideDocumentTree(locale),
+    (document) => `docs/${locale}/${document}`,
+  );
+}
 
 function guideContents(locale) {
-  return guideDocuments.map((document) => `docs/${locale}/${document}`);
+  return flattenDocumentTree(guideStructure(locale));
 }
 
 const lunarWayHeroes = ['jaridan', 'ikarnos', 'hanya', 'peek-ee-peek'];
@@ -53,22 +109,37 @@ const lunarWayChapters = Array.from({length: 17}, (_, index) =>
   String(index + 1).padStart(2, '0'),
 );
 
-function lunarWayContents(locale) {
+function lunarWayStructure(locale) {
   const root = `docs/${locale}/narratives/the-lunar-way`;
   return [
     `${root}/index.md`,
-    ...lunarWayHeroes.map((hero) => `${root}/heroes/${hero}/index.md`),
-    ...lunarWayChapters.map((chapter) => `${root}/${chapter}/index.md`),
+    {
+      label: locale === 'fr' ? 'Héros' : 'Heroes',
+      children: lunarWayHeroes.map((hero) => `${root}/heroes/${hero}/index.md`),
+    },
+    {
+      label: locale === 'fr' ? 'Récit' : 'Story',
+      children: lunarWayChapters.map((chapter) => `${root}/${chapter}/index.md`),
+    },
     `${root}/others/index.md`,
   ];
 }
 
+function lunarWayContents(locale) {
+  return flattenDocumentTree(lunarWayStructure(locale));
+}
+
 const tocConfig = {
   sectionDepth: 0,
+  documentDepth: 2,
   skipFirstDocument: true,
   numbered: false,
   pageNumbers: true,
 };
+
+function tocWithStructure(structure) {
+  return {...tocConfig, documents: structure};
+}
 
 export default definePublications({
   site: {
@@ -94,7 +165,7 @@ export default definePublications({
         fr: {
           title: 'Guide de jeu',
           tocTitle: 'Sommaire',
-          toc: tocConfig,
+          toc: tocWithStructure(guideStructure('fr')),
           cover: {
             image: '/img/site/glorantha-perspectives-emblem.png',
             alt: 'Glorantha Perspectives',
@@ -106,7 +177,7 @@ export default definePublications({
         en: {
           title: 'Player Guide',
           tocTitle: 'Contents',
-          toc: tocConfig,
+          toc: tocWithStructure(guideStructure('en')),
           cover: {
             image: '/img/site/glorantha-perspectives-emblem.png',
             alt: 'Glorantha Perspectives',
@@ -119,7 +190,8 @@ export default definePublications({
     },
     'the-lunar-way': {
       author: 'AleaScript',
-      version: '2026-09-11',
+      version: '2021-05-01',
+      versionPolicy: 'fixed',
       status: 'To be continued',
       lineage: {
         designedWith: {
@@ -135,7 +207,7 @@ export default definePublications({
         fr: {
           title: 'La Voie Lunaire',
           tocTitle: 'Sommaire',
-          toc: tocConfig,
+          toc: tocWithStructure(lunarWayStructure('fr')),
           cover: {
             image: '/img/narratives/the-lunar-way/heroes/heroes.original.png',
             alt: 'Les quatre héros de La Voie Lunaire',
@@ -147,7 +219,7 @@ export default definePublications({
         en: {
           title: 'The Lunar Way',
           tocTitle: 'Contents',
-          toc: tocConfig,
+          toc: tocWithStructure(lunarWayStructure('en')),
           cover: {
             image: '/img/narratives/the-lunar-way/heroes/heroes.original.png',
             alt: 'The four heroes of The Lunar Way',

@@ -55,6 +55,147 @@ function normalizeRepoPath(value) {
   return value.split(path.sep).join('/');
 }
 
+function tocDocumentBlueprint(localeConfig) {
+  const toc = localeConfig.toc ?? {};
+  const documentTree = toc.documents ?? localeConfig.contents;
+  const documentDepth = Number.isInteger(toc.documentDepth)
+    ? toc.documentDepth
+    : Number.POSITIVE_INFINITY;
+  const indexByPath = new Map(
+    localeConfig.contents.map((sourcePath, index) => [
+      normalizeRepoPath(sourcePath),
+      index,
+    ]),
+  );
+  const seenIndexes = new Set();
+  let skippedFirstDocument = false;
+
+  function visit(nodes, depth) {
+    const result = [];
+
+    for (const rawNode of nodes ?? []) {
+      const node = typeof rawNode === 'string' ? {path: rawNode} : rawNode;
+      if (!node || typeof node !== 'object') {
+        throw new Error('Publication ToC nodes must be document paths or objects.');
+      }
+
+      const children = visit(node.children ?? [], depth + 1);
+      if (node.path) {
+        const normalizedPath = normalizeRepoPath(node.path);
+        const index = indexByPath.get(normalizedPath);
+        if (index === undefined) {
+          throw new Error(
+            `Publication ToC references a document that is not in contents: ${normalizedPath}`,
+          );
+        }
+        if (seenIndexes.has(index)) {
+          throw new Error(`Publication ToC references a document twice: ${normalizedPath}`);
+        }
+        seenIndexes.add(index);
+
+        if (toc.skipFirstDocument === true && !skippedFirstDocument) {
+          skippedFirstDocument = true;
+          result.push(...children);
+          continue;
+        }
+
+        if (depth <= documentDepth) {
+          result.push({type: 'document', index, children});
+        }
+        continue;
+      }
+
+      const label = typeof node.label === 'string' ? node.label.trim() : '';
+      if (!label) {
+        throw new Error('Publication ToC group nodes must define a non-empty label.');
+      }
+      if (depth <= documentDepth && children.length > 0) {
+        result.push({type: 'group', label, children});
+      }
+    }
+
+    return result;
+  }
+
+  const blueprint = visit(documentTree, 1);
+  if (seenIndexes.size !== localeConfig.contents.length) {
+    const missing = localeConfig.contents.filter(
+      (_sourcePath, index) => !seenIndexes.has(index),
+    );
+    throw new Error(
+      `Publication ToC is missing documents from contents: ${missing.join(', ')}`,
+    );
+  }
+
+  return blueprint;
+}
+
+function vivliostyleConfigSource(task, tocBlueprint, documentOffset) {
+  return `const task = ${JSON.stringify(task, null, 2)};
+const tocBlueprint = ${JSON.stringify(tocBlueprint, null, 2)};
+const documentOffset = ${JSON.stringify(documentOffset)};
+
+function renderTocList(nodes, nodeList, propsList) {
+  return {
+    type: 'element',
+    tagName: 'ol',
+    properties: {},
+    children: nodes.flatMap((node) => {
+      if (node.type === 'group') {
+        return [{
+          type: 'element',
+          tagName: 'li',
+          properties: {className: ['publication-toc-group']},
+          children: [
+            {
+              type: 'element',
+              tagName: 'span',
+              properties: {className: ['publication-toc-group-label']},
+              children: [{type: 'text', value: node.label}],
+            },
+            renderTocList(node.children ?? [], nodeList, propsList),
+          ],
+        }];
+      }
+
+      const documentIndex = node.index + documentOffset;
+      const document = nodeList[documentIndex];
+      if (!document) {
+        throw new Error(\`Publication ToC cannot resolve document index \${node.index}.\`);
+      }
+      const sectionChildren = [propsList[documentIndex]?.children]
+        .flat()
+        .filter(Boolean);
+      const nestedDocuments = node.children?.length
+        ? [renderTocList(node.children, nodeList, propsList)]
+        : [];
+
+      return [{
+        type: 'element',
+        tagName: 'li',
+        properties: {},
+        children: [
+          {
+            type: 'element',
+            tagName: 'a',
+            properties: {href: document.href},
+            children: [{type: 'text', value: document.title}],
+          },
+          ...sectionChildren,
+          ...nestedDocuments,
+        ],
+      }];
+    }),
+  };
+}
+
+task.toc.transformDocumentList = (nodeList) => (propsList) =>
+  renderTocList(tocBlueprint, nodeList, propsList);
+
+module.exports = task;
+`;
+}
+
 function splitHref(href) {
   const match = href.match(/^([^?#]*)([?#][\s\S]*)?$/);
   return match
@@ -324,6 +465,16 @@ function publicationVersion(publicationName, publication) {
   return version;
 }
 
+function publicationVersionPolicy(publicationName, publication) {
+  const policy = publication.versionPolicy ?? 'current';
+  if (policy !== 'current' && policy !== 'fixed') {
+    throw new Error(
+      `Publication "${publicationName}" versionPolicy must be "current" or "fixed".`,
+    );
+  }
+  return policy;
+}
+
 function publicationCoverMarkdown(
   publication,
   locale,
@@ -374,19 +525,18 @@ function publicationThemeOverrides(localeConfig) {
   const toc = localeConfig.toc ?? {};
   const rules = [];
 
-  if (toc.skipFirstDocument === true) {
-    rules.push(`
-nav[role='doc-toc'] > ol > li:first-child {
-  display: none;
-}
-`);
-  }
-
   if (toc.numbered === false) {
     rules.push(`
 nav[role='doc-toc'] ol {
-  padding-inline-start: 0;
   list-style: none;
+}
+
+nav[role='doc-toc'] > ol {
+  padding-inline-start: 0;
+}
+
+nav[role='doc-toc'] ol ol {
+  padding-inline-start: 1.35em;
 }
 `);
   }
@@ -528,8 +678,13 @@ async function preparePublication(
     ...(hasStaticImages ? {static: {'/img': staticImageDestination}} : {}),
   };
 
-  const configPath = path.join(publicationWorkDir, 'vivliostyle.config.json');
-  await fs.writeFile(configPath, JSON.stringify(task, null, 2), 'utf8');
+  const tocBlueprint = tocDocumentBlueprint(localeConfig);
+  const configPath = path.join(publicationWorkDir, 'vivliostyle.config.js');
+  await fs.writeFile(
+    configPath,
+    vivliostyleConfigSource(task, tocBlueprint, coverEntry ? 1 : 0),
+    'utf8',
+  );
   return configPath;
 }
 
@@ -539,6 +694,7 @@ function publicationManifest() {
       id,
       outputName: publication.outputName ?? id,
       version: publicationVersion(id, publication),
+      versionPolicy: publicationVersionPolicy(id, publication),
       status: publicationStatus(id, publication),
       locales: Object.fromEntries(
         Object.entries(publication.locales).map(([locale, localeConfig]) => [
@@ -565,6 +721,7 @@ async function main() {
 
   for (const [publicationName, publication] of Object.entries(config.publications)) {
     const version = publicationVersion(publicationName, publication);
+    publicationVersionPolicy(publicationName, publication);
     for (const [locale, localeConfig] of Object.entries(publication.locales)) {
       console.log(`Building ${publicationName} ${version} (${locale})...`);
       const configPath = await preparePublication(
