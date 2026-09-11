@@ -15,6 +15,10 @@ This phase gathers steps 5 and 6: **Life** for the roll, **Disorder** for readin
 
 ## 5. Life
 
+<div data-runes="rune">
+  <img src="/img/runes/life.png" />
+</div> 
+
 ### Roll the dice
 
 Roll the dice corresponding to the Bets on each side.
@@ -24,6 +28,10 @@ The roll animates the constellation of what was put into the balance, but it is 
 The dice do not need to remain individually associated with Bets. Resolution answers **the whole of what was put into the balance**, not a series of independent little causes.
 
 ## 6. Disorder
+
+<div data-runes="rune">
+  <img src="/img/runes/disorder.png" />
+</div> 
 
 ### Read according to Worldview
 

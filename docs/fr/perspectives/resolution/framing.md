@@ -15,6 +15,11 @@ Cette première phase rassemble les étapes 1 et 2 : **Mouvement** pour l'Intent
 
 ## 1. Mouvement
 
+<div data-runes="rune">
+  <img src="/img/runes/movement.png" />
+</div> 
+
+
 ### Dire les Intentions
 
 Que cherchent réellement les Protagonistes, Forces ou autres acteurs engagés ?
@@ -26,6 +31,10 @@ Tout ce qui intervient dans une résolution ne porte pas nécessairement une vol
 L'Intention donne une direction à la Situation. Elle ne formule pas encore la question exacte que les dés devront trancher : cette question sera accordée au moment du Focus.
 
 ## 2. Mort
+
+<div data-runes="rune">
+  <img src="/img/runes/death.png" />
+</div> 
 
 ### Rendre visibles les conséquences importantes
 

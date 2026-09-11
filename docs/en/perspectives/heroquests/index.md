@@ -23,6 +23,6 @@ Some aspects of heroquests:
 - More pronounced [runic colors](../../notes/runic-colors)
 - A [Otherworld marked by runes](../../notes/runic-forms/)
 
-Even though Gloranthian myths are already very numerous to explore, you may want to [invent](../../time/creating-myths/index.md) some.
+Even though Gloranthian myths are already very numerous to explore, you may want to [invent](../creating-myths/index.md) some.
 
 You could even return from a Heroquest [deeply transformed](../../notes/new-referentials).

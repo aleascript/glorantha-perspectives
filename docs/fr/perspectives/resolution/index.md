@@ -33,38 +33,38 @@ Ceux qui souhaitent explorer davantage ces correspondances peuvent utiliser l'[I
 
 ### [Cadrer l'incertitude](framing.md)
 
-**Étapes 1 et 2 — Mouvement / Mort.** Dire les Intentions, puis rendre visibles les conséquences importantes.
+**Étapes 1 et 2 — ![](/img/runes/movement.png) Mouvement / ![](/img/runes/death.png) Mort.** Dire les Intentions, puis rendre visibles les conséquences importantes.
 
 La question est : **qu'est-ce qui se met en mouvement, et qu'est-ce qui est réellement en jeu ?**
 
 ### [Mettre en balance](balance.md)
 
-**Étapes 3 et 4 — Harmonie / Stase.** Accorder le Focus, son Zoom et les deux issues, puis fixer les Facteurs Cadres et les Mises.
+**Étapes 3 et 4 — ![](/img/runes/harmony.png) Harmonie / ![](/img/runes/stasis.png) Stase.** Accorder le Focus, son Zoom et les deux issues, puis fixer les Facteurs Cadres et les Mises.
 
 La question devient : **sur quoi portons-nous ensemble notre regard, et qu'est-ce qui compte ici et maintenant ?**
 
 ### [Lire la réponse du réel](reading-reality.md)
 
-**Étapes 5 et 6 — Vie / Désordre.** Lancer les dés, puis lire chaque tirage selon la Vision du monde applicable.
+**Étapes 5 et 6 — ![](/img/runes/life.png) Vie / ![](/img/runes/disorder.png) Désordre.** Lancer les dés, puis lire chaque tirage selon la Vision du monde applicable.
 
 La table demande : **comment cette constellation prend-elle vie, et comment ce monde la lit-il ?**
 
 ### [Interpréter et continuer](interpretation.md)
 
-**Étapes 7 et 8 — Vérité / Illusion.** Comparer les réponses du réel, puis donner au résultat une forme fictionnelle et poursuivre.
+**Étapes 7 et 8 — ![](/img/runes/truth.png) Vérité / ![](/img/runes/illusion.png) Illusion.** Comparer les réponses du réel, puis donner au résultat une forme fictionnelle et poursuivre.
 
 La question devient : **qu'est-ce que le réel a tranché, et comment cela se manifeste-t-il dans la Situation ?**
 
 ## Les huit étapes
 
-1. [**Mouvement** — Dire les Intentions](framing.md#1-mouvement).
-2. [**Mort** — Rendre visibles les conséquences importantes](framing.md#2-mort).
-3. [**Harmonie** — Préciser le Focus, le Zoom et les deux issues](balance.md#3-harmonie).
-4. [**Stase** — Repérer les Facteurs Cadres et réunir les Mises](balance.md#4-stase).
-5. [**Vie** — Lancer les dés](reading-reality.md#5-vie).
-6. [**Désordre** — Lire selon la Vision du monde](reading-reality.md#6-désordre).
-7. [**Vérité** — Comparer les réponses du réel](interpretation.md#7-vérité).
-8. [**Illusion** — Donner une forme fictionnelle et continuer](interpretation.md#8-illusion).
+1. ![](/img/runes/movement.png) [**Mouvement** — Dire les Intentions](framing.md#1-mouvement).
+2. ![](/img/runes/death.png) [**Mort** — Rendre visibles les conséquences importantes](framing.md#2-mort).
+3. ![](/img/runes/harmony.png) [**Harmonie** — Préciser le Focus, le Zoom et les deux issues](balance.md#3-harmonie).
+4. ![](/img/runes/stasis.png) [**Stase** — Repérer les Facteurs Cadres et réunir les Mises](balance.md#4-stase).
+5. ![](/img/runes/life.png) [**Vie** — Lancer les dés](reading-reality.md#5-vie).
+6. ![](/img/runes/disorder.png) [**Désordre** — Lire selon la Vision du monde](reading-reality.md#6-désordre).
+7. ![](/img/runes/truth.png) [**Vérité** — Comparer les réponses du réel](interpretation.md#7-vérité).
+8. ![](/img/runes/illusion.png) [**Illusion** — Donner une forme fictionnelle et continuer](interpretation.md#8-illusion).
 
 La boucle complète devient :
 
@@ -76,18 +76,18 @@ Le dernier couple résume la distinction essentielle : **Vérité tranche ; Illu
 
 Un messager orlanthi fuit une patrouille et veut **franchir un gué avant d'être rejoint**.
 
-**1. Mouvement — Intention.** Le Protagoniste veut atteindre l'autre rive avec son message.
+![](/img/runes/movement.png) **1. Mouvement — Intention.** Le Protagoniste veut atteindre l'autre rive avec son message.
 
-**2. Mort — Conséquence importante.** Le Temps précise que s'il est rejoint au milieu du gué, il risque d'être capturé avec le message qu'il transporte.
+![](/img/runes/death.png) **2. Mort — Conséquence importante.** Le Temps précise que s'il est rejoint au milieu du gué, il risque d'être capturé avec le message qu'il transporte.
 
-**3. Harmonie — Focus, Zoom et issues.** *Parvient-il à franchir le gué avant que la patrouille ne le rattrape ?* Les deux issues sont : *le messager atteint l'autre rive avant la patrouille* ; *la patrouille le rejoint avant qu'il ne termine sa traversée*. La table choisit un **Zoom Séquence** : toute l'approche et la traversée, pas chaque foulée séparément.
+![](/img/runes/harmony.png) **3. Harmonie — Focus, Zoom et issues.** *Parvient-il à franchir le gué avant que la patrouille ne le rattrape ?* Les deux issues sont : *le messager atteint l'autre rive avant la patrouille* ; *la patrouille le rejoint avant qu'il ne termine sa traversée*. La table choisit un **Zoom Séquence** : toute l'approche et la traversée, pas chaque foulée séparément.
 
-**4. Stase — Cadre et Mises.** Le vieux pont a été emporté par la crue : il n'est pas une option et constitue un **Facteur Cadre**, pas une Mise négative. En faveur du messager : *Connaît ce gué depuis l'enfance*, *Cheval endurant*, *Le vent masque le bruit de sa fuite* : **3 dés**. De l'autre côté : *Courant gonflé par la pluie*, *Patrouille déjà proche* : **2 dés**.
+![](/img/runes/stasis.png) **4. Stase — Cadre et Mises.** Le vieux pont a été emporté par la crue : il n'est pas une option et constitue un **Facteur Cadre**, pas une Mise négative. En faveur du messager : *Connaît ce gué depuis l'enfance*, *Cheval endurant*, *Le vent masque le bruit de sa fuite* : **3 dés**. De l'autre côté : *Courant gonflé par la pluie*, *Patrouille déjà proche* : **2 dés**.
 
-**5. Vie — Lancer.** Le Protagoniste obtient `4, 2, 1`. L'adversité obtient `2, 5`.
+![](/img/runes/life.png) **5. Vie — Lancer.** Le Protagoniste obtient `4, 2, 1`. L'adversité obtient `2, 5`.
 
-**6. Désordre — Vision du monde.** Le Protagoniste est théiste : son tirage vaut **2 Réussites**. L'adversité est lue selon le Monde médian : son tirage vaut **1 Réussite**.
+![](/img/runes/disorder.png) **6. Désordre — Vision du monde.** Le Protagoniste est théiste : son tirage vaut **2 Réussites**. L'adversité est lue selon le Monde médian : son tirage vaut **1 Réussite**.
 
-**7. Vérité — Comparaison.** La réponse du réel fait pencher la Situation vers la première issue. Le résultat est une **Victoire** simple, pas un Exploit : l'écart n'est que de 1.
+![](/img/runes/truth.png) **7. Vérité — Comparaison.** La réponse du réel fait pencher la Situation vers la première issue. Le résultat est une **Victoire** simple, pas un Exploit : l'écart n'est que de 1.
 
-**8. Illusion — Manifestation.** Le messager atteint l'autre rive avant la patrouille. Les Mises fournissent la matière de la description : sa connaissance du gué lui fait choisir le bon passage, son cheval tient dans le courant et le vent couvre assez longtemps sa fuite. La fiction reprend depuis le nouvel état de la Situation : **il a franchi le gué avec le message**.
+![](/img/runes/illusion.png) **8. Illusion — Manifestation.** Le messager atteint l'autre rive avant la patrouille. Les Mises fournissent la matière de la description : sa connaissance du gué lui fait choisir le bon passage, son cheval tient dans le courant et le vent couvre assez longtemps sa fuite. La fiction reprend depuis le nouvel état de la Situation : **il a franchi le gué avec le message**.

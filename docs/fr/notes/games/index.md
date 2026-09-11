@@ -45,7 +45,7 @@ You want to see the world through the eyes of a trollkin or a broo, go ahead.
 - I then imagine a seed of a **situation** into which I plunge the protagonists
 - I imagine the **interaction** and their **objectives**
 - If there is uncertainty in the choices, I proceed to **oppositions**
-- I use the [**Destiny gauge**](../../perspectives/resolution/index.md#la-jauge-de-destin)
+- I use the **Destiny gauge**
 - Destiny also allows me to negotiate certain gains and losses in a balanced way. When outside of a conflict, I favor the protagonists, I favor adversity at the level of destiny and vice versa.
 - For me a situation must lead to at least one **conflict** for it to be interesting to play
 - I try to play the **scene** through to the end

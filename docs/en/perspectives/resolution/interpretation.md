@@ -17,6 +17,10 @@ This phase gathers steps 7 and 8: **Truth** for comparison, **Illusion** for fic
 
 ## 7. Truth
 
+<div data-runes="rune">
+  <img src="/img/runes/truth.png" />
+</div> 
+
 ### Compare reality's answers
 
 The outcome whose Bets produce more Successes prevails on the question set by the Focus.
@@ -47,6 +51,10 @@ On a tie, if the actors refuse to remain at the Status quo, the table may **esca
 Comparison thus establishes the outcome and amplitude of reality's answer. It does not yet narrate how that truth appears in the Situation.
 
 ## 8. Illusion
+
+<div data-runes="rune">
+  <img src="/img/runes/illusion.png" />
+</div> 
 
 ### Give fictional form and continue
 

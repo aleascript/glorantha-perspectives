@@ -17,6 +17,10 @@ Cette phase rassemble les étapes 7 et 8 : **Vérité** pour la comparaison, **I
 
 ## 7. Vérité
 
+<div data-runes="rune">
+  <img src="/img/runes/truth.png" />
+</div> 
+
 ### Comparer les réponses du réel
 
 L'issue dont les Mises produisent le plus de Réussites s'impose sur la question posée par le Focus.
@@ -47,6 +51,10 @@ En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table p
 La comparaison établit ainsi l'issue et l'amplitude de la réponse. Elle ne raconte pas encore comment cette vérité apparaît dans la Situation.
 
 ## 8. Illusion
+
+<div data-runes="rune">
+  <img src="/img/runes/illusion.png" />
+</div> 
 
 ### Donner une forme fictionnelle et continuer
 

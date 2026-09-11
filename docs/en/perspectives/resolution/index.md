@@ -33,38 +33,38 @@ Those who want to explore these correspondences further can use [Runic Inspirati
 
 ### [Framing the Uncertainty](framing.md)
 
-**Steps 1 and 2 — Movement / Death.** State the Intentions, then make important consequences visible.
+**Steps 1 and 2 — ![](/img/runes/movement.png) Movement / ![](/img/runes/death.png) Death.** State the Intentions, then make important consequences visible.
 
 The question is: **what is set in motion, and what is genuinely at stake?**
 
 ### [Weighing What Matters](balance.md)
 
-**Steps 3 and 4 — Harmony / Stasis.** Agree on the Focus, its Zoom, and the two outcomes, then fix Frame Factors and Bets.
+**Steps 3 and 4 — ![](/img/runes/harmony.png) Harmony / ![](/img/runes/stasis.png) Stasis.** Agree on the Focus, its Zoom, and the two outcomes, then fix Frame Factors and Bets.
 
 The question becomes: **what are we looking at together, and what matters here and now?**
 
 ### [Reading Reality's Answer](reading-reality.md)
 
-**Steps 5 and 6 — Life / Disorder.** Roll the dice, then read each roll according to the applicable Worldview.
+**Steps 5 and 6 — ![](/img/runes/life.png) Life / ![](/img/runes/disorder.png) Disorder.** Roll the dice, then read each roll according to the applicable Worldview.
 
 The table asks: **how does this constellation come alive, and how does this world read it?**
 
 ### [Interpret and Continue](interpretation.md)
 
-**Steps 7 and 8 — Truth / Illusion.** Compare reality's answers, then give the result a fictional form and continue.
+**Steps 7 and 8 — ![](/img/runes/truth.png) Truth / ![](/img/runes/illusion.png) Illusion.** Compare reality's answers, then give the result a fictional form and continue.
 
 The question becomes: **what has reality decided, and how does it manifest in the Situation?**
 
 ## The eight steps
 
-1. [**Movement** — State the Intentions](framing.md#1-movement).
-2. [**Death** — Make important consequences visible](framing.md#2-death).
-3. [**Harmony** — State the Focus, Zoom, and two outcomes](balance.md#3-harmony).
-4. [**Stasis** — Identify Frame Factors and gather Bets](balance.md#4-stasis).
-5. [**Life** — Roll the dice](reading-reality.md#5-life).
-6. [**Disorder** — Read according to Worldview](reading-reality.md#6-disorder).
-7. [**Truth** — Compare reality's answers](interpretation.md#7-truth).
-8. [**Illusion** — Give the answer fictional form and continue](interpretation.md#8-illusion).
+1. ![](/img/runes/movement.png) [**Movement** — State the Intentions](framing.md#1-movement).
+2. ![](/img/runes/death.png) [**Death** — Make important consequences visible](framing.md#2-death).
+3. ![](/img/runes/harmony.png) [**Harmony** — State the Focus, Zoom, and two outcomes](balance.md#3-harmony).
+4. ![](/img/runes/stasis.png) [**Stasis** — Identify Frame Factors and gather Bets](balance.md#4-stasis).
+5. ![](/img/runes/life.png) [**Life** — Roll the dice](reading-reality.md#5-life).
+6. ![](/img/runes/disorder.png) [**Disorder** — Read according to Worldview](reading-reality.md#6-disorder).
+7. ![](/img/runes/truth.png) [**Truth** — Compare reality's answers](interpretation.md#7-truth).
+8. ![](/img/runes/illusion.png) [**Illusion** — Give the answer fictional form and continue](interpretation.md#8-illusion).
 
 The complete loop becomes:
 
@@ -76,18 +76,18 @@ The final pair expresses the essential distinction: **Truth decides; Illusion ma
 
 An Orlanthi messenger is fleeing a patrol and wants to **cross a ford before being caught**.
 
-**1. Movement — Intention.** The Protagonist wants to reach the far bank with his message.
+![](/img/runes/movement.png) **1. Movement — Intention.** The Protagonist wants to reach the far bank with his message.
 
-**2. Death — Important consequence.** Time states that if he is caught in the middle of the ford, he risks being captured with the message he carries.
+![](/img/runes/death.png) **2. Death — Important consequence.** Time states that if he is caught in the middle of the ford, he risks being captured with the message he carries.
 
-**3. Harmony — Focus, Zoom, and outcomes.** *Does he cross the ford before the patrol catches him?* The two outcomes are: *the messenger reaches the far bank before the patrol*; *the patrol catches him before he finishes crossing*. The table chooses a **Sequence Zoom**: the whole approach and crossing, not every stride separately.
+![](/img/runes/harmony.png) **3. Harmony — Focus, Zoom, and outcomes.** *Does he cross the ford before the patrol catches him?* The two outcomes are: *the messenger reaches the far bank before the patrol*; *the patrol catches him before he finishes crossing*. The table chooses a **Sequence Zoom**: the whole approach and crossing, not every stride separately.
 
-**4. Stasis — Frame and Bets.** The old bridge has been swept away by the flood: it is not an option and is a **Frame Factor**, not a negative Bet. Favouring the messenger: *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**. On the other side: *Current swollen by rain*, *Patrol already close*: **2 dice**.
+![](/img/runes/stasis.png) **4. Stasis — Frame and Bets.** The old bridge has been swept away by the flood: it is not an option and is a **Frame Factor**, not a negative Bet. Favouring the messenger: *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**. On the other side: *Current swollen by rain*, *Patrol already close*: **2 dice**.
 
-**5. Life — Roll.** The Protagonist rolls `4, 2, 1`. Adversity rolls `2, 5`.
+![](/img/runes/life.png) **5. Life — Roll.** The Protagonist rolls `4, 2, 1`. Adversity rolls `2, 5`.
 
-**6. Disorder — Worldview.** The Protagonist is a theist: his roll is worth **2 Successes**. Adversity is read through the Middle World: its roll is worth **1 Success**.
+![](/img/runes/disorder.png) **6. Disorder — Worldview.** The Protagonist is a theist: his roll is worth **2 Successes**. Adversity is read through the Middle World: its roll is worth **1 Success**.
 
-**7. Truth — Comparison.** Reality's answer tips the Situation toward the first outcome. The result is a simple **Victory**, not a Feat: the difference is only 1.
+![](/img/runes/truth.png) **7. Truth — Comparison.** Reality's answer tips the Situation toward the first outcome. The result is a simple **Victory**, not a Feat: the difference is only 1.
 
-**8. Illusion — Manifestation.** The messenger reaches the far bank before the patrol. The Bets provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new state of the Situation: **he crossed the ford with the message**.
+![](/img/runes/illusion.png) **8. Illusion — Manifestation.** The messenger reaches the far bank before the patrol. The Bets provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new state of the Situation: **he crossed the ford with the message**.

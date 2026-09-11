@@ -15,6 +15,10 @@ This phase gathers steps 3 and 4: **Harmony** for the Focus, Zoom, and two outco
 
 ## 3. Harmony
 
+<div data-runes="rune">
+  <img src="/img/runes/harmony.png" />
+</div> 
+
 ### Choose the Focus and put two outcomes in the balance
 
 The **Focus** is the question the roll must answer.
@@ -127,6 +131,10 @@ And if the raid's success itself is already established, the Focus can move agai
 Success is no longer what the dice must decide. It becomes the starting point of the question.
 
 ## 4. Stasis
+
+<div data-runes="rune">
+  <img src="/img/runes/stasis.png" />
+</div> 
 
 ### Identify Frame Factors
 

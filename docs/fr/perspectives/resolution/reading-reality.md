@@ -15,6 +15,10 @@ Cette phase rassemble les étapes 5 et 6 : **Vie** pour le lancer, **Désordre**
 
 ## 5. Vie
 
+<div data-runes="rune">
+  <img src="/img/runes/life.png" />
+</div> 
+
 ### Lancer les dés
 
 Lancez les dés correspondant aux Mises de chaque côté.
@@ -24,6 +28,10 @@ Le tirage anime la constellation de ce qui a été mis en balance, mais il n'est
 Les dés n'ont pas besoin de rester associés un par un aux Mises. La résolution répond à **l'ensemble de ce qui a été mis dans la balance**, pas à une série de petites causes indépendantes.
 
 ## 6. Désordre
+
+<div data-runes="rune">
+  <img src="/img/runes/disorder.png" />
+</div> 
 
 ### Lire selon la Vision du monde
 

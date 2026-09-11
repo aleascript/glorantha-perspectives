@@ -15,6 +15,10 @@ This first phase gathers steps 1 and 2: **Movement** for Intention, **Death** fo
 
 ## 1. Movement
 
+<div data-runes="rune">
+  <img src="/img/runes/movement.png" />
+</div> 
+
 ### State the Intentions
 
 What are the Protagonists, Forces, or other involved actors actually trying to achieve?
@@ -26,6 +30,10 @@ Not everything involved in a resolution carries a will of its own: a storm, dist
 Intention gives the Situation a direction. It does not yet state the exact question the dice must decide: that question will be brought into agreement when the table sets the Focus.
 
 ## 2. Death
+
+<div data-runes="rune">
+  <img src="/img/runes/death.png" />
+</div> 
 
 ### Make important consequences visible
 

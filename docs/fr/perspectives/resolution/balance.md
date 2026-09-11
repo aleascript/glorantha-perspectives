@@ -15,6 +15,10 @@ Cette phase rassemble les étapes 3 et 4 : **Harmonie** pour le Focus, le Zoom e
 
 ## 3. Harmonie
 
+<div data-runes="rune">
+  <img src="/img/runes/harmony.png" />
+</div> 
+
 ### Choisir le Focus et mettre deux issues en balance
 
 Le **Focus** est la question à laquelle le jet doit répondre.
@@ -127,6 +131,10 @@ Et si le succès même du raid est déjà établi, le Focus peut encore se dépl
 La réussite n'est alors plus ce que les dés doivent décider. Elle devient le point de départ de la question.
 
 ## 4. Stase
+
+<div data-runes="rune">
+  <img src="/img/runes/stasis.png" />
+</div> 
 
 ### Repérer les Facteurs Cadres
 

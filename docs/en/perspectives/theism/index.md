@@ -1,5 +1,5 @@
 ---
-title: "The Pantheons"
+title: "Theism"
 ---
 
 <div data-runes="chapter">
