@@ -16,7 +16,9 @@ Nysalor's riddles, Lunar **Sevening**, and some mystical, draconic, or heroic ex
 
 ## The Spark
 
-Before complete Illumination, a character may experience a **Spark**: something they held to be impossible has occurred, and their Worldview has cracked without yet transforming irreversibly.
+The image of the **Spark** does belong to Lunar vocabulary. The Seven Mothers are described as having lit the spark of the Lunar Way in the world and as kindling the Lunar spark in those who enter their cult; their **Kindling** rite is the first step on the path toward **Sevening**.
+
+Glorantha Perspectives builds on that image to represent a state before complete Illumination: something the character held to be impossible has occurred, and their Worldview has cracked without yet transforming irreversibly.
 
 The Spark grants no automatic power.
 

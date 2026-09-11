@@ -34,6 +34,8 @@ This is not a Heroic state. The Worldview remains the same; the Moon passes thro
 
 Worldviews are read normally.
 
+This is a deliberate Glorantha Perspectives simplification that groups several degrees of the Lunar cycle rather than reproducing every separate variation in the strength of Lunar glamours.
+
 ### Dying Moon and Black Moon — the Moon's withdrawal
 
 Affected Worldviews enter their **Weakened state**.
@@ -42,9 +44,11 @@ The Black Moon retains a particular importance in Lunar traditions associated wi
 
 ## Within the Glowline
 
-Within the **Glowline**, the Moon's presence is maintained as under a Full Moon.
+Within the **Glowline**, Lunar magic is maintained as under a **Half Moon**.
 
-Whenever Lunar influence is relevant to the resolution, therefore apply the **Full Moon** effects above continuously.
+Whenever Lunar influence is relevant to the resolution, therefore use the **ordinary reading** of the affected Worldview regardless of the Red Moon's visible phase.
+
+The Glowline stabilizes the cycle; it does not continuously produce the exceptional Full Moon effect.
 
 ## Mysticism and Draconic Thought
 

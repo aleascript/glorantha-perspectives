@@ -34,6 +34,8 @@ Ce n'est pas un mode héroïque. La Vision reste la même ; la Lune la traverse 
 
 Les Visions se lisent normalement.
 
+Cette simplification propre à Glorantha Perspectives regroupe ici plusieurs degrés du cycle lunaire : elle ne cherche pas à reproduire séparément chaque variation de puissance des glamours lunaires.
+
 ### Lune mourante et Lune noire — le retrait de la Lune
 
 Les Visions concernées passent en **Vision affaiblie**.
@@ -42,9 +44,11 @@ La Lune noire conserve une importance particulière dans les traditions lunaires
 
 ## Dans la Ligne Brillante
 
-À l'intérieur de la **Ligne Brillante**, la présence de la Lune est maintenue comme sous une Pleine Lune.
+À l'intérieur de la **Ligne Brillante**, la magie lunaire est maintenue comme sous une **Demi-Lune**.
 
-Lorsque l'influence lunaire est pertinente pour la résolution, appliquez donc en permanence les effets de **Pleine Lune** ci-dessus.
+Lorsque l'influence lunaire est pertinente pour la résolution, appliquez donc la **lecture ordinaire** de la Vision concernée, indépendamment de la phase visible de la Lune Rouge.
+
+La Ligne Brillante stabilise le cycle ; elle ne produit pas en permanence l'effet exceptionnel de la Pleine Lune.
 
 ## Mysticisme et Pensée draconique
 

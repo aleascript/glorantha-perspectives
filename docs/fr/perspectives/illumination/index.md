@@ -16,7 +16,9 @@ Les énigmes de Nysalor, le **Sevening** lunaire, certaines expériences mystiqu
 
 ## L'Étincelle
 
-Avant l'Illumination complète, un personnage peut connaître une **Étincelle** : quelque chose qu'il tenait pour impossible vient de se produire et sa Vision du monde s'est fissurée sans encore se transformer irréversiblement.
+L'image de l'**Étincelle** appartient bien au vocabulaire lunaire. Les Sept Mères sont décrites comme ayant allumé l'étincelle de la Voie Lunaire dans le monde puis comme la ravivant chez ceux qui entrent dans leur culte ; leur rite de **Kindling** constitue la première étape sur la voie du **Sevening**.
+
+Glorantha Perspectives s'appuie sur cette image pour représenter un état précédant l'Illumination complète : quelque chose que le personnage tenait pour impossible vient de se produire et sa Vision du monde s'est fissurée sans encore se transformer irréversiblement.
 
 L'Étincelle ne donne aucun pouvoir automatique.
 
