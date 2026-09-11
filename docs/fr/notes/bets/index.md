@@ -48,8 +48,8 @@ Il serait tentant de demander aux joueurs d’associer une Rune à chaque Mise.
 
 On pourrait par exemple décider qu'une même Rune ne peut être représentée qu'une fois parmi les Mises d'un même côté.
 
-Mais cela exige une connaissance fine des Runes et la capacité d'associer rapidement une vérité à une Rune, ce qui est probablement plus lourd que la procédure ordinaire.
+Mais cela exige une connaissance fine des Runes et la capacité d'associer rapidement un élément de la fiction à une Rune, ce qui est probablement plus lourd que la procédure ordinaire.
 
-Une association runique surprenante peut toutefois devenir un signal intéressant : est-ce réellement la bonne lecture de cette vérité ? révèle-t-elle quelque chose du personnage ? une Attache en train d'apparaître ?
+Une association runique surprenante peut toutefois devenir un signal intéressant : est-ce réellement la bonne lecture de cet élément ? révèle-t-elle quelque chose du personnage ? une Attache en train d'apparaître ?
 
 La Rune peut donc servir de contrainte de design ou d'outil de réflexion sans avoir besoin de devenir une catégorie fondamentale de la résolution.

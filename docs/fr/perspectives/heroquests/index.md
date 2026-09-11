@@ -20,7 +20,7 @@ Chaque étape devient une Situation à part entière.
 
 Les Protagonistes savent parfois ce que le mythe attend d'eux. Cela ne signifie pas qu'ils savent exactement ce qui va arriver, ni qu'ils sont obligés de reproduire chaque geste sans réfléchir.
 
-Quand une étape contient une véritable incertitude, utilisez les règles habituelles des [Mises](../bets/). Les vérités du mythe, les rôles endossés, les objets sacrés, les relations et les écarts déjà commis peuvent tous compter.
+Quand une étape contient une véritable incertitude, utilisez les règles habituelles des [Mises](../bets/). Les éléments du mythe, les rôles endossés, les objets sacrés, les relations et les écarts déjà commis peuvent tous compter.
 
 ## Suivre ou quitter le chemin
 
@@ -41,7 +41,7 @@ Les conséquences d'une Quête héroïque peuvent toucher en même temps :
 - une pratique magique ;
 - la manière dont un mythe peut désormais se manifester.
 
-Les changements importants sont durables. Une Quête peut aussi demander de mettre quelque chose en gage avant d'entrer : une aptitude, un lien, un objet, un statut ou une autre vérité à laquelle les Protagonistes tiennent.
+Les changements importants sont durables. Une Quête peut aussi demander de mettre quelque chose en gage avant d'entrer : une aptitude, un lien, un objet, un statut ou autre chose à laquelle les Protagonistes tiennent.
 
 La réussite ne se mesure donc pas seulement à « avoir terminé les étapes ». Regardez ce que les Protagonistes voulaient obtenir, ce qu'ils ont réellement fait et ce qui a changé lorsqu'ils sont revenus.
 

@@ -15,13 +15,13 @@ Demandez-vous :
 3. quelle Rune de mon Protagoniste est pertinente pour ce qu'il tente ?
 4. qu'est-ce qui, dans le lieu ou les circonstances, peut faire pencher la balance ?
 
-Une vérité n'est pas une Mise automatique. Elle devient une Mise lorsque le Focus explique pourquoi elle compte dans cette résolution.
+Tout ce qui est établi dans la fiction ne devient pas automatiquement une Mise. Un élément devient une Mise lorsque le Focus explique pourquoi il compte dans cette résolution.
 
 ## Faut-il bien connaître Glorantha pour jouer ?
 
 Non. Il faut surtout connaître suffisamment la Situation pour prendre des décisions qui ont du sens.
 
-Quand un lieu, un peuple, un culte ou un mythe devient important, prenez le temps d'en apprendre davantage. La connaissance du monde enrichit les possibilités de jeu parce qu'elle révèle de nouvelles vérités pertinentes ; elle n'est pas un prérequis à mémoriser avant la première partie.
+Quand un lieu, un peuple, un culte ou un mythe devient important, prenez le temps d'en apprendre davantage. La connaissance du monde enrichit les possibilités de jeu parce qu'elle révèle de nouveaux éléments susceptibles de compter ; elle n'est pas un prérequis à mémoriser avant la première partie.
 
 Voir [Glorantha en quelques repères](../start/glorantha.md).
 
@@ -29,7 +29,7 @@ Voir [Glorantha en quelques repères](../start/glorantha.md).
 
 Non. Les traits ne sont pas des bonus permanents.
 
-Ajouter une vérité à un Protagoniste donne surtout davantage de matière à la fiction. Elle pourra l'aider dans certaines Situations, ne rien changer dans d'autres, et parfois lui créer de nouveaux problèmes.
+Ajouter un élément au Portrait d'un Protagoniste donne surtout davantage de matière à la fiction. Il pourra l'aider dans certaines Situations, ne rien changer dans d'autres, et parfois lui créer de nouveaux problèmes.
 
 Le Focus décide ce qui compte ici et maintenant.
 

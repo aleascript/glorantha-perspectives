@@ -32,7 +32,7 @@ Une double page par personnage pourrait suffire :
 1. **Illustration, nom et voix** — quelque chose qui fasse apparaître immédiatement la personne ;
 2. **Portrait vivant** — Runes et Chapitres de vie, sans format imposé ;
 3. **Quelques lignes de contexte** — ce qu'il faut comprendre du monde pour saisir le personnage ;
-4. **Une Situation** — un instant concret montrant plusieurs vérités du Portrait susceptibles de compter ;
+4. **Une Situation** — un instant concret montrant plusieurs éléments du Portrait susceptibles de compter ;
 5. éventuellement **une question ouverte** — ce qui pourrait mettre cette personne en mouvement si elle devenait Protagoniste.
 
 La Situation ne devrait pas devenir une démonstration de « capacités optimales ». Elle sert à montrer comment une vie entre en contact avec le monde.

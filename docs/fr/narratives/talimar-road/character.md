@@ -4,7 +4,7 @@ title: Fiche de Talimar
 
 # Fiche de Talimar
 
-Cette fiche représente **Talimar après son initiation à Lhankor Mhy**, à l'issue de la première séance de la Route de Talimar. Elle conserve ce que la fiction a rendu vrai de lui plutôt qu'un état préparé avant le jeu.
+Cette fiche représente **Talimar après son initiation à Lhankor Mhy**, à l'issue de la première séance de la Route de Talimar. Elle conserve ce que le jeu a fait apparaître de lui plutôt qu'un état préparé avant le jeu.
 
 ## Identité
 

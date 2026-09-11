@@ -6,9 +6,9 @@ title: Protagonistes
 
 Un Protagoniste de **Glorantha Perspectives** n'est pas une combinaison de caractéristiques, de compétences et de pouvoirs. C'est une personne prise dans un monde : des appartenances, des relations, des obligations, des Runes, des mythes, des blessures, des ressources et des contradictions peuvent compter lorsqu'elle agit.
 
-La création ne consiste donc pas à remplir une grille. Elle consiste à faire apparaître assez de vérités pour commencer à jouer — puis à laisser la fiction révéler, transformer et parfois contredire ce que l'on croyait savoir.
+La création ne consiste donc pas à remplir une grille. Elle consiste à faire apparaître assez de choses significatives pour commencer à jouer — puis à laisser la fiction révéler, transformer et parfois contredire ce que l'on croyait savoir.
 
-La feuille devient alors moins un formulaire qu'un **Portrait vivant** : la mémoire de ce que le jeu a rendu vrai du Protagoniste.
+La feuille devient alors moins un formulaire qu'un **Portrait vivant** : la mémoire de ce que le jeu a fait apparaître du Protagoniste.
 
 ## Le Portrait vivant
 
@@ -41,7 +41,7 @@ Notez sous chaque Rune quelques formulations personnelles : caractère, gestes, 
 
 Le cœur du Portrait vivant est constitué de **Chapitres de vie**.
 
-Un Chapitre de vie est simplement un bloc qui nomme quelque chose d'important dans l'existence du Protagoniste. Il peut s'agir d'une culture, d'une communauté, d'un métier, d'un culte, d'une tradition, d'une relation, d'un objet, d'un mythe, d'une fonction sociale ou de toute autre vérité assez importante pour mériter son propre espace.
+Un Chapitre de vie est simplement un bloc qui nomme quelque chose d'important dans l'existence du Protagoniste. Il peut s'agir d'une culture, d'une communauté, d'un métier, d'un culte, d'une tradition, d'une relation, d'un objet, d'un mythe, d'une fonction sociale ou de tout autre aspect de sa vie assez important pour mériter son propre espace.
 
 Par exemple :
 
@@ -126,14 +126,14 @@ Une rencontre, un souvenir joué, une initiation, un échec, un mythe entendu ou
 
 La création, l'évolution et la transformation peuvent ainsi appartenir à une seule continuité :
 
-> **fiction vécue → découverte de soi → vérités persistantes → nouvelles Mises possibles → nouvelle fiction**
+> **fiction vécue → découverte de soi → éléments inscrits → nouvelles Mises possibles → nouvelle fiction**
 
 ## Faire évoluer un Protagoniste
 
 L'évolution reste diégétique. Quand quelque chose change durablement dans la fiction, changez le Portrait :
 
 - ajoutez un nouveau Chapitre ;
-- retirez une vérité devenue fausse ;
+- retirez ou transformez un élément qui ne le décrit plus ;
 - transformez une Rune comprise différemment ;
 - notez une blessure ou une dette ;
 - changez une relation ;

@@ -23,7 +23,7 @@ Le mythe peut comporter plusieurs épreuves, rencontres ou retournements. Trois 
 
 Pour chaque étape, notez seulement ce qui sera utile au Temps :
 
-- ce qui est vrai au début ;
+- ce qui est établi au début de l'étape ;
 - les personnes ou puissances présentes ;
 - ce qu'elles veulent ;
 - ce qui rend l'étape dangereuse ou difficile ;

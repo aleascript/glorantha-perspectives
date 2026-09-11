@@ -159,7 +159,7 @@ Son initiation lui révèle une direction : ce mouvement cherchait la **Vérité
 
 ### Trace — l'initiation
 
-L'initiation de Tal n'a pas effacé les vérités précédentes. Elle leur a donné une autre signification.
+L'initiation de Tal n'a pas effacé ce qui le constituait auparavant. Elle lui a donné une autre signification.
 
 Son Portrait change donc sans retcon : **le personnage a changé parce que sa compréhension de lui-même a changé.**
 
@@ -175,6 +175,6 @@ C'est intentionnel.
 
 Le Portrait doit rendre visible **ce qui constitue cette personne-ci**, pas prouver que chaque Protagoniste possède les mêmes catégories.
 
-Une personne rencontrée pour quelques minutes peut encore tenir en une intention et deux vérités fortes. Si elle revient et prend de l'importance, son Portrait peut se développer exactement comme celui d'un Protagoniste durable.
+Une personne rencontrée pour quelques minutes peut encore tenir en une intention et deux traits marquants. Si elle revient et prend de l'importance, son Portrait peut se développer exactement comme celui d'un Protagoniste durable.
 
 Pour explorer davantage de personnages et de cultures sans alourdir les règles de base, voir aussi la proposition [**Visages de Glorantha**](visages.md).
