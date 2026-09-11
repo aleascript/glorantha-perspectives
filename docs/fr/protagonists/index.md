@@ -4,9 +4,68 @@ title: Protagonistes
 
 # Protagonistes
 
-Créer un Protagoniste consiste d'abord à découvrir **ce qui compte pour lui** et ce qui pourra compter lorsqu'il agit dans Glorantha : ses appartenances, ses relations, ses obligations, ses croyances, ses Runes, ses blessures, ses ressources et sa magie.
+Un Protagoniste de **Glorantha Perspectives** n'est pas une combinaison de caractéristiques, de compétences et de pouvoirs. C'est une personne prise dans un monde : des appartenances, des relations, des obligations, des Runes, des mythes, des blessures, des ressources et des contradictions peuvent compter lorsqu'elle agit.
 
-Il n'y a pas de liste de caractéristiques chiffrées à remplir ni d'inventaire exhaustif à compléter. Il suffit d'établir assez d'éléments pour savoir **qui est ce Protagoniste, ce qu'il veut et ce qui pourra peser dans ses Situations**.
+La création ne consiste donc pas à remplir une grille. Elle consiste à faire apparaître assez de vérités pour commencer à jouer — puis à laisser la fiction révéler, transformer et parfois contredire ce que l'on croyait savoir.
+
+La feuille devient alors moins un formulaire qu'un **Portrait vivant** : la mémoire de ce que le jeu a rendu vrai du Protagoniste.
+
+## Le Portrait vivant
+
+Un Portrait vivant peut être très court ou très développé. Sa forme reste ouverte, mais quatre éléments reviennent souvent.
+
+### Nom, image, voix
+
+Commencez par ce qui permet de voir immédiatement quelqu'un :
+
+- son **nom** ;
+- son **âge**, si cela compte ;
+- éventuellement une **illustration** ;
+- une **phrase typique**, une conviction ou quelques mots qui donnent sa voix.
+
+La phrase n'est pas une règle. Elle sert à retrouver rapidement la manière dont le Protagoniste regarde le monde.
+
+### Runes
+
+Choisissez généralement deux ou trois Runes qui marquent fortement le Protagoniste.
+
+Une Rune n'est pas seulement un domaine d'action. Demandez plutôt :
+
+> **Comment cette Rune existe-t-elle chez cette personne ?**
+
+Une même Rune peut donc prendre des formes très différentes selon les individus. **Air** peut être colère et impulsion, mais aussi le sentiment d'habiter l'espace entre les choses. **Vérité** peut être certitude, franchise, enquête ou impossibilité de cesser de chercher.
+
+Notez sous chaque Rune quelques formulations personnelles : caractère, gestes, perceptions, affinités, tensions ou manières d'agir. Une Rune ne devient une Mise que lorsqu'elle compte réellement dans la Situation.
+
+### Chapitres de vie
+
+Le cœur du Portrait vivant est constitué de **Chapitres de vie**.
+
+Un Chapitre de vie est simplement un bloc qui nomme quelque chose d'important dans l'existence du Protagoniste. Il peut s'agir d'une culture, d'une communauté, d'un métier, d'un culte, d'une tradition, d'une relation, d'un objet, d'un mythe, d'une fonction sociale ou de toute autre vérité assez importante pour mériter son propre espace.
+
+Par exemple :
+
+- **Gardienne de Jillaro** ;
+- **Nomade Sable** ;
+- **Ombre impériale** ;
+- **Initiée du Grand Mystère** ;
+- **Fta-Ah, mon antilope** ;
+- **Le couteau donné par mon père** ;
+- **La tradition qui ne doit pas mourir**.
+
+Sous un Chapitre, notez librement ce qui lui appartient : savoirs, talents, obligations, vertus, relations, objets, magie, réputation, ennemis, tabous, souvenirs ou ressources.
+
+Il n'existe pas de liste obligatoire de Chapitres. Deux Protagonistes issus de la même culture peuvent organiser leur Portrait très différemment, parce que les mêmes choses ne comptent pas de la même manière pour eux.
+
+### Traces
+
+Le jeu laisse des traces.
+
+Une blessure, une dette, une initiation, une réputation, un serment, une découverte, une disgrâce, un objet perdu, une relation nouvelle ou une compréhension différente d'un mythe peuvent modifier durablement le Portrait.
+
+Ces éléments peuvent être regroupés sous **Traces**, ou intégrés directement dans le Chapitre de vie qu'ils transforment.
+
+Le Portrait n'a pas vocation à rester stable. S'il change, c'est généralement parce que le Protagoniste a changé.
 
 ## Qu'est-ce qui compte pour lui ?
 
@@ -21,25 +80,9 @@ Avant de chercher des détails, posez quelques questions simples :
 
 Vous n'avez pas besoin de répondre à tout avant de jouer. Ces questions servent à orienter le regard ; les Situations révéleront ce qui mérite réellement d'être développé.
 
-## Identité
-
-Commencez par quelques éléments simples :
-
-- **nom** ;
-- **âge**, si cela compte ;
-- une **phrase typique** ou une courte citation qui donne immédiatement sa voix.
-
-La phrase n'est pas une règle. Elle aide simplement à retrouver rapidement la manière dont le Protagoniste regarde le monde.
-
-## Origines et communauté
-
-Choisissez sa culture et la communauté concrète à laquelle il appartient : clan, tribu, cité, temple, régiment, école, famille, tradition ou autre groupe pertinent.
-
-Une communauté apporte des soutiens, des devoirs, des relations, des ennemis et des habitudes. Tous peuvent devenir des Mises lorsqu'ils sont réellement présents dans la Situation.
-
 ## Vision du monde
 
-Choisissez la manière profonde dont le Protagoniste comprend la réalité : sa **Vision du monde**.
+La **Vision du monde** indique la manière profonde dont le Protagoniste comprend la réalité :
 
 - **Théisme** ;
 - **Animisme** ;
@@ -47,75 +90,19 @@ Choisissez la manière profonde dont le Protagoniste comprend la réalité : sa 
 - **Mysticisme** ;
 - **Pensée draconique**, pour les êtres concernés.
 
-Ajoutez l'appartenance spirituelle ou intellectuelle qui précise cette Vision du monde : culte, tradition, école, voie, etc.
+Elle peut apparaître comme un Chapitre de vie à part entière, ou être portée par un culte, une tradition, une école ou une appartenance déjà présente dans le Portrait.
 
 Un Protagoniste peut connaître des rites, textes, pratiques ou savoirs venus d'ailleurs sans changer de Vision du monde. Ces éléments peuvent devenir des Mises ; ils ne changent pas automatiquement la manière dont ses dés sont lus.
 
-## Runes
+## Magie, relations et ressources
 
-Choisissez généralement deux ou trois Runes qui marquent fortement le Protagoniste.
+Il n'est pas nécessaire de créer des rubriques séparées pour la magie, les relations ou l'équipement.
 
-Elles peuvent exprimer :
+Placez-les là où ils ont du sens.
 
-- son caractère ;
-- une affinité magique ;
-- une manière d'agir ;
-- une marque culturelle ou religieuse ;
-- une contradiction importante.
+Une **armure de mercure** peut appartenir à **Gardienne de Jillaro**. Un fétiche peut rester attaché à une **Tradition de Waha**. Un père antiquaire peut figurer sous **Initiée du Grand Mystère** s'il est directement lié au secret que porte le personnage. Une monture peut mériter son propre Chapitre si elle constitue une relation centrale plutôt qu'un simple moyen de transport.
 
-Une Rune n'est pas un bonus automatique. Elle devient une Mise lorsqu'elle compte réellement dans la Situation.
-
-Par exemple, une forte affinité avec **Air** peut soutenir l'impulsion, la fierté ou la violence d'un personnage ; **Illusion** peut soutenir le secret, la tromperie ou le jeu des apparences. Ces mêmes éléments peuvent aussi se retourner contre lui.
-
-## Mots-clés et traits
-
-Ajoutez une liste libre de choses importantes :
-
-- talents ;
-- défauts ;
-- habitudes ;
-- particularités physiques ;
-- objets remarquables ;
-- réputation ;
-- connaissances ;
-- responsabilités.
-
-Préférez ce qui évoque immédiatement une personne et un monde.
-
-**Vétéran désabusé de la Rébellion de Sartar** apporte plus de matière que **Guerrier**. **Épée large héritée de son père** en apporte davantage que **Bonne arme**.
-
-## État
-
-Notez les états qui méritent de rester présents d'une Situation à l'autre :
-
-- blessure ;
-- épuisement ;
-- dérangement ;
-- manque de ressources ;
-- transformation ;
-- faveur ou disgrâce durable.
-
-Un état n'a pas besoin d'une échelle chiffrée pour compter. S'il influence réellement ce qui se passe, il peut devenir une Mise ou modifier le cadre de la Situation.
-
-## Liens et attaches
-
-Notez ce qui relie fortement le Protagoniste aux autres :
-
-- personne aimée ;
-- rival ;
-- dette ;
-- ennemi ;
-- serment ;
-- responsabilité envers une communauté ;
-- relation avec un esprit, un dieu, un lieu ou un objet.
-
-Les liens donnent autant de raisons d'agir que de prises au monde pour répondre.
-
-## Magie et ressources
-
-Notez ce que le Protagoniste sait réellement faire ou appeler dans le monde : prodiges, esprits, sorts, grimoires, secrets, objets, alliés, richesses, monture, statut ou autre ressource importante.
-
-Il n'est pas nécessaire d'énumérer tout ce qu'une personne de cette culture sait normalement faire. Notez surtout ce qui distingue ce Protagoniste ou ce qui risque de compter souvent.
+Cette organisation évite de réduire toutes les vies à une même anatomie de fiche.
 
 ## Quand s'arrêter ?
 
@@ -127,27 +114,34 @@ Arrêtez la création lorsque vous savez répondre à ces questions :
 4. **Qu'est-ce qui compte profondément pour lui ?**
 5. **Qu'est-ce qui peut l'aider ou lui compliquer la vie dès la première Situation ?**
 
-Le reste peut apparaître pendant le jeu. Un élément découvert plus tard peut être ajouté lorsqu'il devient important.
+Le reste peut apparaître pendant le jeu.
 
 ## Créer en jouant
 
 Il n'est pas nécessaire que toutes les réponses existent avant la première Situation.
 
-Vous pouvez commencer avec quelques éléments suffisamment solides pour jouer, puis découvrir le reste par les choix, les rencontres, les mythes et les conséquences. La feuille devient alors la mémoire de ce que la partie a réellement révélé du Protagoniste.
+Une rencontre, un souvenir joué, une initiation, un échec, un mythe entendu ou une décision morale peuvent faire apparaître quelque chose qui mérite ensuite d'entrer dans le Portrait.
 
-[**La Route de Talimar**](../narratives/talimar-road/) montre cette possibilité en jeu : Tal commence avec une appartenance, des contradictions et des questions, puis sa relation à Lhankor Mhy, ses Runes et son initiation se précisent au fil de la fiction.
+[**La Route de Talimar**](../narratives/talimar-road/) montre cette continuité en jeu. Tal commence avec une appartenance, des contradictions et des questions. Sa relation à Lhankor Mhy, ses Runes et sa compréhension de lui-même se précisent au fil de la fiction.
+
+La création, l'évolution et la transformation peuvent ainsi appartenir à une seule continuité :
+
+> **fiction vécue → découverte de soi → vérités persistantes → nouvelles Mises possibles → nouvelle fiction**
 
 ## Faire évoluer un Protagoniste
 
-L'évolution reste diégétique. Quand quelque chose change durablement dans la fiction, changez la description :
+L'évolution reste diégétique. Quand quelque chose change durablement dans la fiction, changez le Portrait :
 
-- ajoutez un nouveau lien ;
-- retirez un trait devenu faux ;
-- transformez une réputation ;
-- notez une blessure ;
-- gagnez un objet, un secret ou une responsabilité ;
+- ajoutez un nouveau Chapitre ;
+- retirez une vérité devenue fausse ;
+- transformez une Rune comprise différemment ;
+- notez une blessure ou une dette ;
+- changez une relation ;
+- gagnez ou perdez un objet, un secret ou une responsabilité ;
 - modifiez une appartenance ou une conviction après une transformation majeure.
 
 Il n'est pas nécessaire d'attendre une fin de scénario ou une distribution de points.
+
+Un Protagoniste expérimenté n'est pas seulement quelqu'un qui possède davantage de capacités. Il porte davantage d'histoire susceptible de revenir dans le présent.
 
 Voir aussi [Exemples de Protagonistes](examples.md).
