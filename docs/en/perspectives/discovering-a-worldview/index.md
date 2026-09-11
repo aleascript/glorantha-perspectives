@@ -45,26 +45,26 @@ It should express this way of thinking strongly enough for the player to feel it
 
 > **A new Worldview does not decorate resolution. It transforms what uncertainty means for the one who inhabits that world.**
 
-## From lived experience to Prism
+## From lived experience to a new reading of reality
 
 In **Glorantha Perspectives**, a Worldview normally acts at the moment of **Disorder**: the Bets have already been gathered, the dice have been rolled, and the Worldview determines how that constellation becomes readable.
 
-To let a new Worldview emerge, first look for its **Prism**: the particular way in which it transforms the roll into reality's answer.
+A new Worldview should therefore arise from what has been lived, then gradually find its own way of reading reality's answer.
 
 A few questions can guide the table:
 
 1. **What truth about the world has just been discovered?**  
-   State it without talking about dice.
-2. **What experience should it produce for the player?**  
-   What should they begin to notice, hope for, or fear?
-3. **What property of the roll can make that perceptible?**  
-   A sum, repetitions, oppositions, transformations, cancellations, particular forms, or something else may become meaningful.
-4. **Does the mechanic remain readable?**  
+   State it first without talking about dice.
+2. **What does the Protagonist now notice that others do not look at in the same way?**  
+   Repetitions, oppositions, relationships, ruptures, or other signs may suddenly take on meaning.
+3. **How does this discovery manifest when reality must answer?**  
+   Some results may gain a new meaning, answer one another, transform, or cease to mean what they once did.
+4. **Is this reading still simple enough to belong naturally to play?**  
    A Worldview can be strange without redirecting all attention toward its procedure.
-5. **Does it genuinely correspond to what was discovered in the fiction?**  
-   The Prism should be a consequence of the experience, not its excuse.
+5. **Can you still recognize in this reading what was actually discovered in the fiction?**  
+   The way reality is read should remain a consequence of lived experience.
 
-The rest of GP's resolution cycle provides a shared frame: Intention, consequences, Focus, Bets, reality's answer, and fictional manifestation continue to anchor this new Perspective in the same shared world.
+The rest of the resolution cycle provides a shared frame: Intention, consequences, Focus, Bets, reality's answer, and fictional manifestation continue to anchor this new Perspective in the same shared world.
 
 ## When the discovery becomes real
 
@@ -72,7 +72,7 @@ An insight born during a Heroquest does not necessarily need to become a complet
 
 It may first appear as an anomaly, an exception, or a phenomenon nobody knows how to explain. The Protagonist may try to reproduce the experience, transmit it, find allies capable of understanding it, or discover how far it extends.
 
-If this new way of inhabiting the Cosmos becomes stable, it can then acquire its own Prism and become a true Worldview.
+If this new way of inhabiting the Cosmos becomes stable, it can then acquire its own way of reading reality and become a true Worldview.
 
 But a discovery of this magnitude does not necessarily become a Worldview. Some discoveries do not replace the way one inhabits the Cosmos: they can **cross several Worldviews**, bend them, or open a common possibility within them. In that case they become an [**Influence**](../influences/) rather than a Worldview.
 
@@ -82,7 +82,7 @@ Glorantha already contains a spectacular precedent.
 
 In 1220, the **Seven Mothers** found the shattered pieces of a broken goddess in the Otherworld and reconstructed them into a living entity: the **Red Goddess, Sedenya**. Initiated by the Seven Mothers, she then undertook her own Goddess Quest. The seven phases of the Moon reflect the stations of that Quest; during it she encountered Nysalor and attained Illumination. She created Lunar magic and, in 1247, rose into the sky as the Red Moon.
 
-**Glorantha Perspectives** represents this legacy through the [**Lunar Influence**](../moon/): a Theist, Animist, or Logician can remain within their Worldview while their relationship to the Moon alters how that Worldview reads reality. The new principle does not replace earlier ontologies: it crosses them.
+**Glorantha Perspectives** represents this legacy through the [**Lunar Influence**](../moon/): a Theist, Animist, or Logician can remain within their Worldview while their relationship to the Moon alters how that Worldview reads reality. The new principle does not replace earlier Worldviews: it crosses them.
 
 The Seven Mothers therefore did more than restore a lost goddess. They set in motion a process that ultimately introduced into Glorantha a new, transmissible way of acting upon reality.
 
