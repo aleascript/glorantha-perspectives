@@ -32,6 +32,7 @@ const guideDocuments = [
   'perspectives/logic/index.md',
   'perspectives/mysticism/index.md',
   'perspectives/draconic/index.md',
+  'perspectives/influences/index.md',
   'perspectives/moon/index.md',
   'perspectives/illumination/index.md',
   'perspectives/chaos/index.md',

@@ -18,4 +18,6 @@ Le cœur de la résolution reste simple : identifier les Mises et l'issue que ch
 
 > **Situation → Intentions → Focus / Zoom → issues mises en balance → Mises → Vision du monde → réponse du réel → comparaison → interprétation → Situation transformée**
 
-Les chapitres de cette section détaillent cette procédure, les Visions du monde et les particularités gloranthiennes qui transforment la résolution.
+Les [**Visions du monde**](worldviews/index.md) décrivent la manière profonde dont les Protagonistes habitent et lisent le réel. Les [**Influences et transformations**](influences/index.md) décrivent au contraire ce qui peut traverser, fissurer ou transformer cette lecture sans constituer une Vision supplémentaire.
+
+Les chapitres de cette section détaillent cette procédure et les particularités gloranthiennes qui la transforment.

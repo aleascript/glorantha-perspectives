@@ -1,35 +1,61 @@
 ---
-title: "La Voie Lunaire"
+title: "L'Influence lunaire"
 ---
 
 <div data-runes="chapter">
   <img src="/img/runes/moon.png" alt="Lune" />
 </div>
 
-La magie lunaire est soumise au cycle lunaire en dehors de la ligne brillante. 
+# L'Influence lunaire
 
-Comment ça se traduit?
+La **Lune Rouge n'est pas une Vision du monde**.
 
-Dans la ligne brillante et en dehors des phases de pleine lune et de lune nouvelle, règles normales. 
+Un Lunar peut continuer d'habiter le monde en Théiste, en Animiste ou en Logicien. Mais lorsque sa relation à la Lune compte réellement dans la Situation, celle-ci peut modifier la manière dont sa Vision lit la réponse du réel.
 
-Les mystiques et la pensée draconique ne sont pas concernés: les cycles sont une réalité illusoire a dépasser. 
+L'influence lunaire ne s'applique donc pas simplement parce que la Lune est visible dans le ciel. Elle doit être pertinente pour le Protagoniste et pour la résolution : culte lunaire, magie lunaire, appartenance religieuse ou autre relation établie dans la fiction.
 
-### Pleine lune
+## Le cycle hors de la Ligne Brillante
 
-- Logique: on ajoute 1 a chaque dé
-- Théisme: on peut relancer les 1
-- Animisme : La présence de la Lune exacerbe la résonance du Pacte Spirituel avec les esprits les plus insondables. Les "double 1" ne forment plus une simple réussite, mais génèrent exceptionnellement 2 réussites.
+Hors de la **Ligne Brillante**, la Lune Rouge traverse son cycle.
 
-**Commentaires**
+Pour Glorantha Perspectives, les sept phases sont regroupées en trois états de résolution.
 
-Notez l'intrusion des 1 pendant la pleine lune qui est comme une incursion du mysticisme dans les autres modes de pensée.
+### Pleine Lune — regarder vers l'Un
 
-On regarde vers le 1, l’unité, l’inclusion.
+À la Pleine Lune, l'influence de la Déesse Rouge pousse les Visions concernées vers le `1` : unité, inclusion, possibilité de dépasser les séparations ordinaires.
 
-Ce n’est pas le mode héroïque mais c’est vrai que pour un lunaire, sentir les effets de la pleine lune lui fait toucher du doigt la possibilité d’un dépassement et invite presque à chercher à accéder au mode héroïque.
+- **Théisme** : les `1` peuvent être relancés.
+- **Animisme** : deux `1` formant un Pacte spirituel produisent exceptionnellement **2 Réussites** au lieu d'une.
+- **Logique** : ajoutez **1 à la valeur de chaque dé** avant de calculer la somme.
 
-### Nouvelle lune
+Ce n'est pas un mode héroïque. La Vision reste la même ; la Lune la traverse momentanément.
 
-- Logique: mode affaibli
-- Théisme: mode affaibli
-- Animisme: mode affaibli
+### Demi-lunes et Croissants — le monde ordinaire
+
+Les Visions se lisent normalement.
+
+### Lune mourante et Lune noire — le retrait de la Lune
+
+Les Visions concernées passent en **Vision affaiblie**.
+
+La Lune noire conserve une importance particulière dans les traditions lunaires liées à l'Illumination ; cet affaiblissement décrit ici la puissance lunaire disponible dans une résolution ordinaire, pas la signification initiatique de cette phase.
+
+## Dans la Ligne Brillante
+
+À l'intérieur de la **Ligne Brillante**, la présence de la Lune est maintenue comme sous une Pleine Lune.
+
+Lorsque l'influence lunaire est pertinente pour la résolution, appliquez donc en permanence les effets de **Pleine Lune** ci-dessus.
+
+## Mysticisme et Pensée draconique
+
+Le **Mysticisme** et la **Pensée draconique** ne sont pas modifiés par le cycle lunaire dans Glorantha Perspectives : leurs accomplissements cherchent précisément à dépasser les cycles et les oppositions de la réalité ordinaire.
+
+Un personnage Illuminé qui reste Théiste, Animiste ou Logicien conserve en revanche sa Vision sous-jacente : l'influence lunaire peut donc continuer à la traverser.
+
+> **CONCEPTION — Pourquoi le `1` ?**
+>
+> La Pleine Lune ne donne pas à tous les Lunars une mécanique mystique. Elle oriente cependant leur regard vers le même symbole : le `1`, l'unité et l'inclusion.
+>
+> Le Théiste reprend ce qui semblait perdu, l'Animiste découvre une résonance exceptionnelle dans les plus petites présences, et le Logicien voit toute sa mesure se décaler.
+>
+> Cette présence du `1` peut préparer fictionnellement le terrain de [l'Illumination](../illumination/index.md), sans la provoquer automatiquement.
