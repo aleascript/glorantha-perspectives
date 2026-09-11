@@ -47,4 +47,6 @@ La réussite ne se mesure donc pas seulement à « avoir terminé les étapes »
 
 ## Préparer un mythe pour le jeu
 
-Glorantha contient déjà de nombreux mythes utilisables.
+Glorantha contient déjà de nombreux mythes utilisables. Lorsque le Temps a besoin d'en construire ou d'en adapter un pour une Quête, voyez [**Préparer un mythe**](../creating-myths/).
+
+Et certaines Quêtes peuvent transformer davantage que le mythe ou le monde visible : elles peuvent conduire à [**découvrir une nouvelle Vision du monde**](../discovering-a-worldview/).
