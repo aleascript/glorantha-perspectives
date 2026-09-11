@@ -104,6 +104,21 @@ function guideContents(locale) {
   return flattenDocumentTree(guideStructure(locale));
 }
 
+function mementoStructure(locale) {
+  const root = `publication/quick-reference/${locale}`;
+  return [
+    `${root}/index.md`,
+    `${root}/resolution.md`,
+    `${root}/visions.md`,
+    `${root}/influences.md`,
+    `${root}/oracle.md`,
+  ];
+}
+
+function mementoContents(locale) {
+  return flattenDocumentTree(mementoStructure(locale));
+}
+
 const lunarWayHeroes = ['jaridan', 'ikarnos', 'hanya', 'peek-ee-peek'];
 const lunarWayChapters = Array.from({length: 17}, (_, index) =>
   String(index + 1).padStart(2, '0'),
@@ -184,6 +199,47 @@ export default definePublications({
             //seriesTitle: 'Glorantha Perspectives',
           },
           contents: guideContents('en'),
+          outputs: ['pdf'],
+        },
+      },
+    },
+    quickreference: {
+      author: 'AleaScript',
+      version: '2026-09-11',
+      status: 'Draft',
+      lineage: {
+        designedWith: {
+          label: 'Regard',
+          href: 'https://aleascript.github.io/regard/',
+        },
+        poweredBy: null,
+      },
+      size: 'A5',
+      theme: 'publication/theme.css',
+      outputName: 'glorantha-perspectives-quick-reference',
+      locales: {
+        fr: {
+          title: 'Mémento',
+          tocTitle: 'Sommaire',
+          toc: tocWithStructure(mementoStructure('fr')),
+          cover: {
+            image: '/img/site/glorantha-perspectives-emblem.png',
+            alt: 'Glorantha Perspectives',
+            seriesTitle: 'Glorantha Perspectives',
+          },
+          contents: mementoContents('fr'),
+          outputs: ['pdf'],
+        },
+        en: {
+          title: 'Quick Reference',
+          tocTitle: 'Contents',
+          toc: tocWithStructure(mementoStructure('en')),
+          cover: {
+            image: '/img/site/glorantha-perspectives-emblem.png',
+            alt: 'Glorantha Perspectives',
+            seriesTitle: 'Glorantha Perspectives',
+          },
+          contents: mementoContents('en'),
           outputs: ['pdf'],
         },
       },
