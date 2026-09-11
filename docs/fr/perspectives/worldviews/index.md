@@ -52,5 +52,3 @@ Changer de Vision du monde, ce n'est pas décider de regarder momentanément le 
 **C'est découvrir qu'on ne peut plus le regarder comme avant.**
 
 Certaines forces ne remplacent pourtant pas la Vision : elles la modifient, la rendent perméable ou la mettent en crise. C'est le rôle des [**Influences et transformations**](../influences/index.md).
-
-Pour une discussion plus détaillée des cas culturels et des pratiques étrangères, voir la note [Une Vision du monde n'est pas un masque](../../notes/lived-worldviews/index.md).

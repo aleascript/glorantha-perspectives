@@ -53,4 +53,3 @@ Changing Worldview does not mean deciding to look at the world differently for a
 
 Some forces do not replace the Worldview, however: they modify it, make it permeable, or place it in crisis. That is the role of [**Influences and transformations**](../influences/index.md).
 
-For a more detailed discussion of cultural cases and foreign practices, see the note [A Worldview is not a mask](../../notes/lived-worldviews/index.md).
