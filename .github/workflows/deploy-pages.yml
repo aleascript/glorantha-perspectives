@@ -113,7 +113,7 @@ jobs:
 
           current_state="$(
             jq -cS \
-              '[.publications[] | {id, version, contentHash}] | sort_by(.id)' \
+              '[.publications[] | {id, version, versionPolicy: (.versionPolicy // "current"), contentHash}] | sort_by(.id)' \
               "$current_manifest"
           )"
           previous_state='[]'
@@ -122,7 +122,7 @@ jobs:
           if [[ -n "$previous_manifest" ]]; then
             previous_state="$(
               jq -cS \
-                '[.publications[] | {id, version, contentHash}] | sort_by(.id)' \
+                '[.publications[] | {id, version, versionPolicy: (.versionPolicy // "current"), contentHash}] | sort_by(.id)' \
                 "$previous_manifest"
             )"
             if jq -e '
@@ -148,6 +148,7 @@ jobs:
                   | ($previous[0].publications[] | select(.id == $current.id)) as $old
                   | select(
                       $old.contentHash != $current.contentHash and
+                      ($current.versionPolicy // "current") != "fixed" and
                       $current.version != $today
                     )
                   | "\($current.id) (version \($current.version))"
