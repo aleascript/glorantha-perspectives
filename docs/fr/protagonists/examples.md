@@ -51,13 +51,25 @@ Hanya a particulièrement retenu de la déesse :
 - Coup de hache tranchant ;
 - Masque Rouge de la Terreur.
 
+#### Enseignement mythique — la Route de la Fille Conquérante
+
+Parmi les gestes de Hwarin que son enseignement lui donne à méditer, la **campagne de la Route de la Fille Conquérante** tient une place évidente.
+
+Après des années de préparation, Hwarin choisit une ligne de Pouvoir à travers les terres du sud et décide de la suivre jusqu'à son but. Elle part de Jillaro, franchit le pont où reposent son époux et son fils, monte un destrier de guerre, revêt un masque rouge et marque la route de ses pas. À Mirin's Cross, une bataille de magie fait surgir le **Feu Nouveau de la Voie Lunaire** : sur les eaux du Black Eel demeure alors un pont de cristal, passage durable pour l'armée qui la suit.
+
+Pour Hanya, ce récit relie des choses qu'une fiche classique séparerait facilement : préparer une route, voir le plan à long terme, construire, terrifier la résistance et transformer une conquête en ordre durable. **Route sûre**, **Voir le long terme** ou **Masque Rouge de la Terreur** ne sont donc pas seulement des capacités juxtaposées : ce sont des manières pour elle de comprendre et de prolonger certains gestes de Hwarin.
+
+Hanya n'a pourtant pas reçu toute la déesse. Elle est encore novice : son enseignement lui ouvre certaines connaissances magiques et certaines manières d'agir, sans faire d'elle une initiée accomplie de tous les mystères lunaires.
+
 Hanya comprend surtout Hwarin Dalthippa à travers la **conquête** et la capacité de voir les plans se dérouler. Pour elle, la Lune Rouge est davantage puissance de civilisation, de peur et de coercition que mystère inclusif.
 
-Elle a tenté d'intégrer la Rune de Lune et se l'est même fait tatouer sur le front. Mais elle n'est pas encore prête pour être pleinement initiée a la voie lunaire.
+Elle a tenté d'intégrer la Rune de Lune et se l'est même fait tatouer sur le front. Mais elle n'est pas encore prête pour être pleinement initiée à la Voie lunaire.
 
 ### Ce que ce Portrait montre
 
 Hanya n'est pas « une guerrière lunaire » accompagnée d'une liste de capacités. Sa religion, ses Runes et sa personnalité ne se superposent pas parfaitement.
+
+Sa magie elle-même n'est pas séparée de sa manière de comprendre Hwarin : elle vient d'un enseignement, d'une relation encore incomplète et d'un ensemble de gestes divins qu'elle apprend à reconnaître.
 
 C'est précisément cet écart qui la rend intéressante à jouer.
 
@@ -94,6 +106,9 @@ Peek-ee-peek est une éclaireuse Nomade Sable. Elle porte arc, lance, casque et 
 
 ### Tradition de Waha le Boucher
 
+- **vertus :** éliminer le Chaos, apaiser l'âme de l'animal tué, nourrir, défendre et alerter la tribu ;
+- **prodige :** Lance de Mort.
+
 Peek porte plusieurs fétiches. Chacun lui donne une puissance mais lui impose aussi une manière de vivre :
 
 - **Tuer l'étranger** — ne pas tuer pendant une lune après ;
@@ -101,6 +116,14 @@ Peek porte plusieurs fétiches. Chacun lui donne une puissance mais lui impose a
 - **Bête supérieure à l'homme** — être végétarienne ;
 - **Esprit chercheur d'eau** — ne pas boire autre chose que de l'eau ;
 - **Apaisement des esprits** — ne jamais souiller un lieu habité par un esprit.
+
+#### Récit de tradition — les Tâches de Waha
+
+Dans les Ténèbres, Waha apparaît dans un monde ravagé où les survivants se dispersent et meurent. Il les rassemble et leur apprend de nouvelles manières de vivre. Il libère les Protectrices d'Eiritha pour que les troupeaux reviennent, enseigne comment la Mort peut servir la vie, combat ou dompte les puissances dangereuses et nettoie les Désolations de la présence du Diable. Ses Tâches finissent par relier à nouveau les peuples, les esprits et les différentes parties de Prax.
+
+Ce récit explique pourquoi la Tradition de Peek ne sépare pas facilement **survie**, **Mort**, **lutte contre le Chaos**, **protection du troupeau** et **devoir envers la tribu**.
+
+Mais Peek est animiste : elle ne transforme pas ce récit en liste de miracles à reproduire. Sa magie passe par les **relations concrètes avec les esprits** qu'elle porte dans ses fétiches. Les Tâches de Waha lui apprennent quelles relations comptent et quel monde ces esprits contribuent à maintenir ; les tabous disent ce que ces relations exigent d'elle.
 
 ### Fta-Ah
 
@@ -112,7 +135,7 @@ Fta-Ah n'est pas rangée dans « équipement » : la relation mérite son propre
 
 Chez Peek, les puissances du personnage ne sont pas séparables de ses relations, de ses obligations et de sa manière d'habiter Prax.
 
-Un fétiche n'est pas seulement quelque chose qu'elle possède. Il lui demande quelque chose en retour.
+Un fétiche n'est pas seulement quelque chose qu'elle possède. Il lui demande quelque chose en retour. Un récit de tradition n'est pas davantage une liste de pouvoirs : il donne du sens aux relations qui rendent sa magie possible.
 
 ---
 
@@ -150,6 +173,24 @@ Son initiation lui révèle une direction : ce mouvement cherchait la **Vérité
 - tablette aux sept différences donnée par Hendrik ;
 - couteau ancestral donné par son père.
 
+### Mythe de Lhankor Mhy — la quête de la connaissance
+
+Hendrik a raconté à Tal le mythe de **Lhankor Mhy**, né d'**Orenoar, Maîtresse de Vérité**, sur **Mostal, la Montagne de Loi**. Les traditions elles-mêmes ne s'accordent pas toutes sur son père. Lorsque la connaissance se perd dans les Ténèbres et qu'Elasa disparaît, Lhankor Mhy invente l'écriture pour conserver ce qui a été appris, puis poursuit sa quête avec les Porteurs de Lumière.
+
+Hendrik insiste sur un point qui marque Tal : même Lhankor Mhy, qui embrasse toute connaissance, **réussit parfois et échoue parfois**. Il continue pourtant à chercher.
+
+Tal en a retenu cinq gestes :
+
+- distinguer ce qui est vrai ;
+- se souvenir de ce qui a été appris ;
+- conserver le savoir par l'écriture ;
+- chercher ce qui manque ;
+- continuer à chercher, même lorsque l'on sait déjà.
+
+Avant son initiation, Tal connaissait déjà ce mythe, le méditait et commençait à y reconnaître sa propre manière d'agir. L'initiation change la nature de cette connaissance : il n'est plus seulement quelqu'un qui comprend un récit sur Lhankor Mhy, il est **relié au Dieu**.
+
+Ces cinq formulations ne sont donc pas cinq sorts. Ce sont cinq gestes du Dieu que Tal a appris à reconnaître et qu'il peut désormais chercher à prolonger dans une Situation. **Le mythe lui donne les clés ; l'initiation ouvre la relation qui les rend opérantes.**
+
 ### Liens qui comptent
 
 - **Calimar et Urestona**, ses parents ;
@@ -161,7 +202,9 @@ Son initiation lui révèle une direction : ce mouvement cherchait la **Vérité
 
 L'initiation de Tal n'a pas effacé ce qui le constituait auparavant. Elle lui a donné une autre signification.
 
-Son Portrait change donc sans retcon : **le personnage a changé parce que sa compréhension de lui-même a changé.**
+Elle a aussi transformé son rapport au mythe appris auprès d'Hendrik : ce qui était enseignement, réflexion et possibilité devient désormais une voie par laquelle Tal peut chercher à faire écho aux gestes de Lhankor Mhy.
+
+Son Portrait change donc sans retcon : **le personnage a changé parce que sa compréhension de lui-même et sa relation au Cosmos ont changé.**
 
 Voir la [fiche complète de Talimar](../narratives/talimar-road/character.md), l'[Actual Play](../narratives/talimar-road/actual-play.md) et le [récit](../narratives/talimar-road/story.md).
 
@@ -177,4 +220,4 @@ Le Portrait doit rendre visible **ce qui constitue cette personne-ci**, pas prou
 
 Une personne rencontrée pour quelques minutes peut encore tenir en une intention et deux traits marquants. Si elle revient et prend de l'importance, son Portrait peut se développer exactement comme celui d'un Protagoniste durable.
 
-Pour explorer davantage de personnages et de cultures sans alourdir les règles de base, voir aussi la proposition [**Visages de Glorantha**](visages.md).
+Pour rencontrer d'autres personnages sans transformer ce chapitre en catalogue, parcourez les [**Récits**](../narratives/).

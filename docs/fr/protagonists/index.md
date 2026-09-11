@@ -12,7 +12,7 @@ La feuille devient alors moins un formulaire qu'un **Portrait vivant** : la mém
 
 ## Le Portrait vivant
 
-Un Portrait vivant peut être très court ou très développé. Sa forme reste ouverte, mais quatre éléments reviennent souvent.
+Un Portrait vivant peut être très court ou très développé. Sa forme reste ouverte, mais cinq éléments reviennent souvent.
 
 ### Nom, image, voix
 
@@ -24,6 +24,23 @@ Commencez par ce qui permet de voir immédiatement quelqu'un :
 - une **phrase typique**, une conviction ou quelques mots qui donnent sa voix.
 
 La phrase n'est pas une règle. Elle sert à retrouver rapidement la manière dont le Protagoniste regarde le monde.
+
+### Le monde qu'il habite
+
+Un Protagoniste ne se définit pas seulement par ce qu'il sait faire. Il habite un Cosmos et entretient avec certaines de ses puissances des relations qui peuvent devenir opérantes.
+
+Faites apparaître assez tôt :
+
+- sa **Vision du monde** — Théisme, Animisme, Logique, Mysticisme, Pensée draconique ou autre Perspective réellement vécue ;
+- les cultes, traditions, écoles, voies ou communautés sacrées auxquels il appartient ;
+- les initiations, serments, pactes, enseignements ou relations qui l'engagent réellement ;
+- les mythes, rites, formules, récits de tradition ou rencontres spirituelles qui donnent forme à ce qu'il peut reconnaître et accomplir.
+
+> **Connaître n'est pas encore participer.**
+
+Un théiste peut connaître un mythe sans pour autant pouvoir en prolonger magiquement les gestes. L'initiation établit une relation avec le Dieu ; le mythe donne alors des clés pour reconnaître comment ce Dieu agit et comment un geste mortel peut entrer en continuité avec le sien.
+
+Un novice peut n'avoir reçu qu'une partie de ces enseignements. Un animiste entretient plutôt des relations concrètes avec des esprits, des fétiches et leurs tabous. Un Logicien peut être formé par une école et ses formules ; un mystique par une discipline et une voie. La forme change avec la Perspective, mais le Portrait doit montrer **ce qui relie réellement cette personne au Cosmos**, pas seulement ce qu'elle en a entendu dire.
 
 ### Runes
 
@@ -72,35 +89,25 @@ Le Portrait n'a pas vocation à rester stable. S'il change, c'est généralement
 Avant de chercher des détails, posez quelques questions simples :
 
 - **À qui appartient-il ?** Quelle communauté lui donne une place, des devoirs et des soutiens ?
+- **Dans quel monde pense-t-il vivre ?** Quels dieux, esprits, lois, traditions ou principes donnent forme à sa Perspective ?
+- **À quoi est-il réellement relié ?** Quelles initiations, appartenances, relations spirituelles, écoles ou voies rendent certaines choses opérantes pour lui ?
+- **Quels gestes du sacré a-t-il appris à reconnaître ?** Quels mythes, rites, enseignements ou récits ont transformé sa manière d'agir ?
 - **Quelles Runes le marquent ?** Que disent-elles de son caractère, de ses affinités et de ses contradictions ?
-- **Comment comprend-il le monde ?** Quels dieux, esprits, traditions ou principes donnent forme à sa Vision du monde ?
 - **À qui est-il lié ?** Qui aime-t-il, qui déteste-t-il, envers qui a-t-il une dette, un serment ou une responsabilité ?
 - **Qu'est-ce qui le distingue ?** Quel talent, défaut, objet, statut, savoir ou souvenir risque de revenir en jeu ?
 - **Qu'est-ce qui pourrait le mettre en mouvement ?** Que veut-il protéger, obtenir, réparer, comprendre ou refuser ?
 
 Vous n'avez pas besoin de répondre à tout avant de jouer. Ces questions servent à orienter le regard ; les Situations révéleront ce qui mérite réellement d'être développé.
 
-## Vision du monde
-
-La **Vision du monde** indique la manière profonde dont le Protagoniste comprend la réalité :
-
-- **Théisme** ;
-- **Animisme** ;
-- **Logique** ;
-- **Mysticisme** ;
-- **Pensée draconique**, pour les êtres concernés.
-
-Elle peut apparaître comme un Chapitre de vie à part entière, ou être portée par un culte, une tradition, une école ou une appartenance déjà présente dans le Portrait.
-
-Un Protagoniste peut connaître des rites, textes, pratiques ou savoirs venus d'ailleurs sans changer de Vision du monde. Ces éléments peuvent devenir des Mises ; ils ne changent pas automatiquement la manière dont ses dés sont lus.
-
 ## Magie, relations et ressources
 
 Il n'est pas nécessaire de créer des rubriques séparées pour la magie, les relations ou l'équipement.
 
-Placez-les là où ils ont du sens.
+Placez-les là où ils ont du sens — et, pour la magie, conservez autant que possible **la relation qui lui donne sa portée**.
 
-Une **armure de mercure** peut appartenir à **Gardienne de Jillaro**. Un fétiche peut rester attaché à une **Tradition de Waha**. Un père antiquaire peut figurer sous **Initiée du Grand Mystère** s'il est directement lié au secret que porte le personnage. Une monture peut mériter son propre Chapitre si elle constitue une relation centrale plutôt qu'un simple moyen de transport.
+Une **armure de mercure** peut appartenir à **Gardienne de Jillaro**. Un enseignement mythique peut rester dans le Chapitre du culte qui l'a transmis. Un fétiche et son tabou peuvent rester attachés à une **Tradition de Waha**. Un père antiquaire peut figurer sous **Initiée du Grand Mystère** s'il est directement lié au secret que porte le personnage. Une monture peut mériter son propre Chapitre si elle constitue une relation centrale plutôt qu'un simple moyen de transport.
+
+Un effet magique isolé de sa source ressemble vite à une capacité abstraite. Un mythe incarné, un esprit avec lequel une relation existe, une formule reçue d'une école ou une pratique acquise dans une voie racontent au contraire **pourquoi cette magie existe chez cette personne**.
 
 Cette organisation évite de réduire toutes les vies à une même anatomie de fiche.
 
@@ -111,8 +118,9 @@ Arrêtez la création lorsque vous savez répondre à ces questions :
 1. **Qui est-il ?**
 2. **À qui appartient-il ?**
 3. **Comment pense-t-il que le monde fonctionne ?**
-4. **Qu'est-ce qui compte profondément pour lui ?**
-5. **Qu'est-ce qui peut l'aider ou lui compliquer la vie dès la première Situation ?**
+4. **À quoi est-il réellement relié dans ce monde ?**
+5. **Qu'est-ce qui compte profondément pour lui ?**
+6. **Qu'est-ce qui peut l'aider ou lui compliquer la vie dès la première Situation ?**
 
 Le reste peut apparaître pendant le jeu.
 
@@ -138,10 +146,11 @@ L'évolution reste diégétique. Quand quelque chose change durablement dans la 
 - notez une blessure ou une dette ;
 - changez une relation ;
 - gagnez ou perdez un objet, un secret ou une responsabilité ;
+- intégrez un mythe, un rite, un enseignement ou une relation spirituelle devenu opérant ;
 - modifiez une appartenance ou une conviction après une transformation majeure.
 
 Il n'est pas nécessaire d'attendre une fin de scénario ou une distribution de points.
 
 Un Protagoniste expérimenté n'est pas seulement quelqu'un qui possède davantage de capacités. Il porte davantage d'histoire susceptible de revenir dans le présent.
 
-Voir aussi [Exemples de Protagonistes](examples.md) et la proposition éditoriale [**Visages de Glorantha**](visages.md).
+Voir aussi [Exemples de Protagonistes](examples.md) et les [**Récits**](../narratives/), qui montrent d'autres personnages en jeu.
