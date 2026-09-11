@@ -4,7 +4,9 @@ title: "Le Chaos"
 
 # Le Chaos
 
-![Chaos](/img/runes/chaos.png)
+<div data-runes="chapter">
+  <img src="/img/runes/chaos.png" alt="Chaos" />
+</div>
 
 > « Le Chaos n'est pas fort parce qu'il a de meilleures armes. Le Chaos est fort parce qu'il ne joue pas au même jeu que nous. »
 >

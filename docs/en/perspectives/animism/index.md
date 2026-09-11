@@ -2,7 +2,9 @@
 title: "Animism: the world of spirits"
 ---
 
-![World of spirits](/img/runes/spirits.png)
+<div data-runes="chapter">
+  <img src="/img/runes/spirits.png" alt="World of spirits" />
+</div>
 
 > An animist feels the world. They feel the link between the invisible and visible worlds. That is how they can interpret, decide, act. Animists are between two worlds: the mundane and the spiritual. That is their worldview. Always. All the time.
 

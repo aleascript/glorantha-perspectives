@@ -2,7 +2,9 @@
 title: "Mysticisme: l'Illumination"
 ---
 
-![Monde mystique: le centre, le vide](/img/runes/void.png)
+<div data-runes="chapter">
+  <img src="/img/runes/void.png" alt="Monde mystique : le centre, le vide" />
+</div>
 
 > Un mystique a une Vision du monde fondée sur une déconstruction intérieure mais réelle de l’illusion du réel, des sens, etc… Il sait qu’il n’y a pas de vérité absolue. Il voit les transformations. En cela, il peut interpréter, décider et agir sur le monde.
 

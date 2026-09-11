@@ -4,7 +4,9 @@ title: Monnaies et échanges
 
 # Monnaies et échanges
 
-![Échange](/img/runes/exchange.png)
+<div data-runes="chapter">
+  <img src="/img/runes/exchange.png" alt="Échange" />
+</div>
 
 Glorantha est un monde de communautés. Le troc et les petites monnaies occupent une grande place dans la vie quotidienne, tandis que les monnaies de forte valeur sont souvent liées aux temples, aux cités et aux autorités qui garantissent les échanges.
 

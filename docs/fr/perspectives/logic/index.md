@@ -2,7 +2,10 @@
 title: "La logique du Dieu Invisible"
 ---
 
-![Loi](/img/runes/law.png) ![Logic](/img/runes/logic.png)
+<div data-runes="chapter">
+  <img src="/img/runes/law.png" alt="Loi" />
+  <img src="/img/runes/logic.png" alt="Logique" />
+</div>
 
 > Un logicien a une vision “scientifique”, rationnelle du monde. Cause/Effet. Ingrédients/Recette. Essais, expériences. Il organise, quantifie, compare. Son Dieu est invisible et donc ne se manifeste pas. On s'en approche par l'étude et la raison.
 

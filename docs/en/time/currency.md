@@ -4,7 +4,9 @@ title: Currency and Exchange
 
 # Currency and Exchange
 
-![Exchange](/img/runes/exchange.png)
+<div data-runes="chapter">
+  <img src="/img/runes/exchange.png" alt="Exchange" />
+</div>
 
 Glorantha is a world of communities. Barter and small coinage play a major role in everyday life, while high-value currencies are often tied to temples, cities, and authorities that guarantee exchange.
 

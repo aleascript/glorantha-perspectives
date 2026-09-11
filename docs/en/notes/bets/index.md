@@ -2,7 +2,9 @@
 title: "Reflections on Bets"
 ---
 
-![Fate](/img/runes/fate.png)
+<div data-runes="chapter">
+  <img src="/img/runes/fate.png" alt="Fate" />
+</div>
 
 ### Several Worldviews on the same side
 

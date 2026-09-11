@@ -23,12 +23,54 @@ html, body {background: var(--site-background); color: var(--site-text);}
 .theme-doc-markdown > h1:first-child {letter-spacing: -0.035em;}
 .theme-doc-markdown p, .theme-doc-markdown li {font-size: 1.04rem;}
 .theme-doc-markdown blockquote {border-left-color: var(--site-primary); color: var(--site-muted);}
-.theme-doc-markdown img[src*="/img/runes/"] {
+.theme-doc-markdown img:where(
+  [data-image='rune'],
+  [src*='/img/runes/']:not([data-image])
+) {
   display: inline-block;
-  width: 3rem;
+  width: 2rem;
+  max-width: none;
   height: auto;
+  margin-block: 0;
   margin-right: 0.35rem;
   vertical-align: middle;
+}
+
+.theme-doc-markdown table img:where(
+  [data-image='rune'],
+  [src*='/img/runes/']:not([data-image])
+) {
+  width: 1.25em;
+  margin-right: 0.2em;
+  vertical-align: -0.2em;
+}
+
+.theme-doc-markdown [data-runes='chapter'] {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem 0 2rem;
+}
+
+.theme-doc-markdown [data-runes='chapter'] img {
+  width: clamp(5rem, 12vw, 8rem);
+  max-width: none;
+  height: auto;
+  margin: 0;
+}
+
+.theme-doc-markdown img:where(
+  [data-image='illustration'],
+  [src*='/img/narratives/']:not([data-image])
+) {
+  display: block;
+  width: auto;
+  max-width: min(100%, 44rem);
+  max-height: 70vh;
+  margin: 1.5rem auto;
+  object-fit: contain;
 }
 .table-of-contents {border-left-color: var(--site-border);}
 

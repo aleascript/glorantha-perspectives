@@ -4,7 +4,10 @@ title: "Dunstop"
 
 # La Mission de Fazzur
 
-![Désordre](/img/runes/disorder.png)![Mort](/img/runes/death.png)
+<div data-runes="chapter">
+  <img src="/img/runes/disorder.png" alt="Désordre" />
+  <img src="/img/runes/death.png" alt="Mort" />
+</div>
 
 * **Lieu :** Dunstop — Palais du général provincial *Fazzur l'Instruit*
 * **Date :** 1611 — Saison de la Mer — Semaine de l'Harmonie — Jour du Gel
@@ -105,4 +108,3 @@ Je copiais mes deux cartes :
 Nous décidâmes de partir à l'aube le lendemain. Notre groupe se divisa pas mal de temps sur la direction à prendre, mais nous optâmes finalement pour **la route du sud**.
 
 De l'avis de Jaridan et de moi-même, cela semblait être la route *la plus courte en distance*, mais assurément **la plus longue en temps et la plus dangereuse surtout !**
-

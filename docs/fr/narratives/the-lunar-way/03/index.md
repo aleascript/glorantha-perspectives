@@ -4,7 +4,10 @@ title: "Bagnot"
 
 # De Dunstop vers Bagnot
 
-![Harmonie](/img/runes/harmony.png)![Mouvement](/img/runes/movement.png)
+<div data-runes="chapter">
+  <img src="/img/runes/harmony.png" alt="Harmonie" />
+  <img src="/img/runes/movement.png" alt="Mouvement" />
+</div>
 
 **Date :** 1611 – Saison de la Mer – Semaine de l'Harmonie – Jour de l'Argile
 
@@ -34,7 +37,10 @@ Récit de Peek-ee-Peek: "Je tentais de provoquer un accident sur le soldat qui m
 
 # Halte à Bagnot
 
-![Illusion](/img/runes/illusion.png)![Stase](/img/runes/stasis.png)
+<div data-runes="chapter">
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+  <img src="/img/runes/stasis.png" alt="Stase" />
+</div>
 
 **Date :** 1611 – Saison de la Mer – Semaine de l'Harmonie – Jour du Vent
 
@@ -108,4 +114,3 @@ Je décidai d'avancer mes pions :
 ## Départ
 
 Nous partîmes quelques jours plus tard en direction de la montagne, marchant vers ce qui était indiqué sur nos cartes comme les **Ruines Tombantes** — le seul passage permettant de rejoindre la *Passe du Dragon* sans avoir à contourner par le Nord.
-

@@ -2,7 +2,9 @@
 title: "Chaos"
 ---
 
-![Chaos](/img/runes/chaos.png)
+<div data-runes="chapter">
+  <img src="/img/runes/chaos.png" alt="Chaos" />
+</div>
 
 > "Chaos is not strong because it has better weapons. Chaos is strong because it does not play the same game as we do."
 >

@@ -98,7 +98,7 @@ const config: Config = {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          beforeDefaultRemarkPlugins: [
+          remarkPlugins: [
             [remarkLocalImageBaseUrl, {baseUrl}],
           ],
         },

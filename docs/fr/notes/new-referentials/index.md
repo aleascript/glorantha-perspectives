@@ -2,7 +2,9 @@
 title: "Découvrir une nouvelle vision du monde?"
 ---
 
-![Maitrise](/img/runes/mastery.png)
+<div data-runes="chapter">
+  <img src="/img/runes/mastery.png" alt="Maîtrise" />
+</div>
 
 On pourrait imaginer par exemple élaborer d'autres ajustements des règles pour ceux qui auraient des runes de condition spécifique.
 

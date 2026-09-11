@@ -2,7 +2,10 @@
 title: "The Logic of the Invisible God"
 ---
 
-![Law](/img/runes/law.png) ![Logic](/img/runes/logic.png)
+<div data-runes="chapter">
+  <img src="/img/runes/law.png" alt="Law" />
+  <img src="/img/runes/logic.png" alt="Logic" />
+</div>
 
 > A logician has a "scientific," rational vision of the world. Cause/Effect. Ingredients/Recipe. Trials, experiments. They organize, quantify, compare. Their God is invisible and therefore does not manifest. One approaches the God through study and reason.
 

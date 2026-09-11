@@ -4,7 +4,11 @@ title: "Tabous, geis et serments"
 
 # Tabous, geis et serments
 
-![Vérité](/img/runes/truth.png)![Stase](/img/runes/stasis.png)![Mort](/img/runes/death.png)
+<div data-runes="chapter">
+  <img src="/img/runes/truth.png" alt="Vérité" />
+  <img src="/img/runes/stasis.png" alt="Stase" />
+  <img src="/img/runes/death.png" alt="Mort" />
+</div>
 
 Dans Glorantha, certaines puissances, appartenances et relations imposent des obligations réelles. Un culte peut demander un **geis**, un esprit peut imposer un **tabou**, une communauté peut vivre sous un **interdit**, et deux personnes peuvent se lier par un **serment**.
 

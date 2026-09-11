@@ -160,11 +160,56 @@ figure > figcaption[aria-hidden='true'] {
   display: none;
 }
 
-img[src*="/img/runes/"] {
-  width: 9mm;
+img:where(
+  [data-image='rune'],
+  [src*='/img/runes/']:not([data-image])
+) {
+  width: 7mm;
+  max-width: none;
+  max-height: none;
   height: auto;
   margin-right: 1.5mm;
   vertical-align: middle;
+}
+
+table img:where(
+  [data-image='rune'],
+  [src*='/img/runes/']:not([data-image])
+) {
+  width: 4.5mm;
+  margin-right: 1mm;
+  vertical-align: -0.8mm;
+}
+
+[data-runes='chapter'] {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5mm;
+  align-items: center;
+  justify-content: center;
+  margin: 6mm 0 8mm;
+  break-inside: avoid;
+}
+
+[data-runes='chapter'] img {
+  width: 30mm;
+  max-width: none;
+  max-height: none;
+  height: auto;
+  margin: 0;
+}
+
+img:where(
+  [data-image='illustration'],
+  [src*='/img/narratives/']:not([data-image])
+) {
+  display: block;
+  width: auto;
+  max-width: 100mm;
+  max-height: 105mm;
+  margin: 5mm auto;
+  object-fit: contain;
+  break-inside: avoid;
 }
 
 img[src*="/img/publication/dice.svg"] {

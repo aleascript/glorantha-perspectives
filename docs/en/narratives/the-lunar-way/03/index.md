@@ -4,7 +4,10 @@ title: "Bagnot"
 
 # From Dunstop to Bagnot
 
-![Harmony](/img/runes/harmony.png)![Movement](/img/runes/movement.png)
+<div data-runes="chapter">
+  <img src="/img/runes/harmony.png" alt="Harmony" />
+  <img src="/img/runes/movement.png" alt="Movement" />
+</div>
 
 **Date:** 1611 – Sea Season – Harmony Week – Clay Day
 
@@ -34,7 +37,10 @@ Peek-ee-Peek's account: "I tried to cause an accident to the soldier who had bee
 
 # Stopover at Bagnot
 
-![Illusion](/img/runes/illusion.png)![Stasis](/img/runes/stasis.png)
+<div data-runes="chapter">
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+  <img src="/img/runes/stasis.png" alt="Stasis" />
+</div>
 
 **Date:** 1611 – Sea Season – Harmony Week – Wind Day
 
@@ -108,4 +114,3 @@ I decided to advance my pieces:
 ## Departure
 
 We departed a few days later heading for the mountains, marching toward what was indicated on our maps as the **Falling Ruins** — the only passage allowing access to the *Dragon Pass* without having to bypass through the North.
-

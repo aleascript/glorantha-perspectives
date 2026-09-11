@@ -49,7 +49,7 @@ I am confident in the encoding used in my writings for Fazzur, they should see n
 The hours pass. Children throw garbage in my face. I concentrate on my mission and my mind focuses on the Goddess's teachings who endured far worse: dismembered in the Age of the Gods she came back even stronger and triumphed over everything. I try to stay vigilant to spot the man and warn Nigmar in case but I eventually fall unconscious.
 
 
-> <img src="/img/runes/fate.png" width="5%" /> **Plot twist!** 
+> <img src="/img/runes/fate.png" /> **Plot twist!**
 > The Dwarves could manage on their own and Korlan would have come to see them of his own accord and they would have recovered the medallion and fled (that would really be the last straw for Ikarnos) or they would have freed Ikarnos (that would probably be too easy). Or the plot twist comes from elsewhere (Hanya? a Lunar visit? a clan attack? a divine message?...)
 > 
 > When there are too many options like this, it is a sign that a fate roll must be made. Result: relations. This leads to the Dwarves' track or Hanya's. An intervention by Hanya would be interesting I think but one must first know what is happening on her side.
@@ -58,7 +58,7 @@ The hours pass. Children throw garbage in my face. I concentrate on my mission a
 
 I crave raw flesh. The ogre growing in my flesh reminds me regularly. I try not to look too much at the Dwarf because I might pounce on him and devour him. I politely refuse his Dwarven food that looks like a mushroom broth, using the excuse of needing to relieve myself to go hunt. I eat the animals raw, the heart still warm after having felled them with an arrow. I cannot stop thinking about Ikarnos's plan and wonder if this is what the Goddesses expect of me to save the Empire in danger.
 
-> <img src="/img/runes/fate.png" width="5%" /> Hanya's objective: wait at the rendezvous point but something must happen due to the plot twist. And Hanya has a big secret to hide.
+> <img src="/img/runes/fate.png" /> Hanya's objective: wait at the rendezvous point but something must happen due to the plot twist. And Hanya has a big secret to hide.
 
 As I devour a raw rabbit I felled with an arrow, I sense movement behind me. The Dwarf has followed me and seems to have understood something, holding his war hammer and letting out a cry as he attacks me.
 
@@ -97,11 +97,11 @@ I run through the hills, slipping through the undergrowth to be as discreet as p
 
 *Hanya's objective: reach the village without incident to find Ikarnos*
 
-> <img src="/img/runes/fate.png" width="5%" /> **Setback!** 
+> <img src="/img/runes/fate.png" /> **Setback!**
 
 Damn geography, impossible to climb the hillside that easily, to the west shepherds and their flocks, to the east guards who seem to be watching something and before me, this rock that rises almost sheer. I must nonetheless climb and pass through here to reach the village on the other side. Or wait for nightfall. That is what I decide.
 
-> <img src="/img/runes/fate.png" width="5%" /> Here the situation simply consisted of making a choice: face the warriors, try to pass through the pastures risking being spotted, attempt a perilous climb, or wait...
+> <img src="/img/runes/fate.png" /> Here the situation simply consisted of making a choice: face the warriors, try to pass through the pastures risking being spotted, attempt a perilous climb, or wait...
 
 
 ## Apple Clan (Ikarnos)
@@ -118,7 +118,7 @@ The priestess Sheena and her acolytes carry him away to heal him. Then the villa
 
 A man comes with my belongings and gives them to the Dwarves. I regain a bit of hope. The man with the medallion returns the medallion to the Dwarves who in exchange give him my Vision of Darkness medallion. The village chief gives the Dwarves my Diplomatica Scriptoriae as well as my writing materials, not without having spit on the book before handing it over. That's it they are going to come free me but shock, I see them leave the village without me! I scream my rage at them but they disappear into the night that is falling.
 
-> <img src="/img/runes/fate.png" width="5%" /> Here we played a little role-playing scene without confrontation or choice, just to prepare Hanya's intervention. The rules state that you are not obligated to make situation rolls if you already have a storyline in mind. Moreover in our case, the setback roll also seems obsolete given Ikarnos's limited objectives. The situation did not really allow Ikarnos to act with fate but it did allow the story to advance. On the other hand, we could make a plot twist roll but here we will consider that given the 1st plot twist has not yet been played, we move on to the next one to arrive there.
+> <img src="/img/runes/fate.png" /> Here we played a little role-playing scene without confrontation or choice, just to prepare Hanya's intervention. The rules state that you are not obligated to make situation rolls if you already have a storyline in mind. Moreover in our case, the setback roll also seems obsolete given Ikarnos's limited objectives. The situation did not really allow Ikarnos to act with fate but it did allow the story to advance. On the other hand, we could make a plot twist roll but here we will consider that given the 1st plot twist has not yet been played, we move on to the next one to arrive there.
 
 
 ## The night at the village (Hanya, Ikarnos)

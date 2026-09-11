@@ -2,7 +2,9 @@
 title: "Réflexions sur les Mises"
 ---
 
-![Destin](/img/runes/fate.png)
+<div data-runes="chapter">
+  <img src="/img/runes/fate.png" alt="Destin" />
+</div>
 
 ### Plusieurs Visions du monde du même côté
 

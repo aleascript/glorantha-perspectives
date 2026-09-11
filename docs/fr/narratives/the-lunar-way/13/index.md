@@ -68,7 +68,7 @@ Jaridan fait signe à l'homme qui revient et l'informe qu'ils acceptent de tente
 
 L'objectif de Jaridan est de rencontrer Perandal et de trouver un moyen pour se greffer dans l'escorte des trois prisonniers qui se rend à AldaChur. 
 
-> <img src="/img/runes/fate.png" width="5%" /> **Contretemps!**
+> <img src="/img/runes/fate.png" /> **Contretemps!**
 
 Peek et Jaridan sortent de l'auberge de l'Arbre Blanc dans l'intention de pénétrer dans l'enceinte principale du fort pour aller dans le hall du chef du clan et lui parler mais au moment où ils arrivent dehors, une escouade de lunaires les arrêtent et un officier lunaire les interpelle: "toi, la nomade, que fais-tu ici ? et pourquoi n'es tu pas dans ton régiment ?" 
 
