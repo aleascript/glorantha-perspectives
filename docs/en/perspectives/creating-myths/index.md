@@ -32,3 +32,5 @@ A myth is an excellent opportunity to apply **the rule of three** (or more). Ind
 ## Founding Myths
 
 One can also find more recent myths during the Age of History. The Deity is then replaced by a Hero.
+
+Some quests can go further than transforming a myth: they can lead a Protagonist to [**discover a new Worldview**](../discovering-a-worldview/), and therefore a new way for reality itself to become readable.
