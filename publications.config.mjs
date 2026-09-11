@@ -116,7 +116,7 @@ export default definePublications({
     },
     'the-lunar-way': {
       author: 'AleaScript',
-      version: '2021-09-11',
+      version: '2026-09-11',
       status: 'To be continued',
       lineage: {
         designedWith: {
