@@ -46,7 +46,7 @@ When the mystic truly ceases to place themselves against the world, two fulfillm
 
 The mystic places **no personal Bet**.
 
-Once the other side's Bets have been established, the mystic's roll simply contains **as many dice as there are Bets facing them**, with no additional justification required.
+Each Bet on the other side also becomes one die on the mystic's side. They place nothing; what faces them entirely constitutes the trial.
 
 They do not search for a quality, possession, memory, or power that might justify an advantage. They no longer say: "this is my strength."
 

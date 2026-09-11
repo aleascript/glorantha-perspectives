@@ -105,7 +105,7 @@ Il n'est pas nécessaire de créer des rubriques séparées pour la magie, les r
 
 Placez-les là où ils ont du sens — et, pour la magie, conservez autant que possible **la relation qui lui donne sa portée**.
 
-Une **armure de mercure** peut appartenir à **Gardienne de Jillaro**. Un enseignement mythique peut rester dans le Chapitre du culte qui l'a transmis. Un fétiche et son tabou peuvent rester attachés à une **Tradition de Waha**. Un père antiquaire peut figurer sous **Initiée du Grand Mystère** s'il est directement lié au secret que porte le personnage. Une monture peut mériter son propre Chapitre si elle constitue une relation centrale plutôt qu'un simple moyen de transport.
+Une **armure de mercure** peut appartenir à **Gardienne de Jillaro**. Un enseignement mythique peut rester dans le Chapitre du culte qui l'a transmis. Un fétiche et son tabou peuvent rester attachés à une **Tradition de Waha**. Une monture peut n'être qu'un élément de **Nomade Sable** ; chez Peek, **Fta-Ah** mérite son propre Chapitre parce que leur relation est centrale. Le niveau de détail dépend de la place qu'un élément occupe dans cette vie, pas de sa catégorie.
 
 Un effet magique isolé de sa source ressemble vite à une capacité abstraite. Un mythe incarné, un esprit avec lequel une relation existe, une formule reçue d'une école ou une pratique acquise dans une voie racontent au contraire **pourquoi cette magie existe chez cette personne**.
 

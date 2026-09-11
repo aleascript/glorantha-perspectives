@@ -46,7 +46,7 @@ Lorsque le mystique cesse véritablement de se placer lui-même face au monde, d
 
 Le mystique ne pose **aucune Mise personnelle**.
 
-Une fois les Mises de l'autre côté établies, son tirage comporte simplement **autant de dés qu'il y a de Mises en face**, sans justification supplémentaire.
+Chaque Mise de l'autre côté devient aussi un dé du sien. Il ne pose rien ; ce qui lui fait face constitue entièrement l'épreuve.
 
 Il ne cherche ni qualité, ni possession, ni souvenir, ni pouvoir qui puisse justifier son avantage. Il ne dit plus : « ceci est ma force ».
 

@@ -22,7 +22,7 @@ In the [Great Cycle of resolution](../resolution/), the rune of **Disorder** mar
 
 A heroic discovery can create a comparable rupture at another scale.
 
-The Protagonist has experienced something their current Worldview can no longer fully explain. A Rune may have revealed an unexpected relationship to the Cosmos. An encounter in the Otherworld may have made something operative that once seemed impossible. Two truths previously thought incompatible may have been joined. An entirely new path may have opened.
+The Protagonist has experienced something their current Worldview can no longer fully explain. A Rune may have revealed an unexpected relationship to the Cosmos. An encounter in the Otherworld may have made something operative that once seemed impossible. Two aspects of the Cosmos that their old Worldview could not hold together may suddenly come together. An entirely new path may have opened.
 
 What matters is not how strange the experience was, but what follows from it: **the old way of reading reality is no longer enough**.
 
@@ -53,8 +53,8 @@ A new Worldview should therefore arise from what has been lived, then gradually 
 
 A few questions can guide the table:
 
-1. **What truth about the world has just been discovered?**  
-   State it first without talking about dice.
+1. **What has the Protagonist just discovered about the Cosmos?**  
+   State the discovery first without talking about dice.
 2. **What does the Protagonist now notice that others do not look at in the same way?**  
    Repetitions, oppositions, relationships, ruptures, or other signs may suddenly take on meaning.
 3. **How does this discovery manifest when reality must answer?**  

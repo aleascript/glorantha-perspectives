@@ -4,7 +4,7 @@ title: Talimar's Character Sheet
 
 # Talimar's Character Sheet
 
-This sheet represents **Talimar after his initiation into Lhankor Mhy**, at the end of the first session of Talimar's Road. It preserves what the fiction made true about him rather than a state prepared before play.
+This sheet represents **Talimar after his initiation into Lhankor Mhy**, at the end of the first session of Talimar's Road. It preserves what play has brought into view about him rather than a state prepared before play.
 
 ## Identity
 

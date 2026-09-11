@@ -22,7 +22,7 @@ Glorantha Perspectives builds on that image to represent a state before complete
 
 The Spark grants no automatic power.
 
-It becomes a truth about the Protagonist: doubt, fascination, incomplete revelation, an impossible memory that cannot be forgotten. It may later count as a Bet whenever the Situation makes it relevant.
+It leaves a **Trace** in the Protagonist: doubt, fascination, incomplete revelation, an impossible memory that cannot be forgotten. That Trace may later count as a Bet whenever the Situation makes it relevant.
 
 Confrontation with Mysticism is a particularly natural source of a Spark: the character sees an apparently certain victory dissolve after the fact, without their lived experience being denied.
 
@@ -64,7 +64,7 @@ Illumination may allow the character to cross religious, Runic, or cosmic contra
 
 This does not mean they automatically receive every power, nor that the world stops reacting to their actions.
 
-An Illuminated Orlanthi who accepts Chaos, combines forces held to be incompatible, or breaks cult prohibitions may still be rejected, hunted, admired, or transformed by what they do. Those consequences simply become new truths of the fiction, and therefore potentially new Bets.
+An Illuminated Orlanthi who accepts Chaos, combines forces held to be incompatible, or breaks cult prohibitions may still be rejected, hunted, admired, or transformed by what they do. Those consequences are simply inscribed in the fiction and may therefore become new Bets when a Situation makes them relevant.
 
 Glorantha Perspectives adds no automatic **Heretic's Taint** merely for being Illuminated. The character's actions, revelations, and relationships determine what others can perceive or condemn.
 

@@ -18,7 +18,7 @@ The table states what it actually wants to decide now.
 - **First outcome:** Yanela gives Kallyr the relic to protect the clan.
 - **Second outcome:** Yanela keeps the relic in its protective stasis within the temple.
 
-Kallyr possesses formidable truths such as *Lightning Swordswoman*, *Agile as the Wind*, or her *Iron Longsword*. But the Focus concerns political and religious negotiation, not physical combat. Those truths therefore do not become Bets here.
+Kallyr is, among other things, a *Lightning Swordswoman*, *Agile as the Wind*, and carries an *Iron Longsword*. But the Focus concerns political and religious negotiation, not physical combat. Those elements therefore do not become Bets here.
 
 ### 2. Identify the Frame Factor
 
@@ -28,7 +28,7 @@ Kallyr might have wanted to use her *Hot-tempered* trait or her status as an *In
 
 ### 3. Identify the Bets on each side
 
-Each retained truth favours one of the two outcomes.
+Each retained element favours one of the two outcomes.
 
 **Bets favouring Kallyr obtaining the relic:**
 
