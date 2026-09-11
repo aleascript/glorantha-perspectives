@@ -1,0 +1,65 @@
+name: Debug English rune rendering
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Inspect hydrated English page
+        shell: bash
+        run: |
+          set -euo pipefail
+          npm run start:en -- --no-open --host 127.0.0.1 > /tmp/docusaurus-en.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid" 2>/dev/null || true' EXIT
+
+          root='http://127.0.0.1:3000/glorantha-perspectives/en/'
+          for attempt in {1..60}; do
+            if curl --silent --fail --output /dev/null "$root"; then
+              break
+            fi
+            sleep 1
+          done
+
+          page="${root}perspectives/resolution/framing/"
+          chrome="$(command -v google-chrome || command -v chromium || command -v chromium-browser)"
+          "$chrome" --headless=new --no-sandbox --disable-gpu \
+            --virtual-time-budget=5000 --dump-dom "$page" \
+            > /tmp/framing-en-dom.html 2> /tmp/chrome.log
+
+          {
+            echo '--- data-runes ---'
+            grep -o 'data-runes="[^"]*"' /tmp/framing-en-dom.html | head -20 || true
+            echo '--- rune image refs ---'
+            grep -o 'src="[^"]*/img/runes/[^"]*"' /tmp/framing-en-dom.html | head -20 || true
+            echo '--- data-image rune ---'
+            grep -o 'data-image="rune"' /tmp/framing-en-dom.html | head -20 || true
+            echo '--- stylesheet refs ---'
+            grep -o 'href="[^"]*\.css[^"]*"' /tmp/framing-en-dom.html | head -20 || true
+            echo '--- dev server log ---'
+            tail -80 /tmp/docusaurus-en.log || true
+            echo '--- chrome log ---'
+            tail -80 /tmp/chrome.log || true
+          } > /tmp/hydrated-en-diagnostic.txt
+
+          cat /tmp/hydrated-en-diagnostic.txt
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hydrated-en-diagnostic
+          path: |
+            /tmp/hydrated-en-diagnostic.txt
+            /tmp/framing-en-dom.html
+          if-no-files-found: error
