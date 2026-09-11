@@ -37,6 +37,6 @@ Cette Roadmap ne décrit donc pas des règles manquantes. Elle indique où le co
 
 ## Publications
 
-Les éditions téléchargeables de Glorantha Perspectives sont regroupées dans l'espace [**Publications**](/publications/).
+Les éditions téléchargeables de Glorantha Perspectives sont regroupées dans l'espace [**Publications**](https://aleascript.github.io/glorantha-perspectives/publications/).
 
 Elles utilisent un versionnage par date au format **`YYYY-MM-DD`**. Une version comme `2026-09-09` désigne l'état publié du corpus à cette date.

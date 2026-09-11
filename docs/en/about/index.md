@@ -37,6 +37,6 @@ This Roadmap therefore does not describe missing rules. It shows where the corpu
 
 ## Publications
 
-Downloadable editions of Glorantha Perspectives are gathered in the [**Publications**](/publications/) space.
+Downloadable editions of Glorantha Perspectives are gathered in the [**Publications**](https://aleascript.github.io/glorantha-perspectives/en/publications/) space.
 
 They use date-based versioning in **`YYYY-MM-DD`** format. A version such as `2026-09-09` identifies the state of the corpus published on that date.
