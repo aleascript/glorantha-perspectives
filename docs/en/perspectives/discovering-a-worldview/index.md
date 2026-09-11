@@ -80,7 +80,7 @@ But a discovery of this magnitude does not necessarily become a Worldview. Some 
 
 Glorantha already contains a spectacular precedent.
 
-In 1220, the **Seven Mothers** found the shattered pieces of a broken goddess in the Otherworld and reconstructed them into a living entity: the **Red Goddess, Sedenya**. Initiated by the Seven Mothers, she then undertook her own Goddess Quest. The seven phases of the Moon preserve the stations of that Quest; during it she encountered Nysalor and attained Illumination. She created Lunar magic and, in 1247, rose into the sky as the Red Moon.
+In 1220, the **Seven Mothers** found the shattered pieces of a broken goddess in the Otherworld and reconstructed them into a living entity: the **Red Goddess, Sedenya**. Initiated by the Seven Mothers, she then undertook her own Goddess Quest. The seven phases of the Moon reflect the stations of that Quest; during it she encountered Nysalor and attained Illumination. She created Lunar magic and, in 1247, rose into the sky as the Red Moon.
 
 **Glorantha Perspectives** represents this legacy through the [**Lunar Influence**](../moon/): a Theist, Animist, or Logician can remain within their Worldview while their relationship to the Moon alters how that Worldview reads reality. The new principle does not replace earlier ontologies: it crosses them.
 
