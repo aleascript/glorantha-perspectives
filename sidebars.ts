@@ -107,6 +107,7 @@ const sidebars: SidebarsConfig = {
         },
         'perspectives/heroquests/index',
         'perspectives/creating-myths/index',
+        'perspectives/discovering-a-worldview/index',
       ],
     },
     {
