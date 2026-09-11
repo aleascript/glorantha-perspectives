@@ -72,17 +72,15 @@ function localizedBaseUrl(locale: string): string {
     : normalizeBaseUrl(`${baseUrl}${locale}`);
 }
 
-// Keep Docusaurus's locale URLs and our Markdown JSX image rewriting on the
-// same explicit base URL. This also makes `start --locale en` mirror the
-// single-domain production layout instead of depending on the default locale's
-// static assets being available at the site root.
+// Locale base URLs control document routes. Static assets remain rooted at the
+// deployment base URL, even for non-default locales; raw Markdown JSX images
+// therefore must not inherit the locale segment.
 const localeConfigs = Object.fromEntries(
   Object.entries(site.locales).map(([locale, localeConfig]) => [
     locale,
     {...localeConfig, baseUrl: localizedBaseUrl(locale)},
   ]),
 );
-const contentBaseUrl = localizedBaseUrl(contentLocale);
 
 const config: Config = {
   title: site.title,
@@ -117,7 +115,7 @@ const config: Config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           remarkPlugins: [
-            [remarkLocalImageBaseUrl, {baseUrl: contentBaseUrl}],
+            [remarkLocalImageBaseUrl, {baseUrl}],
           ],
         },
         blog: false,
