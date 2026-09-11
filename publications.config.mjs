@@ -11,6 +11,7 @@ const guideDocuments = [
   'start/play-modes.md',
   'protagonists/index.md',
   'protagonists/examples.md',
+  'perspectives/taboos/index.md',
   'time/index.md',
   'time/runic-inspiration/index.md',
   'time/runes/index.md',
@@ -34,7 +35,6 @@ const guideDocuments = [
   'perspectives/moon/index.md',
   'perspectives/illumination/index.md',
   'perspectives/chaos/index.md',
-  'perspectives/taboos/index.md',
   'perspectives/heroquests/index.md',
   'reference/faq.md',
   'reference/probabilities.md',
@@ -75,7 +75,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-10',
+      version: '2026-09-11',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -116,7 +116,7 @@ export default definePublications({
     },
     'the-lunar-way': {
       author: 'AleaScript',
-      version: '2021-04-01',
+      version: '2021-09-11',
       status: 'To be continued',
       lineage: {
         designedWith: {
