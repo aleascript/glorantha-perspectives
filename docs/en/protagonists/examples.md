@@ -220,4 +220,4 @@ The Portrait should make visible **what constitutes this particular person**, no
 
 Someone encountered for only a few minutes may still fit into one intention and two striking traits. If they return and become important, their Portrait can grow exactly like that of a lasting Protagonist.
 
-To meet more characters without turning this chapter into a catalogue, browse the [**Narratives**](../narratives/).
+To meet more characters without turning this chapter into a catalogue, browse the [**Narratives**](../narratives/index.md).
