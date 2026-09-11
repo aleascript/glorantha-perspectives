@@ -15,13 +15,19 @@ npm start
 
 `npm start` est un alias de `npm run start:fr`.
 
+Docusaurus ne sert qu'**une seule locale à la fois en mode développement**. Pour travailler directement sur la version anglaise, utilisez `npm run start:en`. Pour tester le site complet et le sélecteur de langue FR / EN dans les mêmes conditions que le build statique, utilisez `npm run preview`.
+
+Si un changement de configuration, de plugin Markdown ou de locale semble ne pas être pris en compte après un changement de branche, `npm run clear` permet de supprimer le cache Docusaurus avant de relancer le serveur.
+
 ### Commandes utiles
 
 ```bash
 npm run start:fr           # serveur Docusaurus en français
-npm run build              # build complet du site
+npm run start:en           # serveur Docusaurus en anglais
+npm run build              # build complet du site, toutes locales
 npm run build:fr           # build français explicite
-npm run preview            # build puis prévisualisation du site généré
+npm run build:en           # build anglais explicite
+npm run preview            # build complet puis prévisualisation multilingue
 npm run check              # typecheck + build
 npm run clear              # nettoyage du cache Docusaurus
 npm run typecheck          # vérification TypeScript
