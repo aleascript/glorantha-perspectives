@@ -12,7 +12,7 @@ Ils ne constituent pas des modèles obligatoires. Leur organisation varie parce 
 
 > « Il faut aider la Déesse et préserver la civilisation. »
 
-![Hanya](/img/narratives/the-lunar-way/heroes/hanya/hanya.jpg)
+![Hanya](/img/narratives/the-lunar-way/heroes/hanya/hanya-drawing-600x.png)
 
 **Femme, 27 ans — Théiste lunaire de Sylila.**
 
@@ -22,11 +22,11 @@ Son Portrait tient pourtant dans une contradiction plus importante que son équi
 
 ### Runes
 
-**Feu** — discipline, intransigeance, hauteur envers les barbares.
+![](/img/runes/fire.png) **Feu** — discipline, intransigeance, hauteur envers les barbares.
 
-**Harmonie** — calmer les tensions, prendre sur soi, monter à cheval.
+![](/img/runes/harmony.png) **Harmonie** — calmer les tensions, prendre sur soi, monter à cheval.
 
-**Mouvement** — rapidité, coup de hache tranchant, urgence : l'Empire est en danger.
+![](/img/runes/movement.png) **Mouvement** — rapidité, coup de hache tranchant, urgence : l'Empire est en danger.
 
 ### Gardienne de Jillaro
 
@@ -53,7 +53,7 @@ Hanya a particulièrement retenu de la déesse :
 
 Hanya comprend surtout Hwarin Dalthippa à travers la **conquête** et la capacité de voir les plans se dérouler. Pour elle, la Lune Rouge est davantage puissance de civilisation, de peur et de coercition que mystère inclusif.
 
-Elle a tenté d'intégrer la Rune de Lune et se l'est même fait tatouer sur le front. Cela n'a pas fait d'elle une porteuse de la Rune.
+Elle a tenté d'intégrer la Rune de Lune et se l'est même fait tatouer sur le front. Mais elle n'est pas encore prête pour être pleinement initiée a la voie lunaire.
 
 ### Ce que ce Portrait montre
 
@@ -67,7 +67,7 @@ C'est précisément cet écart qui la rend intéressante à jouer.
 
 > « La prophétie est en train de se réaliser et notre tribu a été choisie il y a fort longtemps pour être les protecteurs de la Lune. »
 
-![Peek](/img/narratives/the-lunar-way/heroes/peek-ee-peek/peek.jpg)
+![Peek](/img/narratives/the-lunar-way/heroes/peek-ee-peek/peek-drawing-600x.png)
 
 **Femme, 22 pluies — Animiste praxienne, fille de Khan.**
 
@@ -75,11 +75,11 @@ Peek-ee-peek est une éclaireuse Nomade Sable. Elle porte arc, lance, casque et 
 
 ### Runes
 
-**Lune** — sentiment de supériorité, curiosité, conviction prophétique.
+![](/img/runes/moon.png) **Lune** — sentiment de supériorité, curiosité, conviction prophétique.
 
-**Mort** — flèche sûre, avis tranchés, impulsivité.
+![](/img/runes/death.png) **Mort** — flèche sûre, avis tranchés, impulsivité.
 
-**Esprits** — sensibilité au monde invisible, voir et ressentir les esprits, marchander avec eux.
+![](/img/runes/spirit.png) **Esprits** — sensibilité au monde invisible, voir et ressentir les esprits, marchander avec eux.
 
 ### Nomade Sable
 
@@ -124,17 +124,17 @@ Un fétiche n'est pas seulement quelque chose qu'elle possède. Il lui demande q
 
 Tal montre une autre propriété du Portrait vivant : il peut se **transformer parce que le Protagoniste comprend autrement ce qu'il a vécu**.
 
-### Air — le milieu
+### ![](/img/runes/air.png) Air — le milieu
 
 Tal se reconnaît dans l'espace entre les choses : terre et ciel, haut et bas, nuages, vent, Lune et étoiles. L'Air est aussi devenu, loin du clan, le rappel sensible de ses racines.
 
-### Loi — ce qui lie
+### ![](/img/runes/law.png) Loi — ce qui lie
 
 Tal avait d'abord nommé **Harmonie** son intuition que des choses différentes, voire contraires, puissent appartenir au même Cosmos.
 
 Lors de son initiation, il comprend cette expérience autrement : pour lui, il s'agissait plus profondément de **Loi**, ce qui lie sans abolir les différences.
 
-### Vérité — ce qui met en mouvement
+### ![](/img/runes/truth.png) Vérité — ce qui met en mouvement
 
 Tal avait d'abord nommé **Mouvement** sa curiosité et son désir d'aller voir ailleurs.
 
