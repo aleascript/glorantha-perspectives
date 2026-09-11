@@ -1,46 +1,107 @@
 ---
-title: "L'illumination"
+title: "L'Illumination"
 ---
 
-Dans Glorantha, l'Illumination est une réalisation foudroyante, souvent initiée par les énigmes de Nysalor ou la philosophie lunaire. C'est la compréhension profonde que les lois cosmiques, la séparation des éléments, et même la dualité stricte entre le Cosmos et le Chaos, ne sont que des concepts relatifs. Un Illuminé comprend la vaste blague de l'univers : la Toile d'Arachne Solara existe, mais il n'y a rien derrière.
+# L'Illumination
 
-On sait qu'on peut la recevoir avec un duel de questions/réponses.
+L'**Illumination n'est pas une sixième Vision du monde**.
 
-Il s'agit en fait d'un cas particulier d'une opposition avec un tirage mystique.
+Elle est une transformation irréversible du rapport du Protagoniste à la Vision qu'il habitait déjà.
 
-## La Règle de l'Éveil : le choix du « 1 »
+Un Théiste Illuminé peut continuer à prier ses Dieux. Un Animiste Illuminé continue à vivre parmi les esprits. Un Logicien Illuminé peut toujours chercher la Loi du Cosmos.
 
-L'Illumination ne s'acquiert pas par des points d'expérience ou à la création du personnage. Elle survient en cours de jeu, lors d'un moment de crise où le personnage décide de transgresser sa propre nature.
+Mais aucun d'eux ne peut désormais croire que cette lecture épuise entièrement le réel.
 
-Lors d'une résolution de conflit, un joueur dont le tirage est normalement lu selon une Vision du monde classique ([Théisme](../theism), [Animisme](../animism) ou [Logique](../logic)) peut décider de « jouer ses 1 ».
+Les énigmes de Nysalor, le **Sevening** lunaire, certaines expériences mystiques, draconiques ou héroïques peuvent ouvrir ce basculement. Glorantha connaît plusieurs chemins vers l'Illumination ; Glorantha Perspectives ne les réduit donc pas à l'apprentissage du Mysticisme.
 
-En faisant ce choix conscient, le joueur déclare que son personnage s'affranchit des limites de sa foi ou de sa science. Il perçoit l'illusion de la victoire adverse.
+## L'Étincelle
 
-- **L'Effet Immédiat (L'Annihilation)** : à l'instar des règles de la Vision du monde [Mystique](../mysticism), les « 1 » tirés par le joueur font disparaître les « 6 » du tirage opposé, et disparaissent en même temps. Cette action peut renverser l'issue d'un conflit qui semblait perdu d'avance.
-- **La Révélation** : dès cet instant, le personnage est définitivement Illuminé.
+L'image de l'**Étincelle** appartient bien au vocabulaire lunaire. Les Sept Mères sont décrites comme ayant allumé l'étincelle de la Voie Lunaire dans le monde puis comme la ravivant chez ceux qui entrent dans leur culte ; leur rite de **Kindling** constitue la première étape sur la voie du **Sevening**.
 
-## L'Étincelle, avant l'Illumination
+Glorantha Perspectives s'appuie sur cette image pour représenter un état précédant l'Illumination complète : quelque chose que le personnage tenait pour impossible vient de se produire et sa Vision du monde s'est fissurée sans encore se transformer irréversiblement.
 
-Avant l'Illumination, les Lunaires parlent de l'Étincelle. C'est une façon de percevoir l'Illumination, de l'entrevoir, sans pour autant que celle-ci soit totalement intégrée et change de manière radicale la Vision du monde de celui ou celle qui la vit.
+L'Étincelle ne donne aucun pouvoir automatique.
 
-L'Illumination peut émerger naturellement dans une configuration de dés très spécifique. L'idée sous-jacente est qu'un personnage confronté au Mysticisme comprend — voire se met à jouer les 1 de manière mystique — pour renverser la réponse du réel ou atteindre l'égalité. Les configurations sont donc plus larges que les deux cas d'école présentés juste après, qui correspondent chacun à un état différent : l'Étincelle et l'Illumination.
+Elle devient une vérité du Protagoniste : doute, fascination, révélation incomplète, souvenir impossible à oublier. Elle peut ensuite compter comme Mise lorsque la Situation la rend pertinente.
 
-## L'éclairante stupéfaction : la source de l'Étincelle
+Une confrontation au Mysticisme constitue une source particulièrement naturelle d'Étincelle : le personnage voit une victoire apparemment certaine se dissoudre après coup, sans que l'expérience qu'il vient de vivre soit niée.
 
-> Un tirage aurait dû écraser le mystique, mais les règles mystiques finissent par inverser totalement le résultat. La stupeur ressentie peut faire naître l'Étincelle.
+## Quand l'Illumination devient possible
 
-Un initié d'Orlanth (rune d'Air, épée héritée, bourrasque, bénédiction du clan) charge un mystique du Collège de Magie lunaire (calme, maîtrise du vide, placement parfait, ascèse). L'initié tire 1,3,5,6, ses 6 relancent les impairs jusqu'au tirage final 6,6,6,1 (trois réussites) ; le mystique tire 1,1,1,6. Après tirage complet de l'initié (relances incluses), ses trois 6 sont effacés par les trois 1 du mystique : il ne reste que le 1 de l'initié contre le 6 du mystique. L'initié a vécu le soutien divin, et pourtant sa victoire fut anéantie : la stupeur fait naître l'Étincelle, sans pour autant illuminer.
+On ne décide pas de devenir Illuminé uniquement parce qu'un `1` permettrait de sauver un tirage.
 
-## La révélation par le basculement : l'Illumination
+La fiction doit avoir **ouvert la possibilité de l'Illumination** : maître des énigmes, rite de Sevening, enseignement illuminé, expérience mystique, Quête Héroïque appropriée, confrontation draconique ou autre Situation comparable.
 
-> Un personnage se retrouve en position de pouvoir jouer un coup mystique pour changer le résultat final. S'il le fait — le choix du « 1 » — il épouse l'Illumination.
+Lorsque cette possibilité est réelle, le tirage peut devenir le lieu du basculement.
 
-C'est la voie des énigmes de Nysalor. Une novice du Collège de Magie lunaire se présente au maître des énigmes pour être initiée. La rencontre se traduit par les mises suivantes : sa foi en la Déesse Rouge, sa connaissance des runes, sa volonté de comprendre, ses lectures, son ambition, sa crainte / paradoxes, silences, retournements, contradictions, la lumière de la pleine lune, le regard du maître. La novice (théiste) tire **1,2,3,4,5,6** → 3 réussites. Le maître (mystique) tire **6,1,6,1,6,1** → 3 réussites. Annihilation : les trois 1 du maître effacent les trois 6 de la novice. La novice : **1,2,3,4,5** → 2 réussites. Le maître : **6,6,6** → 3 réussites. La novice est en train d'échouer son initiation. À cet instant, elle comprend : les énigmes ne sont pas là pour être résolues, mais pour être *vues*. Le maître la laisse face à son propre 1. Si elle le joue — si elle transgresse sa foi de théiste pour faire un geste mystique — elle annule un 6 du maître. Elle joue son 1. La novice : **2,3,4,5** → 2 réussites. Le maître : **6,6** → 2 réussites. **Égalité plutôt qu'échec.** Et plus qu'une égalité : à cet instant précis, elle est Illuminée. Elle a compris la vaste blague de l'univers — questions et réponses, victoire et défaite ne font qu'un.
+## Le Choix du `1`
 
-## Les conséquences de l'Illumination
+Après que les deux tirages ont été lus normalement selon leurs Visions du monde, un personnage placé devant une véritable possibilité d'Illumination peut regarder l'un de ses `1` et comprendre qu'il n'est pas seulement un résultat faible ou inutile.
 
-Devenir Illuminé modifie irrémédiablement le rapport du personnage au monde. Il bénéficie d'une liberté nouvelle, mais en paie le prix fort.
+Il peut **jouer le `1`** comme le ferait un mystique :
 
-- **L'Héritage du Cadre** : le personnage ne change pas de Vision du monde. Un Théiste continue de prier ses dieux et de résoudre ses conflits avec les règles du Théisme (relance des impairs sur un 6). Cependant, il conserve à jamais la capacité mystique d'utiliser ses « 1 » pour annuler les « 6 » adverses.
-- **La Perméabilité aux Contradictions** : le personnage n'est plus bridé par les contradictions de son culte. Il peut, sur le plan narratif, allier des forces opposées (utiliser une magie de Stase et de Mouvement simultanément) sans en subir les chocs en retour habituels, car il a compris qu'elles ne font qu'un.
-- **La Tare de l'Hérétique** : l'Illumination a une odeur. Les êtres fanatiques, dogmatiques ou liés à des principes absolus (comme les initiés du Taureau Tempête, les inquisiteurs ou les esprits très anciens) ressentent intuitivement cette absence de limites morales et cosmiques. Pour eux, l'Illuminé dégage une aura contre-nature, souvent assimilée au Chaos lui-même. Le personnage gagne un trait négatif permanent tel que *Hérétique*, *Abomination aux yeux des fanatiques*, ou *Aura de Nysalor*, qui servira systématiquement de mise contre lui lors de conflits sociaux ou spirituels avec ces factions.
+- le `1` fait disparaître un `6` du tirage opposé ;
+- les deux dés disparaissent ensemble au moment de la comparaison ;
+- le personnage devient alors **Illuminé**.
+
+Le geste est irréversible.
+
+Ce qui vient de changer n'est pas seulement le résultat de l'opposition. Le Protagoniste a compris que les règles selon lesquelles il interprétait le Cosmos n'étaient pas les seules possibles.
+
+## Après l'Illumination : la Vision demeure, le regard devient perméable
+
+Le personnage conserve sa Vision du monde et continue à lire ses tirages selon ses règles habituelles.
+
+Mais il garde désormais définitivement la possibilité suivante : **après la lecture normale des deux tirages, chacun de ses `1` peut faire disparaître un `6` adverse, les deux dés disparaissant ensemble au moment de la comparaison.**
+
+L'Illumination n'efface donc pas le Théisme, l'Animisme ou la Logique.
+
+Elle ouvre une fissure permanente dans la certitude que cette Vision constitue la totalité du réel.
+
+## Les contradictions deviennent possibles, pas gratuites
+
+L'Illumination peut permettre au personnage de franchir des contradictions religieuses, runiques ou cosmiques qui lui semblaient auparavant absolues.
+
+Cela ne signifie pas qu'il reçoit automatiquement tous les pouvoirs, ni que le monde cesse de réagir à ses actes.
+
+Un Orlanthi Illuminé qui accepte le Chaos, associe des forces réputées incompatibles ou transgresse les interdits de son culte peut toujours être rejeté, poursuivi, admiré ou transformé par ce qu'il fait. Ces conséquences deviennent simplement de nouvelles vérités de la fiction, et donc potentiellement de nouvelles Mises.
+
+Glorantha Perspectives n'ajoute pas de **Tare de l'Hérétique** automatique au seul fait d'être Illuminé. Ce sont les actes, les révélations et les relations du personnage qui déterminent ce que les autres peuvent percevoir ou condamner.
+
+## Exemple : l'Étincelle
+
+Un initié d'Orlanth obtient finalement :
+
+`6 · 6 · 6 · 1`
+
+Le mystique qui lui fait face obtient :
+
+`1 · 1 · 1 · 6`
+
+L'initié a réellement vécu une succession spectaculaire de manifestations divines. Pourtant, après résolution complète de son tirage, les trois `1` mystiques font disparaître ses trois `6`.
+
+Ce qui semblait être une victoire éclatante est renversé.
+
+L'initié n'est pas automatiquement Illuminé. Mais cette contradiction peut faire naître l'**Étincelle** : il sait désormais qu'il vient de voir quelque chose que sa compréhension ordinaire du Théisme n'explique pas entièrement.
+
+## Exemple : le basculement
+
+Une novice lunaire affronte un maître des énigmes dans un rite où l'Illumination est explicitement possible.
+
+Après résolution normale des deux tirages, elle est en train d'échouer. Mais il lui reste un `1`, face à un `6` du maître.
+
+Elle comprend soudain que l'énigme n'est pas là pour être résolue mais pour être **vue**.
+
+Elle joue son `1`.
+
+Le `1` et le `6` disparaissent. Le résultat bascule vers l'égalité.
+
+Plus important encore, la novice sait maintenant que victoire et défaite, question et réponse, ne sont pas les oppositions absolues qu'elle croyait.
+
+Elle est Illuminée.
+
+> **CONCEPTION — Pourquoi cette règle ?**
+>
+> Le Mysticisme agit déjà sur la relation entre les deux tirages. L'Illumination permet à un personnage qui habite une autre Vision de découvrir, dans une Situation fictionnellement appropriée, que cette relation peut elle aussi être transformée.
+>
+> Le `1` ne devient donc pas une nouvelle capacité de puissance. Il matérialise le moment où une Vision jusque-là fermée devient **perméable**.

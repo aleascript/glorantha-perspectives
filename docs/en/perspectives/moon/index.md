@@ -1,35 +1,65 @@
 ---
-title: "The Lunar Way"
+title: "Lunar Influence"
 ---
 
 <div data-runes="chapter">
   <img src="/img/runes/moon.png" alt="Moon" />
 </div>
 
-Lunar magic is subject to the lunar cycle outside the Brilliant Line.
+# Lunar Influence
 
-How does this manifest?
+The **Red Moon is not a Worldview**.
 
-Within the Brilliant Line and outside of full moon and new moon phases, normal rules apply.
+A Lunar may continue to inhabit the world as a Theist, Animist, or Logician. But when their relationship with the Moon genuinely matters in the Situation, she can modify the way their Worldview reads reality's answer.
 
-Mystics and draconic thought are not affected: cycles are an illusory reality to be transcended.
+Lunar influence therefore does not apply simply because the Moon is visible in the sky. It must be relevant to the Protagonist and to the resolution: Lunar cult, Lunar magic, religious allegiance, or another relationship established in the fiction.
 
-### Full Moon
+## The cycle beyond the Glowline
 
-- Logic: add 1 to each die
-- Theism: you may reroll 1s
-- Animism: The presence of the Moon exacerbates the resonance of the Spiritual Pact with the most unfathomable spirits. "Double 1s" no longer form a simple success, but exceptionally generate 2 successes.
+Beyond the **Glowline**, the Red Moon moves through her cycle.
 
-**Comments**
+For Glorantha Perspectives, the seven phases are grouped into three resolution states.
 
-Note the intrusion of 1s during the full moon, which is like an incursion of mysticism into the other modes of thought.
+### Full Moon — looking toward the One
 
-One looks toward the 1, unity, inclusion.
+At the Full Moon, the Red Goddess' influence draws the affected Worldviews toward the `1`: unity, inclusion, and the possibility of transcending ordinary separations.
 
-This is not the heroic mode, but it is true that for a Lunarian, feeling the effects of the full moon brings them within reach of the possibility of transcendence and almost invites them to seek access to the heroic mode.
+- **Theism**: `1`s may be rerolled.
+- **Animism**: two `1`s forming a Spiritual Pact exceptionally produce **2 Successes** instead of one.
+- **Logic**: add **1 to the value of every die** before calculating the sum.
 
-### New Moon
+This is not a Heroic state. The Worldview remains the same; the Moon passes through it for a time.
 
-- Logic: weakened mode
-- Theism: weakened mode
-- Animism: weakened mode
+### Half Moons and Crescents — the ordinary world
+
+Worldviews are read normally.
+
+This is a deliberate Glorantha Perspectives simplification that groups several degrees of the Lunar cycle rather than reproducing every separate variation in the strength of Lunar glamours.
+
+### Dying Moon and Black Moon — the Moon's withdrawal
+
+Affected Worldviews enter their **Weakened state**.
+
+The Black Moon retains a particular importance in Lunar traditions associated with Illumination; this weakening describes the Lunar power available in an ordinary resolution, not the initiatory meaning of that phase.
+
+## Within the Glowline
+
+Within the **Glowline**, Lunar magic is maintained as under a **Half Moon**.
+
+Whenever Lunar influence is relevant to the resolution, therefore use the **ordinary reading** of the affected Worldview regardless of the Red Moon's visible phase.
+
+The Glowline stabilizes the cycle; it does not continuously produce the exceptional Full Moon effect.
+
+## Mysticism and Draconic Thought
+
+**Mysticism** and **Draconic Thought** are not modified by the lunar cycle in Glorantha Perspectives: their accomplishments aim precisely at transcending the cycles and oppositions of ordinary reality.
+
+An Illuminated character who remains a Theist, Animist, or Logician still retains that underlying Worldview, however; Lunar influence may therefore continue to pass through it.
+
+> **DESIGN — Why the `1`?**
+>
+> The Full Moon does not give every Lunar a mystical mechanic. It nevertheless directs their attention toward the same symbol: the `1`, unity, and inclusion.
+>
+> The Theist recovers what seemed lost, the Animist discovers exceptional resonance among the smallest presences, and the Logician sees the whole measure shift.
+>
+> This presence of the `1` can prepare the fictional ground for [Illumination](../illumination/index.md) without causing it automatically.

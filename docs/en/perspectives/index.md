@@ -18,4 +18,6 @@ The heart of resolution remains simple: identify the Bets and which outcome each
 
 > **Situation → Intentions → Focus / Zoom → outcomes in the balance → Bets → Worldview → reality's answer → comparison → interpretation → transformed Situation**
 
-The chapters in this section detail that procedure, the Worldviews, and the Gloranthan particularities that transform resolution.
+[**Worldviews**](worldviews/index.md) describe the deep way Protagonists inhabit and read reality. [**Influences and transformations**](influences/index.md), by contrast, describe what may pass through, crack, or transform that reading without becoming an additional Worldview.
+
+The chapters in this section detail that procedure and the Gloranthan particularities that transform it.

@@ -7,37 +7,82 @@ title: "The Logic of the Invisible God"
   <img src="/img/runes/logic.png" alt="Logic" />
 </div>
 
-> A logician has a "scientific," rational vision of the world. Cause/Effect. Ingredients/Recipe. Trials, experiments. They organize, quantify, compare. Their God is invisible and therefore does not manifest. One approaches the God through study and reason.
+## Inhabiting the world
 
-*Derogatory names for others: sorcery, sorcerers, materialists, false prophets, liars, vampires...*
+The Logician considers reality to have a structure.
 
-**Resolution rules**
+That structure does not need to want, answer, or manifest. It is.
 
-> Facing a problem, we simply align our knowledge and resources, and measure with precision whether the sum of our strengths surpasses what stands in our way.
+The world can therefore be studied, decomposed, compared, and recomposed. A sound formula, adequate preparation, or more precise understanding does not ask reality for a favor: it uses its laws correctly.
 
-To read a roll according to **Logic**:
+The God is Invisible. No sign of divine intervention is expected.
 
-- add all the values rolled;
-- divide the sum by 5;
-- the number of whole 5s is the number of Successes.
+The aim is to **reduce the gap between what one understands the world to be and what the world actually is**.
 
-**Power modes**
+*Others readily speak of sorcerers, materialists, false prophets, liars, or vampires.*
 
-- **Weakened** mode: divide by 6.
-- **Heroic** mode: divide by 4, or even 3, 2, or 1 depending on the scale reached.
+## Reading the roll
 
-**Comments**
+Logic does not distinguish favourable dice from unfavourable ones. Every value contributes to the measure.
 
-It is rational. There is no qualitative notion of even or odd. Just addition.
+- Add all the dice.
+- Divide the total by **5**.
+- Each whole group of five is one Success.
 
-It is also the only mode that does not treat even numbers as Successes. As if one had to rely primarily on oneself. The God is Invisible.
+The Logician therefore does not ask which dice succeeded. They calculate **what the whole of reality placed in the balance can actually produce**.
 
-It is a more creative magic than the theists' — a more open framework in theory, even if the Monotheistic Schools have frozen some practices.
+## When the Worldview falters or is fulfilled
 
-Somewhat like animists, preparation is important to maximize one's chances and make more Bets matter.
+### The Imperfect Measure — Weakened Worldview
 
-The number 5 was often justified by the five elements — excluding the Moon — or associated with the five fingers of humanity as a creative being.
+Divide the total by **6**.
 
-The heroic mode is gradual. This is not surprising from Logicians, always seeking efficiency. It is safe to bet that Zzabur reached a point where reality's **score** was divided by 1 or 2.
+The elements of reality remain observable and usable, but the understanding that assembles them lacks precision.
 
-It is probably the only reading in which the dice themselves can remain a fully logical object of quantification.
+More matter, knowledge, or preparation is needed to produce the same effect.
+
+### Convergence toward Law — Heroic Worldview
+
+The divisor progressively decreases:
+
+`4 → 3 → 2 → 1`
+
+The closer the Logician comes to Law, the less information is lost when observed reality is transformed into effective action.
+
+At the extreme, dividing by `1` means that almost no gap remains between **measuring**, **understanding**, and **acting**.
+
+## Where to look
+
+**Do not look for any particular face.**
+
+Do not linger on evens, odds, or doubles.
+
+Add.
+
+Then ask: *how much reality have we actually managed to understand and organize?*
+
+The player's gesture should itself differ from the other Worldviews: where they look for signs and relationships, the Logician looks at **quantity**.
+
+## Example of play
+
+A sorcerer must stabilize an ancient structure before it collapses. Four Bets produce:
+
+`2 · 3 · 5 · 6`
+
+Total: `16`.
+
+Under ordinary reading: `16 ÷ 5 = 3 Successes`.
+
+Under the **Imperfect Measure**: `16 ÷ 6 = 2 Successes`.
+
+At the first degree of **Convergence toward Law**: `16 ÷ 4 = 4 Successes`.
+
+Exactly the same elements of reality were present. What changes is the precision with which the Logician can understand them and make them operative.
+
+> **DESIGN — Why this reading?**
+>
+> Logic is deliberately the only basic Worldview that gives no qualitative meaning to the parity of dice. Everything becomes quantity, combination, and yield.
+>
+> The heroic mode is gradual because logical fulfillment is not a sudden manifestation but a **progressive reduction of the gap with Law**.
+>
+> The number `5`, its possible associations with the elements or with the human hand, and other symbolic justifications belong in this design section, not in the procedure the player must remember.

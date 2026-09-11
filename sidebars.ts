@@ -93,13 +93,20 @@ const sidebars: SidebarsConfig = {
               link: {type: 'doc', id: 'perspectives/draconic/index'},
               items: ['perspectives/draconic/ars-draconis-magica/index'],
             },
+          ],
+        },
+        {
+          type: 'category',
+          label: t('Influences et transformations', 'Influences and transformations'),
+          link: {type: 'doc', id: 'perspectives/influences/index'},
+          items: [
             'perspectives/moon/index',
             'perspectives/illumination/index',
             'perspectives/chaos/index',
-            'perspectives/heroquests/index',
-            'perspectives/creating-myths/index',
           ],
         },
+        'perspectives/heroquests/index',
+        'perspectives/creating-myths/index',
       ],
     },
     {

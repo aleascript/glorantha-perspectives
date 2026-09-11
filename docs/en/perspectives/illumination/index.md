@@ -2,45 +2,106 @@
 title: "Illumination"
 ---
 
-In Glorantha, Illumination is a stunning realization, often initiated by the riddles of Nysalor or Lunar philosophy. It is the deep understanding that cosmic laws, the separation of the elements, and even the strict duality between Cosmos and Chaos are only relative concepts. An Illumined one understands the vast joke of the universe: Arachne Solara's Web exists, but there is nothing behind it.
+# Illumination
 
-We know that it can be received through a question-and-answer duel.
+**Illumination is not a sixth Worldview.**
 
-It is actually a special case of an opposition involving a mystical roll.
+It is an irreversible transformation of the Protagonist's relationship to the Worldview they already inhabited.
 
-## The Rule of Awakening: the choice of the "1"
+An Illuminated Theist may continue to pray to their Gods. An Illuminated Animist continues to live among spirits. An Illuminated Logician may still seek the Law of the Cosmos.
 
-Illumination is not acquired through experience points or at character creation. It occurs during play, at a moment of crisis when the character decides to transgress their own nature.
+But none of them can any longer believe that this reading completely exhausts reality.
 
-During a conflict resolution, a player whose roll would normally be read according to a classic Worldview ([Theism](../theism), [Animism](../animism), or [Logic](../logic)) can decide to "play their 1s".
+Nysalor's riddles, Lunar **Sevening**, and some mystical, draconic, or heroic experiences may open this shift. Glorantha knows several roads to Illumination; Glorantha Perspectives therefore does not reduce it to learning Mysticism.
 
-By making this conscious choice, the player declares that their character frees themselves from the limits of their faith or science. They perceive the illusion of the opposing victory.
+## The Spark
 
-- **The Immediate Effect (The Annihilation):** like the rules of [Mysticism](../mysticism), the player's 1s remove 6s from the opposing roll and disappear at the same time. This can overturn an outcome that seemed lost in advance.
-- **The Revelation:** from that instant, the character is permanently Illumined.
+The image of the **Spark** does belong to Lunar vocabulary. The Seven Mothers are described as having lit the spark of the Lunar Way in the world and as kindling the Lunar spark in those who enter their cult; their **Kindling** rite is the first step on the path toward **Sevening**.
 
-## The Spark, before Illumination
+Glorantha Perspectives builds on that image to represent a state before complete Illumination: something the character held to be impossible has occurred, and their Worldview has cracked without yet transforming irreversibly.
 
-Before Illumination, Lunars speak of the Spark. It is a way of perceiving Illumination, of glimpsing it, without fully integrating it or radically changing the Worldview of the person who experiences it.
+The Spark grants no automatic power.
 
-Illumination can emerge naturally in a very specific dice configuration. The underlying idea is that a character confronted with Mysticism understands — or even begins to play 1s in a mystical way — in order to overturn reality's answer or reach a tie. The configurations are therefore broader than the two textbook cases below, corresponding to two different states: the Spark and Illumination.
+It becomes a truth about the Protagonist: doubt, fascination, incomplete revelation, an impossible memory that cannot be forgotten. It may later count as a Bet whenever the Situation makes it relevant.
 
-## The enlightening stupor: the source of the Spark
+Confrontation with Mysticism is a particularly natural source of a Spark: the character sees an apparently certain victory dissolve after the fact, without their lived experience being denied.
 
-> A roll should have crushed the mystic, but the mystical rules completely reverse the result. The shock can give birth to the Spark.
+## When Illumination becomes possible
 
-An initiate of Orlanth (Air rune, inherited sword, gust of wind, clan blessing) charges a mystic of the Lunar College of Magic (calm, mastery of the void, perfect placement, asceticism). The initiate rolls 1,3,5,6; their 6s reroll the odds until the final roll is 6,6,6,1 (three Successes); the mystic rolls 1,1,1,6. After the initiate's complete roll — rerolls included — their three 6s are erased by the mystic's three 1s: only the initiate's 1 remains against the mystic's 6. The initiate experienced divine support, and yet their victory was annihilated: the stupor gives birth to the Spark, without Illuminating them.
+A player does not decide to become Illuminated merely because a `1` would save a roll.
 
-## The revelation through the tilt: Illumination
+The fiction must have **opened the possibility of Illumination**: riddle-master, Sevening rite, Illuminated teaching, mystical experience, an appropriate Heroquest, draconic confrontation, or another comparable Situation.
 
-> A character finds themselves in a position to play a mystical move that changes the final result. If they do — the choice of the 1 — they embrace Illumination.
+When that possibility is real, the roll may become the place where the shift occurs.
 
-This is the way of Nysalor's riddles. A novice of the Lunar College of Magic presents herself to the master of riddles to be initiated. The encounter brings the following Bets into play: her faith in the Red Goddess, her knowledge of runes, her will to understand, her readings, her ambition, her fear / paradoxes, silences, reversals, contradictions, the light of the full moon, the master's gaze. The novice (theist) rolls **1,2,3,4,5,6** → 3 Successes. The master (mystic) rolls **6,1,6,1,6,1** → 3 Successes. Annihilation: the master's three 1s erase the novice's three 6s. The novice: **1,2,3,4,5** → 2 Successes. The master: **6,6,6** → 3 Successes. The novice is failing her initiation. At that instant, she understands: the riddles are not there to be solved, but to be *seen*. The master leaves her facing her own 1. If she plays it — if she transgresses her theist faith to make a mystical move — she cancels one of the master's 6s. She plays her 1. The novice: **2,3,4,5** → 2 Successes. The master: **6,6** → 2 Successes. **Tie rather than failure.** And more than a tie: at that precise instant, she is Illumined. She understands the vast joke of the universe — questions and answers, victory and defeat are one.
+## The Choice of the `1`
 
-## The consequences of Illumination
+After both rolls have been read normally according to their Worldviews, a character facing a genuine possibility of Illumination may look at one of their `1`s and understand that it is not merely a weak or useless result.
 
-Becoming Illumined irremediably changes the character's relationship to the world. They benefit from a new freedom, but pay a heavy price for it.
+They may **play the `1`** as a mystic would:
 
-- **The Legacy of the Worldview:** the character does not change their Worldview. A Theist continues to pray to their gods and read their rolls according to Theism. However, they forever keep the mystical ability to use their 1s to cancel opposing 6s.
-- **The Permeability to Contradictions:** the character is no longer constrained by the contradictions of their cult. They can, on the narrative level, combine opposing forces — use Stasis and Movement magic simultaneously — without suffering the usual backlash, because they have understood that they are one.
-- **The Heretic's Taint:** Illumination has a smell. Fanatical, dogmatic beings or those bound to absolute principles — such as initiates of Storm Bull, inquisitors, or very ancient spirits — intuitively feel this absence of moral and cosmic limits. For them, the Illumined one exudes an unnatural aura, often assimilated to Chaos itself. The character gains a permanent negative trait such as *Heretic*, *Abomination in the eyes of fanatics*, or *Aura of Nysalor*, which can become a Bet against them in social or spiritual conflicts with these factions.
+- the `1` removes one `6` from the opposing roll;
+- both dice disappear together at comparison;
+- the character then becomes **Illuminated**.
+
+The gesture is irreversible.
+
+What has changed is not merely the outcome of the opposition. The Protagonist has understood that the rules by which they interpreted the Cosmos were not the only possible ones.
+
+## After Illumination: the Worldview remains, the gaze becomes permeable
+
+The character keeps their Worldview and continues to read their rolls according to its usual rules.
+
+But they permanently retain the following possibility: **after both rolls have been read normally, each of their `1`s may remove an opposing `6`, with both dice disappearing together at comparison.**
+
+Illumination therefore does not erase Theism, Animism, or Logic.
+
+It opens a permanent fissure in the certainty that this Worldview constitutes the whole of reality.
+
+## Contradictions become possible, not free
+
+Illumination may allow the character to cross religious, Runic, or cosmic contradictions that previously seemed absolute.
+
+This does not mean they automatically receive every power, nor that the world stops reacting to their actions.
+
+An Illuminated Orlanthi who accepts Chaos, combines forces held to be incompatible, or breaks cult prohibitions may still be rejected, hunted, admired, or transformed by what they do. Those consequences simply become new truths of the fiction, and therefore potentially new Bets.
+
+Glorantha Perspectives adds no automatic **Heretic's Taint** merely for being Illuminated. The character's actions, revelations, and relationships determine what others can perceive or condemn.
+
+## Example: the Spark
+
+An Orlanth initiate ultimately rolls:
+
+`6 · 6 · 6 · 1`
+
+The mystic facing them rolls:
+
+`1 · 1 · 1 · 6`
+
+The initiate genuinely experienced a spectacular chain of divine manifestations. Yet after their roll is fully resolved, the mystic's three `1`s remove their three `6`s.
+
+What seemed an overwhelming victory is reversed.
+
+The initiate does not automatically become Illuminated. But this contradiction may kindle the **Spark**: they now know they have seen something their ordinary understanding of Theism cannot entirely explain.
+
+## Example: the shift
+
+A Lunar novice faces a riddle-master in a rite where Illumination is explicitly possible.
+
+After both rolls are resolved normally, she is about to fail. But she still has a `1`, facing one of the master's `6`s.
+
+She suddenly understands that the riddle is not there to be solved but to be **seen**.
+
+She plays her `1`.
+
+The `1` and the `6` disappear. The outcome shifts to a tie.
+
+More importantly, the novice now knows that victory and defeat, question and answer, are not the absolute oppositions she believed them to be.
+
+She is Illuminated.
+
+> **DESIGN — Why this rule?**
+>
+> Mysticism already acts on the relationship between the two rolls. Illumination allows a character inhabiting another Worldview to discover, in a fictionally appropriate Situation, that this relationship can itself be transformed.
+>
+> The `1` therefore does not become a new power ability. It materializes the moment when a previously closed Worldview becomes **permeable**.

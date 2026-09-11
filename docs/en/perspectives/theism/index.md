@@ -6,28 +6,73 @@ title: "Theism"
   <img src="/img/runes/gods.png" alt="Divine world" />
 </div>
 
-> A theist interprets the world in relation to the exemplary deeds of the Gods of their pantheon and cult. They mold themselves into a pre-existing framework and reproduce acts and thoughts that are standardized. They hope to draw divine strength from it in the form of support or even "intervention" — more a manifestation than a true intervention, because of the Great Compromise.
+## Inhabiting the world
 
-*Derogatory names for others: slaves, sheep, false gods...*
+The theist lives in a world where the Gods have already performed the deeds that give reality its shape.
 
-**Resolution rules**
+Myths do not merely tell what happened long ago. They show how to act now. Faced with a trial, the theist therefore seeks to recognize within the present Situation something of their God's deeds, Runes, enemies, and allies.
 
-> At the hour of trial, we recall our own exploits and the glory of our Gods, and we let the Gods judge whether it is us or the enemy who is most worthy of triumphing.
+They do not necessarily ask the God to come and change the world. They seek to act so that **the world can recognize the God's deed within their own**.
 
-To read a roll according to **Theism**:
+*Others may call them slaves of the Gods, sheep, or worshippers of false gods.*
 
-- count even numbers as Successes;
-- 6s allow odd dice to be rerolled — divine support — and this effect is cumulative if another 6 appears;
-- if there are no odd dice left, a 6 may even provide a new die to roll, like a divine manifestation.
+## Reading the roll
 
-**Power modes**
+- Each **even** die counts as a Success.
+- Each **6** manifests divine support: it allows an odd die to be rerolled.
+- If that reroll produces another `6`, the support continues.
+- If no odd dice remain to be raised, a `6` may bring a new die into the roll.
 
-- **Weakened** mode: 6s have no special effect.
-- **Heroic** mode: even numbers allow odd dice to be rerolled.
+A `6` is therefore not merely a good face.
 
-**Comments**
+It is the moment when the protagonist's deed meets the God's deed and something greater begins to act within the Situation.
 
-- The theist seeks and finds divine support related to the domain of their God.
-- Even a chain of 6s on a simple opposition with a minor protagonist can translate into the feeling of being totally aligned with the principles of the God or even the attainment of a revelation.
+## When the Worldview falters or is fulfilled
+
+### The Silence of the God — Weakened Worldview
+
+Even dice still produce Successes, but `6`s trigger no rerolls.
+
+The theist can still act according to what they know and what they are, but no divine echo answers.
+
+The God has not necessarily vanished. Perhaps the protagonist can no longer recognize the divine presence.
+
+### Walking the Myth — Heroic Worldview
+
+Every even die may now reroll an odd die.
+
+Divine support no longer appears only through the exceptional `6`.
+
+**Every fitting deed can prolong the mythical deed.**
+
+The hero no longer merely asks for the God's aid: for that moment, their own actions seem naturally to take their place within the Myth.
+
+## Where to look
+
+**Look for the `6`s.**
+
+When a `6` appears, do not read it only as a reroll. Ask: *what aspect of the God has recognized this deed?*
+
+And when rerolls chain together: *how far is the protagonist walking in the God's footsteps?*
+
+## Example of play
+
+An initiate of Orlanth must cross a storm-beaten ridge to warn her clan. Four Bets are in play.
+
+She rolls:
+
+`1 · 3 · 4 · 6`
+
+The `4` and `6` give two Successes. The `6` rerolls an odd die. The `3` becomes `6`: this new manifestation gives a third Success and another reroll. The `1` becomes `2`.
+
+Four Bets, four Successes.
+
+What could have been described as a simple successful crossing can now appear otherwise: for a few moments, the wind itself seemed to recognize a daughter of Orlanth.
+
+> **DESIGN — Why this reading?**
+>
+> Theism turns an exceptional Success into **mythic continuity**. The `6` does not simply add power: it raises what failed and can begin a chain of manifestations.
+>
+> The heroic mode carries that logic to its conclusion. When every success can raise a failure, the boundary between the hero's action and the mythical deed becomes much thinner.
 
 [And why not runic cards?](runic-cards)
