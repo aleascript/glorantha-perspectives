@@ -48,8 +48,8 @@ It would be tempting to ask players to associate a Rune with each Bet.
 
 One could, for example, decide that the same Rune may only be represented once among the Bets on a given side.
 
-But this requires detailed knowledge of the Runes and the ability to associate a fictional truth with a Rune quickly, which is probably heavier than the ordinary procedure.
+But this requires detailed knowledge of the Runes and the ability to associate an element of the fiction with a Rune quickly, which is probably heavier than the ordinary procedure.
 
-A surprising runic association may still be a useful signal: is this really the right reading of the truth? does it reveal something about the character? is an Attachment beginning to emerge?
+A surprising runic association may still be a useful signal: is this really the right reading of that element? does it reveal something about the character? is an Attachment beginning to emerge?
 
 A Rune can therefore serve as a design constraint or reflective tool without becoming a fundamental category of resolution.

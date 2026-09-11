@@ -1,36 +1,41 @@
 ---
-title: "Creating Myths"
+title: "Preparing a Myth"
 ---
 
-Myths correspond to the history during the Time of the Gods and it is they that forged the world of Glorantha as it is.
+# Preparing a Myth
 
-Myths therefore have an impact on the world and resurface regularly under another form, and knowledge of the original myth usually provides the solution.
+A myth that can be used in play should above all give Time enough material to prepare Situations the Protagonists can actually go through.
 
-Each protagonist initiated into a known God will know at least one associated myth, that of their initiation.
+Before inventing one, check whether a Glorantha source already provides a suitable myth. A local variant, an incomplete version, or a cultural interpretation can often be more interesting than an entirely new story.
 
-Destiny will supply them with myths throughout the sessions: either in the form of a myth corresponding to the episode, or in the form of learning during a rest period or ceremony.
+## A simple structure
 
-## The Ingredients of a Myth
+To prepare a myth, begin with four elements:
 
-* A deity
-* Elements of everyday life
-* A problematic
-* The resolution of the problematic, which explains why things are now as they are.
+1. **A state of the world** — how were things at the beginning?
+2. **A power or hero** — who acts, and why?
+3. **A difficulty** — what threatens, is missing, or must change?
+4. **A transformation** — what do the actions performed explain or establish in the known world?
 
-## Constructing a Myth
+The myth may contain several trials, encounters, or reversals. Three stages often make an easy structure to remember, but this is not a rule.
 
-1. **Why?**: We posit an assertion: _"Why don't dogs and cats get along?"_ It is very childlike in a way
-    * **Corollary**: This already implies that it was not always the case. We therefore have an initial situation very different from the current one. _"At first, dogs and cats were brothers," for example._
+## Prepare for play, not recitation
 
-2. **How?**: You will build the myth by explaining how things came to be this way.
-    * **Corollary**: Given that we are building a myth, we must necessarily involve divine elements that will intervene to change this initial state of things. _"During the Green Age, Yinkin was hunting in the Forest when he was attacked by a pack of wolves. He was gravely wounded but ultimately saved by alynxes. Since then he has devoted hatred for all canids and boundless gratitude to felines," for example._
-    * The preceding example is trivial. A rich myth would rather include other deities from the same pantheon or from a rival or enemy pantheon.
+For each stage, note only what Time will actually need:
 
-A myth is an excellent opportunity to apply **the rule of three** (or more). Indeed, much like tales, myths are often composed of three trials, three stages, three objects, etc... _For example, it was at the fourth trial (the trial of weapons) that Orlanth killed Emperor Yelm after having "failed" at the first three (the dance, the magic, the music)._
+- what is established at the beginning of the stage;
+- the people or powers present;
+- what they want;
+- what makes the stage dangerous or difficult;
+- what the Protagonists may recognize if they know the myth;
+- what might change if they follow or leave the expected path.
 
+Do not prepare the Protagonists' decision. The myth gives the Quest a shape; it does not decide what they will do within it.
 
-## Founding Myths
+## Connect the myth to Glorantha
 
-One can also find more recent myths during the Age of History. The Deity is then replaced by a Hero.
+A myth becomes easier to play when its elements have visible effects: a custom, a sacred place, an ancient hostility, a property of an animal, a rite, a relationship between gods, or a way of understanding the world.
 
-Some quests can go further than transforming a myth: they can lead a Protagonist to [**discover a new Worldview**](../discovering-a-worldview/), and therefore a new way for reality itself to become readable.
+This continuity allows players to recognize that what they encounter in the Otherworld already has echoes in the world where their Protagonists live.
+
+Some Quests can go further than transforming a myth: they can lead a Protagonist to [**discover a new Worldview**](../discovering-a-worldview/), and therefore a new way for reality itself to become readable.

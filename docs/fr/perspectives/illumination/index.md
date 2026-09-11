@@ -22,7 +22,7 @@ Glorantha Perspectives s'appuie sur cette image pour représenter un état préc
 
 L'Étincelle ne donne aucun pouvoir automatique.
 
-Elle devient une vérité du Protagoniste : doute, fascination, révélation incomplète, souvenir impossible à oublier. Elle peut ensuite compter comme Mise lorsque la Situation la rend pertinente.
+Elle laisse une **Trace** chez le Protagoniste : doute, fascination, révélation incomplète, souvenir impossible à oublier. Cette Trace peut ensuite compter comme Mise lorsque la Situation la rend pertinente.
 
 Une confrontation au Mysticisme constitue une source particulièrement naturelle d'Étincelle : le personnage voit une victoire apparemment certaine se dissoudre après coup, sans que l'expérience qu'il vient de vivre soit niée.
 
@@ -64,7 +64,7 @@ L'Illumination peut permettre au personnage de franchir des contradictions relig
 
 Cela ne signifie pas qu'il reçoit automatiquement tous les pouvoirs, ni que le monde cesse de réagir à ses actes.
 
-Un Orlanthi Illuminé qui accepte le Chaos, associe des forces réputées incompatibles ou transgresse les interdits de son culte peut toujours être rejeté, poursuivi, admiré ou transformé par ce qu'il fait. Ces conséquences deviennent simplement de nouvelles vérités de la fiction, et donc potentiellement de nouvelles Mises.
+Un Orlanthi Illuminé qui accepte le Chaos, associe des forces réputées incompatibles ou transgresse les interdits de son culte peut toujours être rejeté, poursuivi, admiré ou transformé par ce qu'il fait. Ces conséquences s'inscrivent simplement dans la fiction et peuvent donc devenir de nouvelles Mises lorsqu'une Situation les rend pertinentes.
 
 Glorantha Perspectives n'ajoute pas de **Tare de l'Hérétique** automatique au seul fait d'être Illuminé. Ce sont les actes, les révélations et les relations du personnage qui déterminent ce que les autres peuvent percevoir ou condamner.
 

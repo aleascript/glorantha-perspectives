@@ -22,7 +22,7 @@ Dans le [Grand Cycle de la résolution](../resolution/), la rune du **Désordre*
 
 Une découverte héroïque peut provoquer une rupture comparable à une autre échelle.
 
-Le Protagoniste a vécu quelque chose que sa Vision actuelle ne permet plus de comprendre pleinement. Une Rune peut avoir révélé un rapport inattendu au Cosmos. Une rencontre dans l'Autre Monde peut avoir rendu opératoire ce qui semblait impossible. Deux vérités jusque-là incompatibles peuvent avoir été réunies. Une voie entièrement nouvelle peut avoir été ouverte.
+Le Protagoniste a vécu quelque chose que sa Vision actuelle ne permet plus de comprendre pleinement. Une Rune peut avoir révélé un rapport inattendu au Cosmos. Une rencontre dans l'Autre Monde peut avoir rendu opératoire ce qui semblait impossible. Deux aspects du Cosmos que son ancienne Vision ne permettait pas de tenir ensemble peuvent soudain se rejoindre. Une voie entièrement nouvelle peut avoir été ouverte.
 
 Le point important n'est pas l'étrangeté de l'expérience, mais sa conséquence : **l'ancienne manière de lire le réel ne suffit plus**.
 
@@ -53,8 +53,8 @@ Une nouvelle Vision doit donc naître de ce qui a été vécu, puis trouver peu 
 
 Quelques questions peuvent guider la table :
 
-1. **Quelle vérité sur le monde vient d'être découverte ?**  
-   Formulez-la d'abord sans parler de dés.
+1. **Qu'est-ce que le Protagoniste vient de découvrir sur le Cosmos ?**  
+   Formulez d'abord cette découverte sans parler de dés.
 2. **Qu'est-ce que le Protagoniste remarque désormais que les autres ne regardent pas de la même manière ?**  
    Des répétitions, des oppositions, des relations, des ruptures ou d'autres signes peuvent soudain prendre sens.
 3. **Comment cette découverte se manifeste-t-elle lorsque le réel doit répondre ?**  

@@ -15,13 +15,13 @@ Ask yourself:
 3. which Rune of my Protagonist is relevant to what they are trying?
 4. what in the place or circumstances can tip the balance?
 
-A truth is not automatically a Bet. It becomes a Bet when the Focus explains why it matters in this resolution.
+Not everything established in the fiction automatically becomes a Bet. An element becomes a Bet when the Focus explains why it matters in this resolution.
 
 ## Do I need to know Glorantha well before playing?
 
 No. What matters most is knowing enough about the Situation to make meaningful decisions.
 
-When a place, people, cult, or myth becomes important, take the time to learn more. Knowledge of the world enriches play because it reveals new relevant truths; it is not material you must memorize before the first game.
+When a place, people, cult, or myth becomes important, take the time to learn more. Knowledge of the world enriches play because it reveals new elements that might matter; it is not material you must memorize before the first game.
 
 See [Glorantha at a Glance](../start/glorantha.md).
 
@@ -29,7 +29,7 @@ See [Glorantha at a Glance](../start/glorantha.md).
 
 No. Traits are not permanent bonuses.
 
-Adding a truth to a Protagonist mainly gives the fiction more material. It may help in some Situations, change nothing in others, and sometimes create new problems.
+Adding an element to a Protagonist's Portrait mainly gives the fiction more material. It may help in some Situations, change nothing in others, and sometimes create new problems.
 
 The Focus decides what matters here and now.
 

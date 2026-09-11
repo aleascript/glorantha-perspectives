@@ -8,13 +8,13 @@ Lorsqu'une Situation devient importante et réellement incertaine, la question c
 
 > **Qu'est-ce qui compte ici et maintenant ?**
 
-Les **Mises** sont la réponse mécanique à cette question. Elles ne décrivent pas tout ce qui est vrai dans la fiction : elles désignent les vérités que le **Focus** rend pertinentes pour ce que la Situation est en train de trancher.
+Les **Mises** sont la réponse mécanique à cette question. Elles ne décrivent pas tout ce qui est établi dans la fiction : elles désignent les éléments que le **Focus** rend pertinents pour ce que la Situation est en train de trancher.
 
 Une fois les Mises réunies, la procédure complète se poursuit dans [Résoudre une incertitude](../resolution/).
 
 ## Regarder ce qui compte
 
-Une **Mise** est une vérité fictionnelle que la table rend pertinente pour le Focus présent.
+Une **Mise** est un élément de la fiction que la table rend pertinent pour le Focus présent.
 
 Elle peut provenir :
 
@@ -26,7 +26,7 @@ Elle peut provenir :
 - d'une coutume, d'un tabou ou d'une institution ;
 - d'une magie, d'un esprit ou d'une faveur divine ;
 - d'une propriété de l'adversaire ou de la Situation ;
-- de toute autre vérité que Glorantha et la Situation rendent réellement significative.
+- de tout autre élément que Glorantha et la Situation rendent réellement significatif.
 
 Une chose n'entre pas dans la résolution parce qu'elle figure sur une fiche. Elle entre parce que la table peut expliquer **pourquoi elle compte ici**.
 
@@ -42,7 +42,7 @@ Pour une Force ou un obstacle qui n'est pas porté comme Protagoniste, le **Temp
 
 > **Une Mise joue en faveur de l'une des deux issues relativement au Focus présent.**
 
-## Une vérité peut jouer contre son propriétaire
+## Une Mise peut jouer contre son propriétaire
 
 Une Mise n'est pas favorable ou adverse en soi.
 
@@ -54,7 +54,7 @@ Il n'est pas nécessaire de donner un nom particulier aux ensembles de Mises ain
 
 ## Pertinence et non-redondance
 
-Plusieurs formulations vraies peuvent décrire la même dimension du Focus.
+Plusieurs formulations peuvent décrire la même dimension du Focus.
 
 **Excellent épéiste**, **entraîné depuis l'enfance** et **vétéran de trois guerres** ne donnent pas automatiquement trois Mises pour un échange de quelques secondes. Si elles disent toutes « il est très expérimenté à l'épée » à ce Zoom, elles sont redondantes.
 
@@ -70,19 +70,19 @@ L'une des deux issues peut ne recevoir aucune Mise. Elle est alors représentée
 
 Ni l'Intention ni le simple fait qu'une issue soit mise en balance ne fournissent un dé implicite. Il n'y a pas de « dé de base ».
 
-> **Chaque dé doit représenter une vérité fictionnelle effectivement rendue pertinente par le Focus.**
+> **Chaque dé doit représenter un élément de la fiction effectivement rendu pertinent par le Focus.**
 
-Une résolution **0 / N** est donc valide. Elle ne signifie pas que le Protagoniste possède zéro compétence ; elle signifie simplement qu'aucune vérité retenue ne joue en faveur de cette issue dans cette question précise.
+Une résolution **0 / N** est donc valide. Elle ne signifie pas que le Protagoniste possède zéro compétence ; elle signifie simplement qu'aucun élément retenu ne joue en faveur de cette issue dans cette question précise.
 
 En revanche, **0 / 0 n'est pas un tirage**. C'est un signal de cadrage. Demandez :
 
 > **Si rien ne compte en faveur d'une issue ni de l'autre, qu'est-ce qui rend réellement cette résolution incertaine ?**
 
-Si la réponse révèle une vérité pertinente, elle peut devenir une Mise. Si rien n'apparaît, la Situation n'a probablement pas besoin d'une résolution et la fiction avance.
+Si la réponse révèle un élément pertinent, il peut devenir une Mise. Si rien n'apparaît, la Situation n'a probablement pas besoin d'une résolution et la fiction avance.
 
 ## Mises et Facteurs Cadres
 
-Toutes les vérités importantes ne deviennent pas des Mises.
+Tous les éléments importants ne deviennent pas des Mises.
 
 Une Mise **pèse dans la balance**. Un **Facteur Cadre** détermine ce qui peut entrer dans cette balance : il peut fermer une possibilité, rendre un moyen irrecevable ou imposer une condition tant que la fiction n'a pas changé.
 
@@ -92,7 +92,7 @@ La manière de repérer et d'appliquer ces limites appartient à l'étape [Stase
 
 ## Opposition et contre-Mises
 
-Une Mise peut naturellement faire apparaître une vérité qui joue en faveur de l'autre issue.
+Une Mise peut naturellement faire apparaître un élément qui joue en faveur de l'autre issue.
 
 > **Joueur :** Je suis déjà entre lui et la porte.
 >
@@ -104,7 +104,7 @@ Une Mise peut naturellement faire apparaître une vérité qui joue en faveur de
 
 Cette conversation n'est pas une négociation de bonus. Elle fait apparaître progressivement ce que la fiction rend pertinent d'un côté et de l'autre.
 
-Le Temps ne cherche donc pas des contre-Mises pour équilibrer artificiellement les nombres. Il fait simplement vivre les vérités de la Situation qui comptent réellement de l'autre côté.
+Le Temps ne cherche donc pas des contre-Mises pour équilibrer artificiellement les nombres. Il fait simplement vivre les éléments de la Situation qui comptent réellement de l'autre côté.
 
 C'est pourquoi les oppositions peuvent parfois tendre à s'équilibrer organiquement lorsque le regard se précise. Cela ne signifie pas qu'elles doivent être équilibrées : un avantage fictionnel réel doit rester un avantage fictionnel réel.
 
@@ -112,7 +112,7 @@ C'est pourquoi les oppositions peuvent parfois tendre à s'équilibrer organique
 
 La table n'a pas à fouiller la fiche, la scène ou le lore jusqu'à épuisement.
 
-Quand personne ne voit immédiatement une autre vérité pertinente qui ne répète pas ce qui est déjà posé, on résout.
+Quand personne ne voit immédiatement un autre élément pertinent qui ne répète pas ce qui est déjà posé, on résout.
 
 > **Une Mise ne se cherche pas pour accumuler des dés. Elle se remarque parce qu'elle compte.**
 

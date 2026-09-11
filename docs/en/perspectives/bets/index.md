@@ -8,13 +8,13 @@ When a Situation becomes important and genuinely uncertain, the central question
 
 > **What matters here and now?**
 
-**Bets** are the mechanical answer to that question. They do not describe everything that is true in the fiction: they identify the truths that the **Focus** makes relevant to what the Situation is deciding.
+**Bets** are the mechanical answer to that question. They do not describe everything established in the fiction: they identify the elements that the **Focus** makes relevant to what the Situation is deciding.
 
 Once the Bets have been gathered, the complete procedure continues in [Resolving Uncertainty](../resolution/).
 
 ## Look at what matters
 
-A **Bet** is a fictional truth that the table makes relevant to the present Focus.
+A **Bet** is an element of the fiction that the table makes relevant to the present Focus.
 
 It may come from:
 
@@ -26,7 +26,7 @@ It may come from:
 - a custom, taboo, or institution;
 - magic, a spirit, or divine favour;
 - a property of the opposition or Situation;
-- any other truth that Glorantha and the Situation make genuinely significant.
+- any other element that Glorantha and the Situation make genuinely significant.
 
 Something does not enter resolution because it appears on a character sheet. It enters because the table can explain **why it matters here**.
 
@@ -42,7 +42,7 @@ For a Force or obstacle that is not carried as a Protagonist, **Time** carries w
 
 > **A Bet favours one of the two outcomes relative to the present Focus.**
 
-## A truth can work against its owner
+## A Bet can work against its owner
 
 A Bet is not favourable or adverse by itself.
 
@@ -54,7 +54,7 @@ There is no need to give a technical name to the sets of Bets that emerge. At th
 
 ## Relevance and non-redundancy
 
-Several true phrases may describe the same dimension of the Focus.
+Several phrasings may describe the same dimension of the Focus.
 
 **Excellent swordsman**, **trained since childhood**, and **veteran of three wars** do not automatically give three Bets for an exchange lasting a few seconds. If they all mean “very experienced with a sword” at this Zoom, they are redundant.
 
@@ -70,19 +70,19 @@ One of the two outcomes may receive no Bet. It is then represented by **zero dic
 
 Neither the Intention nor the mere fact that an outcome is in the balance provides an implicit die. There is no “base die”.
 
-> **Every die must represent a fictional truth actually made relevant by the Focus.**
+> **Every die must represent an element of the fiction actually made relevant by the Focus.**
 
-A **0 / N** resolution is therefore valid. It does not mean the Protagonist has zero skill; it means no retained truth favours that outcome for this precise question.
+A **0 / N** resolution is therefore valid. It does not mean the Protagonist has zero skill; it means no retained element favours that outcome for this precise question.
 
 By contrast, **0 / 0 is not a roll**. It is a framing signal. Ask:
 
 > **If nothing matters in favour of either outcome, what actually makes this resolution uncertain?**
 
-If the answer reveals a relevant truth, it may become a Bet. If nothing appears, the Situation probably does not need resolution and the fiction moves on.
+If the answer reveals a relevant element, it may become a Bet. If nothing appears, the Situation probably does not need resolution and the fiction moves on.
 
 ## Bets and Frame Factors
 
-Not every important truth becomes a Bet.
+Not every important element becomes a Bet.
 
 A Bet **weighs in the balance**. A **Frame Factor** determines what may enter that balance: it can close a possibility, make a means inadmissible, or impose a condition until the fiction changes.
 
@@ -92,7 +92,7 @@ How to identify and apply these limits belongs to the [Stasis step of resolution
 
 ## Opposition and counter-Bets
 
-A Bet may naturally reveal a truth that favours the other outcome.
+A Bet may naturally reveal an element that favours the other outcome.
 
 > **Player:** I am already between him and the door.
 >
@@ -104,7 +104,7 @@ A Bet may naturally reveal a truth that favours the other outcome.
 
 This conversation is not a negotiation over bonuses. It gradually reveals what the fiction makes relevant on either side.
 
-Time therefore does not hunt for counter-Bets to balance the numbers artificially. It simply brings forward the truths of the Situation that genuinely matter on the other side.
+Time therefore does not hunt for counter-Bets to balance the numbers artificially. It simply brings forward the elements of the Situation that genuinely matter on the other side.
 
 This is why oppositions may sometimes tend to balance organically as the table looks more closely. It does not mean they must be balanced: a real fictional advantage should remain a real fictional advantage.
 
@@ -112,7 +112,7 @@ This is why oppositions may sometimes tend to balance organically as the table l
 
 The table does not need to search the sheet, scene, or lore exhaustively.
 
-When nobody immediately sees another relevant truth that does not repeat what is already present, resolve.
+When nobody immediately sees another relevant element that does not repeat what is already present, resolve.
 
 > **A Bet is not searched for to accumulate dice. It is noticed because it matters.**
 

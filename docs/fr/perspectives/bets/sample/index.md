@@ -18,7 +18,7 @@ La table précise ce qu'elle veut réellement trancher maintenant.
 - **Première issue :** Yanela confie la relique à Kallyr pour protéger le clan.
 - **Seconde issue :** Yanela maintient la relique dans sa stase protectrice au sein du temple.
 
-Kallyr possède des vérités redoutables comme *Épéiste fulgurante*, *Agile comme le vent* ou son *Épée longue en fer*. Mais le Focus porte sur une négociation politique et religieuse, pas sur un combat physique. Ces vérités ne deviennent donc pas des Mises ici.
+Kallyr est notamment *Épéiste fulgurante*, *Agile comme le vent* et possède une *Épée longue en fer*. Mais le Focus porte sur une négociation politique et religieuse, pas sur un combat physique. Ces éléments ne deviennent donc pas des Mises ici.
 
 ### 2. Repérer le Facteur Cadre
 
@@ -28,7 +28,7 @@ Kallyr aurait pu vouloir utiliser son trait *Colérique* ou son statut de *Guerr
 
 ### 3. Repérer les Mises de chaque côté
 
-Chaque vérité retenue joue en faveur de l'une des deux issues.
+Chaque élément retenu joue en faveur de l'une des deux issues.
 
 **Mises en faveur de Kallyr obtenant la relique :**
 
