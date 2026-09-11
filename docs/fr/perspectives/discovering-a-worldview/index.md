@@ -45,26 +45,26 @@ Elle doit exprimer cette manière de penser assez fortement pour que le joueur l
 
 > **Une nouvelle Vision du monde ne décore pas la résolution. Elle transforme ce que l'incertitude signifie pour celui qui habite ce monde.**
 
-## Du vécu au Prisme
+## Du vécu à une nouvelle lecture du réel
 
 Dans **Glorantha Perspectives**, une Vision du monde agit normalement au moment du **Désordre** : les Mises ont déjà été réunies, les dés ont été lancés, puis la Vision détermine comment cette constellation devient lisible.
 
-Pour faire émerger une nouvelle Vision, cherchez donc d'abord son **Prisme** : la manière particulière dont elle transforme le tirage en réponse du réel.
+Une nouvelle Vision doit donc naître de ce qui a été vécu, puis trouver peu à peu sa propre manière de lire la réponse du réel.
 
 Quelques questions peuvent guider la table :
 
 1. **Quelle vérité sur le monde vient d'être découverte ?**  
-   Formulez-la sans parler de dés.
-2. **Quelle expérience doit-elle produire chez le joueur ?**  
-   Que doit-il commencer à remarquer, espérer ou redouter ?
-3. **Quelle propriété du tirage peut rendre cela perceptible ?**  
-   Une somme, des répétitions, des oppositions, des transformations, des annulations, des formes particulières ou autre chose encore peuvent devenir significatives.
-4. **La mécanique reste-t-elle lisible ?**  
+   Formulez-la d'abord sans parler de dés.
+2. **Qu'est-ce que le Protagoniste remarque désormais que les autres ne regardent pas de la même manière ?**  
+   Des répétitions, des oppositions, des relations, des ruptures ou d'autres signes peuvent soudain prendre sens.
+3. **Comment cette découverte se manifeste-t-elle lorsque le réel doit répondre ?**  
+   Certains résultats peuvent acquérir une signification nouvelle, se répondre, se transformer ou cesser d'avoir le sens qu'on leur donnait auparavant.
+4. **Cette lecture reste-t-elle assez simple pour appartenir naturellement au jeu ?**  
    Une Vision peut être étrange sans détourner toute l'attention vers sa procédure.
-5. **Correspond-elle vraiment à ce qui a été découvert dans la fiction ?**  
-   Le Prisme doit être la conséquence de l'expérience, pas son prétexte.
+5. **Reconnaît-on encore dans cette lecture ce qui a réellement été découvert dans la fiction ?**  
+   La manière de lire le réel doit rester une conséquence de l'expérience vécue.
 
-Le reste du cycle de résolution de GP fournit un cadre commun : Intention, conséquences, Focus, Mises, réponse du réel et manifestation fictionnelle continuent d'ancrer cette nouvelle Perspective dans le même monde partagé.
+Le reste du cycle de résolution fournit un cadre commun : Intention, conséquences, Focus, Mises, réponse du réel et manifestation fictionnelle continuent d'ancrer cette nouvelle Perspective dans le même monde partagé.
 
 ## Quand la découverte devient réelle
 
@@ -72,7 +72,7 @@ Une intuition née pendant une Quête n'a pas nécessairement besoin de devenir 
 
 Elle peut d'abord apparaître comme une anomalie, une exception ou un phénomène que personne ne sait expliquer. Le Protagoniste peut chercher à reproduire l'expérience, à la transmettre, à trouver des alliés capables de la comprendre ou à découvrir jusqu'où elle s'étend.
 
-Si cette nouvelle manière d'habiter le Cosmos devient stable, elle peut alors acquérir son propre Prisme et devenir une véritable Vision du monde.
+Si cette nouvelle manière d'habiter le Cosmos devient stable, elle peut alors acquérir sa propre manière de lire le réel et devenir une véritable Vision du monde.
 
 Mais toute découverte de cette ampleur ne devient pas nécessairement une Vision. Certaines ne remplacent pas la manière dont on habite le Cosmos : elles peuvent **traverser plusieurs Visions**, les infléchir ou leur ouvrir une possibilité commune. Elles deviennent alors une [**Influence**](../influences/) plutôt qu'une Vision du monde.
 
@@ -82,7 +82,7 @@ Glorantha possède déjà un précédent spectaculaire.
 
 En 1220, les **Sept Mères** retrouvèrent dans l'Autre Monde les fragments d'une déesse brisée et les recomposèrent en une entité vivante : la **Déesse Rouge, Sedenya**. Initiée par les Sept Mères, elle entreprit ensuite sa propre Quête de la Déesse. Les sept phases de la Lune reflètent les stations de cette Quête ; elle y rencontra notamment Nysalor et atteignit l'Illumination. Elle créa la magie lunaire et, en 1247, s'éleva dans le ciel sous la forme de la Lune Rouge.
 
-**Glorantha Perspectives** représente cet héritage par l'[**Influence lunaire**](../moon/) : un Théiste, un Animiste ou un Logicien peut rester dans sa Vision du monde tout en laissant sa relation à la Lune modifier la manière dont cette Vision lit le réel. Le principe nouveau ne remplace pas les ontologies antérieures : il les traverse.
+**Glorantha Perspectives** représente cet héritage par l'[**Influence lunaire**](../moon/) : un Théiste, un Animiste ou un Logicien peut rester dans sa Vision du monde tout en laissant sa relation à la Lune modifier la manière dont cette Vision lit le réel. Le principe nouveau ne remplace pas les Visions antérieures : il les traverse.
 
 Les Sept Mères n'ont donc pas seulement ramené une déesse perdue. Elles ont déclenché un processus qui a fini par introduire dans Glorantha une nouvelle manière transmissible d'agir sur le réel.
 
