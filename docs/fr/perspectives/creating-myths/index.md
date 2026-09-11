@@ -37,3 +37,5 @@ Ne préparez pas la décision des Protagonistes. Le mythe donne une forme à la 
 Un mythe devient plus facile à jouer quand ses éléments ont des effets visibles : une coutume, un lieu sacré, une hostilité ancienne, une propriété d'un animal, un rite, une relation entre dieux ou une manière de comprendre le monde.
 
 Cette continuité permet aux joueurs de reconnaître que ce qu'ils rencontrent dans l'Autre Monde possède déjà des échos dans le monde où vivent leurs Protagonistes.
+
+Certaines Quêtes peuvent aller plus loin que transformer un mythe : elles peuvent conduire un Protagoniste à [**découvrir une nouvelle Vision du monde**](../discovering-a-worldview/), et donc une nouvelle manière pour le réel lui-même de devenir lisible.
