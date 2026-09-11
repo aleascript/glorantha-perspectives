@@ -66,22 +66,6 @@ if (!locales.includes(contentLocale)) {
   throw new Error(`No content directory configured for locale "${contentLocale}".`);
 }
 
-function localizedBaseUrl(locale: string): string {
-  return locale === site.defaultLocale
-    ? baseUrl
-    : normalizeBaseUrl(`${baseUrl}${locale}`);
-}
-
-// Locale base URLs control document routes. Static assets remain rooted at the
-// deployment base URL, even for non-default locales; raw Markdown JSX images
-// therefore must not inherit the locale segment.
-const localeConfigs = Object.fromEntries(
-  Object.entries(site.locales).map(([locale, localeConfig]) => [
-    locale,
-    {...localeConfig, baseUrl: localizedBaseUrl(locale)},
-  ]),
-);
-
 const config: Config = {
   title: site.title,
   tagline: site.tagline,
@@ -104,7 +88,10 @@ const config: Config = {
   i18n: {
     defaultLocale: site.defaultLocale,
     locales,
-    localeConfigs,
+    // Let Docusaurus infer each locale's base URL. Per-locale baseUrl overrides
+    // are intended for uncommon hosting layouts and make local single-locale
+    // development diverge unnecessarily from the standard i18n behaviour.
+    localeConfigs: site.locales,
   },
   presets: [
     [
@@ -114,6 +101,9 @@ const config: Config = {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+          // Raw JSX <img> nodes bypass Docusaurus's Markdown asset loader, so
+          // the web AST receives only the deployment base path here. Locale
+          // routing remains Docusaurus's responsibility.
           remarkPlugins: [
             [remarkLocalImageBaseUrl, {baseUrl}],
           ],
