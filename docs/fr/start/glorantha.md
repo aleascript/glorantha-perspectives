@@ -71,7 +71,7 @@ Le **Chaos** n'est pas simplement le nom donné aux ennemis les plus dangereux. 
 
 Là où un adversaire ordinaire possède encore une place dans le Cosmos, le Chaos peut remettre en cause ce que les Protagonistes pensaient possible ou stable. Sa présence se reconnaît donc moins à sa cruauté qu'à la manière dont elle déforme la réalité elle-même.
 
-Voir [Le Chaos](../perspectives/chaos/) pour la manière dont cette rupture peut devenir une Influence dans Glorantha Perspectives.
+Voir [Le Chaos](../perspectives/chaos/index.md) pour la manière dont cette rupture peut devenir une Influence dans Glorantha Perspectives.
 
 ## Les croyances changent la manière d'agir
 
