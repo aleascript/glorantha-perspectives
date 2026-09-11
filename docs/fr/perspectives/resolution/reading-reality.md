@@ -37,11 +37,11 @@ Les dés n'ont pas besoin de rester associés un par un aux Mises. La résolutio
 
 La manière de lire un tirage dépend de la **Vision du monde** qui s'y applique :
 
-- [Animisme](../../animism/)
-- [Théisme](../../theism/)
-- [Logique](../../logic/)
-- [Mysticisme](../../mysticism/)
-- [Pensée draconique](../../draconic/)
+- [Animisme](../animism/index.md)
+- [Théisme](../theism/index.md)
+- [Logique](../logic/index.md)
+- [Mysticisme](../mysticism/index.md)
+- [Pensée draconique](../draconic/index.md)
 
 Un obstacle sans Vision du monde propre peut être lu de deux façons :
 

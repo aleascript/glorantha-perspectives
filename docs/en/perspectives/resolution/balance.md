@@ -163,7 +163,7 @@ A Bet is not favourable or unfavourable in the abstract. Its meaning depends on 
 
 An outcome may have **no Bet** and be represented by zero dice. A 0 / N resolution is valid; a 0 / 0 tells you to return to framing rather than roll dice that represent nothing.
 
-The [Bets](../../bets/) page explains relevance, non-redundancy, counter-Bets, and when to stop gathering them.
+The [Bets](../bets/index.md) page explains relevance, non-redundancy, counter-Bets, and when to stop gathering them.
 
 ### The Fate Gauge
 

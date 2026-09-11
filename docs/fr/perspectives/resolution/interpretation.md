@@ -98,6 +98,6 @@ Une blessure, une perte, un serment brisé ou une disgrâce n'est pas seulement 
 
 Elle pourra ensuite peser comme Mise, devenir un Facteur Cadre ou simplement modifier ce qui est possible dans les Situations suivantes.
 
-Si ce changement appartient désormais au Protagoniste, inscrivez-le sur sa description. Une blessure, un lien, une réputation, une obligation, un objet, un pouvoir, une compréhension ou une perte peuvent ainsi devenir de nouvelles vérités. Voir [Faire évoluer un Protagoniste](../../../protagonists/#faire-évoluer-un-protagoniste).
+Si ce changement appartient désormais au Protagoniste, inscrivez-le sur sa description. Une blessure, un lien, une réputation, une obligation, un objet, un pouvoir, une compréhension ou une perte peuvent ainsi devenir de nouvelles vérités. Voir [Faire évoluer un Protagoniste](../../protagonists/index.md#faire-évoluer-un-protagoniste).
 
 Cette Situation transformée devient le point de départ d'un nouveau Mouvement lorsque quelqu'un formule une nouvelle Intention.
