@@ -98,6 +98,6 @@ An injury, loss, broken oath, or disgrace is not merely a “penalty.” If the 
 
 It may later weigh as a Bet, become a Frame Factor, or simply change what is possible in later Situations.
 
-If that change now belongs to the Protagonist, record it in their description. An injury, bond, reputation, obligation, object, power, understanding, or loss may thus become a new truth. See [Protagonists](../../../protagonists/).
+If that change now belongs to the Protagonist, record it in their description. An injury, bond, reputation, obligation, object, power, understanding, or loss may thus become a new truth. See [Protagonists](../../protagonists/index.md).
 
 That transformed Situation becomes the starting point of a new Movement when someone states a new Intention.

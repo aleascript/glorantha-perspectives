@@ -37,11 +37,11 @@ The dice do not need to remain individually associated with Bets. Resolution ans
 
 How a roll is read depends on the **Worldview** that applies to it:
 
-- [Animism](../../animism/)
-- [Theism](../../theism/)
-- [Logic](../../logic/)
-- [Mysticism](../../mysticism/)
-- [Draconic Thought](../../draconic/)
+- [Animism](../animism/index.md)
+- [Theism](../theism/index.md)
+- [Logic](../logic/index.md)
+- [Mysticism](../mysticism/index.md)
+- [Draconic Thought](../draconic/index.md)
 
 An obstacle without a Worldview of its own may be read in two ways:
 
