@@ -29,6 +29,8 @@ Completely isolated individuals are rare. A Protagonist usually belongs to a fam
 
 These ties are not background decoration: they can become Bets as soon as they genuinely matter in the Situation.
 
+The same is true of opponents: an ordinary enemy is still someone. They too belong to communities, honor powers, carry obligations, and have a place in the Cosmos. Conflict may be violent without automatically reducing the other to something that exists only to be destroyed.
+
 ## The world evokes the Bronze Age
 
 Weapons, tools, buildings, roads, forms of power, and exchange belong to societies very different from modern ones. Some are tribal, others urban or imperial; each has its own customs and its own sense of what is normal.
@@ -60,6 +62,14 @@ When a place becomes important, ask what happened there, who claims it, who inha
 In Glorantha, the mythic past is not merely ancient history. The deeds of gods and heroes in God Time still shape the world, rituals, and ways of acting.
 
 You do not need to know every myth. When a resemblance becomes meaningful, it is already enough to direct your attention: **is what is happening now replaying something older?**
+
+## Chaos breaks the order of the world
+
+**Chaos** is not simply the name given to the most dangerous enemies. It is a rupture in the distinctions, relationships, and constraints that make the world readable.
+
+Where an ordinary opponent still has a place in the Cosmos, Chaos can call into question what the Protagonists thought possible or stable. Its presence is recognized less by cruelty than by the way it distorts reality itself.
+
+See [Chaos](../perspectives/chaos/) for how this rupture can become an Influence in Glorantha Perspectives.
 
 ## Beliefs change how people act
 
