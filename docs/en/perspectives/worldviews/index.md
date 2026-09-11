@@ -16,6 +16,20 @@ When reality must answer an uncertain Situation, Bets are built in the same way 
 - [**Mysticism**](../mysticism/index.md) — look for what can be dissolved or transformed in the opposition itself.
 - [**Draconic Thought**](../draconic/index.md) — look for patterns that open a choice between attachment and detachment.
 
+## When should weakened and heroic Worldviews be used?
+
+Each Worldview presents an ordinary reading, a **Weakened Worldview**, and a **Heroic Worldview**. These are not three permanent character levels, nor a progression to unlock. They are three ways of reading the same Worldview when the fiction changes the scale or quality of the relationship to the Cosmos.
+
+They can notably be used to:
+
+- **express the weakening of a Protagonist** — when something compromises the relationship through which their Worldview becomes operative, the weakened reading can make that fragility felt in resolution;
+- **express the rules of another world** — in the Otherworld, and especially in the Gods World, some relationships to the Cosmos may become more immediate or absolute. A Heroquest may therefore place participants in a Heroic Worldview because the world they have entered operates at that scale;
+- **express an intentional difference in power** — when a Protagonist, entity, or Force clearly acts at another scale, a weakened or heroic reading can express that difference directly without artificially inflating the number of Bets.
+
+These uses may combine. A mortal may, for example, enter a world where the powers facing them act through Heroic Worldviews while their own relationship to the Cosmos remains ordinary — or even weakened.
+
+The mode is chosen **before the roll**, because the fiction and the Frame justify it, never after seeing the dice. Bets continue to be established normally: unless the Situation itself changes what can count, the mode changes **how the roll is read**, not the number of dice.
+
 ## A Worldview is not a mask
 
 A character does not choose the "best" Worldview for a scene.
@@ -52,4 +66,3 @@ Changing Worldview does not mean deciding to look at the world differently for a
 **It means discovering that you can no longer look at it as you did before.**
 
 Some forces do not replace the Worldview, however: they modify it, make it permeable, or place it in crisis. That is the role of [**Influences and transformations**](../influences/index.md).
-

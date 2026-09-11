@@ -12,7 +12,17 @@ The sheet becomes less a form than a **Living Portrait**: the memory of what pla
 
 ## The Living Portrait
 
-A Living Portrait may be very short or highly developed. Its form remains open, but five elements often recur.
+A Living Portrait may be very short or highly developed. It is never meant to be complete.
+
+> **The Portrait is not the Protagonist.**
+
+The Portrait preserves what needs to be made visible, recovered, or shared at the table. A large part of the Protagonist remains outside it: habits, cultural assumptions, memories, tastes, secondary relationships, plausible know-how, contradictions not yet expressed.
+
+This unspoken space is not a gap to be filled. It is material available to immersion in Glorantha. When a Situation brings some of it into view, some elements will be confirmed by the fiction, others contradicted or left open. Some will then deserve to be inscribed in the Portrait; others will remain implicit because they are too ordinary or too obvious to need recording.
+
+The Portrait is therefore a **memory and a focus of attention**, not an exhaustive description of the person.
+
+Its form remains open, but five elements often recur.
 
 ### Name, image, voice
 
@@ -122,7 +132,7 @@ Stop creation when you can answer these questions:
 5. **What matters deeply to them?**
 6. **What can help them or complicate their life in the first Situation?**
 
-The rest can appear during play.
+The rest can appear during play — or remain implicit until it needs to be inscribed.
 
 ## Creating through play
 

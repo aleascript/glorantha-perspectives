@@ -220,4 +220,4 @@ Le Portrait doit rendre visible **ce qui constitue cette personne-ci**, pas prou
 
 Une personne rencontrée pour quelques minutes peut encore tenir en une intention et deux traits marquants. Si elle revient et prend de l'importance, son Portrait peut se développer exactement comme celui d'un Protagoniste durable.
 
-Pour rencontrer d'autres personnages sans transformer ce chapitre en catalogue, parcourez les [**Récits**](../narratives/index.md).
+Pour rencontrer d'autres personnages, parcourez les [**Récits**](../narratives/index.md).

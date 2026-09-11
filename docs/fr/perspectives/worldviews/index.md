@@ -16,6 +16,20 @@ Lorsque le réel doit répondre à une Situation incertaine, les Mises sont cons
 - [**Mysticisme**](../mysticism/index.md) — cherchez ce qui, dans l'opposition elle-même, peut être dissous ou transformé.
 - [**Pensée draconique**](../draconic/index.md) — cherchez les motifs qui ouvrent un choix entre attachement et détachement.
 
+## Quand utiliser les Visions affaiblie et héroïque ?
+
+Chaque Vision présente une lecture ordinaire, une **Vision affaiblie** et une **Vision héroïque**. Ce ne sont pas trois niveaux permanents du personnage, ni une progression à débloquer. Ce sont trois manières de lire la même Vision lorsque la fiction change l'échelle ou la qualité du rapport au Cosmos.
+
+Elles peuvent notamment servir à :
+
+- **exprimer l'affaiblissement d'un Protagoniste** — lorsque quelque chose compromet la relation par laquelle sa Vision devient opérante, la lecture affaiblie peut rendre cette fragilité sensible dans la résolution ;
+- **exprimer les règles d'un autre monde** — dans l'Autre Monde, et notamment dans le Monde divin, certaines relations au Cosmos peuvent devenir plus immédiates ou plus absolues. Une Quête héroïque peut ainsi placer les participants en Vision héroïque parce que le monde où ils se trouvent obéit à cette échelle ;
+- **exprimer un décalage assumé de puissance** — lorsqu'un Protagoniste, une entité ou une Force agit manifestement à une autre échelle, une lecture affaiblie ou héroïque peut rendre ce décalage directement, sans avoir à gonfler artificiellement le nombre de Mises.
+
+Ces usages peuvent se combiner. Un mortel peut par exemple entrer dans un monde où les puissances qui lui font face agissent en Vision héroïque tandis que sa propre relation au Cosmos demeure ordinaire — ou même affaiblie.
+
+Le mode est choisi **avant le tirage**, parce que la fiction et le Cadre le justifient, jamais après avoir vu les dés. Les Mises continuent d'être établies normalement : sauf si la Situation change elle-même ce qui peut compter, le mode modifie **la lecture du tirage**, pas le nombre de dés.
+
 ## Une Vision du monde n'est pas un masque
 
 Un personnage ne choisit pas la « meilleure » Vision pour une scène.

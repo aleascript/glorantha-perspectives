@@ -12,7 +12,17 @@ La feuille devient alors moins un formulaire qu'un **Portrait vivant** : la mém
 
 ## Le Portrait vivant
 
-Un Portrait vivant peut être très court ou très développé. Sa forme reste ouverte, mais cinq éléments reviennent souvent.
+Un Portrait vivant peut être très court ou très développé. Il n'est jamais censé être complet.
+
+> **Le Portrait n'est pas le Protagoniste.**
+
+Le Portrait conserve ce qui a besoin d'être rendu visible, retrouvé ou transmis à la table. Une grande part du Protagoniste demeure hors de lui : habitudes, évidences culturelles, souvenirs, goûts, relations secondaires, savoir-faire plausibles, contradictions encore inexprimées.
+
+Cette zone de non-dit n'est pas un manque à combler. Elle constitue de la matière disponible pour l'immersion dans Glorantha. Lorsqu'une Situation la fait émerger, certains éléments seront confirmés par la fiction, d'autres contredits ou laissés ouverts. Certains mériteront alors d'être inscrits dans le Portrait ; d'autres resteront implicites, parce qu'ils sont trop ordinaires ou trop évidents pour avoir besoin d'y figurer.
+
+Le Portrait est donc une **mémoire et un point d'attention**, pas une description exhaustive de la personne.
+
+Sa forme reste ouverte, mais cinq éléments reviennent souvent.
 
 ### Nom, image, voix
 
@@ -122,7 +132,7 @@ Arrêtez la création lorsque vous savez répondre à ces questions :
 5. **Qu'est-ce qui compte profondément pour lui ?**
 6. **Qu'est-ce qui peut l'aider ou lui compliquer la vie dès la première Situation ?**
 
-Le reste peut apparaître pendant le jeu.
+Le reste peut apparaître pendant le jeu — ou rester implicite tant qu'il n'a pas besoin d'être inscrit.
 
 ## Créer en jouant
 
