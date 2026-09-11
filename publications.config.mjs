@@ -230,6 +230,18 @@ export default definePublications({
           contents: mementoContents('fr'),
           outputs: ['pdf'],
         },
+        en: {
+          title: 'Quick Reference',
+          tocTitle: 'Contents',
+          toc: tocWithStructure(mementoStructure('en')),
+          cover: {
+            image: '/img/site/glorantha-perspectives-emblem.png',
+            alt: 'Glorantha Perspectives',
+            seriesTitle: 'Glorantha Perspectives',
+          },
+          contents: mementoContents('en'),
+          outputs: ['pdf'],
+        },
       },
     },
     'the-lunar-way': {
