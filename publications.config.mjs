@@ -105,7 +105,7 @@ function guideContents(locale) {
 }
 
 function mementoStructure(locale) {
-  const root = `publication/memento/${locale}`;
+  const root = `publication/quick-reference/${locale}`;
   return [
     `${root}/index.md`,
     `${root}/resolution.md`,
@@ -203,7 +203,7 @@ export default definePublications({
         },
       },
     },
-    memento: {
+    quickreference: {
       author: 'AleaScript',
       version: '2026-09-11',
       status: 'Draft',
@@ -216,7 +216,7 @@ export default definePublications({
       },
       size: 'A5',
       theme: 'publication/theme.css',
-      outputName: 'glorantha-perspectives-memento',
+      outputName: 'glorantha-perspectives-quick-reference',
       locales: {
         fr: {
           title: 'Mémento',
