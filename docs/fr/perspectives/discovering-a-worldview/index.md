@@ -80,7 +80,7 @@ Mais toute découverte de cette ampleur ne devient pas nécessairement une Visio
 
 Glorantha possède déjà un précédent spectaculaire.
 
-En 1220, les **Sept Mères** retrouvèrent dans l'Autre Monde les fragments d'une déesse brisée et les recomposèrent en une entité vivante : la **Déesse Rouge, Sedenya**. Initiée par les Sept Mères, elle entreprit ensuite sa propre Quête de la Déesse. Les sept phases de la Lune conservent la trace des stations de cette Quête ; elle y rencontra notamment Nysalor et atteignit l'Illumination. Elle créa la magie lunaire et, en 1247, s'éleva dans le ciel sous la forme de la Lune Rouge.
+En 1220, les **Sept Mères** retrouvèrent dans l'Autre Monde les fragments d'une déesse brisée et les recomposèrent en une entité vivante : la **Déesse Rouge, Sedenya**. Initiée par les Sept Mères, elle entreprit ensuite sa propre Quête de la Déesse. Les sept phases de la Lune reflètent les stations de cette Quête ; elle y rencontra notamment Nysalor et atteignit l'Illumination. Elle créa la magie lunaire et, en 1247, s'éleva dans le ciel sous la forme de la Lune Rouge.
 
 **Glorantha Perspectives** représente cet héritage par l'[**Influence lunaire**](../moon/) : un Théiste, un Animiste ou un Logicien peut rester dans sa Vision du monde tout en laissant sa relation à la Lune modifier la manière dont cette Vision lit le réel. Le principe nouveau ne remplace pas les ontologies antérieures : il les traverse.
 
