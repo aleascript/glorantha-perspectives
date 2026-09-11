@@ -66,6 +66,24 @@ if (!locales.includes(contentLocale)) {
   throw new Error(`No content directory configured for locale "${contentLocale}".`);
 }
 
+function localizedBaseUrl(locale: string): string {
+  return locale === site.defaultLocale
+    ? baseUrl
+    : normalizeBaseUrl(`${baseUrl}${locale}`);
+}
+
+// Keep Docusaurus's locale URLs and our Markdown JSX image rewriting on the
+// same explicit base URL. This also makes `start --locale en` mirror the
+// single-domain production layout instead of depending on the default locale's
+// static assets being available at the site root.
+const localeConfigs = Object.fromEntries(
+  Object.entries(site.locales).map(([locale, localeConfig]) => [
+    locale,
+    {...localeConfig, baseUrl: localizedBaseUrl(locale)},
+  ]),
+);
+const contentBaseUrl = localizedBaseUrl(contentLocale);
+
 const config: Config = {
   title: site.title,
   tagline: site.tagline,
@@ -88,7 +106,7 @@ const config: Config = {
   i18n: {
     defaultLocale: site.defaultLocale,
     locales,
-    localeConfigs: site.locales,
+    localeConfigs,
   },
   presets: [
     [
@@ -99,7 +117,7 @@ const config: Config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           remarkPlugins: [
-            [remarkLocalImageBaseUrl, {baseUrl}],
+            [remarkLocalImageBaseUrl, {baseUrl: contentBaseUrl}],
           ],
         },
         blog: false,
