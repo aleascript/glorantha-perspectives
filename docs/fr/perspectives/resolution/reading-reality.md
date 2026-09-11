@@ -4,13 +4,28 @@ title: Lire la réponse du réel
 
 # Lire la réponse du réel
 
-Une fois la balance constituée, la table demande au monde **ce qu'il répond**.
+<div data-runes="chapter">
+  <img src="/img/runes/life.png" alt="Vie" />
+  <img src="/img/runes/disorder.png" alt="Désordre" />
+</div>
 
-Cette phase correspond à l'étape 7 : lancer les dés, les lire selon la Vision du monde applicable, puis comparer les réponses du réel.
+Une fois la balance fixée, la table la **met en mouvement par le lancer**, puis laisse la Vision du monde défaire l'idée qu'un même nombre devrait signifier la même chose partout.
 
-## 7. Tirer, lire et comparer les réponses du réel
+Cette phase rassemble les étapes 5 et 6 : **Vie** pour le lancer, **Désordre** pour la lecture du tirage.
+
+## 5. Vie
+
+### Lancer les dés
 
 Lancez les dés correspondant aux Mises de chaque côté.
+
+Le tirage anime la constellation de ce qui a été mis en balance, mais il n'est pas encore une réponse universellement lisible. Les mêmes faces peuvent prendre un sens différent selon la Perspective qui les reçoit.
+
+Les dés n'ont pas besoin de rester associés un par un aux Mises. La résolution répond à **l'ensemble de ce qui a été mis dans la balance**, pas à une série de petites causes indépendantes.
+
+## 6. Désordre
+
+### Lire selon la Vision du monde
 
 La manière de lire un tirage dépend de la **Vision du monde** qui s'y applique :
 
@@ -29,31 +44,4 @@ Le lieu peut changer cette lecture. Escalader une montagne ordinaire n'est pas l
 
 Le tirage et sa lecture donnent, pour chaque côté, une **réponse du réel**. Dans la plupart des Visions du monde, cette réponse peut être exprimée sous la forme d'un nombre de Réussites comparable à celui de l'autre côté.
 
-Les dés n'ont pas besoin de rester associés un par un aux Mises. La résolution répond à **l'ensemble de ce qui a été mis dans la balance**, pas à une série de petites causes indépendantes.
-
-### Comparer les réponses du réel
-
-L'issue dont les Mises produisent le plus de Réussites s'impose sur la question posée par le Focus.
-
-- **Victoire / Défaite** : un côté obtient plus de Réussites que l'autre ;
-- **Statu quo** : égalité ;
-- **Exploit / Fiasco possibles** : le résultat est dominé.
-
-Un résultat est **dominé** lorsque les deux conditions suivantes sont réunies :
-
-1. l'écart est **strictement supérieur à 1 Réussite** ;
-2. le vainqueur obtient **strictement plus du double** des Réussites du perdant.
-
-Exemples :
-
-- `2–0` → résultat dominé ;
-- `3–1` → résultat dominé ;
-- `4–2` → Victoire / Défaite simples ;
-- `5–2` → résultat dominé ;
-- `6–3` → Victoire / Défaite simples.
-
-La domination rend une amplification disponible : le vainqueur peut accomplir un **Exploit** et le perdant peut subir un **Fiasco**. Les deux ne sont pas automatiquement symétriques ; la fiction décide ce que cette amplification signifie de chaque côté.
-
-Les deux issues posées avant le tirage ne constituent pas un catalogue exhaustif de ce qui peut arriver. Elles définissent seulement **ce que cette résolution doit trancher**. L'**Et** d'un Exploit ou d'un Fiasco peut ajouter une conséquence, une découverte, une transformation ou un avantage qui n'était pas contenu dans leur formulation initiale.
-
-En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque acteur qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
+La lecture ne décide pas encore quelle issue s'impose. Elle produit les réponses que la table va maintenant [comparer](interpretation.md#7-vérité).

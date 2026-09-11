@@ -16,15 +16,17 @@ You do not need to know everything or take everything into account. Start with w
 
 The Protagonists act freely within that Situation. Most of the time, the fiction moves forward without rolling dice. Resolve only when the outcome is **possible, important, and genuinely uncertain**.
 
-When resolution becomes necessary:
+When resolution becomes necessary, it moves through eight steps:
 
-1. state what the Protagonists, Forces, or other involved actors are actually trying to achieve;
-2. make important consequences visible when they are not obvious;
-3. state the **Focus**, its **Zoom**, and the **two outcomes in the balance**;
-4. identify **Frame Factors**, then the **Bets** that matter here and now, stating which outcome each favours;
-5. roll the dice corresponding to the Bets on each side;
-6. read each roll according to the **Worldview** that applies to it to obtain **reality's answer**;
-7. compare those answers and interpret the result from the Situation and the Bets;
-8. continue from what has just changed.
+1. **Movement — Intention.** State what the Protagonists, Forces, or other involved actors are actually trying to achieve.
+2. **Death — Consequences.** Make important consequences visible when they are not obvious.
+3. **Harmony — Focus and Zoom.** State the **Focus**, its **Zoom**, and the **two outcomes in the balance**.
+4. **Stasis — Frame and Bets.** Identify **Frame Factors**, then the **Bets** that matter here and now, stating which outcome each favours.
+5. **Life — Roll.** Roll the dice corresponding to the Bets on each side.
+6. **Disorder — Worldview.** Read each roll according to the **Worldview** that applies to it to obtain **reality's answer**.
+7. **Truth — Comparison.** Compare the answers to establish the outcome and the amplitude of reality's answer.
+8. **Illusion — Manifestation.** Give that answer a fictional form from the Situation and the Bets, then continue from what has changed.
+
+This sequence forms the [Grand Cycle of resolution](../perspectives/resolution/) according to Glorantha Perspectives. The Runes give the procedure cosmological depth, but knowing their symbolism is not required to use it.
 
 If you are discovering Glorantha, begin with [Glorantha at a Glance](glorantha.md). That page does not try to summarize the setting: it gives you a compass for knowing **where to look** during play.

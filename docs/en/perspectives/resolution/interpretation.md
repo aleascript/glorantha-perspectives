@@ -4,21 +4,61 @@ title: Interpret and Continue
 
 # Interpret and Continue
 
-Reality's answer does not end the fiction. It gives **a form to the result**; the table must still understand what this changes in the Situation.
+<div data-runes="chapter">
+  <img src="/img/runes/truth.png" alt="Truth" />
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+</div>
 
-This phase corresponds to step 8 of resolution.
+The readings have produced two answers from reality. The table must now establish **what is true of the question that was asked**, then discover **the particular form that truth takes in the fiction**.
 
-## 8. Interpret and continue
+This phase gathers steps 7 and 8: **Truth** for comparison, **Illusion** for fictional manifestation.
 
-The outcome whose Bets obtain more Successes prevails in the fiction. The Bets provide the material from which that answer becomes concrete.
+> **Truth decides; Illusion manifests.**
+
+## 7. Truth
+
+### Compare reality's answers
+
+The outcome whose Bets produce more Successes prevails on the question set by the Focus.
+
+- **Victory / Defeat**: one side has more Successes than the other;
+- **Status quo**: a tie;
+- **Feat / Fiasco available**: the result is dominated.
+
+A result is **dominated** when both conditions are true:
+
+1. the difference is **strictly greater than 1 Success**;
+2. the winner has **strictly more than twice** the loser's Successes.
+
+Examples:
+
+- `2–0` → dominated result;
+- `3–1` → dominated result;
+- `4–2` → simple Victory / Defeat;
+- `5–2` → dominated result;
+- `6–3` → simple Victory / Defeat.
+
+Domination makes amplification available: the winner may achieve a **Feat** and the loser may suffer a **Fiasco**. The two are not automatically symmetrical; the fiction decides what amplification means on either side.
+
+The two outcomes stated before the roll are not an exhaustive catalogue of what may happen. They only define **what this resolution must decide**. The **And** of a Feat or Fiasco may add a consequence, discovery, transformation, or advantage that was not contained in their initial wording.
+
+On a tie, if the actors refuse to remain at the Status quo, the table may **escalate**: keep the existing Bets, let each actor who pushes the confrontation add a Bet representing their determination to end it, then resolve again.
+
+Comparison thus establishes the outcome and amplitude of reality's answer. It does not yet narrate how that truth appears in the Situation.
+
+## 8. Illusion
+
+### Give fictional form and continue
+
+Reality's answer does not end the fiction. The Bets provide the material from which what has been established takes concrete form.
 
 Return to the Intentions, the two outcomes in the balance, announced consequences, Zoom, and what mattered. Describe what changes: position, relationship, injury, reputation, resource, obligation, information, threat, transformation, or another lasting element of the fiction.
 
 ### Subjective interpretation, under constraints
 
-Reality's answer does not narrate by itself what happened. It gives a **form to the result**. The table must still interpret it.
+Reality's answer does not narrate by itself what happened. The table must still interpret it.
 
-Several interpretations may be compatible with the same roll. This is not a flaw to correct with a second mechanic: interpretation is a **fictional judgment**.
+Several interpretations may be compatible with the same result. This is not a flaw to correct with a second mechanic: interpretation is a **fictional judgment**.
 
 That judgment is nevertheless constrained by the Focus, the Zoom, the outcomes in the balance, the form of the result, the Situation, and the Bets recognized before the roll.
 
@@ -51,3 +91,5 @@ An injury, loss, broken oath, or disgrace is not merely a “penalty.” If the 
 It may later weigh as a Bet, become a Frame Factor, or simply change what is possible in later Situations.
 
 If that change now belongs to the Protagonist, record it in their description. An injury, bond, reputation, obligation, object, power, understanding, or loss may thus become a new truth. See [Protagonists](../../../protagonists/).
+
+That transformed Situation becomes the starting point of a new Movement when someone states a new Intention.

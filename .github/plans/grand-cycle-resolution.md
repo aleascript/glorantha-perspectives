@@ -1,8 +1,8 @@
 # Cible du refactor : le Grand Cycle de la résolution
 
-> Statut : document de cadrage. Aucun refactor des pages de jeu n'est engagé dans ce commit.
+> Statut : implémenté dans cette PR après fusion de la revue des images et rebase sur `main`.
 
-Cette note fixe la cible d'un prochain refactor organisationnel de la résolution. Le travail commencera après la fusion de la PR consacrée aux images et le rebase de cette branche sur `main`.
+Cette note conserve le cadrage du refactor organisationnel de la résolution et les garde-fous utilisés pour son implémentation.
 
 ## Principe
 
@@ -30,9 +30,9 @@ Ce cycle n'est pas une vérité cosmologique absolue. C'est **le Grand Cycle de 
 3. **Lire la réponse du réel** : Vie / Désordre
 4. **Interpréter et continuer** : Vérité / Illusion
 
-Ce découpage doit remplacer la répartition actuelle des huit étapes dans le chapitre détaillé, tout en conservant les fichiers existants.
+Ce découpage remplace la répartition précédente des huit étapes dans le chapitre détaillé, tout en conservant les fichiers existants.
 
-## Formulation procédurale cible
+## Formulation procédurale
 
 1. dire ce que les Protagonistes, Forces ou autres acteurs engagés cherchent réellement à obtenir ;
 2. rendre visibles les conséquences importantes qui ne sont pas évidentes ;
@@ -45,16 +45,18 @@ Ce découpage doit remplacer la répartition actuelle des huit étapes dans le c
 
 La séparation des étapes 7 et 8 exprime le couple final : **Vérité tranche ; Illusion manifeste.**
 
-## Cible organisationnelle
+## Organisation appliquée
 
-- `docs/fr/start/index.md` : présenter la séquence canonique des huit étapes ;
-- `docs/fr/perspectives/resolution/index.md` : introduire explicitement le Grand Cycle et les quatre mouvements ;
+La même structure est maintenue en français et en anglais :
+
+- `start/index.md` : présente la séquence canonique des huit étapes ;
+- `perspectives/resolution/index.md` : introduit explicitement le Grand Cycle et les quatre mouvements ;
 - `framing.md` : étapes 1 et 2, Mouvement / Mort ;
 - `balance.md` : étapes 3 et 4, Harmonie / Stase ;
 - `reading-reality.md` : étapes 5 et 6, Vie / Désordre ;
 - `interpretation.md` : étapes 7 et 8, Vérité / Illusion ;
-- relier cette présentation à l'Inspiration runique et à la Méditation sur les runes ;
-- employer les futurs styles d'images pour rendre les Runes visibles sans rendre leur symbolisme nécessaire à l'application de la procédure.
+- le cycle renvoie à l'Inspiration runique et à la Méditation sur les runes ;
+- les styles d'images introduits par la PR #12 rendent les Runes visibles sans rendre leur symbolisme nécessaire à l'application de la procédure.
 
 ## Garde-fous
 

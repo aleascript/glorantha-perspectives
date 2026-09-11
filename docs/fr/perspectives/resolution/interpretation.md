@@ -4,21 +4,61 @@ title: Interpréter et continuer
 
 # Interpréter et continuer
 
-La réponse du réel ne termine pas la fiction. Elle indique **quelle forme prend le résultat** ; la table doit encore comprendre ce que cela change dans la Situation.
+<div data-runes="chapter">
+  <img src="/img/runes/truth.png" alt="Vérité" />
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+</div>
 
-Cette phase correspond à l'étape 8 de la résolution.
+Les lectures ont produit deux réponses du réel. Il reste à établir **ce qui est vrai de la question posée**, puis à découvrir **la forme particulière que cette vérité prend dans la fiction**.
 
-## 8. Interpréter et continuer
+Cette phase rassemble les étapes 7 et 8 : **Vérité** pour la comparaison, **Illusion** pour la manifestation fictionnelle.
 
-L'issue dont les Mises obtiennent le plus de Réussites s'impose dans la fiction. Les Mises fournissent la matière à partir de laquelle cette réponse devient concrète.
+> **Vérité tranche ; Illusion manifeste.**
+
+## 7. Vérité
+
+### Comparer les réponses du réel
+
+L'issue dont les Mises produisent le plus de Réussites s'impose sur la question posée par le Focus.
+
+- **Victoire / Défaite** : un côté obtient plus de Réussites que l'autre ;
+- **Statu quo** : égalité ;
+- **Exploit / Fiasco possibles** : le résultat est dominé.
+
+Un résultat est **dominé** lorsque les deux conditions suivantes sont réunies :
+
+1. l'écart est **strictement supérieur à 1 Réussite** ;
+2. le vainqueur obtient **strictement plus du double** des Réussites du perdant.
+
+Exemples :
+
+- `2–0` → résultat dominé ;
+- `3–1` → résultat dominé ;
+- `4–2` → Victoire / Défaite simples ;
+- `5–2` → résultat dominé ;
+- `6–3` → Victoire / Défaite simples.
+
+La domination rend une amplification disponible : le vainqueur peut accomplir un **Exploit** et le perdant peut subir un **Fiasco**. Les deux ne sont pas automatiquement symétriques ; la fiction décide ce que cette amplification signifie de chaque côté.
+
+Les deux issues posées avant le tirage ne constituent pas un catalogue exhaustif de ce qui peut arriver. Elles définissent seulement **ce que cette résolution doit trancher**. L'**Et** d'un Exploit ou d'un Fiasco peut ajouter une conséquence, une découverte, une transformation ou un avantage qui n'était pas contenu dans leur formulation initiale.
+
+En cas d'égalité, si les acteurs refusent d'en rester au Statu quo, la table peut jouer une **surenchère** : elle conserve les Mises présentes, chaque acteur qui pousse la confrontation ajoute une Mise représentant sa volonté d'en finir, puis on résout de nouveau.
+
+La comparaison établit ainsi l'issue et l'amplitude de la réponse. Elle ne raconte pas encore comment cette vérité apparaît dans la Situation.
+
+## 8. Illusion
+
+### Donner une forme fictionnelle et continuer
+
+La réponse du réel ne termine pas la fiction. Les Mises fournissent la matière à partir de laquelle ce qui a été établi prend une forme concrète.
 
 Reprenez les Intentions, les deux issues mises en balance, les conséquences annoncées, le Zoom et ce qui comptait. Décrivez ce qui change : position, relation, blessure, réputation, ressource, obligation, information, menace, transformation ou autre élément durable de la fiction.
 
 ### Une interprétation subjective, mais contrainte
 
-La réponse du réel ne raconte pas à elle seule ce qui s'est passé. Elle donne une **forme au résultat**. La table doit encore l'interpréter.
+La réponse du réel ne raconte pas à elle seule ce qui s'est passé. La table doit encore l'interpréter.
 
-Plusieurs interprétations peuvent être compatibles avec le même tirage. Ce n'est pas une lacune à corriger par une seconde mécanique : l'interprétation est un **jugement fictionnel**.
+Plusieurs interprétations peuvent être compatibles avec le même résultat. Ce n'est pas une lacune à corriger par une seconde mécanique : l'interprétation est un **jugement fictionnel**.
 
 Ce jugement reste cependant contraint par le Focus, le Zoom, les issues mises en balance, la forme du résultat, la Situation et les Mises reconnues avant le jet.
 
@@ -51,3 +91,5 @@ Une blessure, une perte, un serment brisé ou une disgrâce n'est pas seulement 
 Elle pourra ensuite peser comme Mise, devenir un Facteur Cadre ou simplement modifier ce qui est possible dans les Situations suivantes.
 
 Si ce changement appartient désormais au Protagoniste, inscrivez-le sur sa description. Une blessure, un lien, une réputation, une obligation, un objet, un pouvoir, une compréhension ou une perte peuvent ainsi devenir de nouvelles vérités. Voir [Faire évoluer un Protagoniste](../../../protagonists/#faire-évoluer-un-protagoniste).
+
+Cette Situation transformée devient le point de départ d'un nouveau Mouvement lorsque quelqu'un formule une nouvelle Intention.
