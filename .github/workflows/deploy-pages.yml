@@ -32,6 +32,35 @@ jobs:
       - name: Check types
         run: npm run typecheck
 
+      - name: Diagnose English dev-server rune assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          npm run start:en -- --no-open --host 127.0.0.1 > /tmp/docusaurus-en.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid" 2>/dev/null || true' EXIT
+
+          page='http://127.0.0.1:3000/glorantha-perspectives/en/perspectives/resolution/framing/'
+          for attempt in {1..60}; do
+            if curl --silent --fail --output /tmp/framing-en.html "$page"; then
+              break
+            fi
+            sleep 1
+          done
+
+          test -s /tmp/framing-en.html || { cat /tmp/docusaurus-en.log; exit 1; }
+          grep -q 'data-runes=chapter' /tmp/framing-en.html
+
+          echo 'Root asset:'
+          curl --silent --show-error --output /dev/null --write-out '%{http_code}\n' \
+            'http://127.0.0.1:3000/glorantha-perspectives/img/runes/movement.png'
+          echo 'Localized asset:'
+          curl --silent --show-error --output /dev/null --write-out '%{http_code}\n' \
+            'http://127.0.0.1:3000/glorantha-perspectives/en/img/runes/movement.png'
+
+          grep -o 'src=[^ >]*movement.png' /tmp/framing-en.html | head -5
+          cat /tmp/docusaurus-en.log | tail -30
+
       - name: Build site and publications
         run: npm run release:prepare
 
