@@ -29,6 +29,10 @@ Les individus totalement isolés sont rares. Un Protagoniste appartient généra
 
 Ces appartenances ne sont pas du décor : elles peuvent devenir des Mises dès qu'elles comptent réellement dans la Situation.
 
+Cette logique vaut aussi pour les adversaires : un ennemi ordinaire reste quelqu'un. Il appartient lui aussi à des communautés, honore des puissances, porte des obligations et possède une place dans le Cosmos. Le conflit peut être violent sans réduire automatiquement l'autre à une chose à détruire.
+
+En français, le jeu emploie généralement le tutoiement par défaut ; les différences de rang et de statut se manifestent surtout par les titres, les rôles et les usages propres à chaque culture.
+
 ## Le monde évoque l'Âge du Bronze
 
 Les armes, les outils, les bâtiments, les routes, les formes de pouvoir et les échanges s'inscrivent dans des sociétés très différentes des sociétés modernes. Certaines sont tribales, d'autres urbaines ou impériales ; chacune possède ses propres coutumes et sa propre idée de ce qui est normal.
@@ -60,6 +64,14 @@ Quand un lieu devient important, demandez ce qui s'y est passé, qui le revendiq
 Dans Glorantha, le passé mythique n'est pas seulement une histoire ancienne. Les actions des dieux et des héros dans le Temps des Dieux donnent encore forme au monde, aux rites et aux comportements.
 
 Il n'est pas nécessaire de connaître tous les mythes. Quand une ressemblance devient significative, elle suffit déjà à orienter le regard : **est-ce que ce qui arrive maintenant rejoue quelque chose de plus ancien ?**
+
+## Le Chaos rompt l'ordre du monde
+
+Le **Chaos** n'est pas simplement le nom donné aux ennemis les plus dangereux. Il désigne une rupture dans les distinctions, les relations et les contraintes qui rendent le monde lisible.
+
+Là où un adversaire ordinaire possède encore une place dans le Cosmos, le Chaos peut remettre en cause ce que les Protagonistes pensaient possible ou stable. Sa présence se reconnaît donc moins à sa cruauté qu'à la manière dont elle déforme la réalité elle-même.
+
+Voir [Le Chaos](../perspectives/chaos/) pour la manière dont cette rupture peut devenir une Influence dans Glorantha Perspectives.
 
 ## Les croyances changent la manière d'agir
 
