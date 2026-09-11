@@ -4,7 +4,9 @@ title: Inspiration runique
 
 # Inspiration runique
 
-![Rune du Destin](/img/runes/fate.png)
+<div data-runes="chapter">
+  <img src="/img/runes/fate.png" alt="Rune du Destin" />
+</div>
 
 Les Runes sont partout dans Glorantha. Elles peuvent aussi servir à faire émerger rapidement une idée lorsque la Situation demande quelque chose que personne n'avait encore fixé.
 
@@ -31,7 +33,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 1 — Mouvement : Découverte
 
-<img src="/img/runes/movement.png" width="48" alt="Rune de Mouvement" />
+<img src="/img/runes/movement.png" alt="Rune de Mouvement" />
 
 - **Corps :** jambes ;
 - **instant :** transit, urgence, temps qui s'écoule ;
@@ -46,7 +48,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 2 — Mort : Menace
 
-<img src="/img/runes/death.png" width="48" alt="Rune de Mort" />
+<img src="/img/runes/death.png" alt="Rune de Mort" />
 
 - **Corps :** bras ;
 - **instant :** échéance, compte à rebours, fin abrupte ;
@@ -61,7 +63,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 3 — Harmonie : Relations
 
-<img src="/img/runes/harmony.png" width="48" alt="Rune d'Harmonie" />
+<img src="/img/runes/harmony.png" alt="Rune d'Harmonie" />
 
 - **Corps :** cœur ;
 - **instant :** synchronicité, bon moment, temps partagé ;
@@ -76,7 +78,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 4 — Stase : Loi
 
-<img src="/img/runes/stasis.png" width="48" alt="Rune de Stase" />
+<img src="/img/runes/stasis.png" alt="Rune de Stase" />
 
 - **Corps :** tronc ;
 - **instant :** routine, cycle immuable, temps suspendu ;
@@ -91,7 +93,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 5 — Vie : Ressources
 
-<img src="/img/runes/life.png" width="48" alt="Rune de Vie" />
+<img src="/img/runes/life.png" alt="Rune de Vie" />
 
 - **Corps :** organes reproducteurs ;
 - **instant :** croissance, maturation, saisons ;
@@ -106,7 +108,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 6 — Désordre : Révélation
 
-<img src="/img/runes/disorder.png" width="48" alt="Rune de Désordre" />
+<img src="/img/runes/disorder.png" alt="Rune de Désordre" />
 
 - **Corps :** sens ;
 - **instant :** interruption, imprévu, rupture brutale ;
@@ -121,7 +123,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 7 — Vérité : Savoir
 
-<img src="/img/runes/truth.png" width="48" alt="Rune de Vérité" />
+<img src="/img/runes/truth.png" alt="Rune de Vérité" />
 
 - **Corps :** tête ;
 - **instant :** clarté, fait historique, moment décisif ;
@@ -136,7 +138,7 @@ Ces correspondances ne sont pas des réponses imposées. Elles donnent une contr
 
 ## 8 — Illusion : Mystère
 
-<img src="/img/runes/illusion.png" width="48" alt="Rune d'Illusion" />
+<img src="/img/runes/illusion.png" alt="Rune d'Illusion" />
 
 - **Corps :** organes internes ;
 - **instant :** contretemps, faux souvenir, temps perdu ;

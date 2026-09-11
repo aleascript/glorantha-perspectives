@@ -8,7 +8,10 @@ title: "Les préludes"
 
 # Le Prélude d’Ikarnos : L’Ombre sous l’Éclat d’Argenteus
 
-![Illusion](/img/runes/illusion.png)![Désordre](/img/runes/disorder.png)
+<div data-runes="chapter">
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+  <img src="/img/runes/disorder.png" alt="Désordre" />
+</div>
 
 La Rune de Maîtrise bat avec force dans mes veines ; elle nourrit en moi l'ambition dévorante d'affronter toutes les situations, de ne jamais courber l'échine, bien qu'elle m'interdise d'agir directement sur le Destin. 
 
@@ -26,7 +29,10 @@ Il me congédia d'un geste las, comme s'il s'en lavait les mains. C'était au mo
 
 ## Le Prélude d'Hanya : Le Chant du Mouvement et de la Stase
 
-![Harmonie](/img/runes/harmony.png)![Stase](/img/runes/stasis.png)
+<div data-runes="chapter">
+  <img src="/img/runes/harmony.png" alt="Harmonie" />
+  <img src="/img/runes/stasis.png" alt="Stase" />
+</div>
 
 Après avoir scruté les eaux sacrées et achevé mes divinations au puits de Hwarin à Jillaro, mon devoir m'apparut avec la clarté du cristal. J'allai trouver sans tarder la prêtresse de l'Ordre. Le verdict du destin était paradoxal : si l'on voulait protéger Jillaro, il fallait impérativement que je quitte Jillaro, ma cité de coeur, pour m'enfoncer au-devant des périls barbares.
 
@@ -40,7 +46,10 @@ Le succès fut total. Non seulement la prêtresse acquiesça à mes arguments, m
 
 
 ## Le Prélude de Jaridan : L’Aigre Parfum de la Pax Lunaria
-![Mouvement](/img/runes/movement.png)![Désordre](/img/runes/disorder.png)
+<div data-runes="chapter">
+  <img src="/img/runes/movement.png" alt="Mouvement" />
+  <img src="/img/runes/disorder.png" alt="Désordre" />
+</div>
 
 Le commerce est ma seconde nature, et j'ai l'aubaine d'avoir mes habitudes avec le royaume de Sartar, tout particulièrement avec les divers clans de la confédération d'AldaChur. Mais le monde change : depuis la chute de Boldhome il y a vingt ans, le fier pays de Sartar est devenu une Province Lunar. 
 
@@ -59,7 +68,10 @@ Dans l'obscurité, en douce, je réussis tout de même à refourguer quelques bi
 
 ## Le Prélude de Peek-ee-peek : Le Sang et la Poussière de Bouillon-de-Lune
 
-![Désordre](/img/runes/disorder.png)![Vie](/img/runes/life.png)
+<div data-runes="chapter">
+  <img src="/img/runes/disorder.png" alt="Désordre" />
+  <img src="/img/runes/life.png" alt="Vie" />
+</div>
 
 Notre tribu a gravé sa gloire dans le sang lors de la mémorable bataille de Bouillon-de-Lune. J’y étais ! Et par les esprits, quelle bataille homérique ! D'un côté, l'armée lunaire, resplendissante dans ses armes et armures étincelantes, la magie crépitant dans l'éther et de terrifiants hommes-dragons sortis des légendes. De l'autre, nous, fiers, terribles, fendant la plaine sur le dos de nos antilopes de guerre ! Nous avons littéralement écrasé les autres tribus. 
 
@@ -98,4 +110,3 @@ Ce fut une **défaite majeure** pour les assaillants. Les tribus de nomades qui 
 ![Bataille de Bouillon de Lune](/img/narratives/the-lunar-way/01/bouillon-de-lune.jpg)
 
 De mon côté, je m'en sors vivante mais grandement affaiblie, le corps marqué par quelques écorchures sanglantes et l'esprit vidé par une profonde fatigue spirituelle pour avoir tant sollicité l'Esprit de la Bête. Fta-Ah, épuisée par ses prouesses, est tout aussi affaiblie. Mais qu'importe nos blessures : notre victoire lors de la Bataille du Bouillon-de-Lune reste absolue et historique.
-

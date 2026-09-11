@@ -4,7 +4,10 @@ title: "Pensée draconique : le Rêve du Dragon"
 
 # Pensée draconique : le Rêve du Dragon
 
-![Dragonewt](/img/runes/dragonewt.png)![Dragon](/img/runes/dragon.png)
+<div data-runes="chapter">
+  <img src="/img/runes/dragonewt.png" alt="Dragonewt" />
+  <img src="/img/runes/dragon.png" alt="Dragon" />
+</div>
 
 Pour un dragonewt, gagner dans le monde matériel n'est pas toujours la meilleure issue. Certains tirages offrent justement le choix entre **forcer le monde** et **s'en détacher**.
 

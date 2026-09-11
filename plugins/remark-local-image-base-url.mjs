@@ -3,6 +3,33 @@ const mdxImageNodeTypes = new Set([
   'mdxJsxTextElement',
 ]);
 
+function imageRole(source) {
+  if (source.includes('/img/runes/')) return 'rune';
+  if (source.includes('/img/narratives/')) return 'illustration';
+  return null;
+}
+
+function attributeValue(attribute) {
+  if (typeof attribute?.value === 'string') return attribute.value;
+  if (typeof attribute?.value?.value === 'string') return attribute.value.value;
+  return '';
+}
+
+function addAttribute(node, name, value) {
+  node.attributes ??= [];
+
+  if (
+    node.attributes.some(
+      (attribute) =>
+        attribute.type === 'mdxJsxAttribute' && attribute.name === name,
+    )
+  ) {
+    return;
+  }
+
+  node.attributes.push({type: 'mdxJsxAttribute', name, value});
+}
+
 function visit(node, visitor) {
   if (!node || typeof node !== 'object') return;
 
@@ -36,13 +63,15 @@ export default function remarkLocalImageBaseUrl({baseUrl} = {}) {
           attribute.type === 'mdxJsxAttribute' && attribute.name === 'src',
       );
 
-      if (typeof source?.value !== 'string' || !source.value.startsWith('/img/')) {
-        return;
+      if (typeof source?.value === 'string' && source.value.startsWith('/img/')) {
+        // Native JSX image sources bypass Docusaurus's asset loader. Keep their
+        // canonical /img URL in Markdown and add the deployment base URL only
+        // in the web AST. Markdown images continue through the native loader.
+        source.value = `${baseUrlPrefix}${source.value}`;
       }
 
-      // Keep /img URLs portable for Vivliostyle and adapt them only in the
-      // Docusaurus AST, where native JSX image sources bypass asset handling.
-      source.value = `${baseUrlPrefix}${source.value}`;
+      const role = imageRole(attributeValue(source));
+      if (role) addAttribute(node, 'data-image', role);
     });
   };
 }

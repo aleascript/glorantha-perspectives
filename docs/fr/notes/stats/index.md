@@ -2,7 +2,9 @@
 title: "Statistiques"
 ---
 
-![Chance](/img/runes/luck.png)
+<div data-runes="chapter">
+  <img src="/img/runes/luck.png" alt="Chance" />
+</div>
 
 # Stats
 

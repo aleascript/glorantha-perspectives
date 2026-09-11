@@ -4,7 +4,10 @@ title: "Dunstop"
 
 # Fazzur's Mission
 
-![Disorder](/img/runes/disorder.png)![Death](/img/runes/death.png)
+<div data-runes="chapter">
+  <img src="/img/runes/disorder.png" alt="Disorder" />
+  <img src="/img/runes/death.png" alt="Death" />
+</div>
 
 * **Location:** Dunstop — Palace of provincial general *Fazzur the Learned*
 * **Date:** 1611 — Sea Season — Harmony Week — Clay Day
@@ -105,4 +108,3 @@ I copied my two maps:
 We decided to depart at dawn the next day. Our group debated for quite some time over the direction to take, but we finally opted for **the southern road**.
 
 In Jaridan's and my opinion, it seemed the route *shortest in distance*, but undoubtedly **the longest in time and the most dangerous above all!**
-

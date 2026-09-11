@@ -2,7 +2,9 @@
 title: "Discovering a new worldview?"
 ---
 
-![Maitrise](/img/runes/mastery.png)
+<div data-runes="chapter">
+  <img src="/img/runes/mastery.png" alt="Mastery" />
+</div>
 
 One could imagine, for example, developing other rule adjustments for those who have specific condition runes.
 

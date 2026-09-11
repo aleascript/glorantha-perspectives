@@ -80,7 +80,7 @@ There were 4 dead, 3 dying, and 1 gravely wounded. Hanya coldly finished off the
 
 The man stammered: "Glory to Orlanth!", before spitting out more words in Orlanthi. His eyes widened in shock when he saw Jiridan translate his words.
 
-> **Inspiration**: <img src="/img/runes/illusion.png" width="5%" valign="bottom" /> Revelation
+> **Inspiration**: <img src="/img/runes/illusion.png" /> Revelation
 
 The prisoner had said: "The Hero Wars have begun, and Argrath will bring the Goddess to her knees."
 
@@ -128,7 +128,7 @@ The Busérian Astrolabes have long discoursed on the phases of the Moon. Indeed,
 
 We now traveled off the beaten path, on our guard. Peek-ee-Peek went ahead as a scout and signaled if the way was clear. As we approached the mountains, we carefully avoided isolated dwellings. However, the region was not deserted, and encounter was inevitable.
 
-> <img src="/img/runes/death.png" width="5%" valign="bottom" /><img src="/img/runes/harmony.png" width="5%" valign="bottom" /> Enemy and relations. What is different threatens our cohesion.
+> <img src="/img/runes/death.png" /><img src="/img/runes/harmony.png" /> Enemy and relations. What is different threatens our cohesion.
 
 During a bivouac at the foot of the mountains, while Peek was chanting shamanic incantations while playing with a round, painted pebble, Hanya suddenly turned on her. She stated that for the good of the mission, it would be preferable for all members of the party to be devoted to the Red Goddess and abandon their old superstitious cults.
 

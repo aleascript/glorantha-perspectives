@@ -2,7 +2,9 @@
 title: "The Lunar Way"
 ---
 
-![Moon](/img/runes/moon.png)
+<div data-runes="chapter">
+  <img src="/img/runes/moon.png" alt="Moon" />
+</div>
 
 Lunar magic is subject to the lunar cycle outside the Brilliant Line.
 

@@ -203,7 +203,7 @@ Ikarnos discreetly notices Hanya's incisor but says nothing. The situation is mo
 
 Ikarnos attempts to apply the techniques of the Diplomatica Scriptoriae and in particular the magical writings on how to find the 3rd way but this does not help Jaridan recover in his memory whether he knows a Heortian myth or otherwise that could heal Hanya.
 
-> <img src="/img/runes/fate.png" width="5%" /> **Plot twist!**
+> <img src="/img/runes/fate.png" /> **Plot twist!**
 
 Suddenly in the middle of the night, Hanya is seized by stomach pains. She vomits blood. Her eyes are red with blood, her 2 incisors are now clearly visible. She craves raw flesh! This time, the evil can no longer be hidden.
 

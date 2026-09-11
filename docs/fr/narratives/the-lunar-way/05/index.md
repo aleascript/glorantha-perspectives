@@ -2,7 +2,10 @@
 title: "Les Ruines Tombantes"
 ---
 
-![Vérité](/img/runes/truth.png)![Illusion](/img/runes/illusion.png)
+<div data-runes="chapter">
+  <img src="/img/runes/truth.png" alt="Vérité" />
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+</div>
 
 > 🎲 **Thèmes attendus :** Des ruines mystérieuses, une histoire étrange d'un érudit de l'EAW (Empire des Amis des Wyrms), des blocs de pierre tombant du ciel, la rencontre avec Elemenoria.
 
@@ -100,7 +103,7 @@ Elle étend la main. Un globe de lumière l'enveloppe, elle et la fillette.
 
 **Hanya l'ambitieuse** entre la première. À l'intérieur, le silence est absolu.
 
-<img src="/img/runes/harmony.png" width="5%" /><img src="/img/runes/movement.png" width="5%" />
+<img src="/img/runes/harmony.png" /><img src="/img/runes/movement.png" />
 
 **Hanya :** "Je crois que tu n'es qu'une blague vieille folle. Prouve moi le contraire. Moi je reverais par exemple d'être assez rapide pour qu'aucun projectile ne puisse m'atteindre." Fière de son voeu impossible, elle sourit. 
 
@@ -111,7 +114,7 @@ Hanya quitta le globe lumineux un peu dubitative.
 
 **Jaridan** demande à Hanya qui lui répond: "ben va s'y tu verras bien par toi-même". Jaridan est donc le suivant à pénétrer dans le globale silencieux.
 
-<img src="/img/runes/movement.png" width="5%" /><img src="/img/runes/death.png" width="5%" />
+<img src="/img/runes/movement.png" /><img src="/img/runes/death.png" />
 
 **Jaridan :** "Je rêve qu'en ces temps troublés, les ennemis d'hier deviennent amis au mieux ou au moins des alliés. Je pense que c'est impossible mais j'ai toujours rêvé de cela et c'est pour cela que je suis avec ces Lunaires." 
 
@@ -119,7 +122,7 @@ Hanya quitta le globe lumineux un peu dubitative.
 
 Et Jaridan ressort, bouleversé par ce qu'il vient d'entendre. C'est ensuite au tour d'**Ikarnos**.
 
-<img src="/img/runes/movement.png" width="5%" /><img src="/img/runes/illusion.png" width="5%" />
+<img src="/img/runes/movement.png" /><img src="/img/runes/illusion.png" />
 
 **La femme :** "le temps n'est plus aux paroles mais aux révélations. Toi dis moi ce que tu désires!" 
 
@@ -241,4 +244,3 @@ Un peu avant la tombée de la nuit, les héros s'arrêtent pour monter un camp. 
 Or cette nuit là, le sommeil de Peek est agité. En effet, l'esprit Tuer l'Etranger lui impose de ne pas tuer pendant une lune et en tuant le jeune dinosaure, elle a rompu le lien. L'esprit la visite et étreint son âme. Peek est en sueur et à son réveil, l'esprit n'est plus là, il a repris sa liberté.
 
 Au petit matin, Ikarnos étudie les cartes. Ils n'ont pu redescendre vers le sud comme il l'escompait. Il a un petit pincement au coeur car il aurait aimé approcher l'Oeil du Dragon, une cité draconique qui lui aurait peut etre révélé un peu plus son destin mais ils doivent passer au nord vers Mine de Nain. Les Lunaires ne sont pas en froid avec le peuple de Mostal mais ne sont pas pour autant alliés. Pourtant l'Empire en a brulé des forêts Elfes, ils pourraient être reconnaissants mais ces créatures étranges semblent intéressées par autre chose, c'est peut-être l'occasion d'en savoir en peu plus. Il faudra ensuite rejoindre la route d'Aldachur et voyager en territoire Orlanthi. Il faudrait en savoir plus sur les tribus Vantatos et Tovtaros pour savoir s'il faut aborder Aldachur par le sud ou par le nord. Ils seront alors sur la route de Pavis direction Prax. Pour l'heure, nos héros doivent donc poursuivre et négocier un passage par Mine de Nain.
-

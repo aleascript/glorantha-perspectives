@@ -81,7 +81,7 @@ La fouille s'organise. Les Orlanthis adoptent la méthode de l'Air. Ils procède
 
 ## La fouille des vignes
 
-> <img src="/img/runes/fate.png" width="5%" /> Les ogres ont lâchés des serpents dans leur fuite pour les ralentir. C'est l'occasion de se renseigner ce que Glorantha compte comme serpents.
+> <img src="/img/runes/fate.png" /> Les ogres ont lâchés des serpents dans leur fuite pour les ralentir. C'est l'occasion de se renseigner ce que Glorantha compte comme serpents.
 
 Les héros avancent donc avec les Orlanthis en parcourant les vignes hautes du domaine quand soudain le premier cri révèle le danger. Des Orlanthis s'exclament: "des serpents!!" Des dizaines de serpents infestent la vigne.
 
@@ -121,7 +121,7 @@ Peek propose: "donnons leur une mort digne et sans souffrance"
 
 Et elle bande son arc attendant le feu vert des Orlanthis. L'heure est lourde. La flèche part ainsi suivies par d'autres lancées par les Orlanthis encore vaillants. Les hommes sont tués. Puis on voit le Yelmalite lever les mains l'une contre l'autre et former un rond, on voit l'air se densifier entre ses deux mains formant une sorte de loupe, le soleil commence à chauffer et un rayon fuse de ses mains puis un autre et encore un autre, mettant le feu à la vigne qui s'enflamme en brûlant les serpents ainsi que les quelques Orlanthis décédés.
 
-> <img src="/img/runes/fate.png" width="5%" /> **Rebondissement!**
+> <img src="/img/runes/fate.png" /> **Rebondissement!**
 
 Et soudain on se rend compte qu'un jeune Orlanthi est en train de se faire étrangler par un étrange serpent arc-en-ciel qui plante ses crocs en lui. Hanya s'approche, et croise les yeux de ce dernier qui tente de l'hypnotiser.
 
@@ -150,7 +150,7 @@ Le groupe arrive à temps et repartent avec des guérisseuses à cheval. Peek ch
 
 # Retour au village
 
-> <img src="/img/runes/fate.png" width="5%" /> **Rebondissement!** (Illusion et Vérité)
+> <img src="/img/runes/fate.png" /> **Rebondissement!** (Illusion et Vérité)
 
 L'ambiance est lourde et des Orlanthis commencent à accuser les Lunaires de leur avoir caché des choses, ce qui est ridicule puisque eux-mêmes ont eu à en pâtir mais ils argumentent en disant qu'ils ont peut-être fait semblant. On les accuse d'être de mêche avec les Ogres.
 

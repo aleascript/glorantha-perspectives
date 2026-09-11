@@ -2,7 +2,9 @@
 title: "Currency"
 ---
 
-![Trade](/img/runes/exchange.png)
+<div data-runes="chapter">
+  <img src="/img/runes/exchange.png" alt="Trade" />
+</div>
 
 
 Some notes on certain currencies in circulation in Glorantha.

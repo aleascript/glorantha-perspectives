@@ -2,7 +2,9 @@
 title: "La monnaie"
 ---
 
-![Commerce](/img/runes/exchange.png)
+<div data-runes="chapter">
+  <img src="/img/runes/exchange.png" alt="Commerce" />
+</div>
 
 
 Quelques notes sur certaines monnaies en cours dans Glorantha. 

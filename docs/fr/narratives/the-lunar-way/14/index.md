@@ -102,7 +102,7 @@ Il bégaie: "je ne sais pas si votre histoire est vraie ou pas, mais comme je vo
 
 Un citoyen lunaire ne saurait être vendu et vous auriez du me le dire plutôt." Il fait signe à ses hommes et la petite troupe commence à reculer vers les bois en restant tout de même sur leurs gardes face au visage menaçant d'Hanya qui tient toujours fermement sa double hache.
 
-> <img src="/img/runes/fate.png" width="5%" /> **Rebondissement!** 
+> <img src="/img/runes/fate.png" /> **Rebondissement!**
 
 ## Arrêtés!
 

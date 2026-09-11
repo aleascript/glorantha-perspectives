@@ -8,7 +8,10 @@ title: "The Preludes"
 
 # The Prelude of Ikarnos: The Shadow Beneath Argenteus's Gleam
 
-![Illusion](/img/runes/illusion.png)![Disorder](/img/runes/disorder.png)
+<div data-runes="chapter">
+  <img src="/img/runes/illusion.png" alt="Illusion" />
+  <img src="/img/runes/disorder.png" alt="Disorder" />
+</div>
 
 The Rune of Mastery beats strongly in my veins; it feeds within me the devouring ambition to face all situations, to never bow my head, even though it forbids me from acting directly upon Destiny.
 
@@ -26,7 +29,10 @@ He dismissed me with a weary gesture, as if washing his hands of it. That was at
 
 ## The Prelude of Hanya: The Song of Movement and Stasis
 
-![Harmony](/img/runes/harmony.png)![Stasis](/img/runes/stasis.png)
+<div data-runes="chapter">
+  <img src="/img/runes/harmony.png" alt="Harmony" />
+  <img src="/img/runes/stasis.png" alt="Stasis" />
+</div>
 
 After scrutinizing the sacred waters and completing my divinations at the well of Hwarin in Jillaro, my duty appeared to me with the clarity of crystal. I went without delay to find the priestess of the Order. The verdict of destiny was paradoxical: if one wished to protect Jillaro, I had imperatively to leave Jillaro, my beloved city, to venture forth into the dangers of the barbarian lands.
 
@@ -40,7 +46,10 @@ The success was total. Not only did the priestess acquiesce to my arguments, but
 
 
 ## The Prelude of Jaridan: The Bitter Scent of the Lunar Pax
-![Movement](/img/runes/movement.png)![Disorder](/img/runes/disorder.png)
+<div data-runes="chapter">
+  <img src="/img/runes/movement.png" alt="Movement" />
+  <img src="/img/runes/disorder.png" alt="Disorder" />
+</div>
 
 Trade is my second nature, and I have the good fortune of being a regular visitor to the kingdom of Sartar, particularly with the various clans of the AldaChur confederation. But the world is changing: since the fall of Boldhome twenty years ago, the proud land of Sartar has become a Lunar Province.
 
@@ -59,7 +68,10 @@ In the darkness, quietly, I still managed to sell a few goods to clan members wh
 
 ## The Prelude of Peek-ee-peek: Blood and Dust of Bullion-of-Moon
 
-![Disorder](/img/runes/disorder.png)![Life](/img/runes/life.png)
+<div data-runes="chapter">
+  <img src="/img/runes/disorder.png" alt="Disorder" />
+  <img src="/img/runes/life.png" alt="Life" />
+</div>
 
 Our tribe carved its glory in blood during the memorable Battle of Bullion-of-Moon. I was there! And by the spirits, what a Homeric battle! On one side, the lunar army, resplendent in gleaming weapons and armor, magic crackling in the ether and terrifying dragon-men out of legends. On the other, us, proud, terrible, cleaving the plain on the backs of our war antelopes! We literally crushed the other tribes.
 
@@ -98,4 +110,3 @@ It was a **major defeat** for the attackers. The nomad tribes that had rushed to
 ![Battle of Bullion of Moon](/img/narratives/the-lunar-way/01/bouillon-de-lune.jpg)
 
 As for me, I came out alive but greatly weakened, my body marked by a few bloody abrasions and my mind emptied by a deep spiritual exhaustion from having called upon the Spirit of the Beast so much. Fta-Ah, exhausted by her exploits, is equally weakened. But what do our wounds matter: our victory at the Battle of Bullion-of-Moon remains absolute and historic.
-

@@ -2,7 +2,9 @@
 title: "The Pantheons"
 ---
 
-![Divine world](/img/runes/gods.png)
+<div data-runes="chapter">
+  <img src="/img/runes/gods.png" alt="Divine world" />
+</div>
 
 > A theist interprets the world in relation to the exemplary deeds of the Gods of their pantheon and cult. They mold themselves into a pre-existing framework and reproduce acts and thoughts that are standardized. They hope to draw divine strength from it in the form of support or even "intervention" — more a manifestation than a true intervention, because of the Great Compromise.
 
