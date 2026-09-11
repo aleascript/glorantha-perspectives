@@ -144,4 +144,4 @@ Il n'est pas nécessaire d'attendre une fin de scénario ou une distribution de 
 
 Un Protagoniste expérimenté n'est pas seulement quelqu'un qui possède davantage de capacités. Il porte davantage d'histoire susceptible de revenir dans le présent.
 
-Voir aussi [Exemples de Protagonistes](examples.md).
+Voir aussi [Exemples de Protagonistes](examples.md) et la proposition éditoriale [**Visages de Glorantha**](visages.md).
