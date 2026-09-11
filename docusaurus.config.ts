@@ -88,6 +88,9 @@ const config: Config = {
   i18n: {
     defaultLocale: site.defaultLocale,
     locales,
+    // Let Docusaurus infer each locale's base URL. Per-locale baseUrl overrides
+    // are intended for uncommon hosting layouts and make local single-locale
+    // development diverge unnecessarily from the standard i18n behaviour.
     localeConfigs: site.locales,
   },
   presets: [
@@ -98,6 +101,9 @@ const config: Config = {
           path: `./docs/${contentLocale}`,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+          // Raw JSX <img> nodes bypass Docusaurus's Markdown asset loader, so
+          // the web AST receives only the deployment base path here. Locale
+          // routing remains Docusaurus's responsibility.
           remarkPlugins: [
             [remarkLocalImageBaseUrl, {baseUrl}],
           ],

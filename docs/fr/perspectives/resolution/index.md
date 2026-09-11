@@ -10,74 +10,84 @@ Elle ne sert pas nécessairement à tester si une action « réussit ». Une ré
 
 > **Une résolution ne demande pas forcément : « Est-ce que ça marche ? » Elle demande : « Qu'est-ce que nous ne savons pas encore ? »**
 
-La procédure complète tient en huit étapes. Pour la comprendre et la retrouver facilement, elles se regroupent en quatre mouvements.
+## Le Grand Cycle de la résolution
+
+Dans Glorantha Perspectives, les huit étapes suivent l'ordre numérique des huit Runes de Pouvoir déjà employé par l'[Inspiration runique](../../time/runic-inspiration/). Une Situation est mise en mouvement, traverse ces puissances, puis devient une Situation nouvelle.
+
+| Étape | Rune | Fonction dans la résolution |
+| ---: | --- | --- |
+| 1 | ![Mouvement](/img/runes/movement.png) **Mouvement** | L'Intention imprime une direction à la Situation. |
+| 2 | ![Mort](/img/runes/death.png) **Mort** | Les conséquences nomment ce qui peut finir, être perdu ou séparé. |
+| 3 | ![Harmonie](/img/runes/harmony.png) **Harmonie** | La table accorde ses regards sur une question, une échelle et deux issues communes. |
+| 4 | ![Stase](/img/runes/stasis.png) **Stase** | Facteurs Cadres et Mises fixent provisoirement l'état du monde « ici et maintenant ». |
+| 5 | ![Vie](/img/runes/life.png) **Vie** | Le lancer anime cette constellation et fait naître une réponse encore potentielle. |
+| 6 | ![Désordre](/img/runes/disorder.png) **Désordre** | La Vision du monde recompose le tirage selon sa propre manière de lire le réel. |
+| 7 | ![Vérité](/img/runes/truth.png) **Vérité** | La comparaison établit ce que le réel a effectivement répondu. |
+| 8 | ![Illusion](/img/runes/illusion.png) **Illusion** | Cette vérité reçoit une apparence fictionnelle particulière et devient Situation vécue. |
+
+Ce cycle est **la Perspective de Glorantha Perspectives sur sa propre résolution**, pas une vérité cosmologique absolue qui surplomberait toutes les autres Perspectives de Glorantha. Son symbolisme approfondit la procédure ; il n'est jamais nécessaire pour simplement la suivre.
+
+Ceux qui souhaitent explorer davantage ces correspondances peuvent utiliser l'[Inspiration runique](../../time/runic-inspiration/) ou poursuivre la [Méditation sur les runes](../../notes/runes-meditation/).
 
 ## Quatre mouvements
 
 ### [Cadrer l'incertitude](framing.md)
 
-**Étapes 1 à 4.** Dire les Intentions, rendre visibles les conséquences importantes, choisir le Focus et son Zoom.
+**Étapes 1 et 2 — ![](/img/runes/movement.png) Mouvement / ![](/img/runes/death.png) Mort.** Dire les Intentions, puis rendre visibles les conséquences importantes.
 
-La question est : **qu'est-ce que nous voulons réellement savoir ?**
+La question est : **qu'est-ce qui se met en mouvement, et qu'est-ce qui est réellement en jeu ?**
 
 ### [Mettre en balance](balance.md)
 
-**Étapes 5 et 6.** Repérer les Facteurs Cadres, puis réunir les Mises de chaque côté.
+**Étapes 3 et 4 — ![](/img/runes/harmony.png) Harmonie / ![](/img/runes/stasis.png) Stase.** Accorder le Focus, son Zoom et les deux issues, puis fixer les Facteurs Cadres et les Mises.
 
-La question devient : **qu'est-ce qui peut réellement peser dans cette question ?**
+La question devient : **sur quoi portons-nous ensemble notre regard, et qu'est-ce qui compte ici et maintenant ?**
 
 ### [Lire la réponse du réel](reading-reality.md)
 
-**Étape 7.** Lancer les dés, les lire selon la Vision du monde applicable, puis comparer les réponses du réel.
+**Étapes 5 et 6 — ![](/img/runes/life.png) Vie / ![](/img/runes/disorder.png) Désordre.** Lancer les dés, puis lire chaque tirage selon la Vision du monde applicable.
 
-La table demande : **que répond le monde ?**
+La table demande : **comment cette constellation prend-elle vie, et comment ce monde la lit-il ?**
 
 ### [Interpréter et continuer](interpretation.md)
 
-**Étape 8.** Donner une forme fictionnelle à la réponse, regarder ce qu'elle révèle de Glorantha et poursuivre depuis la Situation transformée.
+**Étapes 7 et 8 — ![](/img/runes/truth.png) Vérité / ![](/img/runes/illusion.png) Illusion.** Comparer les réponses du réel, puis donner au résultat une forme fictionnelle et poursuivre.
 
-La question redevient : **qu'est-ce que cette réponse change dans la fiction ?**
+La question devient : **qu'est-ce que le réel a tranché, et comment cela se manifeste-t-il dans la Situation ?**
 
 ## Les huit étapes
 
-1. [Dire les Intentions](framing.md#1-dire-les-intentions).
-2. [Rendre visibles les conséquences importantes](framing.md#2-rendre-visibles-les-conséquences-importantes).
-3. [Choisir le Focus et mettre deux issues en balance](framing.md#3-choisir-le-focus-et-mettre-deux-issues-en-balance).
-4. [Choisir le Zoom](framing.md#4-choisir-le-zoom).
-5. [Repérer les Facteurs Cadres](balance.md#5-repérer-les-facteurs-cadres).
-6. [Réunir les Mises de chaque côté](balance.md#6-réunir-les-mises-de-chaque-côté).
-7. [Tirer, lire et comparer les réponses du réel](reading-reality.md#7-tirer-lire-et-comparer-les-réponses-du-réel).
-8. [Interpréter et continuer](interpretation.md#8-interpréter-et-continuer).
+1. ![](/img/runes/movement.png) [**Mouvement** — Dire les Intentions](framing.md#1-mouvement).
+2. ![](/img/runes/death.png) [**Mort** — Rendre visibles les conséquences importantes](framing.md#2-mort).
+3. ![](/img/runes/harmony.png) [**Harmonie** — Préciser le Focus, le Zoom et les deux issues](balance.md#3-harmonie).
+4. ![](/img/runes/stasis.png) [**Stase** — Repérer les Facteurs Cadres et réunir les Mises](balance.md#4-stase).
+5. ![](/img/runes/life.png) [**Vie** — Lancer les dés](reading-reality.md#5-vie).
+6. ![](/img/runes/disorder.png) [**Désordre** — Lire selon la Vision du monde](reading-reality.md#6-désordre).
+7. ![](/img/runes/truth.png) [**Vérité** — Comparer les réponses du réel](interpretation.md#7-vérité).
+8. ![](/img/runes/illusion.png) [**Illusion** — Donner une forme fictionnelle et continuer](interpretation.md#8-illusion).
 
 La boucle complète devient :
 
-> **Situation → Intentions → ce qui reste incertain → Focus / Zoom → issues mises en balance → Facteurs Cadres → Mises → Vision du monde → réponse du réel → comparaison → interprétation → Situation transformée**
+> **Situation → Intention → conséquences → Focus / Zoom → issues mises en balance → Facteurs Cadres / Mises → lancer → Vision du monde → réponse du réel → comparaison → manifestation fictionnelle → Situation transformée**
+
+Le dernier couple résume la distinction essentielle : **Vérité tranche ; Illusion manifeste.**
 
 ## Exemple complet
 
 Un messager orlanthi fuit une patrouille et veut **franchir un gué avant d'être rejoint**.
 
-**Intention.** Le Protagoniste veut atteindre l'autre rive avec son message.
+![](/img/runes/movement.png) **1. Mouvement — Intention.** Le Protagoniste veut atteindre l'autre rive avec son message.
 
-**Conséquence importante.** Le Temps précise que s'il est rejoint au milieu du gué, il risque d'être capturé avec le message qu'il transporte.
+![](/img/runes/death.png) **2. Mort — Conséquence importante.** Le Temps précise que s'il est rejoint au milieu du gué, il risque d'être capturé avec le message qu'il transporte.
 
-**Focus et issues.** *Parvient-il à franchir le gué avant que la patrouille ne le rattrape ?*
+![](/img/runes/harmony.png) **3. Harmonie — Focus, Zoom et issues.** *Parvient-il à franchir le gué avant que la patrouille ne le rattrape ?* Les deux issues sont : *le messager atteint l'autre rive avant la patrouille* ; *la patrouille le rejoint avant qu'il ne termine sa traversée*. La table choisit un **Zoom Séquence** : toute l'approche et la traversée, pas chaque foulée séparément.
 
-Les deux issues mises en balance sont :
+![](/img/runes/stasis.png) **4. Stase — Cadre et Mises.** Le vieux pont a été emporté par la crue : il n'est pas une option et constitue un **Facteur Cadre**, pas une Mise négative. En faveur du messager : *Connaît ce gué depuis l'enfance*, *Cheval endurant*, *Le vent masque le bruit de sa fuite* : **3 dés**. De l'autre côté : *Courant gonflé par la pluie*, *Patrouille déjà proche* : **2 dés**.
 
-- *le messager atteint l'autre rive avant la patrouille* ;
-- *la patrouille le rejoint avant qu'il ne termine sa traversée*.
+![](/img/runes/life.png) **5. Vie — Lancer.** Le Protagoniste obtient `4, 2, 1`. L'adversité obtient `2, 5`.
 
-**Zoom.** La table choisit une **Séquence** : elle résout toute l'approche et la traversée, pas chaque foulée séparément.
+![](/img/runes/disorder.png) **6. Désordre — Vision du monde.** Le Protagoniste est théiste : son tirage vaut **2 Réussites**. L'adversité est lue selon le Monde médian : son tirage vaut **1 Réussite**.
 
-**Facteur Cadre.** Le vieux pont a été emporté par la crue. Il n'est donc pas une option et ne devient pas une Mise négative : il est simplement fermé par la fiction.
+![](/img/runes/truth.png) **7. Vérité — Comparaison.** La réponse du réel fait pencher la Situation vers la première issue. Le résultat est une **Victoire** simple, pas un Exploit : l'écart n'est que de 1.
 
-**Mises en faveur du messager.** *Connaît ce gué depuis l'enfance*, *Cheval endurant*, *Le vent masque le bruit de sa fuite* : **3 dés**.
-
-**Mises de l'autre côté.** *Courant gonflé par la pluie*, *Patrouille déjà proche* : **2 dés**.
-
-Le Protagoniste est théiste. Il obtient `4, 2, 1` : **2 Réussites**. L'adversité est lue selon le Monde médian et obtient `2, 5` : **1 Réussite**.
-
-La réponse du réel fait donc pencher la Situation vers la première issue. Le résultat est une **Victoire** simple, pas un Exploit : l'écart n'est que de 1.
-
-Le messager atteint l'autre rive avant la patrouille. Les Mises fournissent la matière de la description : sa connaissance du gué lui fait choisir le bon passage, son cheval tient dans le courant et le vent couvre assez longtemps sa fuite. La fiction reprend depuis le nouvel état de la Situation : **il a franchi le gué avec le message**.
+![](/img/runes/illusion.png) **8. Illusion — Manifestation.** Le messager atteint l'autre rive avant la patrouille. Les Mises fournissent la matière de la description : sa connaissance du gué lui fait choisir le bon passage, son cheval tient dans le courant et le vent couvre assez longtemps sa fuite. La fiction reprend depuis le nouvel état de la Situation : **il a franchi le gué avec le message**.

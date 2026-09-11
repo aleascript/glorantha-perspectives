@@ -33,7 +33,6 @@ const sidebars: SidebarsConfig = {
         'time/runic-inspiration/index',
         'time/runes/index',
         'time/runic-imprint',
-        'time/creating-myths/index',
         'time/generating-bonds/index',
         'time/calendar',
         'time/currency',
@@ -64,6 +63,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: t('Visions du monde', 'Worldviews'),
+          link: {type: 'doc', id: 'perspectives/worldviews/index'},
           items: [
             {
               type: 'category',
@@ -97,6 +97,7 @@ const sidebars: SidebarsConfig = {
             'perspectives/illumination/index',
             'perspectives/chaos/index',
             'perspectives/heroquests/index',
+            'perspectives/creating-myths/index',
           ],
         },
       ],

@@ -1,5 +1,5 @@
 ---
-title: "Les panthéons"
+title: "Théisme"
 ---
 
 <div data-runes="chapter">

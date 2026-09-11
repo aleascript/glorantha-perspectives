@@ -63,7 +63,7 @@ A resolution serves an important uncertainty that the table wants to play. An ac
 
 Conversely, one roll can cover an entire scene, battle, or sequence of steps.
 
-See [Choosing the Zoom](../perspectives/resolution/framing.md#4-choose-the-zoom).
+See [Choosing the Zoom](../perspectives/resolution/balance.md#choose-the-zoom).
 
 ## Can we play without a game master?
 

@@ -88,7 +88,7 @@ A Bet **weighs in the balance**. A **Frame Factor** determines what may enter th
 
 An ordinary human does not kill a Dragon with a toothpick by accumulating enough Bets. If that possibility is not open in Glorantha, it simply does not become one of the Focus's outcomes.
 
-How to identify and apply these limits belongs to the [framing of resolution](../resolution/#5-identify-frame-factors).
+How to identify and apply these limits belongs to the [Stasis step of resolution](../resolution/balance.md#identify-frame-factors).
 
 ## Opposition and counter-Bets
 

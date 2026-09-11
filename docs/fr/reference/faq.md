@@ -63,7 +63,7 @@ Une résolution sert une incertitude importante que la table veut jouer. Une act
 
 Inversement, un seul tirage peut couvrir une scène entière, une bataille ou une suite d'étapes.
 
-Voir [Choisir le Zoom](../perspectives/resolution/framing.md#4-choisir-le-zoom).
+Voir [Choisir le Zoom](../perspectives/resolution/balance.md#choisir-le-zoom).
 
 ## Peut-on jouer sans meneur de jeu ?
 

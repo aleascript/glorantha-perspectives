@@ -10,74 +10,84 @@ It does not necessarily test whether an action “succeeds.” Success or failur
 
 > **A resolution does not necessarily ask: “Does it work?” It asks: “What do we still not know?”**
 
-The complete procedure has eight steps. To understand and navigate it easily, those steps gather into four movements.
+## The Grand Cycle of resolution
+
+In Glorantha Perspectives, the eight steps follow the numerical order of the eight Power Runes already used by [Runic Inspiration](../../time/runic-inspiration/). A Situation is set in motion, passes through these powers, then becomes a new Situation.
+
+| Step | Rune | Function in resolution |
+| ---: | --- | --- |
+| 1 | ![Movement](/img/runes/movement.png) **Movement** | Intention gives the Situation a direction. |
+| 2 | ![Death](/img/runes/death.png) **Death** | Consequences name what may end, be lost, or be separated. |
+| 3 | ![Harmony](/img/runes/harmony.png) **Harmony** | The table brings its views into agreement on one question, one scale, and two shared outcomes. |
+| 4 | ![Stasis](/img/runes/stasis.png) **Stasis** | Frame Factors and Bets temporarily fix the state of the world “here and now.” |
+| 5 | ![Life](/img/runes/life.png) **Life** | The roll animates that constellation and brings forth an answer that is still only potential. |
+| 6 | ![Disorder](/img/runes/disorder.png) **Disorder** | Worldview recomposes the roll according to its own way of reading reality. |
+| 7 | ![Truth](/img/runes/truth.png) **Truth** | Comparison establishes what reality actually answered. |
+| 8 | ![Illusion](/img/runes/illusion.png) **Illusion** | That truth receives a particular fictional appearance and becomes lived Situation. |
+
+This cycle is **Glorantha Perspectives' Perspective on its own resolution**, not an absolute cosmological truth standing above every other Perspective in Glorantha. Its symbolism deepens the procedure; it is never required simply to follow it.
+
+Those who want to explore these correspondences further can use [Runic Inspiration](../../time/runic-inspiration/) or continue with [Meditations on the Runes](../../notes/runes-meditation/).
 
 ## Four movements
 
 ### [Framing the Uncertainty](framing.md)
 
-**Steps 1 to 4.** State the Intentions, make important consequences visible, choose the Focus, then its Zoom.
+**Steps 1 and 2 — ![](/img/runes/movement.png) Movement / ![](/img/runes/death.png) Death.** State the Intentions, then make important consequences visible.
 
-The question is: **what are we actually trying to find out?**
+The question is: **what is set in motion, and what is genuinely at stake?**
 
 ### [Weighing What Matters](balance.md)
 
-**Steps 5 and 6.** Identify Frame Factors, then gather the Bets on each side.
+**Steps 3 and 4 — ![](/img/runes/harmony.png) Harmony / ![](/img/runes/stasis.png) Stasis.** Agree on the Focus, its Zoom, and the two outcomes, then fix Frame Factors and Bets.
 
-The question becomes: **what can genuinely weigh on this question?**
+The question becomes: **what are we looking at together, and what matters here and now?**
 
 ### [Reading Reality's Answer](reading-reality.md)
 
-**Step 7.** Roll the dice, read them according to the applicable Worldview, then compare reality's answers.
+**Steps 5 and 6 — ![](/img/runes/life.png) Life / ![](/img/runes/disorder.png) Disorder.** Roll the dice, then read each roll according to the applicable Worldview.
 
-The table asks: **what does the world answer?**
+The table asks: **how does this constellation come alive, and how does this world read it?**
 
 ### [Interpret and Continue](interpretation.md)
 
-**Step 8.** Give reality's answer a fictional form, look at what it reveals of Glorantha, and continue from the transformed Situation.
+**Steps 7 and 8 — ![](/img/runes/truth.png) Truth / ![](/img/runes/illusion.png) Illusion.** Compare reality's answers, then give the result a fictional form and continue.
 
-The question becomes again: **what does this answer change in the fiction?**
+The question becomes: **what has reality decided, and how does it manifest in the Situation?**
 
 ## The eight steps
 
-1. [State the Intentions](framing.md#1-state-the-intentions).
-2. [Make important consequences visible](framing.md#2-make-important-consequences-visible).
-3. [Choose the Focus and put two outcomes in the balance](framing.md#3-choose-the-focus-and-put-two-outcomes-in-the-balance).
-4. [Choose the Zoom](framing.md#4-choose-the-zoom).
-5. [Identify Frame Factors](balance.md#5-identify-frame-factors).
-6. [Gather the Bets on each side](balance.md#6-gather-the-bets-on-each-side).
-7. [Roll, read, and compare reality's answers](reading-reality.md#7-roll-read-and-compare-realitys-answers).
-8. [Interpret and continue](interpretation.md#8-interpret-and-continue).
+1. ![](/img/runes/movement.png) [**Movement** — State the Intentions](framing.md#1-movement).
+2. ![](/img/runes/death.png) [**Death** — Make important consequences visible](framing.md#2-death).
+3. ![](/img/runes/harmony.png) [**Harmony** — State the Focus, Zoom, and two outcomes](balance.md#3-harmony).
+4. ![](/img/runes/stasis.png) [**Stasis** — Identify Frame Factors and gather Bets](balance.md#4-stasis).
+5. ![](/img/runes/life.png) [**Life** — Roll the dice](reading-reality.md#5-life).
+6. ![](/img/runes/disorder.png) [**Disorder** — Read according to Worldview](reading-reality.md#6-disorder).
+7. ![](/img/runes/truth.png) [**Truth** — Compare reality's answers](interpretation.md#7-truth).
+8. ![](/img/runes/illusion.png) [**Illusion** — Give the answer fictional form and continue](interpretation.md#8-illusion).
 
-The complete loop is:
+The complete loop becomes:
 
-> **Situation → Intentions → what remains uncertain → Focus / Zoom → outcomes in the balance → Frame Factors → Bets → Worldview → reality's answer → comparison → interpretation → transformed Situation**
+> **Situation → Intention → consequences → Focus / Zoom → outcomes in the balance → Frame Factors / Bets → roll → Worldview → reality's answer → comparison → fictional manifestation → transformed Situation**
+
+The final pair expresses the essential distinction: **Truth decides; Illusion manifests.**
 
 ## Complete example
 
 An Orlanthi messenger is fleeing a patrol and wants to **cross a ford before being caught**.
 
-**Intention.** The Protagonist wants to reach the far bank with his message.
+![](/img/runes/movement.png) **1. Movement — Intention.** The Protagonist wants to reach the far bank with his message.
 
-**Important consequence.** Time states that if he is caught in the middle of the ford, he risks being captured with the message he carries.
+![](/img/runes/death.png) **2. Death — Important consequence.** Time states that if he is caught in the middle of the ford, he risks being captured with the message he carries.
 
-**Focus and outcomes.** *Does he cross the ford before the patrol catches him?*
+![](/img/runes/harmony.png) **3. Harmony — Focus, Zoom, and outcomes.** *Does he cross the ford before the patrol catches him?* The two outcomes are: *the messenger reaches the far bank before the patrol*; *the patrol catches him before he finishes crossing*. The table chooses a **Sequence Zoom**: the whole approach and crossing, not every stride separately.
 
-The two outcomes in the balance are:
+![](/img/runes/stasis.png) **4. Stasis — Frame and Bets.** The old bridge has been swept away by the flood: it is not an option and is a **Frame Factor**, not a negative Bet. Favouring the messenger: *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**. On the other side: *Current swollen by rain*, *Patrol already close*: **2 dice**.
 
-- *the messenger reaches the far bank before the patrol*;
-- *the patrol catches him before he finishes crossing*.
+![](/img/runes/life.png) **5. Life — Roll.** The Protagonist rolls `4, 2, 1`. Adversity rolls `2, 5`.
 
-**Zoom.** The table chooses a **Sequence**: it resolves the whole approach and crossing, not every stride separately.
+![](/img/runes/disorder.png) **6. Disorder — Worldview.** The Protagonist is a theist: his roll is worth **2 Successes**. Adversity is read through the Middle World: its roll is worth **1 Success**.
 
-**Frame Factor.** The old bridge has been swept away by the flood. It is therefore not an option and does not become a negative Bet: it is simply closed by the fiction.
+![](/img/runes/truth.png) **7. Truth — Comparison.** Reality's answer tips the Situation toward the first outcome. The result is a simple **Victory**, not a Feat: the difference is only 1.
 
-**Bets favouring the messenger.** *Has known this ford since childhood*, *Enduring horse*, *The wind masks the sound of his flight*: **3 dice**.
-
-**Bets on the other side.** *Current swollen by rain*, *Patrol already close*: **2 dice**.
-
-The Protagonist is a theist. He rolls `4, 2, 1`: **2 Successes**. Adversity is read through the Middle World and rolls `2, 5`: **1 Success**.
-
-Reality's answer therefore tips the Situation toward the first outcome. The result is a simple **Victory**, not a Feat: the difference is only 1.
-
-The messenger reaches the far bank before the patrol. The Bets provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new state of the Situation: **he crossed the ford with the message**.
+![](/img/runes/illusion.png) **8. Illusion — Manifestation.** The messenger reaches the far bank before the patrol. The Bets provide the material for description: his knowledge of the ford lets him choose the right passage, his horse holds in the current, and the wind covers his escape long enough. The fiction resumes from the new state of the Situation: **he crossed the ford with the message**.
