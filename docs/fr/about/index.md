@@ -19,6 +19,12 @@ Glorantha Perspectives a été conçu avec [**Regard**](https://aleascript.githu
 
 Ces projets sont proposés ici pour celles et ceux qui souhaitent découvrir les idées derrière le jeu. **Il n'est pas nécessaire de les lire pour jouer à Glorantha Perspectives.** Le jeu est autonome : toutes les règles et procédures nécessaires doivent être expliquées dans ce site et dans ses publications.
 
+## Utilisation avec des outils d'intelligence artificielle
+
+**L'auteur de Glorantha Perspectives autorise explicitement le lecteur à soumettre le PDF de cette publication, en tout ou en partie, à un système d'intelligence artificielle** afin de l'analyser, l'interroger, le résumer, le traduire, préparer ou mener une partie, produire des aides de jeu personnelles, ou pour tout autre usage permis par la licence de la publication et les droits applicables.
+
+Cette autorisation concerne l'utilisation de **Glorantha Perspectives** par le lecteur. Elle ne transfère ni n'étend aucun droit sur **Glorantha**, **RuneQuest**, leurs marques, leurs illustrations ou tout autre contenu appartenant à des tiers. Le lecteur reste également responsable des conditions d'utilisation et de confidentialité du service d'IA qu'il choisit.
+
 ## Roadmap
 
 **Glorantha Perspectives contient déjà tout ce qui est nécessaire pour jouer.**
