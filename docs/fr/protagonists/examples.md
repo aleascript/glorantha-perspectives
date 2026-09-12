@@ -244,7 +244,7 @@ Tal n'a pas reçu une progression abstraite entre deux séances. Son Portrait co
 
 « Jeune Sage Gris » ne signifie plus exactement la même chose après Jonstown. Le jeu n'a pas seulement ajouté un principe à Tal ; il lui a fait découvrir une dimension sociale de la vocation qu'il avait choisie. Les Traces permettent de conserver l'événement qui a produit cette transformation, tandis que le Chapitre peut désormais porter ce que cette expérience a changé durablement dans sa manière de se comprendre.
 
-Suivre cette évolution dans [la Route de Talimar](../narratives/talimar-road/) : [Session 0](../narratives/talimar-road/session-0/) puis [Session 1](../narratives/talimar-road/session-1/).
+Suivre cette évolution dans [la Route de Talimar](../../narratives/talimar-road/) : [Session 0](../../narratives/talimar-road/session-0/) puis [Session 1](../../narratives/talimar-road/session-1/).
 
 ---
 

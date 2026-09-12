@@ -164,7 +164,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-12',
+      version: '2026-09-13',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -205,7 +205,7 @@ export default definePublications({
     },
     quickreference: {
       author: 'AleaScript',
-      version: '2026-09-12',
+      version: '2026-09-13',
       status: 'Draft',
       lineage: {
         designedWith: {

@@ -206,8 +206,6 @@ It also transformed his relationship to the myth he learned from Hendrik: what h
 
 His Portrait therefore changes without a retcon: **the character changed because his understanding of himself and his relationship to the Cosmos changed.**
 
-See Talimar's [Actual Play](../narratives/talimar-road/session-0/verbatim.md), or the [story](../narratives/talimar-road/session-0/narrative.md).
-
 ---
 
 ## Portraits, not templates
