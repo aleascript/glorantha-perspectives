@@ -60,7 +60,23 @@ Hendrik se tourne vers toi.
 
 — **Qu'est-ce que tu regardes d'abord, Tal ?**
 
-> **Note d'édition — lacune de la source :** le transcript conservé passe ici directement de la question d'Hendrik au résultat du jet. La formulation exacte de l'intention ayant conduit à cette première résolution n'est pas présente dans la source ; elle n'est donc pas reconstruite.
+**[PJ]**
+
+Je prends très au sérieux ma nouvelle identité en tant que jeune sage gris:
+- ne pas faire honte a Hendrik
+- être digne de Lankhor Mhy
+Mais cela c'est de la posture, ce n'est pas ça l'essentiel et ça me detourne même du but qui est le nôtre: loi et vérité. 
+
+Et là je réponds:
+La vengeance n'est pas la justice donc au nom de la Loi, ces gens doivent partir. Le blessé ne va pas fuir de toute façon et la alors on pourra chercher la Vérité. Qui a ete témoins ici de la mort de ton fils? Qu'il reste, que les autres partent. 
+
+Je me rends compte que j'ai réagi de manière un peu plus péremptoire que je ne l'aurais voulu, faisant peut être de l'ombre a Hendrik. 
+
+Je réunis mes mises pour savoir comment sera perçue ma diatribe. 
+
+Argument de Loi + argument de Vérité + Argument du blessé - Hendrik vexé? - situation tendue pleine d'emotion - mon jeune âge .... 
+
+Ainsi je demande  une resolution que tu peux valider, cadrer, modifier... 
 
 **[PJ]**
 
