@@ -97,6 +97,20 @@ La magie de soin peut sauver une vie et accélérer la guérison. Elle ne rend p
 
 Ce qui demeure après une blessure peut continuer à compter dans les Situations suivantes.
 
+## Explorer Glorantha plus loin
+
+Glorantha Perspectives n'a pas vocation à reproduire l'ensemble du lore de Glorantha. Les repères de cette page et les éléments de lore présents ailleurs dans le jeu sont là pour rendre les Situations lisibles et jouables ; quand un peuple, un lieu, un culte, un mythe ou un événement devient important, des ressources externes permettent d'aller beaucoup plus loin.
+
+Quelques bons points d'entrée :
+
+- [**The World of Glorantha — RuneQuest RPG Wiki**](https://rqwiki.chaosium.com/glorantha/) — une introduction gratuite maintenue par Chaosium. Les éventuelles règles propres à RuneQuest relèvent de RuneQuest, pas de Glorantha Perspectives ;
+- [**Le Monde de Glorantha — RuneQuest Wiki FR**](https://rqwiki.fr/glorantha/) — une porte d'entrée francophone gratuite vers le monde et de nombreux articles associés ;
+- [**Glorantha.com**](https://www.glorantha.com/) — le portail historique de Glorantha, qui renvoie notamment vers le **Well of Daliath** pour approfondir l'univers ;
+- **RuneQuest: The Glorantha Sourcebook** — malgré son titre, un ouvrage de présentation de Glorantha sans système de jeu, particulièrement adapté pour approfondir le monde sans adopter les règles de RuneQuest ;
+- **The Guide to Glorantha** — la grande encyclopédie de référence pour aller beaucoup plus loin dans la géographie, les cultures, l'histoire et la mythologie du monde.
+
+Ces ressources sont externes à Glorantha Perspectives et leurs adresses ou leur organisation peuvent évoluer. Le jeu ne dépend pas d'elles pour ses règles : elles sont proposées comme portes d'entrée vers un univers volontairement plus vaste que ce livre.
+
 ## Il y aura toujours davantage à découvrir
 
 Glorantha est immense. Quand un détail devient important, consultez les sources qui concernent précisément le peuple, le lieu, le culte ou l'événement rencontré.
