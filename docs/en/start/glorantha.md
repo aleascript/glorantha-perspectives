@@ -95,6 +95,19 @@ Healing magic can save a life and speed recovery. It does not necessarily make w
 
 What remains after an injury may continue to matter in later Situations.
 
+## Exploring Glorantha further
+
+Glorantha Perspectives is not intended to reproduce the whole body of Gloranthan lore. The landmarks on this page and the lore found elsewhere in the game are here to make Situations readable and playable; when a people, place, cult, myth, or event becomes important, external resources can take you much further.
+
+Good starting points include:
+
+- [**The World of Glorantha — RuneQuest RPG Wiki**](https://rqwiki.chaosium.com/glorantha/) — a free introduction maintained by Chaosium. Any RuneQuest-specific rules belong to RuneQuest, not to Glorantha Perspectives;
+- [**Glorantha.com**](https://www.glorantha.com/) — Glorantha's long-standing portal, linking in particular to the **Well of Daliath** for deeper exploration of the setting;
+- **RuneQuest: The Glorantha Sourcebook** — despite its title, a system-less introduction to Glorantha, particularly useful for exploring the setting without adopting RuneQuest rules;
+- **The Guide to Glorantha** — the major encyclopedic reference for going much further into the world's geography, cultures, history, and mythology.
+
+These resources are external to Glorantha Perspectives, and their addresses or organization may change over time. The game does not depend on them for its rules: they are offered as gateways into a setting deliberately larger than this book.
+
 ## There is always more to discover
 
 Glorantha is immense. When a detail becomes important, consult the sources that concern the people, place, cult, or event involved.

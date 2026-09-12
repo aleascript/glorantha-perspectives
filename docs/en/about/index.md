@@ -19,6 +19,24 @@ Glorantha Perspectives was designed with [**Regard**](https://aleascript.github.
 
 These projects are linked here for anyone who wants to discover the ideas behind the game. **You do not need to read them to play Glorantha Perspectives.** The game is self-contained: all rules and procedures required for play must be explained on this site and in its publications.
 
+## License and reuse
+
+**Glorantha Perspectives is published under a Creative Commons Attribution (CC BY) license.** This license is deliberately open: you may copy, share, translate, modify, adapt, remix, integrate, or reuse the game, its texts, and its mechanics, including in other projects and for commercial purposes.
+
+The essential condition is **attribution**: when you reuse Glorantha Perspectives, credit the game **Glorantha Perspectives** and its author **AleaScript**. Where applicable, CC BY also requires a reference to the license and an indication of whether the original material was modified.
+
+A simple attribution may for example read: *“Based on Glorantha Perspectives, by AleaScript, licensed under CC BY.”*
+
+The intent is simple: **use the game, transform it, improve it, translate it, build with it.** Attribution simply preserves the trace of where your work came from.
+
+### Use with artificial intelligence
+
+This freedom explicitly includes artificial-intelligence tools. **You may submit this publication, in whole or in part, to an AI system** in order to analyze, query, summarize, or translate it; prepare or run a game; produce play aids; experiment with variants; create derivative content; or for any other use compatible with the license.
+
+This is not a separate special permission beyond the license: it is simply an explicit confirmation that the author considers these uses part of the reuse permitted by **CC BY**.
+
+The Glorantha Perspectives license applies to material that its author can place under CC BY; it does not alter the status of trademarks or works owned by third parties.
+
 ## Roadmap
 
 **Glorantha Perspectives already contains everything needed to play.**

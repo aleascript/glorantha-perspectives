@@ -19,6 +19,24 @@ Glorantha Perspectives a été conçu avec [**Regard**](https://aleascript.githu
 
 Ces projets sont proposés ici pour celles et ceux qui souhaitent découvrir les idées derrière le jeu. **Il n'est pas nécessaire de les lire pour jouer à Glorantha Perspectives.** Le jeu est autonome : toutes les règles et procédures nécessaires doivent être expliquées dans ce site et dans ses publications.
 
+## Licence et réutilisation
+
+**Glorantha Perspectives est publié sous licence Creative Commons Attribution (CC BY).** Cette licence est volontairement ouverte : vous pouvez copier, partager, traduire, modifier, adapter, remixer, intégrer ou réutiliser le jeu, ses textes et ses mécanismes, y compris dans d'autres projets et à des fins commerciales.
+
+La condition essentielle est l'**attribution** : lorsque vous réutilisez Glorantha Perspectives, citez le jeu **Glorantha Perspectives** et son auteur **AleaScript**. Lorsque c'est applicable, la licence CC BY demande également de renvoyer vers la licence et d'indiquer si vous avez modifié le matériau d'origine.
+
+Une attribution simple peut par exemple prendre la forme : *« Basé sur Glorantha Perspectives, par AleaScript, sous licence CC BY. »*
+
+L'intention est simple : **utilisez le jeu, transformez-le, améliorez-le, traduisez-le, construisez avec lui.** L'attribution permet simplement de conserver la trace de ce dont votre travail est issu.
+
+### Utilisation avec une intelligence artificielle
+
+Cette liberté inclut explicitement les outils d'intelligence artificielle. **Vous pouvez soumettre cette publication, en tout ou en partie, à un système d'IA** pour l'analyser, l'interroger, la résumer, la traduire, préparer ou mener une partie, produire des aides de jeu, expérimenter des variantes, créer du contenu dérivé ou pour tout autre usage compatible avec la licence.
+
+Il ne s'agit pas d'une autorisation spéciale distincte de la licence : c'est simplement une confirmation explicite que l'auteur considère ces usages comme faisant partie des réutilisations permises par **CC BY**.
+
+La licence de Glorantha Perspectives porte sur les éléments que son auteur peut placer sous CC BY ; elle ne modifie pas le statut des marques ou œuvres appartenant à des tiers.
+
 ## Roadmap
 
 **Glorantha Perspectives contient déjà tout ce qui est nécessaire pour jouer.**
