@@ -85,11 +85,15 @@ La première surprise fut la manière dont Tal mobilisa immédiatement **Loi** e
 
 Le joueur perçoit lui-même que sa diatribe est plus péremptoire qu'il ne l'aurait voulu et qu'elle peut faire de l'ombre à Hendrik. Cette tension entre **la posture du jeune Sage** et **la fonction réelle du Sage** devient ainsi présente avant même le premier jet.
 
+Une autre découverte s'est construite pendant toute la Situation sans être formulée en une maxime unique. Jusqu'ici, Tal avait surtout rencontré sa vocation par les **mythes, les textes, les questions, la recherche du savoir et la possibilité de voyager**. Jonstown lui montre son versant social : une guérisseuse vient chercher un Sage ; des familles attendent qu'il examine des faits ; des témoins lui parlent ; deux groupes doivent ensuite décider comment agir à partir de ce que les Sages pourront honnêtement affirmer.
+
+Le rôle de Sage Gris cesse donc d'être seulement celui d'un homme qui **cherche et conserve la connaissance**. Tal découvre aussi quelqu'un dont le savoir et la méthode ont une fonction dans le quotidien de la communauté, précisément lorsque les récits, les intérêts et les émotions rendent difficile de savoir sur quoi agir.
+
 Son hypothèse selon laquelle Karest avait pu tuer Beren sous l'effet d'une ancienne rage est également née du jeu, à partir de l'histoire antérieure des deux hommes.
 
 Plus important encore : Tal rencontra pour la première fois **un cadavre humain de très près**. Ce rapport concret à la Mort n'était pas une scène préparée. Il découla directement de son choix d'examiner le corps de Beren.
 
-Enfin, la session produisit son véritable déplacement sans que celui-ci ait été planifié : Tal passa d'une Vérité presque absolue à une **responsabilité de formulation**.
+Enfin, la session produisit un déplacement épistémologique tout aussi important sans que celui-ci ait été planifié : Tal passa d'une Vérité presque absolue à une **responsabilité de formulation**.
 
 La question cessa progressivement d'être :
 
@@ -104,6 +108,8 @@ La conséquence durable choisie par le joueur fut :
 > **« Ne chercher et ne rapporter que les faits avérés. »**
 
 Hendrik y ajouta une exigence complémentaire : lorsque les faits ne permettent pas de conclure, un Sage doit savoir dire **« nous ne savons pas »**.
+
+Ces deux transformations ne se confondent pas. La seconde précise **comment Tal doit chercher et parler de la Vérité** ; la première transforme **ce que signifie pour lui être un Sage Gris parmi les autres**.
 
 ## Ce qui a été improvisé
 
@@ -146,12 +152,12 @@ Un autre risque est apparu avec Hendrik lui-même. Il peut facilement devenir le
 
 ## Ce que le playtest a montré de GP
 
-L'affaire avait été conçue comme une petite querelle locale. Le jeu en a fait, sans le prévoir, une **initiation pratique à l'épistémologie de Lhankor Mhy**.
+L'affaire avait été conçue comme une petite querelle locale. Le jeu en a fait, sans le prévoir, à la fois une **initiation pratique à l'épistémologie de Lhankor Mhy** et une **découverte du rôle social du Sage Gris**.
 
 Le caractère presque banal de la Situation a compté. Glorantha n'a pas offert au jeune initié un mystère cosmique calibré pour sa nouvelle vocation. Elle lui a donné un mort, des parents, des témoins, une Maison de la Paix, des lois et deux clans qui devront continuer à vivre après l'enquête.
 
+C'est justement dans cette banalité que Tal découvre que la connaissance n'est pas confinée à la Bibliothèque. Le Sage peut être appelé parce qu'une communauté doit agir alors que personne ne possède toute la vérité. Recueillir, comparer, formuler et savoir dire « nous ne savons pas » deviennent alors des actes sociaux autant qu'intellectuels.
+
 Cette autonomie du quotidien a renforcé l'impression que le monde ne distribuait pas des scènes destinées à « faire progresser l'arc de Tal ». Une Situation ordinaire pouvait pourtant devenir profondément significative **parce que Tal l'avait rencontrée avec ce qu'il était devenu**.
 
-Et la leçon la plus nette de la séance n'est finalement pas une réponse sur Beren et Karest. C'est une discipline :
-
-> **ne pas attribuer au monde davantage de certitude que ce qu'il nous donne.**
+La séance laisse donc deux apprentissages durables, liés mais irréductibles l'un à l'autre : **ne pas attribuer au monde davantage de certitude que ce qu'il nous donne**, et découvrir que cette discipline a une utilité concrète pour les gens qui devront vivre, décider et se réconcilier — ou non — à partir de ce que le Sage aura dit.
