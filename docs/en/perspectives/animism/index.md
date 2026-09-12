@@ -26,7 +26,7 @@ The animist therefore does not merely ask: "what can help me?" They ask: **"who 
 
 A decisive outcome may turn a momentary relationship into a lasting one:
 
-- an **Exploit** may allow a spirit to be bound into a fetish;
+- a **Feat** may allow a spirit to be bound into a fetish;
 - a **Fiasco** may cause a bound spirit to depart.
 
 ## When the Worldview falters or is fulfilled
