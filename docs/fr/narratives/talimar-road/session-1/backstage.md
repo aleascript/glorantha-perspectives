@@ -81,7 +81,9 @@ Le détail de l'affaire n'était pas fixé au-delà de ce qui était nécessaire
 
 ## Ce que le jeu a fait émerger
 
-La première surprise fut la manière dont Tal mobilisa immédiatement **Loi** et **Vérité** comme des exigences presque absolues. À peine initié, il voulait remettre de l'ordre, séparer ce qui pouvait être établi, trouver ce qui s'était vraiment passé et envisagea même la possibilité d'une divination.
+La première surprise fut la manière dont Tal mobilisa immédiatement **Loi** et **Vérité** comme des exigences presque absolues. Le joueur commence pourtant par identifier lucidement une posture qui pourrait le détourner de l'essentiel : **ne pas faire honte à Hendrik** et **être digne de Lhankor Mhy** ne sont pas encore Loi et Vérité. Mais, confronté aux deux groupes, Tal transforme presque aussitôt ses nouvelles Runes en autorité : la vengeance n'étant pas la justice, il ordonne aux proches de partir afin de pouvoir chercher la Vérité plus proprement.
+
+Le joueur perçoit lui-même que sa diatribe est plus péremptoire qu'il ne l'aurait voulu et qu'elle peut faire de l'ombre à Hendrik. Cette tension entre **la posture du jeune Sage** et **la fonction réelle du Sage** devient ainsi présente avant même le premier jet.
 
 Son hypothèse selon laquelle Karest avait pu tuer Beren sous l'effet d'une ancienne rage est également née du jeu, à partir de l'histoire antérieure des deux hommes.
 
@@ -120,7 +122,7 @@ De même, la réussite contre Enissa n'a pas produit la contradiction espérée 
 
 ## Deux résolutions, deux conséquences très différentes
 
-La première résolution concernait l'autorité sociale du jeune Sage Gris devant les deux groupes. Tal obtint **3 Réussites contre 4**.
+La première résolution concernait l'autorité sociale du jeune Sage Gris devant les deux groupes. Tal invoquait la **Loi**, la **Vérité** et l'impossibilité pour Karest de fuir pour demander aux autres de partir ; il voyait lui-même comme risques la tension émotionnelle, son jeune âge et la possibilité de froisser Hendrik. Il obtint **3 Réussites contre 4**.
 
 La Défaite n'a pas signifié « l'enquête échoue ». Elle a signifié exactement ce que le Focus mettait en jeu : Tal n'avait pas encore l'autorité nécessaire pour imposer son ordre à tous. Personne ne partit. En revanche, le conflit ainsi provoqué fit émerger Darin comme témoin.
 
