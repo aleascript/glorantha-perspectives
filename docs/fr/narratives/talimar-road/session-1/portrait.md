@@ -39,6 +39,10 @@ Tal commence à exercer concrètement ce qu'il a appris auprès d'**Hendrik, fil
 - tablette aux sept différences, conservée depuis sa rencontre avec Hendrik ;
 - couteau ancestral donné par son père.
 
+Jonstown transforme aussi ce que ce Chapitre signifie pour lui. Tal avait surtout rencontré Lhankor Mhy par les **mythes, les textes, les questions et la recherche du savoir**. Sa première enquête lui montre un Sage Gris appelé hors de la Bibliothèque parce qu'une communauté a besoin de quelqu'un pour recueillir des témoignages, examiner des faits, rappeler ce que la Loi permet d'affirmer et trouver une formulation sur laquelle des gens pourront ensuite agir.
+
+Le savoir n'est donc pas seulement ce que le Sage conserve ou découvre. Il engage une **responsabilité envers ceux qui devront vivre avec ce qu'il dira**.
+
 ## Héron Gris et routes du Tarsh
 
 Tal est fils de **Calimar et Urestona**, carls du clan du **Héron Gris**, de la tribu **Colymar**.
@@ -85,4 +89,6 @@ Il inscrit dans son Portrait :
 
 Hendrik y ajoute une précision qui compte désormais tout autant : lorsque les faits ne sont pas avérés, il faut savoir rapporter aussi **« nous ne savons pas »**.
 
-Devant les deux groupes, Tal réussit finalement à dire exactement ce que l'enquête permet d'affirmer **« à ce stade »**, sans transformer une hypothèse en verdict.
+Mais Jonstown lui apprend autre chose en même temps : **à quoi peut servir un Sage Gris dans la vie quotidienne d'une communauté**. Il n'est pas seulement celui qui étudie les grands mythes ou conserve les savoirs dans une bibliothèque. On vient aussi le chercher lorsqu'un mort, des témoins, des parents en colère et la Loi exigent que quelqu'un distingue ce qui est établi de ce qui ne l'est pas.
+
+Devant les deux groupes, Tal réussit finalement à dire exactement ce que l'enquête permet d'affirmer **« à ce stade »**, sans transformer une hypothèse en verdict. Sa parole compte alors non parce qu'elle livre une grande vérité cachée, mais parce qu'elle permet à la communauté de continuer à agir sans prétendre savoir davantage que ce que les faits autorisent.
