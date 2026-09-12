@@ -1137,7 +1137,7 @@ Instead he turns toward Talimar.
 
 **[TAL]**
 
-“Because even he, who knows everything, keeps searching. It's his quest, it's our quest.” (And I think the player can note fragments of keywords he takes from the myth being told, even if the [TIME] has to repeat the myth.)
+“Because even he, who knows everything, keeps searching. It's his quest, it's our quest.” (And I note fragments of keywords Tal takes from the myth being told, even if the [TIME] has to repeat the myth.)
 
 **[TIME]**
 
@@ -1407,60 +1407,6 @@ And so, for the first time, three runic signs appear on the tablet where Tal rec
 Not because a Grey Sage assigned them to him.
 
 Because Talimar has begun recognizing their presence in his own life.
-
----
-
-## Tal's intermediate sheet
-
-### Talimar “Tal”
-
-**Identity**  
-**Name:** Talimar, called Tal  
-**Age:** still to be set precisely  
-**Quote:** *“Things are. Even when contrary, they are there, together.”*
-
-**Origins & Community**  
-**Sartarite / Heortling** culture  
-**Grey Heron** clan, **Colymar** tribe  
-Son of **Calimar and Urestona**, carls of the clan
-
-**Worldview**  
-**Theist**  
-Apprentice of **Hendrik, Grey Sage of Lhankor Mhy**  
-*Not yet initiated into Lhankor Mhy.*
-
-**Runes**
-
-- **Air — the middle:** Tal recognizes himself in the space between things: earth and sky, high and low, clouds, wind, Moon and stars. Far from home, Air has also become the tangible reminder of his roots.
-- **Harmony — what binds opposites:** things can be different, even opposed, while belonging to the same world. Tal seeks what allows them to exist together. For him, Harmony is the antithesis of Chaos.
-- **Movement — curiosity:** one question leads to another. Tal travels less to reach a place than because what he does not know compels him forward.
-
-**Keywords & Traits**
-
-- **Insatiable curiosity**
-- **Apprentice Grey Sage**
-- **Distinguishes what he knows from what he thinks he knows**
-- **Able to sustain several hypotheses without prematurely turning one into a truth**
-- **Travels in Tarsh with his uncle Grimar**
-- **Fascinated and troubled by Lunar civilization**
-- **Tablet of the seven differences**, kept since meeting Hendrik
-- **Ancestral knife given by his father**
-
-**Known myth — Lhankor Mhy and the quest for knowledge**
-
-Fragments Tal personally retained from it:
-
-*Distinguish what is true • Remember what has been learned • Preserve knowledge through writing • Seek what is missing • Continue searching even when one already knows.*
-
-**Bonds & Attachments**
-
-- **Calimar and Urestona** — his parents, still among the Grey Heron
-- **Grimar** — his merchant uncle; deep affection despite the path Tal did not follow
-- **Hendrik** — his teacher, who teaches him to seek rather than recite
-- **Grey Heron clan** — paradoxically, his roots appear more clearly since he left them
-- **“Old White Beard”** — the clan's traditionalist Grey Sage, now an indirect recipient of news about Tal's apprenticeship
-
-**State:** no particular state at present.
 
 ---
 

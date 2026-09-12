@@ -1131,7 +1131,7 @@ Il se tourne plutôt vers Talimar.
 
 **[TAL]**
 
-"Parce que lui même qui sait tout continue de chercher. C'est sa quête, c'est notre quête." (Et je pense que le joueur peut noter des bribes de mots clés qu'il tire du mythe raconté, quitte à ce que le [TEMPS] répète le mythe). 
+"Parce que lui même qui sait tout continue de chercher. C'est sa quête, c'est notre quête." (Et je note des bribes de mots clés que Tal tire du mythe raconté, quitte à ce que le [TEMPS] répète le mythe). 
 
 **[TEMPS]**
 
@@ -1401,60 +1401,6 @@ Et ainsi, pour la première fois, trois signes runiques apparaissent sur la tabl
 Pas parce qu'un Sage Gris les lui a attribués.
 
 Parce que Talimar a commencé à reconnaître leur présence dans sa propre vie.
-
----
-
-## La feuille intermédiaire de Tal
-
-### Talimar « Tal »
-
-**Identité**  
-**Nom :** Talimar, dit Tal  
-**Âge :** encore à fixer précisément  
-**Citation :** *« Les choses sont. Même contraires, elles sont là, ensemble. »*
-
-**Origines & Communauté**  
-Culture **Sartarite / Heortling**  
-Clan du **Héron Gris**, tribu **Colymar**  
-Fils de **Calimar et Urestona**, carls du clan
-
-**Vision du monde**  
-**Théiste**  
-Apprenti de **Hendrik, Sage Gris de Lhankor Mhy**  
-*Pas encore initié de Lhankor Mhy.*
-
-**Runes**
-
-- **Air - le milieu :** Tal se reconnaît dans l'espace entre les choses : la terre et le ciel, le haut et le bas, les nuages, le vent, la Lune et les étoiles. Loin de chez lui, l'Air est aussi devenu le rappel sensible de ses racines.
-- **Harmonie - ce qui lie les contraires :** les choses peuvent être différentes, voire opposées, tout en appartenant au même monde. Tal cherche ce qui leur permet d'exister ensemble. Pour lui, l'Harmonie est l'antithèse du Chaos.
-- **Mouvement - la curiosité :** une question en entraîne une autre. Tal voyage moins pour atteindre un lieu que parce que ce qu'il ignore l'oblige à avancer.
-
-**Mots-clés & Traits**
-
-- **Curiosité insatiable**
-- **Apprenti Sage Gris**
-- **Distingue ce qu'il sait de ce qu'il croit savoir**
-- **Capable de soutenir plusieurs hypothèses sans en faire prématurément une vérité**
-- **Voyages en Tarsh avec son oncle Grimar**
-- **Fasciné et troublé par la civilisation lunaire**
-- **Tablette aux sept différences**, conservée depuis sa rencontre avec Hendrik
-- **Couteau ancestral donné par son père**
-
-**Mythe connu - Lhankor Mhy et la quête de la connaissance**
-
-Bribes que Tal en a personnellement retenues :
-
-*Distinguer ce qui est vrai • Se souvenir de ce qui a été appris • Conserver le savoir par l'écriture • Chercher ce qui manque • Continuer à chercher, même lorsque l'on sait déjà.*
-
-**Liens & Attaches**
-
-- **Calimar et Urestona** - ses parents, restés au Héron Gris
-- **Grimar** - son oncle marchand ; affection profonde malgré le chemin qu'il n'a pas suivi
-- **Hendrik** - son maître, qui lui apprend à chercher plutôt qu'à réciter
-- **Clan du Héron Gris** - ses racines lui apparaissent paradoxalement plus nettement depuis qu'il les a quittées
-- **« Vieille Barbe Blanche »** - le Sage Gris traditionaliste du clan, désormais destinataire indirect de nouvelles sur son apprentissage
-
-**État :** aucun état particulier actuellement.
 
 ---
 
