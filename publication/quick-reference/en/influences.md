@@ -64,7 +64,7 @@ After both rolls have been read normally, **each of their `1`s may remove one op
 
 > **The Cosmos determines what is possible. Chaos can open the impossible. The dice still say what happens.**
 
-Chaos grants neither extra dice nor automatic success. It may make admissible a **Focus previously closed by a Frame Factor**, after which resolution proceeds normally.
+Chaos may make admissible a **Focus previously closed by a Frame Factor**, after which resolution proceeds normally.
 
 ### When Chaos is waiting for you
 
@@ -109,9 +109,3 @@ When it expands, ask:
 Rewrite its statement in a less limited form if necessary. A progression may be described as **Exception → Appetite → Obsession → Constitutive principle**, without becoming a mandatory track.
 
 A Breach may later become a **Bet**, **consequence**, **Frame Factor**, or the object of a **Focus** when it genuinely matters.
-
-### Beings who are already Chaotic
-
-An Ogre, Broo, Vampire, or another being already bound to Chaos does not need an initial contamination: their Chaotic principle is already constitutive.
-
-They retain their Worldview and gain no automatic Successes from Chaos. The player chooses **how they live with the obsession**, not whether it exists.
