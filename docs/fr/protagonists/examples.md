@@ -178,6 +178,10 @@ Tal commence à exercer concrètement ce qu'il a appris auprès d'**Hendrik, fil
 - tablette aux sept différences donnée par Hendrik ;
 - couteau ancestral donné par son père.
 
+À Jonstown, ce Chapitre change de portée. Tal avait surtout imaginé le Sage Gris à travers les **mythes, les textes, les savoirs et les voyages**. Sa première enquête lui fait découvrir une autre dimension de sa vocation : la communauté vient aussi chercher un Sage lorsqu'il faut recueillir des témoignages, confronter des faits, éclairer la Loi et formuler assez précisément ce qui est connu pour que d'autres puissent ensuite agir.
+
+Le savoir devient ainsi pour Tal non seulement une quête, mais une **responsabilité envers ceux qui devront vivre avec ce qu'il dira**.
+
 ### Héron Gris et routes du Tarsh
 
 Tal est fils de **Calimar et Urestona**, carls du clan du **Héron Gris**, de la tribu **Colymar**.
@@ -232,11 +236,13 @@ Il inscrit dans son Portrait :
 
 Hendrik y ajoute la contrepartie indispensable : lorsque les faits ne sont pas avérés, il faut savoir rapporter aussi **« nous ne savons pas »**.
 
+Cette même Situation révèle quelque chose que Tal n'avait pas encore appris dans les mythes : **à quoi sert un Sage Gris dans la vie quotidienne d'une communauté**. Il n'est pas seulement un homme de bibliothèque ou un chercheur des grands savoirs. Sa méthode devient utile lorsqu'un mort, des témoins contradictoires, des parents en colère et la Loi obligent des gens à décider ce qu'ils peuvent tenir pour vrai.
+
 ### Ce que ce Portrait montre
 
-Tal n'a pas reçu une progression abstraite entre deux séances. Son Portrait conserve les transformations réellement produites par le jeu : une Rune comprise autrement, une relation au dieu devenue opérante, puis une discipline intellectuelle née d'une enquête ordinaire.
+Tal n'a pas reçu une progression abstraite entre deux séances. Son Portrait conserve les transformations réellement produites par le jeu : une Rune comprise autrement, une relation au dieu devenue opérante, une discipline intellectuelle née d'une enquête ordinaire, mais aussi un **Chapitre de vie dont le sens s'approfondit**.
 
-Les Traces permettent de garder cette histoire **sans retcon et sans remplacer l'ancien personnage par une nouvelle fiche**.
+« Jeune Sage Gris » ne signifie plus exactement la même chose après Jonstown. Le jeu n'a pas seulement ajouté un principe à Tal ; il lui a fait découvrir une dimension sociale de la vocation qu'il avait choisie. Les Traces permettent de conserver l'événement qui a produit cette transformation, tandis que le Chapitre peut désormais porter ce que cette expérience a changé durablement dans sa manière de se comprendre.
 
 Suivre cette évolution dans [la Route de Talimar](../narratives/talimar-road/) : [Session 0](../narratives/talimar-road/session-0/) puis [Session 1](../narratives/talimar-road/session-1/).
 
