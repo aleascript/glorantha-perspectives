@@ -4,7 +4,7 @@ title: Verbatim
 
 # Verbatim
 
-**Session jouée le 31 août 2026 — durée de jeu estimée : environ 3 h.**
+**Durée de jeu estimée : environ 3 h.**
 
 La conversation source s'est étalée davantage, notamment à cause de recherches dans les sources et d'échanges hors jeu. Cette page conserve les tours PJ/MJ dans leur ordre de jeu, les Mises, les dés, les corrections et les échanges de procédure qui ont réellement participé à la partie. Les traces techniques internes aux outils sont retirées.
 
@@ -12,13 +12,9 @@ Les annotations **PROCÉDURE** ont été ajoutées rétrospectivement et sont si
 
 ---
 
-## 1. Entonnoir — trouver Tal en jouant
+## Trouver Tal en jouant
 
-**PJ — 31/08/2026 18:17:32**
-
-MJ. Nouvelle partie. Je suis joueur. Aucun spoiler.
-
-**MJ — 31/08/2026 18:17:34**
+**MJ**
 
 **Session Zéro.**
 
@@ -40,11 +36,11 @@ Pour commencer :
 **4.** Quelqu’un lié, d’une manière ou d’une autre, au monde lunaire.  
 **5.** Tu préfères ne rien choisir encore : **fais-moi découvrir qui je suis par la fiction.**
 
-**PJ — 31/08/2026 18:22:18**
+**PJ**
 
 J'aime bien l'idée d'un personnage appartenant à la communauté mais qui n'est pas satisfait de son sort ou du monde dans lequel il vit. 
 
-**MJ — 31/08/2026 18:22:23**
+**MJ**
 
 Tu appartiens donc à cette communauté. Tu en connais les usages, les histoires, les obligations. **Ce n’est pas un monde étranger que tu rejettes : c’est le tien qui ne te suffit pas.**
 
@@ -64,11 +60,11 @@ Quand tu regardes la vie que l’on attend de toi, qu’est-ce qui te pèse le p
 
 Ou raconte-moi directement ce qui ne va pas.
 
-**PJ — 31/08/2026 18:26:11**
+**PJ**
 
 D. J'ai du mal a me positionner contre l'Empire de maniere absolue mais j'ai du mal a cautionner leurs coutumes et leurs actes. Me sens donc non seulement tiraillé mais orphelin. Comme s'il me manquait quelque chose.
 
-**MJ — 31/08/2026 18:26:13**
+**MJ**
 
 Tu n’es donc pas un rebelle par certitude.
 
@@ -92,11 +88,11 @@ Alors revenons à quelque chose de beaucoup plus intime.
 
 Ou peux-tu te souvenir d’un moment précis où quelque chose s’est fissuré ?
 
-**PJ — 31/08/2026 18:31:44**
+**PJ**
 
 Peut être lorsque j'ai vu les bienfaits du mode de vie lunaire: des thermes, des constructions, une organisation, une facon de gérer les conflits par l'exposition des différentes faces. Très différent de notre mode de vie plus rustre, plus vent, violent parfois. Et pourtant cette société lunaire c'est la Chauve Souris Pourpre aussi, des esclaves, de la domination
 
-**MJ — 31/08/2026 18:31:45**
+**MJ**
 
 Oui.
 
@@ -126,11 +122,11 @@ Ces choses lunaires, tu ne les connais pas seulement par ouï-dire.
 
 As-tu vécu quelque temps dans une ville sous forte influence lunaire ? Accompagné quelqu’un qui travaillait avec eux ? Été accueilli chez des Lunaires ? Ou est-ce une histoire plus personnelle encore ?
 
-**PJ — 31/08/2026 18:33:39**
+**PJ**
 
 Peut être un oncle marchand et que j'ai accompagné souvent en Tarsh.
 
-**MJ — 31/08/2026 18:33:40**
+**MJ**
 
 Ton oncle est marchand.
 
@@ -154,11 +150,11 @@ Après un moment, il te demande :
 
 Que lui réponds-tu ?
 
-**PJ — 31/08/2026 18:35:37**
+**PJ**
 
 J'étais jeune, exalté: "tu as vu leurs constructions? Leurs statues? Leurs vêtements? Ceux des femmes même (j'ai rougi)" A l'époque je n'avais vu que la façade.
 
-**MJ — 31/08/2026 18:35:38**
+**MJ**
 
 Ton oncle éclate de rire à ta dernière remarque.
 
@@ -192,11 +188,11 @@ Dans ta famille, qu’aurait-on trouvé naturel que tu deviennes ?
 
 **Guerrier ? Éleveur ou cultivateur ? Artisan ? Marchand comme ton oncle ? Serviteur d’un dieu ? Quelque chose d’autre ?**
 
-**PJ — 31/08/2026 18:39:54**
+**PJ**
 
 Je pense qu'on pensait que je serais marchand comme lui sauf que ça m'intéresse pas du tout. Peu de chance que je finisse initié d'Issaries ou alors je serais un piètre initié. J'aspirais a autre chose intérieurement en fait. Lankhor Mhy pourrait avoir ete une planche de salut: les mythes, l'histoire et les savoirs et la possibilité de voyager.
 
-**MJ — 31/08/2026 18:39:55**
+**MJ**
 
 Le commerce aurait dû être ton chemin.
 
@@ -230,14 +226,16 @@ Alors dis-moi : **qui a ouvert cette porte pour toi ?**
 
 Quelqu’un de chez toi ? Un sage rencontré en Tarsh ? Ou souhaites-tu que cette personne entre dans ton histoire maintenant, sans que tu saches encore qui elle sera ?
 
-## 2. Une possibilité : Lhankor Mhy, puis le choix de la jouer
+---
 
-**PJ — 31/08/2026 18:43:19**
+## Une possibilité : Lhankor Mhy, puis le choix de la jouer
+
+**PJ**
 
 Off: je ne sais pas quel scénario, situation,  tu as prévu, mais oui ça peut être très sympa de jouer ça jusqu'à l'initiation. 
 J'aimerais bien que ça soit lié à une situation de jeu.
 
-**MJ — 31/08/2026 18:43:20**
+**MJ**
 
 On ne décidera donc pas maintenant « qui t’a recruté chez Lhankor Mhy ». **Cette rencontre — et la possibilité même que tu sois jugé digne d’aller jusqu’à l’initiation — adviendra en jeu.** Ton personnage n’en connaît pas l’issue.
 
@@ -267,16 +265,18 @@ Ce ne sont pas simplement des décorations.
 
 **C’est de l’écriture.**
 
-## 3. Situation: la pierre au bord de la route
+---
 
-**PJ — 31/08/2026 18:48:20**
+## La pierre au bord de la route
+
+**PJ**
 
 - Oncle Grimar la journée a ete longue, on pourrait pas faire une pause?
 En fait mon objectif est de réussir a établir le contact avec ce vieil homme.
 Voilà sur quoi je mise: que mon oncle accepte l'arrêt, proposer un peu de partager le sel avec le vieil homme au nom des lois Heortiennes, ma curiosité.
 Contre moi: mon oncle qui pourrait être contre l'arrêt (pas le moment de s'arrêter avec ce vent), ....
 
-**MJ — 31/08/2026 18:48:21**
+**MJ**
 
 Grimar plisse les yeux vers le ciel.
 
@@ -306,11 +306,11 @@ Tu es encore profondément de ton monde : pour cette résolution, ta perspective
 
 **Lance 3d6 et donne-moi les trois résultats bruts.**
 
-**PJ — 31/08/2026 18:51:24**
+**PJ**
 
 2,3,6 -> 2,5,6 : j'ai mis toutes les formes pour convaincre mon oncle et inviter le vieil homme a partager le sel.
 
-**MJ — 31/08/2026 18:51:25**
+**MJ**
 
 Ton résultat final : **2, 5, 6 → 2 réussites.**
 
@@ -352,13 +352,13 @@ Mais maintenant que tu regardes vraiment, quelque chose te frappe.
 
 **Ce qu'il a recopié sur sa tablette ne correspond pas exactement à ce qui est gravé sur la pierre.**
 
-**PJ — 31/08/2026 18:57:51**
+**PJ**
 
 Je plisse les yeux. Donc si je comprends bien, ça semble pareil si on regarde de manière superficielle. Mais ma curiosité et ma vivacité m'a fait de suite voir les différences.  
 Je montre toutes les différences que je vois. Le jeu m'amuse. Un peu comme un jeu des 7 differences. Que j'en oublie même la politesse presque. 
 Je ne sais absolument pas pourquoi il y a des différences mais a ce stade je les vois, je les constate et curieusement le fait que ça soit reduit a la pierre et la tablette m'apaise beaucoup. Comme si le monde devenait enfin moins lourd, plus compréhensible.
 
-**MJ — 31/08/2026 18:57:52**
+**MJ**
 
 Tu rapproches la tablette de la pierre.
 
@@ -428,11 +428,11 @@ Il retourne la tablette vers toi.
 
 — Pourquoi pas **la pierre** ?
 
-**PJ — 31/08/2026 19:01:54**
+**PJ**
 
 Et là je n'ai pas compris. Trop jeune. "Comment ça fausse? Elle était la avant votre tablette. C'est vous qui vous êtes trompés en recopiant. Ou alors vous êtes un de ces sorciers de l'Ouest?"
 
-**MJ — 31/08/2026 19:01:55**
+**MJ**
 
 Le vieil homme te fixe une seconde.
 
@@ -490,11 +490,11 @@ Il t'observe.
 
 — Et toi, jeune accusateur de sorciers ?
 
-**PJ — 31/08/2026 19:06:23**
+**PJ**
 
 "Tal, Talimar, fils de Calimar et Urestona, carls du clan du Heron gris, de la tribu Colymar et vous juste Hendrik?" Dis je en montrant ma deception qu'il m'ait juste donné un simple nom en énumérant un max de choses sur ma lignee ce qui j'espère l'incitera a faire de même.
 
-**MJ — 31/08/2026 19:06:24**
+**MJ**
 
 Hendrik hausse un sourcil à mesure que la liste s’allonge.
 
@@ -540,11 +540,11 @@ Un petit sourire.
 
 — **Voilà une différence que tu as également repérée.**
 
-**PJ — 31/08/2026 19:14:06**
+**PJ**
 
 "Mais quel genre de Sage Gris etes vous? Le genre grincheux a rabâcher les lois d'Heort ou vous lisez les écrits  des Lunaires pour mieux les combattre? Vous avez déjà voyagé au delà?" Je dis ça car on a effectivement un initié de Lankhor Mhy au clan, un vieil homme qui radote traditionaliste, sans aucune saveur que j'ai interrogé et harcelé de questions et qui sans le vouloir m'avait fait comprendre qu'il y a d'autres sages gris, a l'opposé de lui.
 
-**MJ — 31/08/2026 19:14:07**
+**MJ**
 
 Hendrik ne répond pas immédiatement.
 
@@ -596,11 +596,11 @@ Il sourit.
 
 — Pourquoi ?
 
-**PJ — 31/08/2026 19:15:59**
+**PJ**
 
 "parce que c'est là que je veux aller aussi" dis je entre mes dents, un peu craintif que mon oncle m'entende.
 
-**MJ — 31/08/2026 19:16:01**
+**MJ**
 
 Les mots sortent plus bas que tu ne l'aurais voulu.
 
@@ -660,13 +660,15 @@ Quand tu te retournes, il a les bras croisés.
 
 — Qu'est-ce que tu viens de dire ?
 
-## 4. La rencontre devient apprentissage
+---
 
-**PJ — 31/08/2026 19:19:12**
+## La rencontre devient apprentissage
+
+**PJ**
 
 Et c'est peut être cette nuit là que mon oncle et moi se sont mis d'accord pour que je devienne un apprenti aupres de Hendrik. Il y a peut être eu un accord scellé: mes parents étant carls et mon oncle marchand je pense qu'ils ont pu fournir de quoi pour régler ma charge auprès d'Hendrik.
 
-**MJ — 31/08/2026 19:19:13**
+**MJ**
 
 Grimar ne répond pas tout de suite.
 
@@ -746,7 +748,7 @@ Hendrik continue de marcher.
 
 **PROCÉDURE (annotation rétrospective)** — Le PJ propose que la rencontre débouche sur un accord d’apprentissage ; le MJ en joue les conséquences sociales et matérielles plutôt que de résumer « Tal devient apprenti ».
 
-**PJ — 31/08/2026 19:26:58**
+**PJ**
 
 Et là je le suis en sortant toutes les réponses que je peux trouver. Évidemment il ne répond pas. Mais intérieurement je suppose qu'il est amusé, ignorant qu'en fait il me jauge.   
 "Ou allons nous?"  
@@ -765,13 +767,15 @@ Et là je le suis en sortant toutes les réponses que je peux trouver. Évidemme
 Et ainsi de suite.. plus pour passer le temps. 
 Et c'est ainsi que j'entrais en enseignement avec Hendrik. Avec d'autres jeunes.
 
-## 5. La formation de Tal
+---
 
-**PJ — 31/08/2026 19:34:12**
+## La formation de Tal
+
+**PJ**
 
 Je pense qu'à un moment ça serait bien d'exposer les mythes de Lankhor Mhy, puis de traiter de l'initiation. A ce stade aussi il y a la question des runes. Je pense que la chose est claire maintenant, quelles sont les runes de LK?
 
-**MJ — 31/08/2026 19:34:15**
+**MJ**
 
 Oui. Et maintenant que Tal commence à exister, les Runes deviennent intéressantes parce qu’on peut les **reconnaître en lui**, plutôt que les lui attribuer abstraitement.
 
@@ -797,11 +801,11 @@ Je pense que celle-là, contrairement aux années d'apprentissage, **mérite pro
 
 ### Les trois témoignages
 
-**PJ — 31/08/2026 19:41:26**
+**PJ**
 
 Tal est prêt a découvrir ce nouveau monde. 
 
-**MJ — 31/08/2026 19:41:28**
+**MJ**
 
 Les premières semaines auprès d’Hendrik détruisent rapidement une illusion : **devenir Sage Gris ne consiste pas à écouter un vieil homme fascinant raconter des mythes sur les routes.**
 
@@ -851,11 +855,11 @@ Hendrik passe derrière toi.
 
 — Alors, Talimar : **que fais-tu de ce témoignage ?**
 
-**PJ — 31/08/2026 19:47:44**
+**PJ**
 
 "Il n'a aucune mesure. Si on l'ecoutait on soutiendrait son clan. Il faudrait que je lise les autres témoins. Et même la ce n'est pas sur qu'on connaisse la vérité.. seul LK sait." faisait référence a la totalité de la vérité inaccessible aux hommes. Mais je crois que j'ai déjà intégré que trouver la vérité est un des pouvoirs des Sages Gris.
 
-**MJ — 31/08/2026 19:47:45**
+**MJ**
 
 Hendrik acquiesce à la première partie.
 
@@ -901,11 +905,11 @@ Tu as devant toi trois fragments imparfaits d'un événement disparu.
 
 **Qu'est-ce que Tal cherche en premier pour commencer à reconstruire ce qui s'est réellement passé ?**
 
-**PJ — 31/08/2026 19:50:24**
+**PJ**
 
 Étant donné que je n'en sais strictement rien peut être qu'une résolution permettrait de résoudre cette énigme?
 
-**MJ — 31/08/2026 19:50:25**
+**MJ**
 
 Oui. Là, Tal **essaie réellement de tirer quelque chose de fragments contradictoires**, et nous ne savons pas s'il y parvient. Ça mérite une résolution.
 
@@ -935,11 +939,11 @@ Perspective théiste.
 
 **PROCÉDURE (annotation rétrospective)** — C’est le PJ qui propose explicitement de résoudre l’énigme par GP lorsqu’il ne sait pas comment la performer lui-même.
 
-**PJ — 31/08/2026 19:51:57**
+**PJ**
 
 4,5,2
 
-**MJ — 31/08/2026 19:51:58**
+**MJ**
 
 **4, 5, 2 → 2 réussites.**
 
@@ -1003,11 +1007,11 @@ Et Tal écoute.
 
 ### Correction de table : l’Exploit, puis le mythe
 
-**PJ — 31/08/2026 22:31:28**
+**PJ**
 
 Off: je sais que ce n'est pas simple et nécessite un niveau d'impro mais je trouve que l'exploit n'a pas été bien narré au niveau consequence. Je pense que ce jour Tal a fait l'admiration d'Hendrik mais aussi des autres apprentis. Même si la résolution de l'énigme n'est pas connue, Tal a donné une interprétation possible qui explique les 3 témoignages mais a admis avec humilité que ce n'était pas suffisant pour l'affirmer car il a su donner une autre interprétation aussi. Bref un moment memorable dans la vie du jeune homme. 
 
-**MJ — 31/08/2026 22:31:30**
+**MJ**
 
 Oui, je suis d’accord sur la conséquence. J’ai traité le **+2 comme une meilleure résolution intellectuelle**, alors qu’un Exploit devait aussi changer quelque chose **dans la fiction autour de Tal**. Ta version est plus juste : ce jour-là devient un souvenir fondateur de son apprentissage. Il propose une reconstruction qui explique les trois témoignages, puis surprend tout le monde en en produisant une seconde, également compatible, et refuse donc de prétendre savoir laquelle est vraie. Hendrik est impressionné ; les autres apprentis commencent à regarder Tal autrement. Je retiens cette correction comme conséquence canonique de l’Exploit.
 
@@ -1125,11 +1129,11 @@ Il se tourne plutôt vers Talimar.
 
 **PROCÉDURE (annotation rétrospective)** — Le premier traitement de l’Exploit des trois témoignages est corrigé à la table : la conséquence canonique inclut l’admiration d’Hendrik et des autres apprentis et le fait que Tal formule deux interprétations compatibles sans prétendre savoir laquelle est vraie.
 
-**PJ — 31/08/2026 22:37:00**
+**PJ**
 
 "Parce que lui même qui sait tout continue de chercher. C'est sa quête, c'est notre quête." (Et je pense que le joueur peut noter des bribes de mots clés qu'il tire du mythe raconté, quitte à ce que le MJ répète le mythe). 
 
-**MJ — 31/08/2026 22:37:01**
+**MJ**
 
 Hendrik reste silencieux un instant après la réponse de Tal.
 
@@ -1173,13 +1177,15 @@ Puis il ajoute :
 
 Et l'enseignement continue.
 
-## 6. Révélation des Runes
+---
 
-**PJ — 31/08/2026 22:44:17**
+## Les Runes de Tal
+
+**PJ**
 
 J'ai hâte de voir comment les runes vont se révéler a Tal.
 
-**MJ — 31/08/2026 22:44:18**
+**MJ**
 
 Alors refermons le debrief temporaire.
 
@@ -1225,12 +1231,12 @@ Pas besoin de penser en termes de Runes. Dis-moi simplement quel endroit attire 
 
 **PROCÉDURE (annotation rétrospective)** — Pour « Ne cherchez rien », le MJ annonce explicitement l’absence de jet : il n’y a ni opposition ni intention incertaine à résoudre.
 
-**PJ — 31/08/2026 22:52:56**
+**PJ**
 
 Je pense que l'esprit de Tal bouillonne depuis des mois. Il est loin des querelles de clan, des inquiétudes sur l'Empire Lunaire. Il a déjà écrit a sa famille et sait que la vieille barbe blanche (comme ça qu'il surnomme le sage gris traditionnaliste du clan du Héron Gris). Je pense qu'il aspire a un décalage: quitter l'effervescence intellectuel pour trouver du calme. Il va chercher a monter le plus haut possible. Il cherche un point de vue: il veut sentir le vent (en s'éloignant du clan ses racines lui paraissent plus proche et lui manque), mais c'est même l'air en fait plutôt: pas le mouvement, le milieu qui est entre deux, l'interface, là où se trouvent le vent , la lune, les nuages. Il s'interroge sur au dessus: yelm, puis les étoiles. Il comprend les échelles et pense a l'en-dessous: LK y est allé. La aussi cela existe. Toutes ses couches superposées. Il s'abandonne a la douceur de la rêverie. 
 C'est de ça dont Tal a besoin après ces mois intenses.
 
-**MJ — 31/08/2026 22:52:57**
+**MJ**
 
 Tal monte.
 
@@ -1292,11 +1298,11 @@ Hendrik regarde ses mains vides.
 
 — Alors, Talimar ?
 
-**PJ — 31/08/2026 22:56:26**
+**PJ**
 
 J'ai trouvé ma nature: air (le milieu) et harmonie (réconcilier les contraires, voir au delà des différences...). (C'est un peu abrupt mais je trouve qu'à ce stade les runes de Tal me semblent évidentes) Et bien sûr il y a la rune qui a tout déclenché: mouvement (curiosité).
 
-**MJ — 31/08/2026 22:56:27**
+**MJ**
 
 Hendrik regarde Talimar.
 
@@ -1342,11 +1348,11 @@ Il marque une pause.
 
 **PROCÉDURE (annotation rétrospective)** — Air, Harmonie et Mouvement sont proposés explicitement par le PJ après la Situation ; le MJ ne les avait pas donnés dans une liste à choisir.
 
-**PJ — 31/08/2026 22:59:14**
+**PJ**
 
 C'est le but de ma quête: les choses sont, mêmes contraires, elles sont, la, ensemble et l'harmonie est ce qui les lie. L'harmonie est l'antithèse du chaos.
 
-**MJ — 31/08/2026 22:59:15**
+**MJ**
 
 Hendrik ne répond pas immédiatement.
 
@@ -1396,7 +1402,9 @@ Pas parce qu'un Sage Gris les lui a attribués.
 
 Parce que Talimar a commencé à reconnaître leur présence dans sa propre vie.
 
-## 7. La feuille intermédiaire de Tal
+---
+
+## La feuille intermédiaire de Tal
 
 ### Talimar « Tal »
 
@@ -1448,13 +1456,15 @@ Bribes que Tal en a personnellement retenues :
 
 **État :** aucun état particulier actuellement.
 
-## 8. L’initiation
+---
 
-**PJ — 31/08/2026 23:07:10**
+## L’initiation
+
+**PJ**
 
 Jouons donc cette initiation 
 
-**MJ — 31/08/2026 23:07:11**
+**MJ**
 
 Quelques saisons plus tard, Hendrik cesse simplement de traiter Tal comme un apprenti ordinaire.
 
@@ -1526,12 +1536,12 @@ Tal sait qu'il pourrait donner une réponse savante. Il en connaît désormais b
 
 Mais c'est **Lhankor Mhy** qu'il vient trouver.
 
-**PJ — 31/08/2026 23:12:57**
+**PJ**
 
 Tal écarte les bras et declare "je viens chercher l'accord et le soutien du premier d'entre les sages, le dieu a la barbe grise, le gardien de la connaissance, celui qui se fait appeler Lankhor Mhy. S'il m'accepte je voudrais ma vie a la Loi et la Vérité." 
 Et la Tal doute, ni la rune de la Loi, ni celle de la Vérité n'ont été révélées chez lui (oops).
 
-**MJ — 31/08/2026 23:12:58**
+**MJ**
 
 Le Sage ne répond pas immédiatement.
 
@@ -1583,11 +1593,11 @@ Il fait un pas de côté, laissant entièrement visibles Loi et Vérité.
 
 **...est-ce toujours ce que tu veux ?**
 
-**PJ — 31/08/2026 23:18:14**
+**PJ**
 
 Tal tombe a genoux. Il pleure. "Merci O gardien des secrets, tu viens de me faire comprendre mes erreurs. Et c'est pour cela que je veux être ton disciple le plus assidu. Bien sûr, ce que j'ai pris pour l'Harmonie était la Loi, celle qui lie les choses!! Et me voilà devenu homme, la Vérité est ma raison d'être et est mon mouvement !!" Il ne sait pas vraiment s'il a réussi ou échoué mais peu importe, il a la sensation que tout prend sens, s'emboîte, il semble même hors du monde. Derrière ses larmes, il a l'impression d'être dans le monde des dieux même.
 
-**MJ — 31/08/2026 23:18:15**
+**MJ**
 
 Pendant un instant, Tal ne sait plus s'il est à genoux sur les dalles du sanctuaire.
 
