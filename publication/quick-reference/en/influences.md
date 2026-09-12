@@ -62,42 +62,50 @@ After both rolls have been read normally, **each of their `1`s may remove one op
 
 ## Chaos
 
-Chaos may be invoked only if the act itself opens a breach: transgression, destruction, cruelty, corruption, or an unnatural transformation.
+> **The Cosmos determines what is possible. Chaos can open the impossible. The dice still say what happens.**
 
-### First Pact
+Chaos may make admissible a **Focus previously closed by a Frame Factor**, after which resolution proceeds normally.
 
-The first time a Protagonist gives in to Chaos to overcome an obstacle or escape a certain outcome:
+### When Chaos is waiting for you
 
-- they immediately gain a **Feat**;
-- no dice are rolled for that resolution;
-- they receive a **Taint**, described by a new Chaotic Keyword.
+If Chaotic exposure threatens to open a Breach, announce it at the **Death** step when the Protagonist can reasonably understand the risk.
 
-### Calling on Chaos again
+When the Focus genuinely concerns the opening of that Breach:
 
-After the first pact, Chaos may force a resolution, up to ignoring a Frame Factor when the fiction genuinely permits that rupture.
+| Protagonist's result | Consequence |
+| --- | --- |
+| **Feat** | They resist the Breach **and** may gain an additional coherent advantage. |
+| **Victory** | They resist. **No Breach.** |
+| **Status quo** | The threat remains. Withdraw, seek another path, or escalate. |
+| **Defeat** | **A Breach opens.** |
+| **Fiasco** | **A Breach opens** and an additional Chaotic consequence appears. |
 
-Each new invocation requires permanently crossing out something that still bound the Protagonist to the Cosmos:
+No second "corruption roll" is required.
 
-- a **positive Keyword**;
-- a **Runic Affinity**;
-- a **Bond**;
-- an **important Attachment**.
+### Deliberately invoking Chaos
 
-The loss must exist in the fiction.
+The Protagonist accepts that a limit of the Cosmos temporarily ceases to close off a possibility. State the **newly possible Focus**, resolve normally, then also apply the Chaotic consequence:
 
-### Growth of the Taint
+| Result | Intention | Breach |
+| --- | --- | --- |
+| **Feat** | The impossible is achieved. | The Breach is **closed before taking root**; an existing Breach does not expand. |
+| **Victory** | The impossible is achieved. | **The Breach opens or expands.** |
+| **Status quo** | Nothing is secured. | The player may stop with no progression, or escalate; if they do, the Breach expands before the new resolution. |
+| **Defeat** | The impossible is not achieved. | **The Breach opens or expands anyway.** |
+| **Fiasco** | The impossible is not achieved. | **The Breach opens or expands**, plus an additional Chaotic consequence. |
 
-Each new use may cause the Taint to evolve:
+The price never buys success.
 
-1. **First sign** — subtle, almost benign, but unnatural.
-2. **The sign asserts itself** — visible and constraining.
-3. **The hold grows** — the Taint invades daily life.
-4. **Total hold** — it leaves almost no room for what the Protagonist once was.
+### The Breach
 
-The Taint may become a Bet when it genuinely matters in a Situation.
+A Breach is a **Chapter in the Living Portrait**, not a track. First state what has become false, for example:
 
-### Downfall
+> **Breach — Death no longer completely separates me from the living.**
 
-When nothing remains that the Protagonist can sacrifice, Chaos no longer grants this exceptional power: the transformation has won.
+When it expands, ask:
 
-A Chaotic creature or god normally uses its own Worldview. Chaos does not automatically add Successes to everything Chaotic.
+> **What limit that still contained this proposition now ceases to hold?**
+
+Rewrite its statement in a less limited form if necessary. A progression may be described as **Exception → Appetite → Obsession → Constitutive principle**, without becoming a mandatory track.
+
+A Breach may later become a **Bet**, **consequence**, **Frame Factor**, or the object of a **Focus** when it genuinely matters.

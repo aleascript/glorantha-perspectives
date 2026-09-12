@@ -50,7 +50,7 @@ Quelques formulations simples peuvent suffire :
 
 - **« Ceci pourrait vous coûter cher. »** — blessure grave, perte d'un objet important, rupture d'un lien, réputation détruite ou autre conséquence lourde ;
 - **« Un échec pourrait être fatal. »** — la mort du Protagoniste est réellement en jeu ;
-- **« Le Chaos vous guette. »** — une transformation, une Souillure ou une conséquence irréversible est possible.
+- **« Le Chaos vous guette. »** — une transformation, une Brèche ou une conséquence irréversible est possible.
 
 Ces phrases ne constituent pas une échelle mécanique. Elles rendent le risque compréhensible avant que le joueur engage son Protagoniste.
 
