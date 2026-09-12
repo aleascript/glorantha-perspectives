@@ -12,7 +12,7 @@ Les formulations sont conservées telles qu'elles apparaissent dans la source de
 
 ---
 
-**MJ**
+**[MJ]**
 
 Peu de temps après ton initiation, Hendrik t'a mené à **Jonstown**.
 
@@ -62,11 +62,11 @@ Hendrik se tourne vers toi.
 
 > **Note d'édition — lacune de la source :** le transcript conservé passe ici directement de la question d'Hendrik au résultat du jet. La formulation exacte de l'intention ayant conduit à cette première résolution n'est pas présente dans la source ; elle n'est donc pas reconstruite.
 
-**PJ**
+**[PJ]**
 
 6 4 1 qui finit en 6 4 4 après relance du 1 : 3 réussites :)
 
-**MJ**
+**[MJ]**
 
 Oui : **3 Réussites**. Ton `6` relève le `1` en `4` : le soutien divin transforme ce qui aurait pu manquer en quelque chose qui tient.
 
@@ -106,11 +106,11 @@ Puis, sans te regarder :
 
 Il te laisse la parole.
 
-**PJ**
+**[PJ]**
 
 Je reste stoïque face a mon échec précédent mais surtout essaie de pas céder a l'émotion car ça serait contre productif ici. Je jauge la situation et apparemment personne ne semble contester l'intervention de l'homme. Je lui demande "alors peut être peux tu nous éclairer sur ce qui s'est réellement passé?"
 
-**MJ**
+**[MJ]**
 
 L'homme acquiesce une fois.
 
@@ -144,11 +144,11 @@ Darin te regarde.
 
 Hendrik ne commente pas son récit. Il attend.
 
-**PJ**
+**[PJ]**
 
 J'écoute et mon esprit bouillonne pour retenir le moindre détail. Qu'est ce qui est vrai? Qu'est ce qui manque? Voilà ce que Lankhor Mhy m'a enseigné. Ça s'applique ici. Je ne m'adresse pas a l'homme mais a Hendrik "a quelle distance était il? Quand on est loin on ne se rend pas compte des distances. Ça avait l'air d'être très agité. Il faudrait d'autres témoins. Le blessé pourrait nous dire pourquoi il a achevé un homme a terre pour des vaches. Peut être même le corps du .. mort pourrait nous indiquer quelque chose.." je frissonne de mon audace en parlant comme ça du corps du mort.
 
-**MJ**
+**[MJ]**
 
 Hendrik tourne légèrement la tête vers toi.
 
@@ -202,11 +202,11 @@ Puis il se tourne vers toi.
 
 Il attend.
 
-**PJ**
+**[PJ]**
 
 J'essaie de repérer parmi les témoins et si j'ai vu le blessé si je peux identifier des clans différents pour savoir qui serait dans quel camp et donc pas forcément neutre. Un raid de bétail qui tourne mal. Ça arrive malheureusement. Si Beren est  un Carl ou fils de Carl le wergild sera élevé. Si Karest a tué Beren de façon indigne c'est qu'il y a autre chose. "Est ce que Beren et Karest s'etaient déjà rencontrés?" C'est ce que je demande à Enissa et au cousin de Beren mais n'importe qui peut entendre la question et répondre.
 
-**MJ**
+**[MJ]**
 
 En regardant mieux, tu peux au moins séparer une chose des récits : les appartenances.
 
@@ -242,11 +242,11 @@ Enissa ne baisse pas les yeux.
 
 Hendrik ne commente toujours pas. Mais cette fois, tu le vois écrire quelques mots sur sa tablette.
 
-**PJ**
+**[PJ]**
 
 J'invite Enissa a nous dire ce qui, selon Karest, n'aurait pas été réglé en l'exhortant de se placer du coté de la Vérité et non du côté du Trickster.
 
-**MJ**
+**[MJ]**
 
 Enissa te fixe un instant.
 
@@ -272,11 +272,11 @@ Elle revient à toi.
 
 Hendrik cesse d'écrire une seconde, puis reprend.
 
-**PJ**
+**[PJ]**
 
 Hendrik parle? Parce que là j'ai l'impression que poussé à bout Karest a laissé échapper sa rage sur Beren. Non pas que Beren le méritait mais il avait préparé le terrain. Je regarde Hendrik en pensant cela mais surtout l'écoute.
 
-**MJ**
+**[MJ]**
 
 Hendrik finit par relever les yeux de sa tablette.
 
@@ -304,12 +304,12 @@ Il jette un regard vers la Maison de la Paix.
 
 Il attend de voir ce que tu veux examiner ensuite.
 
-**PJ**
+**[PJ]**
 
 Note: j'étais silencieux avant car tu as dit Hendrik reprend, c'était mes pensées intérieures, sois vigilant. Mais avancons. 
 "Si Karest a tué par rage, le corps en portera la trace." Dis je tout bas a Hendrik pour pas que la mère entende.
 
-**MJ**
+**[MJ]**
 
 Noté.
 
@@ -327,12 +327,12 @@ Son regard glisse vers la mère de Beren.
 
 Puis il se tait.
 
-**PJ**
+**[PJ]**
 
 "si il y a plusieurs coups portés ça peut aller dans le sens d'un accès de rage de Karest" 
 Puis a la mere "nous devons voir le corps de votre fils avant que le bûcher ne le rende aux vents"
 
-**MJ**
+**[MJ]**
 
 Hendrik te répond à voix basse :
 
@@ -360,13 +360,13 @@ Elle se détourne déjà.
 
 Hendrik range sa tablette et te fait signe de la suivre.
 
-**PJ**
+**[PJ]**
 
 J'écoute Hendrik psalmodier les mots rituels pour accompagner l'âme des morts dans le monde inférieur avant qu'elle puisse plus tard rejoindre le royaume d'Orlanth.
 Et nous procédons avec deference et minutie a l'examen du corps sans forcément avoir besoin de le déshabiller: on peut compter les blessures profondes sans le faire a mon avis.
 C'est la 1ere fois que je vois un mort d'aussi prêt et j'essaie de garder une contenance mais suis très troublé. La Mort! Pas celle du gibier mais celle d'un homme. Le grand secret qu'Humakt a amené dans le monde.
 
-**MJ**
+**[MJ]**
 
 Hendrik ne récite pas fort. Sa voix reste basse, presque égale. Les mots que tu connais comme ceux qui accompagnent les morts ne cherchent pas à consoler les vivants ; ils marquent simplement que Beren a quitté ce côté-ci du monde.
 
@@ -402,11 +402,11 @@ Hendrik te regarde.
 
 — Qu'est-ce que cela change, Tal ?
 
-**PJ**
+**[PJ]**
 
 "il aurait demandé grâce à Karest? Ou bien Karest aurait frappé alors que Beren ne représentait pas une menace?"
 
-**MJ**
+**[MJ]**
 
 Hendrik secoue lentement la tête.
 
@@ -432,11 +432,11 @@ Puis il te regarde.
 
 — Le corps ne peut pas choisir entre eux pour nous.
 
-**PJ**
+**[PJ]**
 
 "oui mais ca discredite quand meme beaucoup le témoignage d'Enissa. Nous devrions aller lui parler je pense." Et au fond de moi je commence a me preter au jeu. Je ne vois plus que le casse tete, ce qui m'arrange bien car comme ca j'en oublie la vision du corps de Beren. Nous quittons donc la mere et la soeur j'imagine a moins que Hendrik ait autre chose a faire avant de partir.
 
-**MJ**
+**[MJ]**
 
 Hendrik secoue légèrement la tête.
 
@@ -462,11 +462,11 @@ Elle vous voit revenir.
 
 — Alors ?
 
-**PJ**
+**[PJ]**
 
 "tu confirmes avoir vu Beren attaquer Karest. Peux tu nous dire ou nous montrer comment ca s'est passé?" dis-je essayant presque de la flatter pour lui faire comprendre que grace a elle on saura ce qui s'est passé. Mon objectif est de déceler dans son récit ou sa reconstitution une incohérence démentie par ce que nous savons apres avoir vu le corps de Beren
 
-**MJ**
+**[MJ]**
 
 Enissa fronce légèrement les sourcils au mot « attaquer ».
 
@@ -500,11 +500,11 @@ Le jet ne décidera pas de ce qui s'est réellement passé. Il dira si tu réuss
 
 Lance **3d6** et donne-moi les résultats bruts.
 
-**PJ**
+**[PJ]**
 
 4,5,1
 
-**MJ**
+**[MJ]**
 
 Tes `4, 5, 1` donnent **1 Réussite**.
 
@@ -548,11 +548,11 @@ Mais elle rend une chose très nette : pour que Beren puisse frapper Karest de s
 
 Hendrik te regarde, sans commenter.
 
-**PJ**
+**[PJ]**
 
 Je la remercie et demande a Maitre Hendrik si nous pouvons parler seul a seul de l'affaire. Avant bien sur que j'ai vu qu'il n'a pas eu d'autres questions a poser a Enissa.
 
-**MJ**
+**[MJ]**
 
 Tu remercies Enissa. Hendrik, lui, n'a pas tout à fait fini.
 
@@ -576,11 +576,11 @@ Quand tu lui demandes si vous pouvez parler seuls, il te fait signe de le suivre
 
 — Je t'écoute, Tal.
 
-**PJ**
+**[PJ]**
 
 "Ca m'a tout l'air d'un raid qui a mal tourné non? Ce sont des choses qui arrivent et nos lois sont là pour encadrer avec wergild la compensation d'un clan à l'autre clan. Je ne vois pas de mystere la dedans ni de grands enjeux. Pensez-vous qu'une divination soit nécessaire pour y voir plus clair?"
 
-**MJ**
+**[MJ]**
 
 Hendrik reste un moment silencieux.
 
@@ -606,11 +606,11 @@ Puis, avec une pointe d'ironie :
 
 — Lhankor Mhy nous a donné des questions avant de nous donner des réponses.
 
-**PJ**
+**[PJ]**
 
 "le témoignage d'Enissa me semble sincere. Le "Ca suffit" peut signifier tellement de choses aussi vu que les deux semblaient se hair. Dans tous les cas, ca a été un combat à la loyale: Beren aurait pu tuer Karest. Je ne vois quelle justice divine nous cherchons encore: la vérité? La vérité mais quelle vérité? Et a quoi bon? Ne sommes nous pas les garants des lois? Je n'arrive pas a voir en quoi cette affaire releverait d'un assassinat en fait."
 
-**MJ**
+**[MJ]**
 
 Hendrik t'écoute jusqu'au bout sans t'interrompre.
 
@@ -636,12 +636,12 @@ Il ajoute, presque sèchement :
 
 — La Loi n'a pas besoin que nous rendions le monde plus net qu'il ne l'est.
 
-**PJ**
+**[PJ]**
 
 Mes yeux s'écarquillent: "oo je comprends. Nous devons au clan de dire uniquement ce qui est attesté. merci pour la lecon Maitre." Et en effet, cet enseignement de terrain par Hendrik est un grand soulagement, car ma compréhension de vérité etait trop absolue et cela me mettait beaucoup de pression en fait.
 Note: je note dans mon portrait: "ne chercher et ne rapporter que les faits avérés"
 
-**MJ**
+**[MJ]**
 
 Hendrik te regarde un instant, puis acquiesce.
 
@@ -655,15 +655,15 @@ Puis il reprend sa tablette.
 
 — Maintenant, il faut décider ce que nous pouvons dire à ces gens aujourd'hui — et ce qui devra attendre Karest, s'il peut parler demain.
 
-**PJ**
+**[PJ]**
 
 "Nous pourrions leur dire qu'a ce stade rien ne nous permet d'affirmer qu'il y a eu un manquement dans nos lois lors du combat entre Beren et Karest. Que tous les amis et proches de Beren devraient se préparer aux funérailles, et que nous continuerons à chercher la vérité demain?" J'essaie de rentrer dans le nouveau moule mental que Hendrik m'a montré.
 
-**PJ**
+**[PJ]**
 
 Je me dirige vers le groupe et attire leur  attention ce qui n'est pas difficile car mon status de Sage Gris est respecté et attendu. "Moi, Talimar et maitre Hendrik, venons vous informer de l'évolution de notre enquete. Nos investigations confirment bien le combat entre Beren et Karest, qui a engendré la mort de Beran mais à ce stade, (.. silence pour marquer à ce stade), rien ne nous permet d'affirmer qu'il y a eu un manquement dan nos lois lors du combat. Pour autant, étant autant attachés à nos lois qu'a la vérité, nous continuerons demain l'enquete, en particulier si Karest survit et qu'il accepte de parler. Je vous invite tous à commencer les funérailles de Beren pour qu'il soit accueilli le mieux possible de l'autre côté."
 
-**MJ**
+**[MJ]**
 
 Le silence que tu as ménagé sur **« à ce stade »** porte.
 
