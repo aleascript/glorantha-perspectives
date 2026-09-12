@@ -31,6 +31,10 @@ Logic does not distinguish favourable dice from unfavourable ones. Every value c
 
 The Logician therefore does not ask which dice succeeded. They calculate **what the whole of reality placed in the balance can actually produce**.
 
+With a single Bet, this reading is less efficient than the other Worldviews: only `5` and `6` produce a Success. This is deliberate. An isolated element gives the Logician little purchase; their strength appears when several elements can be measured, combined, and recomposed.
+
+*Damn rationalists. That's why they love splitting hairs.*
+
 ## When the Worldview falters or is fulfilled
 
 ### The Imperfect Measure — Weakened Worldview
@@ -83,6 +87,8 @@ Exactly the same elements of reality were present. What changes is the precision
 >
 > Logic is deliberately the only basic Worldview that gives no qualitative meaning to the parity of dice. Everything becomes quantity, combination, and yield.
 >
+> Its curve is deliberately different as well. With a single Bet, the Logician averages only one third of a Success. With two Bets, the average already reaches one Success, and then pooling the values makes each Bet progressively more efficient. Weakness on an isolated element is the other side of the ability to draw more from a structured whole.
+>
 > The heroic mode is gradual because logical fulfillment is not a sudden manifestation but a **progressive reduction of the gap with Law**.
 >
-> The number `5`, its possible associations with the elements or with the human hand, and other symbolic justifications belong in this design section, not in the procedure the player must remember.
+> The number `5`, its possible associations with the elements, with the human hand, or with other symbolic readings are not an external dressing applied to the rule. Glorantha Perspectives aims precisely to give meaning to procedures through the world. The player does not need to memorize all these associations to apply the rule; their presence nevertheless matters in its design and in the resonance it maintains with the lore.
