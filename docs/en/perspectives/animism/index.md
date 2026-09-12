@@ -41,13 +41,15 @@ The problem is not the absence of the spirit world. It is the inability to estab
 
 ### The Circle of Spirits — Heroic Worldview
 
-If **the lowest and highest dice in the roll share the same parity**, every Bet succeeds.
+The boundaries between the two sides of the resolution no longer limit Spiritual Pacts.
 
-The extremes answer one another. What seemed like a collection of independent presences suddenly appears as an attuned whole.
+When counting the Animist's Successes, an odd die from their roll may form a **Spiritual Pact** with a die showing the same odd value in the opposing roll.
 
-It is no longer one spirit answering, or even one particular pact.
+Form as many Pacts as possible. For this count, each die may participate in only one Pact. Dice from the opposing roll that are recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
 
-**The whole circle has closed around the action.**
+Spirits are no longer neatly divided between "mine" and "theirs." A presence revealed by the opposition may answer a presence in the Animist's own roll.
+
+**The circle now crosses both sides of the action.**
 
 ## Where to look
 
@@ -55,7 +57,7 @@ Even dice give their Successes immediately.
 
 But your attention should go especially to **odd dice**. Look for those that resemble one another: *who has just recognized whom?*
 
-In the Heroic Worldview, widen your gaze to the two extremes: *do the humblest and the greatest presences belong to the same movement?*
+In the Heroic Worldview, do not stop at your own roll. Look at the odd dice in the opposing roll as well: *which presences recognize one another despite the opposition?*
 
 ## Example of play
 
@@ -73,13 +75,25 @@ In the fiction, this does not necessarily mean that three spirits appear before 
 
 She has not merely found a route. She understands which presences of the place have momentarily come into accord with her.
 
+Now, in the **Circle of Spirits**, imagine that the Animist rolls:
+
+`2 · 5 · 1 · 1`
+
+and the opposing roll is:
+
+`4 · 3 · 5 · 1`
+
+The `2` answers directly: one Success. The two `1`s in the Animist's own roll may form a Spiritual Pact. The `5` may form another Pact with the `5` in the opposing roll.
+
+The Animist therefore obtains three Successes. The spirit world did not stop at the boundary between the two sides of the resolution.
+
 > **DESIGN — Why this reading?**
 >
 > Animism does not reduce odd dice to failed results. They represent a spirit world that is present but difficult to bring into accord.
 >
 > The Spiritual Pact makes a Success emerge from the **relationship between two presences** rather than from an isolated face.
 >
-> The Circle of Spirits carries that logic to fulfillment: when the extremes themselves are attuned, the whole roll can be read as one coherent relationship.
+> The Circle of Spirits carries this logic to fulfillment without introducing a second language of reading: the same relationship simply becomes able to cross the opposition. At this degree of Worldview, the Animist no longer assumes that spirits naturally belong to one side. They recognize the accords that exist across the whole scene.
 
 [And why not a spirit bag?](spirit-bag)
 
