@@ -32,4 +32,4 @@ La plupart des transactions ordinaires peuvent passer par le troc ou par des uni
 
 L'argent ne demande pas nécessairement de comptabilité détaillée.
 
-Quand la richesse, une dette, une cargaison ou la rareté d'une monnaie devient importante dans la Situation, notez-la comme une vérité concrète. Elle peut alors devenir une Mise, une ressource à perdre, une obligation ou un problème à résoudre.
+Quand la richesse, une dette, une cargaison ou la rareté d'une monnaie devient importante dans la Situation, notez-la comme un élément fictionnel concret. Elle peut alors devenir une Mise, une ressource à perdre, une obligation ou un problème à résoudre.

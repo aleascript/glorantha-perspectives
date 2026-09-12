@@ -4,13 +4,13 @@ title: Transcript
 
 # Transcript
 
-**Estimated play time: about 3 hours.**
+**Estimated play time: about 2 hours.**
 
 :::note[Translation]
 
-This game was played in **French**. This page is an English translation of the original transcript. The original **[PJ]** (*player*) and **[MJ]** (*GM*, carrying the function of **Time** in GP) labels are retained.
+This game was played in **French**. This page is an English translation of the original transcript.
 
-The source conversation lasted longer, notably because of research in the sources and out-of-game exchanges. This translation preserves the turns in their real order, the Bets, dice, corrections, and procedural exchanges that actually contributed to play. Internal technical traces from the tools are removed.
+This translation preserves the turns in their real order, the Bets, dice, corrections, and procedural exchanges that actually contributed to play. Internal technical traces from the tools are removed.
 
 The **PROCEDURE** annotations were added retrospectively and are explicitly marked as such.
 
@@ -20,7 +20,7 @@ The **PROCEDURE** annotations were added retrospectively and are explicitly mark
 
 ## Finding Tal through play
 
-**[MJ]**
+**[TIME]**
 
 **Session Zero.**
 
@@ -42,11 +42,11 @@ To begin:
 **4.** Someone connected, in one way or another, to the Lunar world.  
 **5.** You would rather choose nothing yet: **let the fiction show me who I am.**
 
-**[PJ]**
+**[TAL]**
 
 I like the idea of a character who belongs to the community but isn't satisfied with his lot or with the world he lives in.
 
-**[MJ]**
+**[TIME]**
 
 So you belong to this community. You know its customs, stories, obligations. **It is not a foreign world you reject: it is your own world that is not enough for you.**
 
@@ -66,11 +66,11 @@ When you look at the life expected of you, what weighs on you most?
 
 Or tell me directly what's wrong.
 
-**[PJ]**
+**[TAL]**
 
 D. I have trouble taking an absolutely anti-Empire position, but I also have trouble condoning their customs and actions. So I feel not only torn but orphaned. As if something were missing.
 
-**[MJ]**
+**[TIME]**
 
 So you are not a rebel out of certainty.
 
@@ -94,11 +94,11 @@ Was it already there when you were a child?
 
 Or can you remember a precise moment when something cracked?
 
-**[PJ]**
+**[TAL]**
 
 Maybe when I saw the benefits of the Lunar way of life: baths, buildings, organization, a way of handling conflicts by presenting their different sides. Very different from our rougher way of life, more wind, sometimes violent. And yet Lunar society is also the Crimson Bat, slaves, domination.
 
-**[MJ]**
+**[TIME]**
 
 Yes.
 
@@ -128,11 +128,11 @@ You do not know these Lunar things only by hearsay.
 
 Did you spend some time in a city under strong Lunar influence? Travel with someone who worked with them? Stay among Lunars? Or is it something more personal still?
 
-**[PJ]**
+**[TAL]**
 
 Maybe a merchant uncle and I often accompanied him into Tarsh.
 
-**[MJ]**
+**[TIME]**
 
 Your uncle is a merchant.
 
@@ -156,11 +156,11 @@ After a while he asks:
 
 What do you answer?
 
-**[PJ]**
+**[TAL]**
 
 I was young, excited: “did you see their buildings? Their statues? Their clothes? Even the women's clothes (I blushed).” At the time I had only seen the facade.
 
-**[MJ]**
+**[TIME]**
 
 Your uncle bursts out laughing at your last remark.
 
@@ -194,11 +194,11 @@ In your family, what would people naturally have expected you to become?
 
 **Warrior? Herdsman or farmer? Craftsman? Merchant like your uncle? Servant of a god? Something else?**
 
-**[PJ]**
+**[TAL]**
 
 I think people expected me to be a merchant like him except I'm not interested at all. Very little chance I end up initiated into Issaries, or else I'd be a poor initiate. Inside I was aspiring to something else actually. Lhankor Mhy could have been a lifeline: myths, history and knowledge and the possibility of travelling.
 
-**[MJ]**
+**[TIME]**
 
 Trade should have been your path.
 
@@ -236,12 +236,12 @@ Someone from home? A sage met in Tarsh? Or would you rather this person enter yo
 
 ## A possibility: Lhankor Mhy, then the choice to play it
 
-**[PJ]**
+**[TAL]**
 
 Out of character: I don't know what scenario or Situation you've planned, but yes, it could be really nice to play this all the way to initiation.
 I'd like it to be tied to a play Situation.
 
-**[MJ]**
+**[TIME]**
 
 Then we will not decide now “who recruited you into Lhankor Mhy.” **That encounter — and even the possibility that you might be judged worthy to go as far as initiation — will happen in play.** Your character does not know the outcome.
 
@@ -275,14 +275,14 @@ They are not merely decoration.
 
 ## The stone by the road
 
-**[PJ]**
+**[TAL]**
 
 - Uncle Grimar, it's been a long day, couldn't we take a break?
 Actually my objective is to manage to establish contact with this old man.
 Here's what I'm betting on: my uncle agreeing to stop, offering to share some salt with the old man in the name of Heortling law, my curiosity.
 Against me: my uncle could be against stopping (not the time to stop with this wind), ....
 
-**[MJ]**
+**[TIME]**
 
 Grimar narrows his eyes at the sky.
 
@@ -312,11 +312,11 @@ You are still deeply of your world: for this resolution, your perspective is **t
 
 **Roll 3d6 and give me the three raw results.**
 
-**[PJ]**
+**[TAL]**
 
 2,3,6 -> 2,5,6: I pulled out every trick to convince my uncle and invite the old man to share salt.
 
-**[MJ]**
+**[TIME]**
 
 Your final result: **2, 5, 6 → 2 Successes.**
 
@@ -358,13 +358,13 @@ But now that you are truly looking, something strikes you.
 
 **What he copied onto his tablet does not exactly match what is carved into the stone.**
 
-**[PJ]**
+**[TAL]**
 
 I narrow my eyes. So if I understand correctly, it looks the same if you look superficially. But my curiosity and quick mind immediately made me see the differences.
 I point out every difference I can see. The game amuses me. A bit like a spot-the-seven-differences puzzle. I almost forget politeness.
 I have absolutely no idea why there are differences, but at this stage I see them, I observe them and strangely the fact that it's reduced to the stone and the tablet calms me a lot. As if the world finally became less heavy, more understandable.
 
-**[MJ]**
+**[TIME]**
 
 You bring the tablet closer to the stone.
 
@@ -434,11 +434,11 @@ He turns the tablet back toward you.
 
 — Why not **the stone**?
 
-**[PJ]**
+**[TAL]**
 
 And then I didn't understand. Too young. “What do you mean wrong? It was here before your tablet. You're the one who made mistakes copying it. Or are you one of those Western sorcerers?”
 
-**[MJ]**
+**[TIME]**
 
 The old man stares at you for a second.
 
@@ -496,11 +496,11 @@ He observes you.
 
 — And you, young accuser of sorcerers?
 
-**[PJ]**
+**[TAL]**
 
 “Tal, Talimar, son of Calimar and Urestona, carls of the Grey Heron clan, of the Colymar tribe, and you just Hendrik?” I say, showing my disappointment that he only gave me a simple name by listing as much as possible about my lineage, which I hope will encourage him to do the same.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik raises an eyebrow as the list grows.
 
@@ -546,11 +546,11 @@ A small smile.
 
 — **There's another difference you spotted.**
 
-**[PJ]**
+**[TAL]**
 
 “But what kind of Grey Sage are you? The grumpy kind who drones on about Heort's laws, or do you read Lunar writings so you can fight them better? Have you travelled beyond?” I say that because we actually have an initiate of Lhankor Mhy in the clan, an old traditionalist man who rambles on, completely flavourless, whom I questioned and harassed with questions and who without meaning to made me understand that there are other Grey Sages, the opposite of him.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik does not answer immediately.
 
@@ -602,11 +602,11 @@ He smiles.
 
 — Why?
 
-**[PJ]**
+**[TAL]**
 
 “because that's where I want to go too,” I say through my teeth, a little afraid my uncle will hear.
 
-**[MJ]**
+**[TIME]**
 
 The words come out more quietly than you intended.
 
@@ -670,11 +670,11 @@ When you turn around, his arms are crossed.
 
 ## The encounter becomes an apprenticeship
 
-**[PJ]**
+**[TAL]**
 
 And maybe that night my uncle and I came to an agreement for me to become an apprentice under Hendrik. Maybe there was a sealed agreement: my parents being carls and my uncle a merchant, I think they could have provided enough to pay for my upkeep with Hendrik.
 
-**[MJ]**
+**[TIME]**
 
 Grimar does not answer immediately.
 
@@ -752,9 +752,9 @@ Hendrik keeps walking.
 
 — Well?
 
-**PROCEDURE (retrospective annotation)** — The [PJ] proposes that the encounter lead to an apprenticeship agreement; the [MJ] plays out its social and material consequences rather than summarizing “Tal becomes an apprentice.”
+**PROCEDURE (retrospective annotation)** — The [TAL] proposes that the encounter lead to an apprenticeship agreement; the [TIME] plays out its social and material consequences rather than summarizing “Tal becomes an apprentice.”
 
-**[PJ]**
+**[TAL]**
 
 And then I follow him, throwing out every answer I can think of. Obviously he doesn't answer. But inwardly I assume he's amused, not realizing that actually he's sizing me up.
 “Where are we going?”
@@ -777,11 +777,11 @@ And that is how I entered Hendrik's teaching. Along with other young people.
 
 ## Tal's training
 
-**[PJ]**
+**[TAL]**
 
 I think at some point it would be good to present the myths of Lhankor Mhy, then deal with initiation. At this stage there's also the question of Runes. I think things are clear now, what are LM's Runes?
 
-**[MJ]**
+**[TIME]**
 
 Yes. And now that Tal is beginning to exist, the Runes become interesting because we can **recognize them in him**, rather than assign them abstractly.
 
@@ -807,11 +807,11 @@ I think that one, unlike the years of apprenticeship, **probably deserves to be 
 
 ### The three testimonies
 
-**[PJ]**
+**[TAL]**
 
 Tal is ready to discover this new world.
 
-**[MJ]**
+**[TIME]**
 
 The first weeks with Hendrik quickly destroy one illusion: **becoming a Grey Sage does not consist of listening to a fascinating old man tell myths on the road.**
 
@@ -861,11 +861,11 @@ Hendrik walks behind you.
 
 — So, Talimar: **what do you do with this testimony?**
 
-**[PJ]**
+**[TAL]**
 
 “He has no balance at all. If we listened to him we'd side with his clan. I'd need to read the other witnesses. And even then it's not certain we'd know the truth... only LM knows.” I meant the total truth inaccessible to men. But I think I've already taken in that finding truth is one of the powers of Grey Sages.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik nods at the first part.
 
@@ -911,11 +911,11 @@ You have before you three imperfect fragments of an event that is gone.
 
 **What does Tal look for first to begin reconstructing what actually happened?**
 
-**[PJ]**
+**[TAL]**
 
 Since I have absolutely no idea maybe a resolution could solve this puzzle?
 
-**[MJ]**
+**[TIME]**
 
 Yes. Here, Tal is **really trying to draw something from contradictory fragments**, and we do not know whether he succeeds. That deserves a resolution.
 
@@ -943,13 +943,13 @@ Theist perspective.
 
 **Roll 3d6.**
 
-**PROCEDURE (retrospective annotation)** — It is the [PJ] who explicitly proposes resolving the puzzle through GP when he does not know how to perform the investigation himself.
+**PROCEDURE (retrospective annotation)** — It is the [TAL] who explicitly proposes resolving the puzzle through GP when he does not know how to perform the investigation himself.
 
-**[PJ]**
+**[TAL]**
 
 4,5,2
 
-**[MJ]**
+**[TIME]**
 
 **4, 5, 2 → 2 Successes.**
 
@@ -1013,11 +1013,11 @@ And Tal listens.
 
 ### Table correction: the Feat, then the myth
 
-**[PJ]**
+**[TAL]**
 
 Out of character: I know it isn't easy and requires a lot of improv but I don't think the Feat was narrated well in terms of consequence. I think that day Tal earned Hendrik's admiration but also that of the other apprentices. Even if the puzzle's solution isn't known, Tal gave one possible interpretation that explains the 3 testimonies but humbly admitted it wasn't enough to assert it because he was able to give another interpretation too. In short, a memorable moment in the young man's life.
 
-**[MJ]**
+**[TIME]**
 
 Yes, I agree about the consequence. I treated the **+2 as a better intellectual solution**, whereas a Feat should also change something **in the fiction around Tal**. Your version is fairer: that day becomes a founding memory of his apprenticeship. He proposes a reconstruction that explains all three testimonies, then surprises everyone by producing a second, equally compatible one, and therefore refuses to pretend he knows which is true. Hendrik is impressed; the other apprentices begin looking at Tal differently. I retain that correction as the canonical consequence of the Feat.
 
@@ -1135,11 +1135,11 @@ Instead he turns toward Talimar.
 
 **PROCEDURE (retrospective annotation)** — The first treatment of the Feat from the three testimonies is corrected at the table: the canonical consequence includes the admiration of Hendrik and the other apprentices, and the fact that Tal formulates two compatible interpretations without pretending to know which is true.
 
-**[PJ]**
+**[TAL]**
 
-“Because even he, who knows everything, keeps searching. It's his quest, it's our quest.” (And I think the player can note fragments of keywords he takes from the myth being told, even if the [MJ] has to repeat the myth.)
+“Because even he, who knows everything, keeps searching. It's his quest, it's our quest.” (And I think the player can note fragments of keywords he takes from the myth being told, even if the [TIME] has to repeat the myth.)
 
-**[MJ]**
+**[TIME]**
 
 Hendrik remains silent for a moment after Tal's answer.
 
@@ -1187,11 +1187,11 @@ And the teaching continues.
 
 ## Tal's Runes
 
-**[PJ]**
+**[TAL]**
 
 I can't wait to see how the Runes reveal themselves to Tal.
 
-**[MJ]**
+**[TIME]**
 
 Then let's close the temporary debrief.
 
@@ -1235,14 +1235,14 @@ We are not going to resolve this with a roll: there is not yet any opposition or
 
 No need to think in terms of Runes. Just tell me what place attracts this young man when, for once, he is given several hours during which nobody tells him what to seek.
 
-**PROCEDURE (retrospective annotation)** — For “Look for nothing,” the [MJ] explicitly announces that there is no roll: there is neither opposition nor uncertain Intention to resolve.
+**PROCEDURE (retrospective annotation)** — For “Look for nothing,” the [TIME] explicitly announces that there is no roll: there is neither opposition nor uncertain Intention to resolve.
 
-**[PJ]**
+**[TAL]**
 
 I think Tal's mind has been boiling for months. He's far from clan quarrels, worries about the Lunar Empire. He has already written to his family and knows that Old White Beard (that's what he calls the traditionalist Grey Sage of the Grey Heron clan). I think he longs for a shift: leave the intellectual excitement and find some calm. He'll try to climb as high as possible. He's looking for a point of view: he wants to feel the wind (away from the clan his roots seem closer to him and he misses them), but actually it's the air rather: not movement, the middle between two things, the interface, where the wind, moon, clouds are. He wonders about above: Yelm, then the stars. He understands scales and thinks about below: LM went there. That exists too. All these layers piled up. He gives himself over to the softness of daydreaming.
 That's what Tal needs after these intense months.
 
-**[MJ]**
+**[TIME]**
 
 Tal climbs.
 
@@ -1304,11 +1304,11 @@ Hendrik looks at those empty hands.
 
 — So, Talimar?
 
-**[PJ]**
+**[TAL]**
 
 I found my nature: air (the middle) and harmony (reconcile opposites, see beyond differences...). (It's a little abrupt but at this stage Tal's Runes seem obvious to me.) And of course there's the Rune that started everything: movement (curiosity).
 
-**[MJ]**
+**[TIME]**
 
 Hendrik looks at Talimar.
 
@@ -1352,13 +1352,13 @@ He pauses.
 
 **what is Harmony if opposites remain opposite?**
 
-**PROCEDURE (retrospective annotation)** — Air, Harmony, and Movement are explicitly proposed by the [PJ] after the Situation; the [MJ] had not offered them in a list to choose from.
+**PROCEDURE (retrospective annotation)** — Air, Harmony, and Movement are explicitly proposed by the [TAL] after the Situation; the [TIME] had not offered them in a list to choose from.
 
-**[PJ]**
+**[TAL]**
 
 It's the purpose of my quest: things are, even when contrary, they are there, together, and harmony is what binds them. Harmony is the antithesis of chaos.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik does not answer immediately.
 
@@ -1466,11 +1466,11 @@ Fragments Tal personally retained from it:
 
 ## Initiation
 
-**[PJ]**
+**[TAL]**
 
 Let's play this initiation then.
 
-**[MJ]**
+**[TIME]**
 
 A few seasons later, Hendrik simply stops treating Tal like an ordinary apprentice.
 
@@ -1542,12 +1542,12 @@ Tal knows he could give a learned answer. He knows many now.
 
 But it is **Lhankor Mhy** he has come to find.
 
-**[PJ]**
+**[TAL]**
 
 Tal spreads his arms and declares “I come seeking the agreement and support of the first among Sages, the grey-bearded god, the guardian of knowledge, the one called Lhankor Mhy. If he accepts me I would devote my life to Law and Truth.”
 And then Tal doubts, neither the Rune of Law nor Truth has been revealed in him (oops).
 
-**[MJ]**
+**[TIME]**
 
 The Sage does not answer immediately.
 
@@ -1599,11 +1599,11 @@ He steps aside, leaving Law and Truth fully visible.
 
 **...is that still what you want?**
 
-**[PJ]**
+**[TAL]**
 
 Tal falls to his knees. He cries. “Thank you O guardian of secrets, you have just made me understand my mistakes. And that's why I want to be your most diligent disciple. Of course, what I took for Harmony was Law, the thing that binds things!! And now I've become a man, Truth is my reason for being and is my movement!!” He doesn't really know whether he succeeded or failed but it doesn't matter, he has the feeling everything makes sense, fits together, he even seems outside the world. Behind his tears, he feels as if he is in the world of the gods themselves.
 
-**[MJ]**
+**[TIME]**
 
 For a moment, Tal no longer knows whether he is kneeling on the sanctuary stones.
 
@@ -1715,4 +1715,4 @@ And Hendrik, behind them, simply says:
 
 — **Now, seek.**
 
-**PROCEDURE (retrospective annotation)** — No initiation roll. The reinterpretation Harmony → Law and Movement → Truth arises from the [PJ]'s response to the doubt that appeared in the scene; it had not been prepared as a correction to the character sheet.
+**PROCEDURE (retrospective annotation)** — No initiation roll. The reinterpretation Harmony → Law and Movement → Truth arises from the [TAL]'s response to the doubt that appeared in the scene; it had not been prepared as a correction to the character sheet.

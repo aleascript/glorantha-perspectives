@@ -8,7 +8,7 @@ title: Transcript
 
 :::note[Translation]
 
-This game was played in **French**. This page is an English translation of the original transcript. The original **[PJ]** (*player*) and **[MJ]** (*GM*, carrying the function of **Time** in GP) labels are retained.
+This game was played in **French**. This page is an English translation of the original transcript.
 
 The translation preserves the real order of play, hesitations, corrections, Focuses, Bets, dice results, and out-of-fiction exchanges that contributed to running the game. Only internal technical traces from the tool are omitted.
 
@@ -16,7 +16,7 @@ The translation preserves the real order of play, hesitations, corrections, Focu
 
 ---
 
-**[MJ]**
+**[TIME]**
 
 Not long after your initiation, Hendrik has taken you to **Jonstown**.
 
@@ -64,7 +64,7 @@ Hendrik turns to you.
 
 — **What do you look at first, Tal?**
 
-**[PJ]**
+**[TAL]**
 
 I take my new identity as a young Grey Sage very seriously:
 - not bring shame on Hendrik
@@ -82,7 +82,7 @@ Law argument + Truth argument + wounded-man argument - Hendrik annoyed? - tense 
 
 So I'm asking for a resolution that you can validate, frame, modify...
 
-**[MJ]**
+**[TIME]**
 
 **Intention:** defuse the logic of vengeance, remove those who saw nothing, and create the conditions for a search for truth.
 
@@ -106,11 +106,11 @@ And Hendrik? He does not interrupt you. But his face gives you absolutely no hel
 
 You are a theist: roll **3d6** and give me the raw results. Evens are Successes; each `6` can raise an odd die.
 
-**[PJ]**
+**[TAL]**
 
 6 4 1 which ends up 6 4 4 after rerolling the 1: 3 successes :)
 
-**[MJ]**
+**[TIME]**
 
 Yes: **3 Successes**. Your `6` raises the `1` to a `4`: divine support turns what might have fallen short into something that holds.
 
@@ -150,11 +150,11 @@ Then, without looking at you:
 
 He leaves you the floor.
 
-**[PJ]**
+**[TAL]**
 
 I stay stoic about my previous failure but above all try not to give in to emotion because that would be counterproductive here. I gauge the situation and apparently nobody seems to dispute the man's intervention. I ask him “then maybe you can shed some light for us on what actually happened?”
 
-**[MJ]**
+**[TIME]**
 
 The man nods once.
 
@@ -188,11 +188,11 @@ Darin looks at you.
 
 Hendrik does not comment on his account. He waits.
 
-**[PJ]**
+**[TAL]**
 
 I listen and my mind is boiling, trying to hold on to every detail. What's true? What's missing? That's what Lhankor Mhy taught me. It applies here. I don't address the man but Hendrik: “how far away was he? When you're far away you don't judge distances properly. It sounds like it was very chaotic. We need other witnesses. The wounded man could tell us why he finished off a man on the ground over some cattle. Maybe even the body of the... dead man could tell us something...” I shiver at my own audacity in talking about the dead man's body like that.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik turns his head slightly toward you.
 
@@ -246,11 +246,11 @@ Then he turns to you.
 
 He waits.
 
-**[PJ]**
+**[TAL]**
 
 I try to spot among the witnesses, and from what I saw of the wounded man, whether I can identify different clans so I know who would be on which side and therefore not necessarily neutral. A cattle raid that goes bad. Unfortunately that happens. If Beren is a Carl or a Carl's son the wergild will be high. If Karest killed Beren dishonourably then there's something else going on. “Had Beren and Karest met before?” That's what I ask Enissa and Beren's cousin, but anyone can hear the question and answer.
 
-**[MJ]**
+**[TIME]**
 
 Looking more closely, you can at least separate one thing from the accounts: affiliations.
 
@@ -286,11 +286,11 @@ Enissa does not look away.
 
 Hendrik still does not comment. But this time you see him write a few words on his tablet.
 
-**[PJ]**
+**[TAL]**
 
 I invite Enissa to tell us what, according to Karest, hadn't been settled, urging her to stand on the side of Truth rather than the Trickster.
 
-**[MJ]**
+**[TIME]**
 
 Enissa looks at you for a moment.
 
@@ -316,11 +316,11 @@ She turns back to you.
 
 Hendrik stops writing for a second, then resumes.
 
-**[PJ]**
+**[TAL]**
 
 Does Hendrik speak? Because right now I have the impression that pushed too far, Karest let his rage loose on Beren. Not that Beren deserved it, but he had prepared the ground. I look at Hendrik while thinking that, but mostly listen to him.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik finally looks up from his tablet.
 
@@ -348,12 +348,12 @@ He glances toward the House of Peace.
 
 He waits to see what you want to examine next.
 
-**[PJ]**
+**[TAL]**
 
 Note: I was silent before because you said Hendrik continues, those were my inner thoughts, be careful. But let's move on.
 “If Karest killed in rage, the body will bear the trace of it.” I say quietly to Hendrik so the mother doesn't hear.
 
-**[MJ]**
+**[TIME]**
 
 Noted.
 
@@ -371,12 +371,12 @@ His eyes move toward Beren's mother.
 
 Then he falls silent.
 
-**[PJ]**
+**[TAL]**
 
 “If there are several blows it could point toward Karest having a fit of rage.”
 Then to the mother: “we need to see your son's body before the pyre returns him to the winds.”
 
-**[MJ]**
+**[TIME]**
 
 Hendrik answers you quietly:
 
@@ -404,13 +404,13 @@ She is already turning away.
 
 Hendrik puts away his tablet and motions for you to follow.
 
-**[PJ]**
+**[TAL]**
 
 I listen to Hendrik intone the ritual words that accompany the souls of the dead into the Underworld before they can later join Orlanth's realm.
 And we examine the body with deference and care without necessarily needing to undress him: I think we can count the deep wounds without doing that.
 It's the first time I've seen a dead person this close and I try to keep my composure but I'm deeply disturbed. Death! Not a hunted animal's death but a man's. The great secret Humakt brought into the world.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik does not recite loudly. His voice stays low, almost even. The words you know as those that accompany the dead are not meant to console the living; they simply mark that Beren has left this side of the world.
 
@@ -446,11 +446,11 @@ Hendrik looks at you.
 
 — What does that change, Tal?
 
-**[PJ]**
+**[TAL]**
 
 “Maybe he had asked Karest for mercy? Or Karest struck him when Beren wasn't a threat anymore?”
 
-**[MJ]**
+**[TIME]**
 
 Hendrik slowly shakes his head.
 
@@ -476,11 +476,11 @@ Then he looks at you.
 
 — The body cannot choose between them for us.
 
-**[PJ]**
+**[TAL]**
 
 “yes but it still discredits Enissa's testimony quite a lot. I think we should go talk to her.” And deep down I'm starting to get into the game. I only see the puzzle now, which suits me because that way I forget the sight of Beren's body. So we leave the mother and sister I suppose unless Hendrik has something else to do before we go.
 
-**[MJ]**
+**[TIME]**
 
 Hendrik shakes his head slightly.
 
@@ -506,11 +506,11 @@ She sees you return.
 
 — Well?
 
-**[PJ]**
+**[TAL]**
 
 “you confirm that you saw Beren attack Karest. Can you tell us or show us how it happened?” I say, almost trying to flatter her so she understands that thanks to her we'll know what happened. My objective is to detect in her account or reconstruction an inconsistency contradicted by what we know after seeing Beren's body.
 
-**[MJ]**
+**[TIME]**
 
 Enissa frowns slightly at the word “attack.”
 
@@ -544,11 +544,11 @@ The roll will not decide what really happened. It will say whether you succeed i
 
 Roll **3d6** and give me the raw results.
 
-**[PJ]**
+**[TAL]**
 
 4,5,1
 
-**[MJ]**
+**[TIME]**
 
 Your `4, 5, 1` give **1 Success**.
 
@@ -592,11 +592,11 @@ But it makes one thing very clear: for Beren to strike at Karest with his knife 
 
 Hendrik looks at you without commenting.
 
-**[PJ]**
+**[TAL]**
 
 I thank her and ask Master Hendrik if we can talk alone about the matter. After of course I see that he doesn't have any more questions for Enissa.
 
-**[MJ]**
+**[TIME]**
 
 You thank Enissa. Hendrik, however, is not quite finished.
 
@@ -620,11 +620,11 @@ When you ask whether you can speak alone, he motions for you to follow a few pac
 
 — I'm listening, Tal.
 
-**[PJ]**
+**[TAL]**
 
 “This really looks like a raid that went wrong to me, doesn't it? These things happen and our laws are there to regulate compensation from one clan to another with wergild. I don't see any mystery or great stakes here. Do you think divination is necessary to see more clearly?”
 
-**[MJ]**
+**[TIME]**
 
 Hendrik remains silent for a moment.
 
@@ -650,11 +650,11 @@ Then, with a trace of irony:
 
 — Lhankor Mhy gave us questions before he gave us answers.
 
-**[PJ]**
+**[TAL]**
 
 “Enissa's testimony seems sincere to me. ‘Enough’ can mean so many things too given that the two of them seemed to hate each other. In any case it was a fair fight: Beren could have killed Karest. I don't see what divine justice we're still looking for: the truth? The truth, but what truth? And what for? Aren't we the guardians of the laws? I just can't see how this matter would amount to murder.”
 
-**[MJ]**
+**[TIME]**
 
 Hendrik listens all the way through without interrupting.
 
@@ -680,12 +680,12 @@ He adds, almost sharply:
 
 — Law does not need us to make the world neater than it is.
 
-**[PJ]**
+**[TAL]**
 
 My eyes widen: “oo I get it. We owe it to the clan to say only what is established. thank you for the lesson Master.” And indeed, this field lesson from Hendrik is a huge relief, because my understanding of truth was too absolute and it was putting a lot of pressure on me actually.
 Note: I write in my portrait: “seek and report only established facts”
 
-**[MJ]**
+**[TIME]**
 
 Hendrik looks at you for a moment, then nods.
 
@@ -699,15 +699,15 @@ Then he picks up his tablet again.
 
 — Now we need to decide what we can tell these people today — and what will have to wait for Karest, if he can speak tomorrow.
 
-**[PJ]**
+**[TAL]**
 
 “We could tell them that at this stage nothing allows us to say there was a breach of our laws during the fight between Beren and Karest. That all Beren's friends and kin should prepare for the funeral, and that we'll keep seeking the truth tomorrow?” I'm trying to fit into the new mental mould Hendrik has shown me.
 
-**[PJ]**
+**[TAL]**
 
 I walk toward the group and get their attention, which isn't difficult because my status as a Grey Sage is respected and expected. “I, Talimar, and Master Hendrik have come to inform you of the progress of our investigation. Our inquiries do confirm the fight between Beren and Karest, which resulted in Beren's death, but at this stage, (.. pause to mark at this stage), nothing allows us to state that there was a breach of our laws during the fight. Even so, being as committed to our laws as we are to truth, we will continue the investigation tomorrow, particularly if Karest survives and agrees to speak. I invite you all to begin Beren's funeral so that he may be welcomed as well as possible on the other side.”
 
-**[MJ]**
+**[TIME]**
 
 The silence you leave around **“at this stage”** carries.
 

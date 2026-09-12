@@ -10,6 +10,10 @@ It does not necessarily test whether an action “succeeds.” Success or failur
 
 > **A resolution does not necessarily ask: “Does it work?” It asks: “What do we still not know?”**
 
+## Quick Summary
+
+> What do you want? What do you risk? What question are we settling, at what scale? What matters on each side? Let's launch, read, then see how the world responds.
+
 ## The Grand Cycle of resolution
 
 In Glorantha Perspectives, the eight steps follow the numerical order of the eight Power Runes already used by [Runic Inspiration](../../time/runic-inspiration/). A Situation is set in motion, passes through these powers, then becomes a new Situation.

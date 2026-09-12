@@ -10,6 +10,10 @@ Elle ne sert pas nécessairement à tester si une action « réussit ». Une ré
 
 > **Une résolution ne demande pas forcément : « Est-ce que ça marche ? » Elle demande : « Qu'est-ce que nous ne savons pas encore ? »**
 
+## Résumé rapide
+
+> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, à quelle échelle ? Qu’est-ce qui compte de chaque côté ? Lançons, lisons, puis voyons comment le monde répond.
+
 ## Le Grand Cycle de la résolution
 
 Dans Glorantha Perspectives, les huit étapes suivent l'ordre numérique des huit Runes de Pouvoir déjà employé par l'[Inspiration runique](../../time/runic-inspiration/). Une Situation est mise en mouvement, traverse ces puissances, puis devient une Situation nouvelle.
