@@ -219,25 +219,25 @@ export default definePublications({
       outputName: 'glorantha-perspectives-quick-reference',
       locales: {
         fr: {
-          title: 'Mémento',
+          title: 'Glorantha Perspectives',
           tocTitle: 'Sommaire',
           toc: tocWithStructure(mementoStructure('fr')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem.png',
+            image: '/img/site/gp-logo-white-on-dark.png',
             alt: 'Glorantha Perspectives',
-            seriesTitle: 'Glorantha Perspectives',
+            seriesTitle: 'Mémento',
           },
           contents: mementoContents('fr'),
           outputs: ['pdf'],
         },
         en: {
-          title: 'Quick Reference',
+          title: 'Glorantha Perspectives',
           tocTitle: 'Contents',
           toc: tocWithStructure(mementoStructure('en')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem.png',
+            image: '/img/site/gp-logo-white-on-dark.png',
             alt: 'Glorantha Perspectives',
-            seriesTitle: 'Glorantha Perspectives',
+            seriesTitle: 'Quick Reference',
           },
           contents: mementoContents('en'),
           outputs: ['pdf'],
