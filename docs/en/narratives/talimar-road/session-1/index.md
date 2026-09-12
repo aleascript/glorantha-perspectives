@@ -13,7 +13,7 @@ The session follows Tal's first real investigation as a young Grey Sage and ends
 
 ## Four ways to read the session
 
-- [**Transcript**](verbatim.md) — the game in its real order: player/Time exchanges, Focus, Bets, rolls, and table corrections.
+- [**Transcript**](verbatim.md) — the game in its real order: player/Time exchanges, Focus, Bets, rolls, and table corrections. The game was played in French; this page is an English translation of the original transcript.
 - [**Story**](narrative.md) — the story alone, for following Tal without the game procedures.
 - [**Time Backstage**](backstage.md) — the prepared Situation, what emerged, what was improvised, and Time's rulings.
 - [**Living Portrait**](portrait.md) — Talimar exactly as he exists at the end of this session.
