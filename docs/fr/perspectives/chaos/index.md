@@ -22,6 +22,8 @@ Une proposition devient chaotique lorsqu'elle ne cherche plus à agir parmi les 
 
 Le Chaos peut ainsi rendre l'impossible possible. Mais il ne crée pas une nouvelle loi harmonieuse du Cosmos : il laisse une **Brèche**, une négation qui tend à devenir plus vraie, plus générale et plus difficile à contenir.
 
+> **Le Cosmos détermine ce qui est possible. Le Chaos peut ouvrir l'impossible. Les dés disent encore ce qui arrive.**
+
 ## Ce que le Chaos n'est pas
 
 Le Chaos n'est pas automatiquement :
@@ -53,22 +55,25 @@ Lorsque c'est possible, précisez aussi la limite menacée : *la frontière entr
 
 Le joueur peut alors maintenir son Intention, changer de méthode ou renoncer à ce risque comme pour toute autre conséquence importante.
 
-## Quatre états d'une Brèche
+## Trois situations face au Chaos
 
 Toutes les relations au Chaos ne commencent pas de la même manière.
 
 | Situation | Ce qui s'est passé | Comment la jouer |
 | --- | --- | --- |
-| Un humain s'expose à une possibilité chaotique | **Une Brèche peut s'ouvrir maintenant** | Le Chaos fait partie des conséquences annoncées. La résolution détermine ce qui reste réellement incertain. |
-| Un initié ou un désespéré invoque volontairement le Chaos | **Le Chaos est pratiqué** | Le Protagoniste accepte qu'une limite du Cosmos cesse de tenir pour obtenir l'impossible. |
-| Un Ogre naît d'une lignée déjà corrompue | **La Brèche est héritée** | Le principe chaotique existe déjà dans son Portrait ; il n'y a pas de contamination initiale à résoudre. |
-| Un Broo naît dans une espèce désormais liée au Chaos | **La Brèche est constitutive** | Le Chaos fait partie de ce qu'il est. On joue ses conséquences et ses contradictions, pas son acquisition. |
+| Un humain s'expose à une possibilité chaotique | **Une Brèche peut s'ouvrir maintenant** | Le Chaos fait partie des conséquences annoncées. La résolution détermine si la Brèche prend réellement racine. |
+| Un initié ou un désespéré invoque volontairement le Chaos | **Le Chaos est pratiqué** | Le Protagoniste accepte qu'une limite du Cosmos cesse momentanément de fermer une possibilité. Cette possibilité devient un Focus recevable, puis la résolution se joue normalement. |
+| Un Ogre, un Broo ou un autre être naît déjà lié au Chaos | **Le Chaos est déjà constitutif** | Le principe chaotique existe déjà dans son Portrait ; il n'y a pas de contamination initiale à résoudre. On joue ses conséquences et ses contradictions. |
+
+L'histoire cosmologique d'un Ogre et celle d'un Broo ne sont pas identiques. Pour la procédure de jeu, cependant, la question est la même : **le Chaos est déjà là au début de la partie**.
 
 ## Ouvrir une Brèche
 
-Une Brèche n'est pas une jauge de corruption. C'est une **nouvelle vérité du Protagoniste** : la trace d'une condition du Cosmos qui a cessé de tenir pour lui.
+Une Brèche n'est pas une jauge de corruption. C'est une **nouvelle vérité majeure du Protagoniste** : la trace d'une condition du Cosmos qui a cessé de tenir pour lui.
 
-Lorsqu'une conséquence chaotique advient, inscrivez-la dans le Portrait vivant sous une formulation qui décrit ce qui est devenu faux.
+Lorsqu'une conséquence chaotique advient, inscrivez-la comme **un nouveau Chapitre du Portrait vivant**. Une Brèche est assez importante pour porter son origine, sa proposition anti-cosmique, ses manifestations, les relations qu'elle transforme, les moyens employés pour la contenir et les conséquences de ses élargissements successifs.
+
+Donnez au Chapitre une formulation qui décrit d'abord **ce qui est devenu faux**.
 
 Par exemple :
 
@@ -83,31 +88,61 @@ Un signe visible peut accompagner cette vérité — membre déformé, peau mala
 
 Si le Protagoniste a pris un risque chaotique sans chercher lui-même à invoquer le Chaos, utilisez la résolution normale de Glorantha Perspectives.
 
-Le Focus ne porte pas nécessairement sur la réussite de son action. Si celle-ci est déjà établie, il peut porter sur son prix ou sur ce qu'elle transforme.
+Le Focus peut porter directement sur la contamination lorsqu'elle constitue l'incertitude importante :
 
-Par exemple :
+> *La chose parvient-elle à prendre racine en lui ?*
+
+Il peut aussi porter sur le prix d'une action dont la réussite est déjà établie :
 
 > *Referme-t-il la porte des Enfers sans devenir lui-même un passage ?*
 
-Une Défaite ou un Fiasco peut alors faire apparaître une Brèche cohérente avec les conséquences annoncées.
+Lorsque le Focus oppose réellement le Protagoniste à l'ouverture de la Brèche, lisez les résultats ainsi :
+
+| Résultat du Protagoniste | Conséquence |
+| --- | --- |
+| **Exploit** | Il résiste à la Brèche **et** l'Exploit peut ajouter un avantage cohérent : comprendre ce qui cherchait à entrer, protéger quelqu'un d'autre, refermer la source... |
+| **Victoire** | Il résiste. **Aucune Brèche ne s'ouvre.** |
+| **Statu quo** | La menace demeure sans avoir encore gagné. Le Protagoniste peut se retirer, chercher une autre voie ou surenchérir. |
+| **Défaite** | **Une Brèche s'ouvre.** |
+| **Fiasco** | **Une Brèche s'ouvre**, et le Fiasco ajoute une conséquence chaotique cohérente. |
 
 Il n'y a pas ensuite de second « jet de corruption ». La résolution vient déjà de trancher ce qui était incertain.
 
 ### Invoquer volontairement le Chaos
 
-Un Protagoniste peut aussi demander au Chaos ce que le Cosmos ne permet pas.
+Un Protagoniste peut demander au Chaos ce que le Cosmos ne permet pas.
 
-Il ne s'agit pas d'obtenir quelques dés supplémentaires. Le personnage affirme qu'une limite pertinente **ne s'applique plus**.
+Il ne s'agit pas d'obtenir quelques dés supplémentaires ni de recevoir automatiquement la victoire. Le personnage affirme qu'une limite pertinente **ne fermera plus cette possibilité pendant cette Situation**.
 
-Lorsque la fiction rend réellement cette rupture possible, le Protagoniste peut obtenir immédiatement un **Exploit** sans lancer les dés pour cette résolution. La victoire est réelle — et la Brèche aussi.
+Un Facteur Cadre qui rendait auparavant le Focus irrecevable peut ainsi être transgressé. La table formule alors le Focus rendu possible et le résout normalement.
 
-> **Le Chaos ne surmonte pas une règle. Il la rend momentanément fausse.**
+> **Le Chaos ne donne pas la victoire. Il rend possible une victoire que le Cosmos interdisait.**
 
-On ne peut donc pas invoquer le Chaos pour convaincre un garde un peu plus efficacement. On peut accepter que son corps n'ait plus besoin d'une frontière afin de passer sous la porte qu'il protège.
+Par exemple, l'âme d'un compagnon a déjà quitté le monde des vivants et aucune magie disponible ne permet de la rappeler. Le Protagoniste accomplit un rite chaotique et affirme :
+
+> **La Mort n'a pas besoin de séparer définitivement ceux qui étaient unis.**
+
+Cette rupture ne ramène pas automatiquement le mort. Elle permet désormais de poser au réel une question qui était auparavant fermée :
+
+> *Parvient-il à rappeler son compagnon parmi les vivants ?*
+
+Résolvez normalement, puis appliquez aussi la conséquence chaotique suivante :
+
+| Résultat | Intention | Brèche |
+| --- | --- | --- |
+| **Exploit** | L'impossible est obtenu. | La Brèche s'est ouverte le temps de rendre le Focus possible, mais elle est **refermée avant de prendre racine**. Si une Brèche existait déjà, elle ne s'élargit pas. |
+| **Victoire** | L'impossible est obtenu. | **La Brèche s'ouvre ou s'élargit.** |
+| **Statu quo** | Rien n'est encore acquis. | Le joueur peut **s'arrêter** : l'impossible n'est pas obtenu et la Brèche ne progresse pas. S'il choisit la **surenchère**, la Brèche s'élargit et la résolution reprend. |
+| **Défaite** | L'impossible n'est pas obtenu. | **La Brèche s'ouvre ou s'élargit quand même.** |
+| **Fiasco** | L'impossible n'est pas obtenu. | **La Brèche s'ouvre ou s'élargit**, et le Fiasco ajoute une conséquence chaotique supplémentaire. |
+
+Le prix n'achète donc jamais le succès. Un Protagoniste peut violer les limites du Cosmos, échouer, et avoir malgré tout donné davantage de réalité à ce qu'il a laissé entrer.
+
+L'**Exploit** est l'exception : il ne signifie pas que le Chaos n'a jamais été présent. Il signifie que la rupture a été exceptionnellement maîtrisée et refermée avant de devenir une nouvelle vérité durable du Protagoniste.
 
 ## Le Chaos se souvient
 
-Une Brèche appartient désormais à la fiction.
+Une Brèche qui a pris racine appartient désormais à la fiction.
 
 Le **Temps** ne l'active pas arbitrairement comme une pénalité. Il la fait revenir lorsqu'elle compte réellement dans une Situation.
 
@@ -142,13 +177,29 @@ Si aucune incertitude importante n'existe, ne lancez pas les dés.
 
 Une proposition chaotique tend à perdre les limites qui la contenaient encore.
 
-Lorsqu'un Protagoniste invoque de nouveau volontairement sa Brèche pour rendre possible ce que le Cosmos refuse, ne lui demandez pas simplement de payer une ressource abstraite. Demandez :
+Lorsqu'une résolution indique qu'une Brèche **s'ouvre ou s'élargit**, ne retirez pas un point abstrait et n'ajoutez pas un niveau de corruption. Demandez :
 
 > **Quelle limite qui contenait encore cette proposition cesse maintenant de tenir ?**
 
-La Brèche devient alors plus générale.
+Réécrivez si nécessaire l'énoncé du Chapitre de manière moins limitée, puis ajoutez les manifestations et conséquences qui sont devenues vraies.
 
-Une transformation peut suivre une progression comme :
+Par exemple :
+
+> *La Mort ne peut pas prendre mon frère tant que je le tiens.*
+
+peut devenir :
+
+> *La Mort ne peut pas prendre ceux auxquels je suis lié.*
+
+puis :
+
+> *La Mort ne peut pas prendre ce qui m'appartient.*
+
+et tendre finalement vers :
+
+> **La Mort n'a aucune autorité sur ce que je refuse de lui abandonner.**
+
+Une transformation peut ainsi traverser des moments que l'on peut décrire comme :
 
 1. **Exception** — *cela a été vrai ici, cette fois-ci* ;
 2. **Appétit** — la possibilité cherche à revenir dans des Situations voisines ;
@@ -157,7 +208,7 @@ Une transformation peut suivre une progression comme :
 
 Ces mots ne forment pas une jauge obligatoire. Ils décrivent une direction : **l'exception cesse progressivement d'être une exception**.
 
-À mesure que la proposition s'élargit, le Portrait vivant doit changer. Un Lien peut devenir impossible, une Affinité perdre son sens, une Attache être corrompue, un souvenir ou un serment cesser d'organiser la personne comme auparavant.
+À mesure que la proposition s'élargit, le reste du Portrait vivant peut devoir changer. Un Lien peut devenir impossible, une Affinité perdre son sens, une Attache être corrompue, un souvenir ou un serment cesser d'organiser la personne comme auparavant.
 
 La perte n'est pas le prix arbitraire payé à une puissance extérieure. Elle découle de la nouvelle ontologie du personnage : certaines anciennes vérités ne peuvent simplement plus coexister avec ce qu'il devient.
 
