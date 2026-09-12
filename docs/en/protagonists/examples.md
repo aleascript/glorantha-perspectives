@@ -143,9 +143,9 @@ A fetish is not merely something she owns. It asks something of her in return. A
 
 > “Things are. Even when contrary, they are there, together.”
 
-**Man, 20 — Sartarite of the Grey Heron clan, newly initiated into Lhankor Mhy.**
+**Man, 20 — Sartarite of the Grey Heron clan, young initiate of Lhankor Mhy.**
 
-Tal shows another property of the Living Portrait: it can **transform because the Protagonist comes to understand what they lived differently**.
+Tal shows two properties of the Living Portrait: it can **transform because the Protagonist comes to understand what they lived differently**, then **accumulate the Traces left by later Situations**.
 
 ### ![](/img/runes/air.png) Air — the middle
 
@@ -157,27 +157,50 @@ Tal first called **Harmony** his intuition that different, even contrary things 
 
 During his initiation, he understands this experience differently: for him, it was more deeply **Law**, what binds without erasing differences.
 
+At Jonstown, this understanding gains a new limit: Law does not ask the Sage to make the world neater than it is.
+
 ### ![](/img/runes/truth.png) Truth — what sets him in motion
 
 Tal first called **Movement** his curiosity and desire to go elsewhere.
 
 His initiation reveals a direction: that movement was seeking **Truth**. Not certainty possessed, but what compels him to keep searching.
 
+His first investigation as a Grey Sage further clarifies this relationship: seeking Truth does not mean manufacturing certainty when it is not available.
+
 ### Young Grey Sage
+
+Tal begins to put into practice what he learned from **Hendrik, son of Enderos**.
 
 - insatiable curiosity;
 - distinguishes what he knows from what he thinks he knows;
 - sustains several hypotheses without prematurely turning one into a truth;
-- travelled in Tarsh with his uncle Grimar;
-- fascinated and troubled by Lunar civilization;
+- learns to formulate precisely what is established and what is not;
 - tablet of the seven differences given by Hendrik;
 - ancestral knife given by his father.
+
+At Jonstown, this Life Chapter changes in scope. Tal had mainly imagined the Grey Sage through **myths, texts, knowledge, and travel**. His first investigation reveals another dimension of his vocation: the community also comes looking for a Sage when testimony must be gathered, facts compared, Law illuminated, and what is known formulated precisely enough for other people to act afterwards.
+
+For Tal, knowledge thus becomes not only a quest but a **responsibility toward those who will have to live with what he says**.
+
+### Grey Heron and the roads of Tarsh
+
+Tal is the son of **Calimar and Urestona**, carls of the **Grey Heron** clan, of the **Colymar** tribe.
+
+His uncle **Grimar**, a merchant, took him to Tarsh when he was young. Tal discovered a Lunar civilization there that he admires in some respects and rejects in others. This contradiction remains one of the deep tensions that set him in motion.
+
+Among the people and belonging that matter:
+
+- **Calimar and Urestona**, his parents;
+- **Grimar**, his merchant uncle;
+- **Hendrik**, his teacher;
+- **the Grey Heron clan**;
+- the clan's old traditionalist Grey Sage.
 
 ### Myth of Lhankor Mhy — the quest for knowledge
 
 Hendrik told Tal the myth of **Lhankor Mhy**, born of **Orenoar, Mistress of Truth**, upon **Mostal, the Mountain of Law**. The traditions themselves do not all agree on his father. When knowledge is lost in the Darkness and Elasa disappears, Lhankor Mhy invents writing to preserve what has been learned, then continues his quest with the Lightbringers.
 
-Hendrik stresses one point that marks Tal deeply: even Lhankor Mhy, who embraces all knowledge, **sometimes succeeds and sometimes fails**. Yet he continues to seek.
+Hendrik stresses one point that marks Tal: even Lhankor Mhy, who embraces all knowledge, **sometimes succeeds and sometimes fails**. Yet he continues to seek.
 
 Tal retains five gestures from the myth:
 
@@ -191,22 +214,37 @@ Before his initiation, Tal already knew this myth, meditated on it, and had begu
 
 These five formulations are therefore not five spells. They are five gestures of the God that Tal has learned to recognize and can now seek to extend within a Situation. **The myth gives him the keys; initiation opens the relationship that makes them operative.**
 
-### Bonds that matter
+At Jonstown, the first of these gestures gains lived precision: when something is not established, the Sage must also know how to say **“we do not know.”**
 
-- **Calimar and Urestona**, his parents;
-- **Grimar**, his merchant uncle;
-- **Hendrik, son of Enderos**, his teacher;
-- **the Grey Heron clan**, his roots.
+### Traces
 
-### Trace — initiation
+#### Initiation
 
-Tal's initiation did not erase what had previously constituted him. It gave it another meaning.
+Tal's initiation does not erase what had previously constituted him: it gives it another meaning.
 
-It also transformed his relationship to the myth he learned from Hendrik: what had been teaching, reflection, and possibility now becomes a path through which Tal can seek to echo the gestures of Lhankor Mhy.
+He understands what he had first called Harmony as an intuition of **Law**, and what he had called Movement as the drive of his quest for **Truth**. The question **“Tell me what's wrong”** remains attached to his experience of Lhankor Mhy and to his way of looking at the world.
 
-His Portrait therefore changes without a retcon: **the character changed because his understanding of himself and his relationship to the Cosmos changed.**
+#### Jonstown — saying exactly what we know
 
-See Talimar's [complete character sheet](../narratives/talimar-road/character.md), the [Actual Play](../narratives/talimar-road/actual-play.md), and the [story](../narratives/talimar-road/story.md).
+At the House of Peace, Tal takes part in his first investigation as a young Grey Sage. Two sincere testimonies can remain incompatible; examining Beren's body reduces uncertainty without removing it; a successful reconstruction does not artificially produce the hoped-for solution.
+
+Tal discovers that Truth also requires **not attributing to the world more certainty than it gives**.
+
+He writes into his Portrait:
+
+> **“Seek and report only established facts.”**
+
+Hendrik adds the indispensable counterpart: when the facts are not established, one must also know how to report **“we do not know.”**
+
+The same Situation reveals something Tal had not yet learned from the myths: **what a Grey Sage is for in the everyday life of a community**. He is not only a man of the Library or a seeker of great knowledge. His method becomes useful when a dead man, contradictory witnesses, angry kin, and Law force people to decide what they can hold to be true.
+
+### What this Portrait shows
+
+Tal did not receive an abstract progression between two sessions. His Portrait preserves the transformations actually produced by play: a Rune understood differently, a relationship to the god made operative, an intellectual discipline born from an ordinary investigation, but also a **Life Chapter whose meaning deepens**.
+
+“Young Grey Sage” does not mean exactly the same thing after Jonstown. Play did not merely add a principle to Tal; it made him discover a social dimension of the vocation he had chosen. Traces preserve the event that produced this transformation, while the Chapter can now carry what that experience durably changed in the way he understands himself.
+
+Follow this evolution in [Talimar's Road](../../narratives/talimar-road/): [Session 0](../../narratives/talimar-road/session-0/) then [Session 1](../../narratives/talimar-road/session-1/).
 
 ---
 

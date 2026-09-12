@@ -1,8 +1,8 @@
 ---
-title: Récit — devenir Sage Gris
+title: Récit
 ---
 
-# Récit — devenir Sage Gris
+# Récit
 
 Tal avait grandi parmi les Orlanthi du clan du Héron Gris, dans la tribu Colymar. Il connaissait les histoires, les obligations, les dieux et les vieilles colères de son peuple. Ce monde était le sien. Pourtant, quelque chose ne tenait plus tout à fait.
 
@@ -66,8 +66,6 @@ Le vieil homme se présenta : **Hendrik, fils d'Enderos, Sage Gris de Lhankor Mh
 
 Tal répondit en déroulant une généalogie beaucoup trop longue : Tal, Talimar, fils de Calimar et Urestona, carls du Héron Gris, de la tribu Colymar.
 
-Hendrik ne sembla pas s'en formaliser.
-
 ## Là où une question oblige à aller
 
 Tal interrogea aussitôt le Sage sur ses voyages. Hendrik avait lu des textes lunaires, parlé à leurs prêtres et à leurs érudits, parcouru le Tarsh, l'Esrolia, Prax, une partie du Pays Saint, rencontré des Occidentaux.
@@ -126,7 +124,7 @@ Tal refusa.
 
 Il pouvait montrer que les deux hypothèses tenaient. Il ne pouvait pas prétendre savoir laquelle était vraie.
 
-Hendrik le regarda autrement à partir de ce jour-là.
+Hendrik le regarda autrement à partir de ce jour-là. Les autres apprentis aussi.
 
 Tal avait compris quelque chose de difficile : **« je ne sais pas » n'est pas la fin de la recherche. C'est parfois la première phrase honnête de la recherche.**
 
@@ -262,4 +260,4 @@ Il dit seulement :
 
 > **« Maintenant, cherche. »**
 
-La première séance de Talimar s'achevait là où sa véritable route commençait.
+La Session 0 s'achevait là où la route de Talimar commençait vraiment.

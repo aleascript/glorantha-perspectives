@@ -179,7 +179,35 @@ const sidebars: SidebarsConfig = {
           ],
         },
         'narratives/gurdtars-banishment/index',
-        'narratives/talimar-road/index',
+        {
+          type: 'category',
+          label: t('La Route de Talimar', "Talimar's Road"),
+          link: {type: 'doc', id: 'narratives/talimar-road/index'},
+          items: [
+            {
+              type: 'category',
+              label: 'Session 0',
+              link: {type: 'doc', id: 'narratives/talimar-road/session-0/index'},
+              items: [
+                'narratives/talimar-road/session-0/verbatim',
+                'narratives/talimar-road/session-0/narrative',
+                'narratives/talimar-road/session-0/backstage',
+                'narratives/talimar-road/session-0/portrait',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Session 1',
+              link: {type: 'doc', id: 'narratives/talimar-road/session-1/index'},
+              items: [
+                'narratives/talimar-road/session-1/verbatim',
+                'narratives/talimar-road/session-1/narrative',
+                'narratives/talimar-road/session-1/backstage',
+                'narratives/talimar-road/session-1/portrait',
+              ],
+            },
+          ],
+        }
       ],
     },
     {

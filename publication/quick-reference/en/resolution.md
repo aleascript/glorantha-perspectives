@@ -6,6 +6,10 @@ title: Resolution
 
 Resolve when a Situation contains something **genuinely important and genuinely uncertain**.
 
+## Quick Summary
+
+> What do you want? What do you risk? What question are we settling, at what scale? What matters on each side? Let's launch, read, then see how the world responds.
+
 ## Grand Cycle
 
 | Step | Rune | Procedure |
