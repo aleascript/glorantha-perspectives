@@ -46,7 +46,10 @@ Un résultat décisif peut transformer une relation momentanée en relation dura
 
 ### Vision héroïque — Le Cercle des Esprits
 
-Si **le plus petit dé et le plus grand dé du tirage sont de même parité**, toutes les Mises réussissent.
+- Un dé impair de l'Animiste peut former un **Pacte spirituel** avec un dé montrant le même nombre impair dans le **tirage opposé**.
+- Formez autant de Pactes que possible.
+- Pour ce décompte, chaque dé ne peut participer qu'à un seul Pacte.
+- Les dés opposés ainsi reconnus restent disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
 
 ## Logique
 

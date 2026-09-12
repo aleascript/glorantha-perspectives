@@ -15,7 +15,7 @@ Cette structure n'a pas besoin de vouloir, de répondre ou de se manifester. Ell
 
 Le monde peut donc être étudié, décomposé, comparé et recomposé. Une bonne formule, une préparation adéquate ou une compréhension plus précise ne demandent pas au réel une faveur : elles exploitent correctement ses lois.
 
-Le Dieu est Invisible. On ne guette donc aucun signe de son intervention.
+Le **Dieu** est **Invisible**. On ne guette donc aucun signe de son intervention.
 
 On cherche à **réduire l'écart entre ce que l'on comprend du monde et ce que le monde est réellement**.
 
@@ -30,6 +30,10 @@ La Logique ne distingue pas les dés favorables des dés défavorables. Chaque v
 - Chaque groupe entier de cinq constitue une Réussite.
 
 Le Logicien ne demande donc pas quels dés ont réussi. Il calcule **ce que l'ensemble du réel mis en balance permet effectivement d'obtenir**.
+
+Avec une seule Mise, cette lecture est moins efficace que les autres Visions : seuls `5` et `6` produisent une Réussite. C'est volontaire. Un élément isolé donne peu de prise au Logicien ; sa force apparaît lorsque plusieurs éléments peuvent être mesurés, combinés et recomposés.
+
+*Foutus rationalistes, c'est pour ça qu'ils aiment couper les cheveux en quatre.*
 
 ## Quand la Vision vacille ou s'accomplit
 
@@ -83,6 +87,8 @@ Exactement les mêmes éléments du réel étaient présents. Ce qui change est 
 >
 > La Logique est volontairement la seule Vision de base qui ne donne aucune signification qualitative à la parité des dés. Tout devient quantité, combinaison et rendement.
 >
+> Sa courbe est elle aussi volontairement différente. Avec une seule Mise, le Logicien n'obtient en moyenne qu'un tiers de Réussite. À deux Mises, il atteint déjà une Réussite moyenne, puis la mise en commun des valeurs rend progressivement chaque Mise plus efficace. Sa faiblesse sur un élément isolé est l'envers de sa capacité à tirer davantage d'un ensemble structuré.
+>
 > Le mode héroïque est graduel parce que l'accomplissement logique n'est pas une manifestation soudaine mais une **réduction progressive de l'écart avec la Loi**.
 >
-> Le chiffre `5`, ses associations possibles avec les éléments ou avec la main humaine et les autres justifications symboliques appartiennent à cette section de conception, pas à la procédure que le joueur doit mémoriser.
+> Le chiffre `5`, ses associations possibles avec les éléments, avec la main humaine ou avec d'autres lectures symboliques ne sont pas un habillage extérieur à la règle. Glorantha Perspectives cherche précisément à donner du sens aux procédures à partir du monde. Le joueur n'a pas besoin de mémoriser toutes ces associations pour appliquer la règle ; leur présence compte néanmoins dans sa conception et dans la résonance qu'elle entretient avec le lore.
