@@ -6,9 +6,9 @@ title: Probability Landmarks
 
 This table gives an approximate average number of Successes according to the **number of Bets on one side** and the way the dice are read.
 
-It is not needed during play. Its main purpose is to check the differences between Worldviews and understand their general behavior.
+It is not needed during play. Its main purpose is to check the differences between Worldviews, understand their general behavior, and show that the different Worldviews are broadly balanced overall (with Wyrm balanced by Utuma).
 
-| Bets | Theism | Animism | Logic | Mysticism | Draconic (Wyrm) |
+| Bets | Theism | Animism | Logic | Mysticism, Draconic (Utuma) | Draconic (Wyrm) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | 0.55 | 0.50 | 0.33 | 0.50 | 0.50 |
 | 2 | 1.13 | 1.08 | 1.00 | 1.00 | 1.16 |
@@ -30,3 +30,11 @@ It is not needed during play. Its main purpose is to check the differences betwe
 - **Draconic (Wyrm)**: includes draconic patterns converted into material advantage.
 
 These averages do not say which Worldview is "better." Their effects are not contained in the average number of Successes alone: rerolls, interaction with the opponent, spiritual consequences, and power modes also change how a resolution plays out.
+
+### Logic's particular curve
+
+Logic's `0.33` with a single Bet is deliberate. This first value should not be read as if every logical Bet independently had a fixed chance of becoming a Success.
+
+The Logician adds all values before forming groups of five. The remainder from one die can therefore combine with those of others: with two Bets, the average already reaches `1.00` Success, then rises to `1.70`, `2.40`, `3.10`… Weakness on an isolated element is thus offset by increasing efficiency when several elements of reality can be related and organized together.
+
+This curve is part of the identity of the Worldview. It is not meant to reproduce the same "coin flip" as the other readings for each Bet considered separately.
