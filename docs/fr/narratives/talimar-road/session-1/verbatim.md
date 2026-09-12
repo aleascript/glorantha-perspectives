@@ -78,6 +78,30 @@ Argument de Loi + argument de Vérité + Argument du blessé - Hendrik vexé? - 
 
 Ainsi je demande  une resolution que tu peux valider, cadrer, modifier... 
 
+**[MJ]**
+
+**Intention :** faire retomber la logique de vengeance, écarter ceux qui n’ont rien vu et créer les conditions d’une recherche de la vérité.
+
+**Focus — Zoom Action :** *Ta prise de parole est-elle reçue comme l’intervention légitime d’un Sage Gris qui remet la Loi et la Vérité au centre, ou comme la présomption d’un très jeune initié qui s’arroge une autorité qu’il n’a pas encore gagnée ?*
+
+Tes **3 Mises** :
+
+- **Loi** — « La vengeance n’est pas la justice. »
+- **Vérité** — tu proposes immédiatement une méthode : garder les témoins, écarter les autres.
+- **Le blessé est immobilisé et soigné dans la Maison de la Paix** — il n’y a pas d’urgence pratique à le saisir dans la rue.
+
+Les **3 Contre-Mises** :
+
+- **Le deuil et la colère de la mère**.
+- **Deux groupes armés sont déjà pris dans une confrontation collective**.
+- **Ton jeune âge et ton absence d’autorité établie ici**.
+
+**3 contre 3.** La Jauge de Destin ne bouge pas.
+
+Et Hendrik ? Il ne t’interrompt pas. Mais son visage ne t’aide absolument pas à savoir ce qu’il pense.
+
+Tu es théiste : lance **3d6** et donne-moi les résultats bruts. Les pairs sont des Réussites ; chaque `6` pourra relever un impair.
+
 **[PJ]**
 
 6 4 1 qui finit en 6 4 4 après relance du 1 : 3 réussites :)
