@@ -36,7 +36,7 @@ The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll acco
 
 A decisive result may turn a momentary relationship into a lasting one:
 
-- a **Feat** may allow a spirit to be bound into a fetish;
+- an **Exploit** may allow a spirit to be bound into a fetish;
 - a **Fiasco** may cause a bound spirit to depart.
 
 ### Weakened Worldview — Unravelled Bonds
@@ -46,7 +46,10 @@ A decisive result may turn a momentary relationship into a lasting one:
 
 ### Heroic Worldview — The Circle of Spirits
 
-If **the lowest and highest dice in the roll share the same parity**, every Bet succeeds.
+- An odd die from the Animist's roll may form a **Spiritual Pact** with a die showing the same odd value in the **opposing roll**.
+- Form as many Pacts as possible.
+- For this count, each die may participate in only one Pact.
+- Opposing dice recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
 
 ## Logic
 
