@@ -5,7 +5,7 @@ title: Session 0
 # Session 0
 
 **Played on August 31, 2026.**  
-**Estimated play time: about 3 hours** — the original conversation lasted longer, notably because of source research and out-of-game exchanges.
+**Estimated play time: about 2 hours** — the original conversation lasted longer, notably because of source research and out-of-game exchanges.
 
 This session begins without a finished character. Talimar gradually emerges through the **funnel**, meets Hendrik, becomes his apprentice, discovers the myths and Runes that resonate with him, then plays through his initiation into Lhankor Mhy.
 

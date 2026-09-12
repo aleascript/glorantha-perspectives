@@ -5,7 +5,7 @@ title: Session 0
 # Session 0
 
 **Jouée le 31 août 2026.**  
-**Durée de jeu estimée : environ 3 h** — la conversation originale s'est étalée davantage, notamment à cause de recherches et d'échanges hors jeu.
+**Durée de jeu estimée : environ 2 h** — la conversation originale s'est étalée davantage, notamment à cause de recherches et d'échanges hors jeu.
 
 Cette session commence sans personnage terminé. Talimar apparaît progressivement par l'**entonnoir**, rencontre Hendrik, devient son apprenti, découvre les mythes et les Runes qui résonnent avec lui, puis joue son initiation à Lhankor Mhy.
 
