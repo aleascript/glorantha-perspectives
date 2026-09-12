@@ -62,42 +62,56 @@ Après lecture normale des deux tirages, **chacun de ses `1` peut faire dispara�
 
 ## Chaos
 
-Le Chaos ne peut être invoqué que si l'acte ouvre lui-même une brèche : transgression, destruction, cruauté, corruption ou transformation contre-nature.
+> **Le Cosmos détermine ce qui est possible. Le Chaos peut ouvrir l'impossible. Les dés disent encore ce qui arrive.**
 
-### Premier pacte
+Le Chaos ne donne ni dés supplémentaires ni réussite automatique. Il peut rendre recevable un **Focus qu'un Facteur Cadre fermait auparavant**, puis la résolution se joue normalement.
 
-La première fois qu'un Protagoniste cède au Chaos pour surmonter un obstacle ou échapper à une issue certaine :
+### Quand le Chaos vous guette
 
-- il obtient immédiatement un **Exploit** ;
-- il ne lance pas les dés pour cette résolution ;
-- il reçoit une **Souillure**, décrite par un nouveau Mot-Clé chaotique.
+Si une exposition chaotique menace d'ouvrir une Brèche, annoncez-la à l'étape **Mort** lorsque le Protagoniste peut raisonnablement comprendre le risque.
 
-### Nouvel appel
+Lorsque le Focus porte réellement sur l'ouverture de cette Brèche :
 
-Après le premier pacte, le Chaos peut forcer une résolution, jusqu'à ignorer un Facteur Cadre si la fiction permet réellement cette rupture.
+| Résultat du Protagoniste | Conséquence |
+| --- | --- |
+| **Exploit** | Il résiste à la Brèche **et** peut obtenir un avantage supplémentaire cohérent. |
+| **Victoire** | Il résiste. **Aucune Brèche.** |
+| **Statu quo** | La menace demeure. Retrait, autre voie ou surenchère. |
+| **Défaite** | **Une Brèche s'ouvre.** |
+| **Fiasco** | **Une Brèche s'ouvre** et une conséquence chaotique supplémentaire apparaît. |
 
-Chaque nouvel appel exige de rayer définitivement quelque chose qui reliait encore le Protagoniste au Cosmos :
+Aucun second « jet de corruption » n'est nécessaire.
 
-- un **Mot-Clé positif** ;
-- une **Affinité runique** ;
-- un **Lien** ;
-- une **Attache importante**.
+### Invoquer volontairement le Chaos
 
-La perte doit exister dans la fiction.
+Le Protagoniste accepte qu'une limite du Cosmos cesse momentanément de fermer une possibilité. Formulez le **Focus désormais possible**, résolvez normalement, puis appliquez aussi la conséquence chaotique :
 
-### Progression de la Souillure
+| Résultat | Intention | Brèche |
+| --- | --- | --- |
+| **Exploit** | L'impossible est obtenu. | La Brèche est **refermée avant de prendre racine** ; une Brèche existante ne s'élargit pas. |
+| **Victoire** | L'impossible est obtenu. | **La Brèche s'ouvre ou s'élargit.** |
+| **Statu quo** | Rien n'est acquis. | Le joueur peut s'arrêter sans progression, ou surenchérir ; dans ce cas la Brèche s'élargit avant la nouvelle résolution. |
+| **Défaite** | L'impossible n'est pas obtenu. | **La Brèche s'ouvre ou s'élargit quand même.** |
+| **Fiasco** | L'impossible n'est pas obtenu. | **La Brèche s'ouvre ou s'élargit**, plus une conséquence chaotique supplémentaire. |
 
-Chaque nouvel usage peut faire évoluer la Souillure :
+Le prix n'achète jamais le succès.
 
-1. **Premier signe** — discret, presque bénin, mais contre-nature.
-2. **Le signe s'affirme** — visible et contraignant.
-3. **L'emprise s'accroît** — la Souillure envahit la vie quotidienne.
-4. **L'emprise totale** — elle ne laisse presque plus de place à ce que le Protagoniste était auparavant.
+### La Brèche
 
-La Souillure peut devenir une Mise lorsqu'elle compte réellement dans une Situation.
+Une Brèche est un **Chapitre du Portrait vivant**, pas une jauge. Formulez d'abord ce qui est devenu faux, par exemple :
 
-### Déchéance
+> **Brèche — La Mort ne me sépare plus complètement des vivants.**
 
-Quand il ne reste plus rien que le Protagoniste puisse sacrifier, le Chaos ne lui offre plus cette puissance exceptionnelle : la transformation a gagné.
+Lorsqu'elle s'élargit, demandez :
 
-Une créature ou un dieu chaotique utilise normalement sa propre Vision du monde. Le Chaos n'ajoute pas automatiquement des Réussites à tout ce qui est chaotique.
+> **Quelle limite qui contenait encore cette proposition cesse maintenant de tenir ?**
+
+Réécrivez si nécessaire son énoncé de manière moins limitée. Une progression peut être décrite comme **Exception → Appétit → Obsession → Principe constitutif**, sans constituer une jauge obligatoire.
+
+Une Brèche peut ensuite devenir **Mise**, **conséquence**, **Facteur Cadre** ou objet d'un **Focus** lorsqu'elle compte réellement.
+
+### Êtres déjà chaotiques
+
+Un Ogre, un Broo, un Vampire ou un autre être déjà lié au Chaos n'a pas à subir une contamination initiale : son principe chaotique est déjà constitutif.
+
+Il conserve sa Vision du monde et n'obtient aucune Réussite automatique grâce au Chaos. Le joueur choisit **comment il vit avec son obsession**, pas si elle existe.
