@@ -33,7 +33,7 @@ The intent is simple: **use the game, transform it, improve it, translate it, bu
 
 This freedom explicitly includes artificial-intelligence tools. **You may submit this publication, in whole or in part, to an AI system** in order to analyze, query, summarize, or translate it; prepare or run a game; produce play aids; experiment with variants; create derivative content; or for any other use compatible with the license.
 
-This is not a separate special permission beyond the license: it is simply an explicit confirmation that the author considers these uses part of the reuse permitted by **CC BY**. Readers remain responsible for the terms of use and privacy practices of the AI service they choose.
+This is not a separate special permission beyond the license: it is simply an explicit confirmation that the author considers these uses part of the reuse permitted by **CC BY**.
 
 The Glorantha Perspectives license applies to material that its author can place under CC BY; it does not alter the status of trademarks or works owned by third parties.
 

@@ -33,7 +33,7 @@ L'intention est simple : **utilisez le jeu, transformez-le, améliorez-le, tradu
 
 Cette liberté inclut explicitement les outils d'intelligence artificielle. **Vous pouvez soumettre cette publication, en tout ou en partie, à un système d'IA** pour l'analyser, l'interroger, la résumer, la traduire, préparer ou mener une partie, produire des aides de jeu, expérimenter des variantes, créer du contenu dérivé ou pour tout autre usage compatible avec la licence.
 
-Il ne s'agit pas d'une autorisation spéciale distincte de la licence : c'est simplement une confirmation explicite que l'auteur considère ces usages comme faisant partie des réutilisations permises par **CC BY**. Le lecteur reste naturellement responsable des conditions d'utilisation et de confidentialité du service d'IA qu'il choisit.
+Il ne s'agit pas d'une autorisation spéciale distincte de la licence : c'est simplement une confirmation explicite que l'auteur considère ces usages comme faisant partie des réutilisations permises par **CC BY**.
 
 La licence de Glorantha Perspectives porte sur les éléments que son auteur peut placer sous CC BY ; elle ne modifie pas le statut des marques ou œuvres appartenant à des tiers.
 
