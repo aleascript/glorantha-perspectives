@@ -41,13 +41,15 @@ Le problème n'est pas l'absence du monde des esprits. C'est l'impossibilité d'
 
 ### Le Cercle des Esprits — Vision héroïque
 
-Si **le plus petit dé et le plus grand dé du tirage sont de même parité**, toutes les Mises réussissent.
+Les frontières entre les deux côtés de la résolution ne limitent plus les Pactes spirituels.
 
-Les extrêmes se répondent. Ce qui semblait n'être qu'une collection de présences indépendantes apparaît soudain comme un ensemble accordé.
+Pour compter les Réussites de l'Animiste, un dé impair de son tirage peut former un **Pacte spirituel** avec un dé montrant le même nombre impair dans le tirage opposé.
 
-Ce n'est plus un esprit qui répond, ni même un pacte particulier.
+Formez autant de Pactes que possible. Pour ce décompte, chaque dé ne peut participer qu'à un seul Pacte. Les dés du tirage opposé ainsi reconnus restent cependant disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
 
-**Le cercle entier s'est refermé autour de l'action.**
+Les esprits ne se répartissent plus proprement entre « les miens » et « les siens ». Une présence révélée par l'opposition peut répondre à une présence du propre tirage de l'Animiste.
+
+**Le cercle traverse désormais les deux côtés de l'action.**
 
 ## Où porter le regard
 
@@ -55,7 +57,7 @@ Les pairs donnent immédiatement leurs Réussites.
 
 Mais votre attention doit surtout aller vers **les impairs**. Cherchez ceux qui se ressemblent : *qui vient de reconnaître qui ?*
 
-En Vision héroïque, élargissez ensuite votre regard aux deux extrêmes : *le plus humble et le plus puissant de ce qui s'est manifesté appartiennent-ils au même mouvement ?*
+En Vision héroïque, ne vous arrêtez plus à votre propre tirage. Regardez aussi les impairs du tirage opposé : *quelles présences se reconnaissent malgré l'opposition ?*
 
 ## Exemple joué
 
@@ -73,13 +75,25 @@ Dans la fiction, cela ne signifie pas nécessairement que trois esprits apparais
 
 Elle ne découvre pas seulement une route. Elle comprend avec quelles présences du lieu elle vient momentanément de s'accorder.
 
+En **Cercle des Esprits**, imaginons maintenant que l'Animiste obtienne :
+
+`2 · 5 · 1 · 1`
+
+et le tirage opposé :
+
+`4 · 3 · 5 · 1`
+
+Le `2` répond directement : une Réussite. Les deux `1` du tirage de l'Animiste peuvent former un Pacte spirituel. Le `5` peut former un autre Pacte avec le `5` du tirage opposé.
+
+L'Animiste obtient donc trois Réussites. Le monde spirituel ne s'est pas arrêté à la frontière entre les deux côtés de la résolution.
+
 > **CONCEPTION — Pourquoi cette lecture ?**
 >
 > L'Animisme ne transforme pas les impairs en simples résultats ratés. Ils représentent un monde spirituel présent mais difficile à accorder.
 >
 > Le Pacte spirituel fait émerger une Réussite de la **relation entre deux présences** plutôt que d'une face isolée.
 >
-> Le Cercle des Esprits porte cette logique à son accomplissement : lorsque les extrêmes eux-mêmes s'accordent, l'ensemble du tirage peut être lu comme une seule relation cohérente.
+> Le Cercle des Esprits porte cette logique à son accomplissement sans introduire un second langage de lecture : la même relation devient simplement capable de traverser l'opposition. À ce degré de Vision, l'Animiste ne suppose plus que les esprits appartiennent naturellement à un camp. Il reconnaît les accords qui existent dans l'ensemble de la scène.
 
 [Et pourquoi pas un spirit bag ?](spirit-bag)
 
