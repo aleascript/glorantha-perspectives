@@ -49,7 +49,7 @@ A few simple phrases may be enough:
 
 - **“This could cost you dearly.”** — serious injury, loss of an important object, a broken bond, ruined reputation, or another heavy consequence;
 - **“Failure could be fatal.”** — the Protagonist's death is genuinely at stake;
-- **“Chaos is waiting for you.”** — transformation, Taint, or an irreversible consequence is possible.
+- **“Chaos is waiting for you.”** — a transformation, a Breach, or an irreversible consequence is possible.
 
 These phrases are not a mechanical scale. They make the risk understandable before the player commits their Protagonist.
 
