@@ -64,7 +64,7 @@ Après lecture normale des deux tirages, **chacun de ses `1` peut faire dispara�
 
 > **Le Cosmos détermine ce qui est possible. Le Chaos peut ouvrir l'impossible. Les dés disent encore ce qui arrive.**
 
-Le Chaos ne donne ni dés supplémentaires ni réussite automatique. Il peut rendre recevable un **Focus qu'un Facteur Cadre fermait auparavant**, puis la résolution se joue normalement.
+Le Chaos peut rendre recevable un **Focus qu'un Facteur Cadre fermait auparavant**, puis la résolution se joue normalement.
 
 ### Quand le Chaos vous guette
 
@@ -109,9 +109,3 @@ Lorsqu'elle s'élargit, demandez :
 Réécrivez si nécessaire son énoncé de manière moins limitée. Une progression peut être décrite comme **Exception → Appétit → Obsession → Principe constitutif**, sans constituer une jauge obligatoire.
 
 Une Brèche peut ensuite devenir **Mise**, **conséquence**, **Facteur Cadre** ou objet d'un **Focus** lorsqu'elle compte réellement.
-
-### Êtres déjà chaotiques
-
-Un Ogre, un Broo, un Vampire ou un autre être déjà lié au Chaos n'a pas à subir une contamination initiale : son principe chaotique est déjà constitutif.
-
-Il conserve sa Vision du monde et n'obtient aucune Réussite automatique grâce au Chaos. Le joueur choisit **comment il vit avec son obsession**, pas si elle existe.
