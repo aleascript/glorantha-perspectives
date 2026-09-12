@@ -6,9 +6,9 @@ title: Repères de probabilités
 
 Cette table donne un ordre de grandeur du nombre moyen de Réussites obtenu selon le **nombre de Mises d'un côté** et la manière de lire les dés.
 
-Elle n'est pas nécessaire pendant une partie. Elle sert surtout à vérifier les écarts entre les différentes Visions du monde et à comprendre leur comportement général.
+Elle n'est pas nécessaire pendant une partie. Elle sert surtout à vérifier les écarts entre les différentes Visions du monde et à comprendre leur comportement général ainsi qu'à montrer que les différentes visions s'équilibrent globalement (le Wyrm étant équilibré par l'Utuma).
 
-| Mises | Théisme | Animisme | Logique | Mysticisme | Draconique (Wyrm) |
+| Mises | Théisme | Animisme | Logique | Mysticisme, Draconique (Utuma) | Draconique (Wyrm) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | 0,55 | 0,50 | 0,33 | 0,50 | 0,50 |
 | 2 | 1,13 | 1,08 | 1,00 | 1,00 | 1,16 |
@@ -29,6 +29,8 @@ Elle n'est pas nécessaire pendant une partie. Elle sert surtout à vérifier le
 - **Mysticisme** : la colonne montre uniquement les Réussites de base du tirage ; son pouvoir d'annihilation agit sur le tirage opposé et dépend donc de l'opposition ;
 - **Draconique (Wyrm)** : inclut les motifs draconiques convertis en avantage matériel.
 
+Ces moyennes ne disent pas quelle Vision du monde est « meilleure ». Leurs effets ne sont pas tous contenus dans le seul nombre moyen de Réussites : relances, interaction avec l'adversaire, conséquences spirituelles et modes de puissance changent également la manière dont une résolution se joue.
+
 ### La courbe particulière de la Logique
 
 Le `0,33` de la Logique à une seule Mise est volontaire. Il ne faut pas lire cette première valeur comme si chaque Mise logique avait indépendamment une chance fixe d'être une Réussite.
@@ -37,4 +39,3 @@ Le Logicien additionne toutes les valeurs avant de former ses groupes de cinq. L
 
 Cette courbe fait partie de l'identité de la Vision. Elle n'a pas vocation à reproduire le même « pile ou face » que les autres lectures pour chaque Mise prise séparément.
 
-Ces moyennes ne disent pas quelle Vision du monde est « meilleure ». Leurs effets ne sont pas tous contenus dans le seul nombre moyen de Réussites : relances, interaction avec l'adversaire, conséquences spirituelles et modes de puissance changent également la manière dont une résolution se joue.

@@ -15,7 +15,7 @@ Cette structure n'a pas besoin de vouloir, de répondre ou de se manifester. Ell
 
 Le monde peut donc être étudié, décomposé, comparé et recomposé. Une bonne formule, une préparation adéquate ou une compréhension plus précise ne demandent pas au réel une faveur : elles exploitent correctement ses lois.
 
-Le Dieu est Invisible. On ne guette donc aucun signe de son intervention.
+Le **Dieu** est **Invisible**. On ne guette donc aucun signe de son intervention.
 
 On cherche à **réduire l'écart entre ce que l'on comprend du monde et ce que le monde est réellement**.
 

@@ -15,7 +15,7 @@ That structure does not need to want, answer, or manifest. It is.
 
 The world can therefore be studied, decomposed, compared, and recomposed. A sound formula, adequate preparation, or more precise understanding does not ask reality for a favor: it uses its laws correctly.
 
-The God is Invisible. No sign of divine intervention is expected.
+The **God** is **Invisible**. No sign of divine intervention is expected.
 
 The aim is to **reduce the gap between what one understands the world to be and what the world actually is**.
 
