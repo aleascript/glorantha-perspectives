@@ -181,7 +181,7 @@ const sidebars: SidebarsConfig = {
         'narratives/gurdtars-banishment/index',
         {
           type: 'category',
-          label: 'La Route de Talimar',
+          label: t('La Route de Talimar', "Talimar's Road"),
           link: {type: 'doc', id: 'narratives/talimar-road/index'},
           items: [
             {
