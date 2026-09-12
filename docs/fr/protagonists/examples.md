@@ -206,7 +206,7 @@ Elle a aussi transformé son rapport au mythe appris auprès d'Hendrik : ce qui 
 
 Son Portrait change donc sans retcon : **le personnage a changé parce que sa compréhension de lui-même et sa relation au Cosmos ont changé.**
 
-Voir la [fiche complète de Talimar](../narratives/talimar-road/character.md), l'[Actual Play](../narratives/talimar-road/actual-play.md) et le [récit](../narratives/talimar-road/story.md).
+Voir l'[Actual Play](../narratives/talimar-road/session-0/verbatim.md) ou le [récit](../narratives/talimar-road/session-0/narrative.md).
 
 ---
 

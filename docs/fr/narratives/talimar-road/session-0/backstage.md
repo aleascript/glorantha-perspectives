@@ -4,8 +4,10 @@ title: Coulisses du Temps
 
 # Coulisses du Temps
 
-:::warning Spoilers
+:::warning[Spoilers]
+
 Cette page révèle ce que le Temps avait préparé et comment il a réagi pendant la Session 0. Les pistes encore secrètes pour les sessions futures ne sont pas publiées ici.
+
 :::
 
 La création de Talimar n'avait pas pour but de conduire un personnage déjà défini vers une initiation déjà décidée. **La création elle-même était le jeu.**

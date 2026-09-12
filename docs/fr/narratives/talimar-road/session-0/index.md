@@ -18,6 +18,8 @@ Elle s'achève lorsque Tal est accepté comme jeune Sage Gris, avec **Air, Loi e
 - [**Coulisses du Temps**](backstage.md) — ce qui était préparé, les Forces et Pressions, ce qui a émergé et la manière dont le Temps a réagi.
 - [**Portrait vivant**](portrait.md) — Talimar tel qu'il existe exactement à la fin de cette session.
 
-:::warning Spoilers
+:::warning[Spoilers]
+
 Les **Coulisses du Temps** révèlent la préparation et les intentions qui se trouvaient derrière cette session. Elles ne révèlent pas les pistes encore secrètes des sessions futures.
+
 :::

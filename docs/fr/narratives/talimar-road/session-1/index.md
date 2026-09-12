@@ -18,6 +18,8 @@ La session suit la première véritable enquête de Tal comme jeune Sage Gris et
 - [**Coulisses du Temps**](backstage.md) — la Situation préparée, ce qui a émergé, ce qui a été improvisé et les arbitrages du Temps.
 - [**Portrait vivant**](portrait.md) — Talimar tel qu'il existe exactement à la fin de cette session.
 
-:::warning Spoilers
+:::warning[Spoilers]
+
 Les **Coulisses du Temps** révèlent la préparation et les intentions qui se trouvaient derrière cette session. Elles ne révèlent pas les pistes encore secrètes des sessions futures.
+
 :::

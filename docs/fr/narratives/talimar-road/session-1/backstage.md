@@ -4,8 +4,10 @@ title: Coulisses du Temps
 
 # Coulisses du Temps
 
-:::warning Spoilers
+:::warning[Spoilers]
+
 Cette page révèle la préparation et les improvisations de la Session 1. Les pistes encore secrètes pour les sessions futures ne sont pas publiées ici.
+
 :::
 
 ## La Situation préparée
