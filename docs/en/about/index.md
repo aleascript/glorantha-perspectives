@@ -19,6 +19,12 @@ Glorantha Perspectives was designed with [**Regard**](https://aleascript.github.
 
 These projects are linked here for anyone who wants to discover the ideas behind the game. **You do not need to read them to play Glorantha Perspectives.** The game is self-contained: all rules and procedures required for play must be explained on this site and in its publications.
 
+## Use with artificial-intelligence tools
+
+**The author of Glorantha Perspectives explicitly permits readers to submit the PDF of this publication, in whole or in part, to an artificial-intelligence system** in order to analyze, query, summarize, or translate it; prepare or run a game; produce personal play aids; or for any other use permitted by the publication's license and applicable rights.
+
+This permission concerns the reader's use of **Glorantha Perspectives**. It does not transfer or extend any rights over **Glorantha**, **RuneQuest**, their trademarks, artwork, or any other third-party material. Readers also remain responsible for the terms of use and privacy practices of the AI service they choose.
+
 ## Roadmap
 
 **Glorantha Perspectives already contains everything needed to play.**
