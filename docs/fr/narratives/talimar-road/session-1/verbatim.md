@@ -4,7 +4,7 @@ title: Verbatim
 
 # Verbatim
 
-**Session jouée le 12 septembre 2026 — durée estimée : environ 2 h 30.**
+**Durée estimée : environ 2 h 30.**
 
 Cette page conserve le jeu dans son ordre réel : paroles du joueur et du Temps, hésitations, corrections, Focus, Mises et résultats de dés. Seules les traces techniques internes à l'outil sont absentes.
 
@@ -12,13 +12,7 @@ Les formulations sont conservées telles qu'elles apparaissent dans la source de
 
 ---
 
-**PJ — 12/09/2026**
-
-MJ. Nouvelle partie. Je suis joueur. Aucun spoiler.
-Je joue Talimar, le jeune Sage Gris (cf. Le récit qu'on a mis dans le site et qui était aussi dans Notion)
-On utilise bien sur les règles a jour de GP.
-
-**MJ — 12/09/2026**
+**MJ**
 
 Peu de temps après ton initiation, Hendrik t'a mené à **Jonstown**.
 
@@ -150,11 +144,11 @@ Darin te regarde.
 
 Hendrik ne commente pas son récit. Il attend.
 
-**PJ — 12/09/2026**
+**PJ**
 
 J'écoute et mon esprit bouillonne pour retenir le moindre détail. Qu'est ce qui est vrai? Qu'est ce qui manque? Voilà ce que Lankhor Mhy m'a enseigné. Ça s'applique ici. Je ne m'adresse pas a l'homme mais a Hendrik "a quelle distance était il? Quand on est loin on ne se rend pas compte des distances. Ça avait l'air d'être très agité. Il faudrait d'autres témoins. Le blessé pourrait nous dire pourquoi il a achevé un homme a terre pour des vaches. Peut être même le corps du .. mort pourrait nous indiquer quelque chose.." je frissonne de mon audace en parlant comme ça du corps du mort.
 
-**MJ — 12/09/2026**
+**MJ**
 
 Hendrik tourne légèrement la tête vers toi.
 
@@ -208,11 +202,11 @@ Puis il se tourne vers toi.
 
 Il attend.
 
-**PJ — 12/09/2026 19:22**
+**PJ**
 
 J'essaie de repérer parmi les témoins et si j'ai vu le blessé si je peux identifier des clans différents pour savoir qui serait dans quel camp et donc pas forcément neutre. Un raid de bétail qui tourne mal. Ça arrive malheureusement. Si Beren est  un Carl ou fils de Carl le wergild sera élevé. Si Karest a tué Beren de façon indigne c'est qu'il y a autre chose. "Est ce que Beren et Karest s'etaient déjà rencontrés?" C'est ce que je demande à Enissa et au cousin de Beren mais n'importe qui peut entendre la question et répondre.
 
-**MJ — 12/09/2026 19:22**
+**MJ**
 
 En regardant mieux, tu peux au moins séparer une chose des récits : les appartenances.
 
@@ -248,11 +242,11 @@ Enissa ne baisse pas les yeux.
 
 Hendrik ne commente toujours pas. Mais cette fois, tu le vois écrire quelques mots sur sa tablette.
 
-**PJ — 12/09/2026 19:22**
+**PJ**
 
 J'invite Enissa a nous dire ce qui, selon Karest, n'aurait pas été réglé en l'exhortant de se placer du coté de la Vérité et non du côté du Trickster.
 
-**MJ — 12/09/2026 19:22**
+**MJ**
 
 Enissa te fixe un instant.
 
@@ -278,11 +272,11 @@ Elle revient à toi.
 
 Hendrik cesse d'écrire une seconde, puis reprend.
 
-**PJ — 12/09/2026**
+**PJ**
 
 Hendrik parle? Parce que là j'ai l'impression que poussé à bout Karest a laissé échapper sa rage sur Beren. Non pas que Beren le méritait mais il avait préparé le terrain. Je regarde Hendrik en pensant cela mais surtout l'écoute.
 
-**MJ — 12/09/2026**
+**MJ**
 
 Hendrik finit par relever les yeux de sa tablette.
 
@@ -310,12 +304,12 @@ Il jette un regard vers la Maison de la Paix.
 
 Il attend de voir ce que tu veux examiner ensuite.
 
-**PJ — 12/09/2026 19:??**
+**PJ**
 
 Note: j'étais silencieux avant car tu as dit Hendrik reprend, c'était mes pensées intérieures, sois vigilant. Mais avancons. 
 "Si Karest a tué par rage, le corps en portera la trace." Dis je tout bas a Hendrik pour pas que la mère entende.
 
-**MJ — 12/09/2026 19:??**
+**MJ**
 
 Noté.
 
@@ -333,7 +327,7 @@ Son regard glisse vers la mère de Beren.
 
 Puis il se tait.
 
-**PJ — 12/09/2026 19:35 env.**
+**PJ**
 
 "si il y a plusieurs coups portés ça peut aller dans le sens d'un accès de rage de Karest" 
 Puis a la mere "nous devons voir le corps de votre fils avant que le bûcher ne le rende aux vents"
@@ -468,7 +462,7 @@ Elle vous voit revenir.
 
 — Alors ?
 
-**PJ — Tal**
+**PJ**
 
 "tu confirmes avoir vu Beren attaquer Karest. Peux tu nous dire ou nous montrer comment ca s'est passé?" dis-je essayant presque de la flatter pour lui faire comprendre que grace a elle on saura ce qui s'est passé. Mon objectif est de déceler dans son récit ou sa reconstitution une incohérence démentie par ce que nous savons apres avoir vu le corps de Beren
 
@@ -554,7 +548,7 @@ Mais elle rend une chose très nette : pour que Beren puisse frapper Karest de s
 
 Hendrik te regarde, sans commenter.
 
-**PJ — Talimar**
+**PJ**
 
 Je la remercie et demande a Maitre Hendrik si nous pouvons parler seul a seul de l'affaire. Avant bien sur que j'ai vu qu'il n'a pas eu d'autres questions a poser a Enissa.
 
@@ -612,7 +606,7 @@ Puis, avec une pointe d'ironie :
 
 — Lhankor Mhy nous a donné des questions avant de nous donner des réponses.
 
-**PJ — Talimar**
+**PJ**
 
 "le témoignage d'Enissa me semble sincere. Le "Ca suffit" peut signifier tellement de choses aussi vu que les deux semblaient se hair. Dans tous les cas, ca a été un combat à la loyale: Beren aurait pu tuer Karest. Je ne vois quelle justice divine nous cherchons encore: la vérité? La vérité mais quelle vérité? Et a quoi bon? Ne sommes nous pas les garants des lois? Je n'arrive pas a voir en quoi cette affaire releverait d'un assassinat en fait."
 
@@ -642,7 +636,7 @@ Il ajoute, presque sèchement :
 
 — La Loi n'a pas besoin que nous rendions le monde plus net qu'il ne l'est.
 
-**PJ — Tal**
+**PJ**
 
 Mes yeux s'écarquillent: "oo je comprends. Nous devons au clan de dire uniquement ce qui est attesté. merci pour la lecon Maitre." Et en effet, cet enseignement de terrain par Hendrik est un grand soulagement, car ma compréhension de vérité etait trop absolue et cela me mettait beaucoup de pression en fait.
 Note: je note dans mon portrait: "ne chercher et ne rapporter que les faits avérés"
@@ -661,11 +655,11 @@ Puis il reprend sa tablette.
 
 — Maintenant, il faut décider ce que nous pouvons dire à ces gens aujourd'hui — et ce qui devra attendre Karest, s'il peut parler demain.
 
-**PJ — Talimar**
+**PJ**
 
 "Nous pourrions leur dire qu'a ce stade rien ne nous permet d'affirmer qu'il y a eu un manquement dans nos lois lors du combat entre Beren et Karest. Que tous les amis et proches de Beren devraient se préparer aux funérailles, et que nous continuerons à chercher la vérité demain?" J'essaie de rentrer dans le nouveau moule mental que Hendrik m'a montré.
 
-**PJ — Talimar**
+**PJ**
 
 Je me dirige vers le groupe et attire leur  attention ce qui n'est pas difficile car mon status de Sage Gris est respecté et attendu. "Moi, Talimar et maitre Hendrik, venons vous informer de l'évolution de notre enquete. Nos investigations confirment bien le combat entre Beren et Karest, qui a engendré la mort de Beran mais à ce stade, (.. silence pour marquer à ce stade), rien ne nous permet d'affirmer qu'il y a eu un manquement dan nos lois lors du combat. Pour autant, étant autant attachés à nos lois qu'a la vérité, nous continuerons demain l'enquete, en particulier si Karest survit et qu'il accepte de parler. Je vous invite tous à commencer les funérailles de Beren pour qu'il soit accueilli le mieux possible de l'autre côté."
 
