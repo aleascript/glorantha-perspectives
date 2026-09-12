@@ -4,67 +4,43 @@ title: La Route de Talimar
 
 # La Route de Talimar
 
-**La Route de Talimar** est tirée d'une partie réellement jouée de Glorantha Perspectives. Sa première séance a fait apparaître le Protagoniste au lieu de commencer avec une fiche déjà terminée.
+**La Route de Talimar** est une partie réellement jouée de Glorantha Perspectives et publiée comme chronique de playtest.
 
-Ce récit n'est pas un modèle obligatoire de création. Il montre une possibilité simple : **commencer avec quelques vérités, jouer, puis laisser le personnage se préciser à mesure que la fiction lui donne une histoire.**
+Elle remplit deux fonctions à la fois : suivre l'histoire de **Talimar « Tal »**, jeune Orlanthi du clan du Héron Gris, et permettre de voir concrètement **comment GP fonctionne à la table** — y compris les choix du joueur, les Mises, les dés, les arbitrages du Temps, les erreurs et ce qui émerge sans avoir été préparé.
 
-## Lire la Route de Talimar
+## Lire une session
 
-Trois lectures permettent d'aller plus loin :
+Chaque session est conservée sous quatre formes complémentaires :
 
-- [**Fiche de Talimar**](character.md) — l'état du Protagoniste à l'issue de cette première séance ;
-- [**Actual Play — première séance**](actual-play.md) — le déroulé détaillé des choix, Mises, tirages et décisions de table ;
-- [**Récit — devenir Sage Gris**](story.md) — la même histoire racontée comme un récit continu.
+- **Verbatim** — l'actual play dans son ordre réel, mot pour mot et dé pour dé, avec les corrections de table ;
+- **Récit** — la même session racontée comme une histoire continue, pour qui souhaite suivre Tal sans les procédures de jeu ;
+- **Coulisses du Temps** — la Situation, les Forces et Pressions, ce qui était préparé, ce qui a émergé, ce qui a été improvisé et la manière dont le Temps a réagi ;
+- **Portrait vivant** — l'état de Tal exactement à la fin de la session.
+
+Les Portraits vivants sont des **instantanés historiques** : celui d'une session n'est jamais réécrit par les suivantes. On peut ainsi voir le Protagoniste apparaître et changer au fil du jeu.
+
+:::warning Coulisses
+Les pages **Coulisses du Temps** révèlent la préparation des sessions déjà jouées. Elles n'exposent pas les secrets ou pistes encore actives pour la suite de la campagne.
+:::
+
+## Sessions
+
+### [Session 0](session-0/index.md) — 31 août 2026
+
+Environ **3 h de jeu**. La création de Tal est elle-même jouée : entonnoir, rencontre avec Hendrik, apprentissage, découverte des Runes et initiation à Lhankor Mhy.
+
+Cette « Session 0 » a donc la durée et la densité d'une séance complète. Le numéro décrit sa fonction : **faire apparaître le Protagoniste et son point de départ par le jeu**.
+
+### [Session 1](session-1/index.md) — 12 septembre 2026
+
+Environ **2 h 30 de jeu**. Peu après son initiation, Tal accompagne Hendrik à Jonstown et participe à sa première enquête comme jeune Sage Gris autour d'une mort survenue pendant un raid de bétail.
 
 ## Tal avant la fiche
 
-Talimar, dit **Tal**, appartient au clan du Héron Gris de la tribu Colymar.
+Tal appartient pleinement à sa communauté, mais la manière dont elle raconte le monde ne lui suffit plus tout à fait.
 
-Il est des leurs, mais leur manière de raconter le monde ne lui suffit plus tout à fait. Il ne parvient pas à condamner l'Empire lunaire d'un seul bloc : il a vu ses routes, ses bâtiments, ses bains, son organisation et des manières de regarder un conflit qui l'ont fasciné. Il sait aussi que cette même civilisation pratique la domination et l'esclavage, et que la Chauve-Souris Pourpre existe sous la même Lune.
+Il a voyagé au Tarsh avec son oncle marchand **Grimar**. Il y a vu des routes, des bâtiments, des bains, une organisation et certaines manières lunaires d'examiner plusieurs faces d'un conflit qui l'ont fasciné. Il sait aussi que cette même civilisation pratique la domination et l'esclavage, et que la Chauve-Souris Pourpre existe sous la même Lune.
 
-Cette contradiction n'est pas un trait choisi pour compléter une fiche. Elle apparaît dans la conversation de jeu et devient peu à peu l'une des vérités centrales de Tal.
+Cette contradiction n'a pas été écrite pour compléter une fiche. Elle est apparue dans la conversation de jeu et est devenue l'une des vérités centrales de Tal.
 
-## Les routes de son oncle
-
-Un oncle marchand l'a souvent emmené au Tarsh lorsqu'il était plus jeune. Sa famille pouvait naturellement imaginer qu'il suivrait la même voie et se rapprocherait d'Issaries.
-
-Mais le commerce l'intéresse peu. Ce sont les routes elles-mêmes qui l'attirent : les histoires différentes racontées d'un lieu à l'autre, les anciennes stèles, les généalogies, les mythes qui se contredisent et, derrière eux, une question qui revient sans cesse :
-
-> **Comment savoir ce qui est vrai ?**
-
-C'est ainsi que **Lhankor Mhy** devient une possibilité. Non comme une carrière choisie dans une liste, mais comme une réponse possible à quelque chose que la partie vient de découvrir sur Tal.
-
-## Jouer la voie jusqu'à l'initiation
-
-Le joueur choisit alors de ne pas décider immédiatement qui a recruté Tal ni même s'il sera initié. Il préfère **jouer cette rencontre et cette possibilité jusqu'à leur conclusion**.
-
-La fiction lui fait rencontrer **Hendrik**, un Sage Gris de Lhankor Mhy. Les échanges, les enseignements, les mythes et les Situations vécues avec lui donnent progressivement à Tal des raisons d'entrer dans cette voie.
-
-La création continue donc pendant la partie : relations, questions, expériences et compréhensions deviennent des vérités durables, susceptibles plus tard de devenir des Mises.
-
-## Des Runes que l'on comprend autrement
-
-À un moment de son parcours, Tal se comprend à travers **Air**, **Harmonie** et **Mouvement**.
-
-L'initiation ne révèle pas que ces Runes étaient « mauvaises ». Elle lui permet de voir plus précisément ce qu'il nommait ainsi.
-
-Pour lui :
-
-- ce qu'il appelait **Harmonie** était une intuition de la **Loi** : ce qui lie sans abolir les différences ;
-- ce qu'il appelait **Mouvement** exprimait en profondeur la **Vérité** : ce qui le pousse à chercher encore, même lorsqu'une réponse semble déjà disponible.
-
-Sa description devient alors **Air, Loi, Vérité**.
-
-La feuille change parce que Tal a changé de compréhension. Ce n'est ni une correction rétroactive ni une optimisation de personnage : **la modification de la feuille est elle-même un événement de fiction.**
-
-## Ce que montre la Route de Talimar
-
-Cette première séance a suivi une boucle très simple :
-
-> **fiction vécue → vérités sur le Protagoniste → nouvelles Mises possibles → nouvelle fiction**
-
-Il n'est donc pas toujours nécessaire de connaître un Protagoniste dans tous ses détails avant de commencer.
-
-On peut partir de quelques éléments assez solides pour jouer, puis ajouter, transformer ou retirer des vérités lorsque les Situations révèlent qui il est devenu.
-
-C'est une manière de créer un personnage avec Glorantha Perspectives. Ce n'est pas la seule.
+La Route commence là : avec quelques vérités assez fortes pour jouer, mais sans savoir encore exactement qui Talimar va devenir.
