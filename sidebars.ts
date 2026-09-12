@@ -102,12 +102,14 @@ const sidebars: SidebarsConfig = {
           items: [
             'perspectives/moon/index',
             'perspectives/illumination/index',
-            {
-              type: 'category',
-              label: t('Chaos', 'Chaos'),
-              link: {type: 'doc', id: 'perspectives/chaos/index'},
-              items: ['perspectives/chaos/cosmology'],
-            },
+            isFrench
+              ? {
+                  type: 'category',
+                  label: 'Chaos',
+                  link: {type: 'doc', id: 'perspectives/chaos/index'},
+                  items: ['perspectives/chaos/cosmology'],
+                }
+              : 'perspectives/chaos/index',
           ],
         },
         'perspectives/heroquests/index',
