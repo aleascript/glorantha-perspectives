@@ -36,7 +36,7 @@ The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll acco
 
 A decisive result may turn a momentary relationship into a lasting one:
 
-- an **Exploit** may allow a spirit to be bound into a fetish;
+- a **Feat** may allow a spirit to be bound into a fetish;
 - a **Fiasco** may cause a bound spirit to depart.
 
 ### Weakened Worldview — Unravelled Bonds
