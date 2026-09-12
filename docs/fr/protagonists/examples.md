@@ -143,9 +143,9 @@ Un fétiche n'est pas seulement quelque chose qu'elle possède. Il lui demande q
 
 > « Les choses sont. Même contraires, elles sont là, ensemble. »
 
-**Homme, 20 ans — Sartarite du clan du Héron Gris, nouvel initié de Lhankor Mhy.**
+**Homme, 20 ans — Sartarite du clan du Héron Gris, jeune initié de Lhankor Mhy.**
 
-Tal montre une autre propriété du Portrait vivant : il peut se **transformer parce que le Protagoniste comprend autrement ce qu'il a vécu**.
+Tal montre deux propriétés du Portrait vivant : il peut se **transformer parce que le Protagoniste comprend autrement ce qu'il a vécu**, puis **accumuler les Traces laissées par les Situations suivantes**.
 
 ### ![](/img/runes/air.png) Air — le milieu
 
@@ -157,21 +157,40 @@ Tal avait d'abord nommé **Harmonie** son intuition que des choses différentes,
 
 Lors de son initiation, il comprend cette expérience autrement : pour lui, il s'agissait plus profondément de **Loi**, ce qui lie sans abolir les différences.
 
+À Jonstown, cette compréhension gagne une limite nouvelle : la Loi ne demande pas au Sage de rendre le monde plus net qu'il ne l'est.
+
 ### ![](/img/runes/truth.png) Vérité — ce qui met en mouvement
 
 Tal avait d'abord nommé **Mouvement** sa curiosité et son désir d'aller voir ailleurs.
 
 Son initiation lui révèle une direction : ce mouvement cherchait la **Vérité**. Non une certitude possédée, mais ce qui oblige à continuer de chercher.
 
+Sa première enquête comme Sage Gris précise encore cette relation : chercher la Vérité ne signifie pas fabriquer une certitude lorsqu'elle n'est pas accessible.
+
 ### Jeune Sage Gris
+
+Tal commence à exercer concrètement ce qu'il a appris auprès d'**Hendrik, fils d'Enderos**.
 
 - curiosité insatiable ;
 - distingue ce qu'il sait de ce qu'il croit savoir ;
 - soutient plusieurs hypothèses sans en faire prématurément une vérité ;
-- a voyagé en Tarsh avec son oncle Grimar ;
-- fasciné et troublé par la civilisation lunaire ;
+- apprend à formuler précisément ce qui est attesté et ce qui ne l'est pas ;
 - tablette aux sept différences donnée par Hendrik ;
 - couteau ancestral donné par son père.
+
+### Héron Gris et routes du Tarsh
+
+Tal est fils de **Calimar et Urestona**, carls du clan du **Héron Gris**, de la tribu **Colymar**.
+
+Son oncle **Grimar**, marchand, l'a emmené jeune au Tarsh. Tal y a découvert une civilisation lunaire qu'il admire par certains aspects et rejette par d'autres. Cette contradiction reste l'une des tensions profondes qui le mettent en mouvement.
+
+Parmi les personnes et appartenances qui comptent :
+
+- **Calimar et Urestona**, ses parents ;
+- **Grimar**, son oncle marchand ;
+- **Hendrik**, son maître ;
+- **le clan du Héron Gris** ;
+- le vieux Sage Gris traditionaliste du clan.
 
 ### Mythe de Lhankor Mhy — la quête de la connaissance
 
@@ -191,22 +210,35 @@ Avant son initiation, Tal connaissait déjà ce mythe, le méditait et commença
 
 Ces cinq formulations ne sont donc pas cinq sorts. Ce sont cinq gestes du Dieu que Tal a appris à reconnaître et qu'il peut désormais chercher à prolonger dans une Situation. **Le mythe lui donne les clés ; l'initiation ouvre la relation qui les rend opérantes.**
 
-### Liens qui comptent
+À Jonstown, le premier de ces gestes gagne une précision vécue : lorsqu'une chose n'est pas établie, le Sage doit aussi savoir dire **« nous ne savons pas »**.
 
-- **Calimar et Urestona**, ses parents ;
-- **Grimar**, son oncle marchand ;
-- **Hendrik, fils d'Enderos**, son maître ;
-- **le clan du Héron Gris**, ses racines.
+### Traces
 
-### Trace — l'initiation
+#### L'initiation
 
-L'initiation de Tal n'a pas effacé ce qui le constituait auparavant. Elle lui a donné une autre signification.
+L'initiation de Tal n'efface pas ce qui le constituait auparavant : elle lui donne une autre signification.
 
-Elle a aussi transformé son rapport au mythe appris auprès d'Hendrik : ce qui était enseignement, réflexion et possibilité devient désormais une voie par laquelle Tal peut chercher à faire écho aux gestes de Lhankor Mhy.
+Il comprend ce qu'il avait d'abord nommé Harmonie comme une intuition de la **Loi**, et ce qu'il avait nommé Mouvement comme l'élan de sa quête de **Vérité**. La question **« Dis-moi ce qui ne va pas »** reste attachée à son expérience de Lhankor Mhy et à sa manière de regarder le monde.
 
-Son Portrait change donc sans retcon : **le personnage a changé parce que sa compréhension de lui-même et sa relation au Cosmos ont changé.**
+#### Jonstown — dire exactement ce que nous savons
 
-Voir l'[Actual Play](../narratives/talimar-road/session-0/verbatim.md) ou le [récit](../narratives/talimar-road/session-0/narrative.md).
+À la Maison de la Paix, Tal participe à sa première enquête comme jeune Sage Gris. Deux témoignages sincères peuvent rester incompatibles ; l'examen du corps de Beren réduit l'incertitude sans la supprimer ; une reconstitution réussie ne produit pas artificiellement la solution espérée.
+
+Tal découvre que la Vérité exige aussi de **ne pas attribuer au monde davantage de certitude que ce qu'il donne**.
+
+Il inscrit dans son Portrait :
+
+> **« Ne chercher et ne rapporter que les faits avérés. »**
+
+Hendrik y ajoute la contrepartie indispensable : lorsque les faits ne sont pas avérés, il faut savoir rapporter aussi **« nous ne savons pas »**.
+
+### Ce que ce Portrait montre
+
+Tal n'a pas reçu une progression abstraite entre deux séances. Son Portrait conserve les transformations réellement produites par le jeu : une Rune comprise autrement, une relation au dieu devenue opérante, puis une discipline intellectuelle née d'une enquête ordinaire.
+
+Les Traces permettent de garder cette histoire **sans retcon et sans remplacer l'ancien personnage par une nouvelle fiche**.
+
+Suivre cette évolution dans [la Route de Talimar](../narratives/talimar-road/) : [Session 0](../narratives/talimar-road/session-0/) puis [Session 1](../narratives/talimar-road/session-1/).
 
 ---
 
