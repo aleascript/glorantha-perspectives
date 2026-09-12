@@ -13,7 +13,7 @@ It ends when Tal is accepted as a young Grey Sage, with **Air, Law, and Truth** 
 
 ## Four ways to read the session
 
-- [**Transcript**](verbatim.md) — the game in its real order: player/Time exchanges, Bets, rolls, table corrections, and procedural decisions.
+- [**Transcript**](verbatim.md) — the game in its real order: player/Time exchanges, Bets, rolls, table corrections, and procedural decisions. The game was played in French; this page is an English translation of the original transcript.
 - [**Story**](narrative.md) — Tal's story without the table apparatus.
 - [**Time Backstage**](backstage.md) — what was prepared, the Forces and Pressures, what emerged, and how Time reacted.
 - [**Living Portrait**](portrait.md) — Talimar exactly as he exists at the end of this session.
