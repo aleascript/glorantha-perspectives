@@ -35,6 +35,10 @@ This “Session 0” therefore has the length and density of a full session. The
 
 About **3 hours of play**. Soon after his initiation, Tal accompanies Hendrik to Jonstown and takes part in his first investigation as a young Grey Sage, concerning a death during a cattle raid.
 
+### [Session 2](session-2/index.md) — September 14, 2026
+
+About **1 hour 30 minutes of play**. Karest has survived and can finally testify. Tal first takes the risk of returning alone to the House of Peace during the night, then carries the affair to its conclusion: reporting a truth that remains incomplete and handing it over to those who must decide what to do with it.
+
 ## Tal before the sheet
 
 Tal fully belongs to his community, but the way it tells the world is no longer quite enough for him.
