@@ -35,6 +35,10 @@ Cette « Session 0 » a donc la durée et la densité d'une séance complète. L
 
 Environ **2 h 30 de jeu**. Peu après son initiation, Tal accompagne Hendrik à Jonstown et participe à sa première enquête comme jeune Sage Gris autour d'une mort survenue pendant un raid de bétail.
 
+### [Session 2](session-2/index.md) — 14 septembre 2026
+
+Environ **2 h de jeu**. Karest a survécu et peut enfin témoigner. Tal prend d'abord le risque de revenir seul près de la Maison de la Paix pendant la nuit, puis conduit l'affaire jusqu'à son terme : rapporter une vérité qui reste incomplète et la remettre à ceux qui devront décider quoi en faire.
+
 ## Tal avant la fiche
 
 Tal appartient pleinement à sa communauté, mais la manière dont elle raconte le monde ne lui suffit plus tout à fait.
