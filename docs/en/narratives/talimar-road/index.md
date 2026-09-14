@@ -37,7 +37,7 @@ About **3 hours of play**. Soon after his initiation, Tal accompanies Hendrik to
 
 ### [Session 2](session-2/index.md) — September 14, 2026
 
-About **1 hour 30 minutes of play**. Karest has survived and can finally testify. Tal first takes the risk of returning alone to the House of Peace during the night, then carries the affair to its conclusion: reporting a truth that remains incomplete and handing it over to those who must decide what to do with it.
+About **2 hours of play**. Karest has survived and can finally testify. Tal first takes the risk of returning alone to the House of Peace during the night, then carries the affair to its conclusion: reporting a truth that remains incomplete and handing it over to those who must decide what to do with it.
 
 ## Tal before the sheet
 

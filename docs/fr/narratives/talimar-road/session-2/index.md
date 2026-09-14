@@ -5,7 +5,7 @@ title: Session 2
 # Session 2
 
 **Jouée le 14 septembre 2026.**  
-**Durée de jeu estimée : environ 1 h 30.**
+**Durée de jeu estimée : environ 2 h.**
 
 Au lendemain de la première enquête de Tal à Jonstown, **Karest a survécu** et peut enfin parler. Mais avant l'entretien officiel, Tal prend seul un risque inattendu : incapable de dormir, il retourne rôder de nuit autour de la Maison de la Paix et surprend une parole spontanée du blessé.
 
