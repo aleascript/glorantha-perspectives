@@ -5,7 +5,7 @@ title: Session 1
 # Session 1
 
 **Played on September 12, 2026.**  
-**Estimated play time: about 2 hours 30 minutes.**
+**Estimated play time: about 3 hours.**
 
 Soon after his initiation, Talimar arrives in **Jonstown** with Hendrik. A healer of Chalana Arroy comes looking for a Grey Sage: a badly wounded man is under the protection of the House of Peace, while two groups of kin are already facing each other in the street over Beren's death during a cattle raid.
 

@@ -5,7 +5,7 @@ title: Session 1
 # Session 1
 
 **Jouée le 12 septembre 2026.**  
-**Durée de jeu estimée : environ 2 h 30.**
+**Durée de jeu estimée : environ 3 h.**
 
 Peu après son initiation, Talimar arrive à **Jonstown** avec Hendrik. Une guérisseuse de Chalana Arroy vient chercher un Sage Gris : un homme grièvement blessé est protégé par la Maison de la Paix, tandis que deux groupes de parents s'opposent déjà dans la rue autour de la mort de Beren lors d'un raid de bétail.
 

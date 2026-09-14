@@ -145,8 +145,6 @@ Une forme d'accord apparut :
 
 La fiction montrait ainsi que l'incertitude n'empêche pas nécessairement l'action sociale. Elle peut au contraire obliger les hommes à décider **jusqu'où ils peuvent aller sans prétendre savoir davantage**.
 
-Le Temps formula d'abord cette idée de manière trop explicite à la fin de la scène. Le Debrief releva que c'était une erreur de ton : Tal avait déjà posé sa propre question — **« que font les hommes quand on leur donne une vérité incomplète ? »** — et le Temps n'avait pas à fournir la réponse théorique à sa place. La version consolidée s'arrête donc sur les actes et laisse cette question au Protagoniste.
-
 ## Lore improvisé : plausibilité avant encyclopédie
 
 Pendant la partie, une question surgit sur les clans de Beren et Karest et sur la forme probable d'une réunion de ce type à Jonstown.

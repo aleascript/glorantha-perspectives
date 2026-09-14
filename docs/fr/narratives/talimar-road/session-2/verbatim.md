@@ -4,7 +4,7 @@ title: Verbatim
 
 # Verbatim
 
-**Durée estimée : environ 2 h.**
+**Durée estimée : environ 1 h 30.**
 
 Cette page conserve le jeu dans son ordre réel : paroles de Tal et du Temps, hésitations, corrections, Focus, Mises et résultats de dés. Seules les traces techniques internes à l'outil sont absentes.
 
@@ -26,7 +26,7 @@ Hendrik referme la tablette qu’il avait devant lui. Mais il ne se lève pas en
 Il tourne simplement les yeux vers toi.
 — Hier, tu leur as dit que nous continuerions s’il pouvait parler.
 
-**[TAL — Off:]**
+**[TAL]**
 
 en fait la nuit j'ai eu du mal à m'endormir et je pense que Tal est allé rôdé du côté de la Maison de la Paix. Je sais que ce n'est peut etre pas le role d'un Sage Gris mais je suis jeune et cette histoire m'ébranle plus qu'il ne faudrait sans doute. Qu'est ce que je risque. Et si discrètement, j'arrivais à entendre quelqu'un parler qui pourrait me révéler une indication essentielle. Et je crois que c'est aussi pour moi le moyen d'arrêter de retourner le cas dans ma tete en me demandant s'il n'y a pas un détail important que j'aurais pu raté. Et avant de partir je fais meme le rituel suivant: les yeux voient, les oreilles entendent, la tete comprend, ils vont ensemble pour concourir à la recherche de la vérité. Une facon pour moi de justifier mon acte en m'en remettant a un accord silencieux avec Lankhor Mhy. Puis je revets une tenue neutre et sors.
 

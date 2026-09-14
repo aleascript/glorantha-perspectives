@@ -4,7 +4,7 @@ title: Verbatim
 
 # Verbatim
 
-**Durée de jeu estimée : environ 2 h.**
+**Durée de jeu estimée : environ 3 h 30.**
 
 Cette page conserve les tours dans leur ordre de jeu, les Mises, les dés, les corrections et les échanges de procédure qui ont réellement participé à la partie. Les traces techniques internes aux outils sont retirées.
 

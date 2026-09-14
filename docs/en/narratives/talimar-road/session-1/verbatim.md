@@ -4,7 +4,7 @@ title: Transcript
 
 # Transcript
 
-**Estimated duration: about 2 hours 30 minutes.**
+**Estimated duration: about 3 hours.**
 
 :::note[Translation]
 
