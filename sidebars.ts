@@ -206,6 +206,17 @@ const sidebars: SidebarsConfig = {
                 'narratives/talimar-road/session-1/portrait',
               ],
             },
+            {
+              type: 'category',
+              label: 'Session 2',
+              link: {type: 'doc', id: 'narratives/talimar-road/session-2/index'},
+              items: [
+                'narratives/talimar-road/session-2/verbatim',
+                'narratives/talimar-road/session-2/narrative',
+                'narratives/talimar-road/session-2/backstage',
+                'narratives/talimar-road/session-2/portrait',
+              ],
+            },
           ],
         }
       ],

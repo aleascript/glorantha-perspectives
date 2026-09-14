@@ -27,13 +27,17 @@ The **Time Backstage** pages reveal the preparation for sessions that have alrea
 
 ### [Session 0](session-0/index.md) — August 31, 2026
 
-About **3 hours of play**. Tal's creation is itself played: funnel, meeting Hendrik, apprenticeship, discovery of the Runes, and initiation into Lhankor Mhy.
+About **3 hours 30 minutes of play**. Tal's creation is itself played: funnel, meeting Hendrik, apprenticeship, discovery of the Runes, and initiation into Lhankor Mhy.
 
 This “Session 0” therefore has the length and density of a full session. The number describes its function: **bringing the Protagonist and his starting point into existence through play**.
 
 ### [Session 1](session-1/index.md) — September 12, 2026
 
-About **2 hours 30 minutes of play**. Soon after his initiation, Tal accompanies Hendrik to Jonstown and takes part in his first investigation as a young Grey Sage, concerning a death during a cattle raid.
+About **3 hours of play**. Soon after his initiation, Tal accompanies Hendrik to Jonstown and takes part in his first investigation as a young Grey Sage, concerning a death during a cattle raid.
+
+### [Session 2](session-2/index.md) — September 14, 2026
+
+About **2 hours of play**. Karest has survived and can finally testify. Tal first takes the risk of returning alone to the House of Peace during the night, then carries the affair to its conclusion: reporting a truth that remains incomplete and handing it over to those who must decide what to do with it.
 
 ## Tal before the sheet
 

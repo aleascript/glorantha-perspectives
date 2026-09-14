@@ -27,13 +27,17 @@ Les pages **Coulisses du Temps** révèlent la préparation des sessions déjà 
 
 ### [Session 0](session-0/index.md) — 31 août 2026
 
-Environ **3 h de jeu**. La création de Tal est elle-même jouée : entonnoir, rencontre avec Hendrik, apprentissage, découverte des Runes et initiation à Lhankor Mhy.
+Environ **3 h 30 de jeu**. La création de Tal est elle-même jouée : entonnoir, rencontre avec Hendrik, apprentissage, découverte des Runes et initiation à Lhankor Mhy.
 
 Cette « Session 0 » a donc la durée et la densité d'une séance complète. Le numéro décrit sa fonction : **faire apparaître le Protagoniste et son point de départ par le jeu**.
 
 ### [Session 1](session-1/index.md) — 12 septembre 2026
 
-Environ **2 h 30 de jeu**. Peu après son initiation, Tal accompagne Hendrik à Jonstown et participe à sa première enquête comme jeune Sage Gris autour d'une mort survenue pendant un raid de bétail.
+Environ **3 h de jeu**. Peu après son initiation, Tal accompagne Hendrik à Jonstown et participe à sa première enquête comme jeune Sage Gris autour d'une mort survenue pendant un raid de bétail.
+
+### [Session 2](session-2/index.md) — 14 septembre 2026
+
+Environ **1 h 30 de jeu**. Karest a survécu et peut enfin témoigner. Tal prend d'abord le risque de revenir seul près de la Maison de la Paix pendant la nuit, puis conduit l'affaire jusqu'à son terme : rapporter une vérité qui reste incomplète et la remettre à ceux qui devront décider quoi en faire.
 
 ## Tal avant la fiche
 

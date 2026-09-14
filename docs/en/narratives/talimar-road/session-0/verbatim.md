@@ -4,7 +4,7 @@ title: Transcript
 
 # Transcript
 
-**Estimated play time: about 2 hours.**
+**Estimated play time: about 3 hours 30 minutes.**
 
 :::note[Translation]
 

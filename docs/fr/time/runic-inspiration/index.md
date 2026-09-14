@@ -10,11 +10,19 @@ title: Inspiration runique
 
 Les Runes sont partout dans Glorantha. Elles peuvent aussi servir à faire émerger rapidement une idée lorsque la Situation demande quelque chose que personne n'avait encore fixé.
 
-L'outil le plus simple consiste à tirer **deux Runes de Pouvoir** et à chercher une relation entre elles.
+Le nombre de Runes à tirer dépend de **ce qui manque encore**.
 
-Utilisez 2D8, huit cartes ou tout autre support permettant d'obtenir deux résultats de 1 à 8.
+## Une Rune, deux Runes, ou davantage ?
 
-La relation est libre : cause et conséquence, deux personnes, avant et après, lieu et problème, désir et obstacle, ou simplement deux éléments indépendants qui doivent tous deux entrer dans la Situation.
+Pour **faire naître une Situation**, tirez généralement **deux Runes de Pouvoir** avec 2D8, huit cartes ou tout autre support équivalent. Une Situation apparaît rarement comme un élément isolé : elle naît plus facilement d'une **relation ou d'une tension** entre deux principes.
+
+Cherchez librement cette relation : cause et conséquence, deux personnes, avant et après, lieu et problème, désir et obstacle, ou simplement deux éléments indépendants qui doivent tous deux entrer dans la Situation.
+
+Pour **manifester quelque chose dont la place dans la fiction est déjà fortement contrainte**, commencez plutôt par **une seule Rune**. C'est notamment le cas après une résolution : la comparaison a déjà établi ce que le réel a répondu, mais plusieurs manifestations fictionnelles restent encore compatibles avec cette réponse. Une Rune peut suffire à orienter l'**Illusion**, c'est-à-dire la forme concrète prise par ce qui vient d'être tranché.
+
+Si cette première Rune ne suffit pas à faire apparaître une réponse, tirez-en une seconde et cherchez la relation entre les deux. Une troisième, puis éventuellement d'autres, peuvent être ajoutées de la même manière tant qu'elles **ouvrent réellement l'imagination au lieu de la remplacer**.
+
+Le tirage runique ne constitue jamais un nouveau test : il ne modifie ni l'issue déjà obtenue, ni les faits établis, ni les Facteurs Cadres. Il aide seulement à choisir une forme parmi celles que la Situation laisse encore ouvertes.
 
 ## Les huit Runes de Pouvoir
 
@@ -158,6 +166,7 @@ Quelques moments naturels :
 - au début d'une saison ;
 - lorsqu'une nouvelle Situation demande un élément extérieur aux Protagonistes ;
 - lorsqu'une Force ou une Pression doit se manifester sans que sa forme soit encore connue ;
+- **après une résolution, lorsque le résultat est déjà établi mais que sa manifestation fictionnelle reste ouverte** ;
 - lorsqu'une question reste ouverte et que personne ne souhaite en décider directement ;
 - lorsqu'une image inattendue aiderait à relancer l'attention sur Glorantha.
 
