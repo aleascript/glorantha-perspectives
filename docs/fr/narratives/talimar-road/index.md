@@ -20,7 +20,9 @@ Chaque session est conservée sous quatre formes complémentaires :
 Les Portraits vivants sont des **instantanés historiques** : celui d'une session n'est jamais réécrit par les suivantes. On peut ainsi voir le Protagoniste apparaître et changer au fil du jeu.
 
 :::warning[Coulisses]
+
 Les pages **Coulisses du Temps** révèlent la préparation des sessions déjà jouées. Elles n'exposent pas les secrets ou pistes encore actives pour la suite de la campagne.
+
 :::
 
 ## Sessions
