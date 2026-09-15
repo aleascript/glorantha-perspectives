@@ -91,11 +91,11 @@ Le Sage Gris tourne la tête vers toi.
 
 Il ne dit pas non. Mais il attend ta réponse.
 
-**Intention :** obtenir des deux parties qu'elles acceptent de te confier provisoirement le paquet afin que son statut soit examiné plutôt que disputé ici.
+**Intention :** sortir le paquet de l'affrontement immédiat afin de pouvoir l'examiner et établir ce qu'il est réellement.
 
-**Focus — Zoom Action :** *parviens-tu maintenant à leur faire accepter ce compromis provisoire ?*
+**Focus — Zoom Action :** *parviens-tu maintenant à obtenir assez de confiance des deux parties pour examiner le paquet sous ta responsabilité ?*
 
-**Issue favorable :** la femme te remet le paquet et le Sage accepte qu'il soit placé sous ta responsabilité pour examen, sans préjuger encore de sa propriété.
+**Issue favorable :** la femme te remet le paquet et le Sage accepte qu'il soit placé sous ta responsabilité pour examen, sans poser de condition supplémentaire sur la manière dont tu l'ouvres ou le manipules.
 
 **Issue contraire :** l'un des deux refuse ; le paquet reste entre les mains de la famille et le conflit demeure ouvert.
 
@@ -120,11 +120,13 @@ Tirage: 4, 5 -> 1 réussite
 
 **[TEMPS]**
 
-Le Temps lance les **3 Contre-Mises** : **3, 6, 1 → 3, 6, 2 → 2 réussites**.
+Le Temps lance les **3 Contre-Mises** : **3, 5, 2 → 1 réussite**.
 
-**1 contre 2 : échec.**
+**1 contre 1 : Status Quo.**
 
-La femme ne te tend pas le paquet. Mais elle ne se referme pas non plus comme avant.
+Personne ne cède réellement le contrôle du paquet. Mais personne ne rejette non plus ton idée de l'examiner.
+
+La femme ne te le tend pas encore. Elle ne se referme pas non plus comme avant.
 
 Le Sage Gris te fixe quelques secondes, puis dit :
 
