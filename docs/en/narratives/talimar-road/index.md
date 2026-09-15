@@ -41,6 +41,12 @@ About **3 hours of play**. Soon after his initiation, Tal accompanies Hendrik to
 
 About **2 hours of play**. Karest has survived and can finally testify. Tal first takes the risk of returning alone to the House of Peace during the night, then carries the affair to its conclusion: reporting a truth that remains incomplete and handing it over to those who must decide what to do with it.
 
+### [Session 3](session-3/index.md) — September 15, 2026
+
+About **2 hours of play**. A dispute over the legacy of a dead Sage eventually wears Tal down. He leaves the matter to Hendrik and turns his gaze elsewhere: the roads, news from the north, then the history of Sartar. The session thus moves from a very local archival quarrel to the discovery of a much more open sign: **the Rune of Sartar**, drawn in the margin of a text about those who still secretly maintain his strength.
+
+The session also documents a deliberately imperfect playtest: an ambiguity in staging and a mismatch between the prepared Situation and the kind of breath sought by the player become material for understanding how the Player can move the story through what they choose to look at.
+
 ## Tal before the sheet
 
 Tal fully belongs to his community, but the way it tells the world is no longer quite enough for him.
