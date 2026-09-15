@@ -11,17 +11,17 @@ Jonstown propose d'abord à Tal une querelle d'archives autour du legs d'un Sage
 
 Sa curiosité le conduit de **Tarsh et l'Empire lunaire** à **Sartar**, à l'histoire des routes royales et enfin à une tradition affirmant que certains maintiennent encore secrètement la force du fondateur du royaume. Dans la marge d'un texte, un signe attire son regard : **la Rune de Sartar**.
 
-La session est aussi un playtest particulièrement instructif : une résolution théiste est mal exécutée, la Situation préparée ne correspond pas au souffle recherché par le joueur, et pourtant le jeu continue parce que Tal peut déplacer lui-même son regard — et avec lui l'histoire.
+La session est aussi un playtest particulièrement instructif : la Situation préparée ne correspond pas au souffle recherché par le joueur, une ambiguïté de mise en scène autour d'Enastina crée de la friction, et pourtant le jeu continue parce que Tal peut déplacer lui-même son regard — et avec lui l'histoire.
 
 ## Quatre façons de lire la session
 
-- [**Verbatim**](verbatim.md) — le jeu dans son ordre réel, y compris l'erreur de résolution, les échanges `Off:` et les corrections de consolidation.
-- [**Récit**](narrative.md) — l'histoire seule, avec le retcon de consolidation remplaçant la note marginale explicite par la Rune de Sartar.
-- [**Coulisses du Temps**](backstage.md) — la Situation préparée, ce qui a émergé, ce qui a été improvisé et les enseignements du Debrief.
+- [**Verbatim**](verbatim.md) — le jeu dans son ordre réel, avec les échanges `Off:`, les Focus, les Mises et les dés ;
+- [**Récit**](narrative.md) — l'histoire seule, avec le retcon de consolidation remplaçant la note marginale explicite par la Rune de Sartar ;
+- [**Coulisses du Temps**](backstage.md) — la Situation préparée, ce qui a émergé, ce qui a été improvisé et les enseignements du Debrief ;
 - [**Portrait vivant**](portrait.md) — Talimar tel qu'il existe exactement à la fin de cette session.
 
 :::warning[Spoilers]
 
-Les **Coulisses du Temps** révèlent la préparation, les erreurs et les improvisations de cette session. Elles ne révèlent pas les secrets encore actifs des sessions futures.
+Les **Coulisses du Temps** révèlent la préparation, les retcons de consolidation et les improvisations de cette session. Elles ne révèlent pas les secrets encore actifs des sessions futures.
 
 :::
