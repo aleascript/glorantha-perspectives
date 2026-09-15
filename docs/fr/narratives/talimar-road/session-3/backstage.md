@@ -16,7 +16,7 @@ La Session 3 ne préparait aucune trajectoire pour Tal.
 
 Le Temps était parti d'une logique ordinaire de la Bibliothèque de Jonstown : elle reçoit des dons, des legs et des documents confiés à des Sages ; certains sont mal classés, certains restent liés à des familles ou à des clans, et la frontière entre **ce qui se trouvait chez un Sage** et **ce qui lui appartenait** peut devenir litigieuse.
 
-La Situation préparée était donc celle-ci : **Jorstan fils d'Argrathor**, Free Sage de Jonstown, venait de mourir après une longue maladie. Ses effets écrits et plusieurs coffres arrivaient à la Bibliothèque comme ce que ses confrères considéraient être son legs au temple.
+La Situation préparée était donc celle-ci : **Jorstan fils d'Argrathor**, Sage Gris de Jonstown, venait de mourir après une longue maladie. Ses effets écrits et plusieurs coffres arrivaient à la Bibliothèque comme ce que ses confrères considéraient être son legs au temple.
 
 Sa parenté contestait cependant qu'un petit paquet de tablettes et de parchemins fasse partie du legs. Selon elle, ces documents étaient des archives familiales confiées à Jorstan pour copie et conservation, non des biens lui appartenant.
 
@@ -26,7 +26,7 @@ Le déchargement avait lieu à l'entrée de la Bibliothèque. Tant qu'aucun acco
 
 ### Forces
 
-- **Le temple et les Free Sages** voulaient préserver l'intégrité du legs et éviter qu'une simple affirmation permette à une famille de reprendre arbitrairement des documents déposés au temple.
+- **Le temple et les Sages Gris** voulaient préserver l'intégrité du legs et éviter qu'une simple affirmation permette à une famille de reprendre arbitrairement des documents déposés au temple.
 - **La parenté de Jorstan** voulait récupérer ce qu'elle considérait comme des archives ancestrales qui n'avaient jamais cessé d'appartenir aux siens.
 - **Les servants et apprentis** voulaient finir le travail matériel, éviter le scandale et permettre à la Bibliothèque de continuer à fonctionner.
 - **Le temps** poussait la scène : plus la querelle restait publique sur les marches, plus elle devenait humiliante pour les deux camps.
