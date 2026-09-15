@@ -6,7 +6,7 @@ title: Coulisses du Temps
 
 :::warning[Spoilers]
 
-Cette page révèle la préparation, les improvisations, les erreurs de procédure et le Debrief de la Session 3. Les secrets encore actifs pour les sessions futures ne sont pas publiés ici.
+Cette page révèle la préparation, les improvisations, les retcons de consolidation et le Debrief de la Session 3. Les secrets encore actifs pour les sessions futures ne sont pas publiés ici.
 
 :::
 
@@ -86,6 +86,16 @@ La petite caravane aperçue depuis la colline n'était au départ qu'un élémen
 
 Le Temps n'avait pas préparé Daran comme un PNJ important. Il a pris de l'importance parce que Tal a choisi de regarder dans cette direction.
 
+## De l'information à l'immersion : faire vivre Daran
+
+La première version de l'échange avec Daran avait pourtant un défaut révélateur : le marchand donnait successivement les routes, les prix, les Lunaires, la guerre puis une anecdote. Les informations étaient intéressantes, mais la scène ressemblait encore trop à une liste livrée au Joueur.
+
+La consolidation rend donc l'anecdote de la maison plus vivante sans changer ce qu'elle raconte. Après quelques gobelets, **Daran pense tenir une histoire capable d'amuser un Sage Gris**. Il la raconte avec plaisir, compte presque les trois ventes sur ses doigts, puis demande à Tal ce qu'il en pense : *à qui appartient donc cette maison ?*
+
+Le changement est petit mais important. Une information n'arrive plus comme un paragraphe de lore : **elle a un porteur, une humeur, une intention et attend une réaction**. Daran devient une personne qui parle à Tal plutôt qu'une interface donnant des nouvelles du nord.
+
+C'est une leçon d'immersion plus générale : une loi peut arriver par quelqu'un qui s'en plaint, un mythe par quelqu'un qui le raconte mal ou le corrige, une guerre par celui qui a perdu une route, une coutume par un geste. Le Temps n'a pas besoin d'ajouter davantage de texte ; il doit autant que possible **faire arriver l'information dans le monde**.
+
 ## Jorstan et Argrathor : l'affaire se ferme malgré tout
 
 Lorsque Tal revint ensuite chercher discrètement dans les archives, le Temps devait répondre à une question factuelle : Jorstan avait-il laissé des traces sur le statut des documents ?
@@ -124,6 +134,29 @@ Par exemple :
 Ce signal ne serait ni une Mise, ni une Promesse, ni un ordre adressé au monde. Il pourrait seulement aider le Temps à choisir **où ouvrir la caméra** lorsqu'une nouvelle Situation doit apparaître.
 
 L'objectif serait précisément de ne pas augmenter sa charge : il ne s'agit pas de préparer plusieurs scénarios pour satisfaire toutes les envies possibles, mais de permettre à une Situation qui n'accroche pas de continuer hors champ, puis d'ouvrir un autre morceau plausible du monde.
+
+## Glorantha doit aussi prendre la scène
+
+Le principe **« le monde ne connaît pas le Protagoniste »** protège très bien l'autonomie de la fiction. Mais cette session révèle un danger symétrique : compris trop timidement, il peut conduire le Temps à seulement simuler honnêtement le quotidien et à produire un monde cohérent mais plat.
+
+Or il ne s'agit pas de simuler n'importe quel quotidien. Il s'agit de faire vivre **Glorantha**. Au sens dramaturgique, le monde lui-même est l'un des protagonistes essentiels de la partie : ses Runes, ses mythes, ses dieux, ses esprits, ses peuples, ses rites, ses paysages, ses échelles et ses impossibilités doivent parfois imposer leur présence.
+
+C'est ici que les **Promesses** et l'**effet Waou** deviennent importants. Le Temps peut porter quelques images ou possibilités latentes — spectaculaires, ontologiques, rétrospectives ou simplement humaines et inoubliables — sans construire une trajectoire pour les atteindre. Elles ne sont pas destinées à Tal : elles appartiennent au monde. Un bon test est de demander : **ce moment resterait-il remarquable si un autre Protagoniste se trouvait ici ?** Si oui, le Waou vient probablement de Glorantha plutôt que d'un ciblage du personnage.
+
+Le merveilleux n'a d'ailleurs pas besoin d'être constamment cosmique. Une Rune qui se manifeste réellement, une coutume étrange vécue plutôt qu'expliquée, un rite, une procession d'esprits, l'échelle d'un chantier, une personne extraordinairement présente ou une impossibilité mythique peuvent suffire à rappeler pourquoi Glorantha mérite d'être regardé.
+
+La boussole qui en ressort est simple :
+
+> **Le monde existe sans toi.**  
+> Autonomie, Situation, Forces, Pressions.
+>
+> **Mais regarde-le vraiment.**  
+> Focus, attention du Joueur, curiosité, déplacement de la campagne.
+>
+> **Et quand il se montre, fais-le vivre.**  
+> Immersion, manifestations, PNJ incarnés, Promesses, Waou.
+
+La première évite le scénario truqué. La deuxième évite le railroad. La troisième évite que l'autonomie du monde ne devienne une excuse pour raconter des histoires trop plates.
 
 ## La surcorrection du Temps et le retcon de la Rune de Sartar
 
@@ -189,4 +222,4 @@ D'abord, **une Situation peut rater son accroche sans que la partie s'effondre**
 
 Ensuite, le contrôle du regard par le Joueur ne s'exerce peut-être pas seulement à l'intérieur d'une résolution par les Mises, le Focus et le Zoom. Il peut agir à l'échelle de la campagne : ce que Tal choisit d'observer, de poursuivre ou d'abandonner finit par déplacer l'histoire elle-même.
 
-Enfin, l'autonomie du monde et l'écoute de la table ne sont pas des principes opposés. Le défi du Temps est de **tenir compte de l'appétit des joueurs sans fabriquer rétrospectivement un monde qui leur obéit**.
+Enfin, l'autonomie du monde et l'écoute de la table ne sont pas des principes opposés. Le défi du Temps est de **tenir compte de l'appétit des joueurs sans fabriquer rétrospectivement un monde qui leur obéit**, tout en faisant de Glorantha une présence assez incarnée, merveilleuse et surprenante pour que cette autonomie reste désirable à explorer.
