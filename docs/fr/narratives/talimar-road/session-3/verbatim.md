@@ -118,7 +118,7 @@ Tu peux contester ces Mises, en proposer d'autres, ou répondre d'abord à leurs
 
 Tirage: 4, 5 -> 1 réussite
 
-**[TEMPS — erreur de procédure telle que jouée]**
+**[TEMPS]**
 
 Le Temps lance les **3 Contre-Mises** : **3, 6, 1 → 3, 6, 2 → 2 réussites**.
 
@@ -441,21 +441,31 @@ Il hausse les épaules.
 
 — **La guerre**, donc : j'ai entendu cinq versions différentes avant même de quitter Alda-Chur. Une armée va marcher. Non, deux. Non, aucune, c'est seulement une relève. Non, c'est une démonstration. Non, c'est une rumeur lancée par ceux qui veulent faire monter le prix des chevaux.
 
-Il remplit de nouveau ton gobelet.
+La bouteille a déjà bien baissé. Daran remplit de nouveau ton gobelet, puis s'interrompt avec un petit sourire qui grandit à mesure qu'une idée lui revient.
 
-— Et enfin, les bonnes histoires.
+— Attends. Toi qui es Sage Gris, j'en ai une pour toi.
 
-Il se penche légèrement vers toi.
+Il se penche au-dessus de la table, visiblement ravi de son histoire avant même de l'avoir racontée.
 
-— Un conducteur de mule jurait qu'à Furthest, un homme avait vendu la même maison trois fois en une journée : une fois selon la loi locale, une fois selon un acte lunaire, et une fois à un prêtre qui prétendait que la maison appartenait déjà au temple depuis deux générations.
+— Un conducteur de mule descendu de Furthest jurait qu'un homme avait réussi à vendre la même maison **trois fois dans la même journée**.
 
-Daran te regarde par-dessus son gobelet.
+Il lève un doigt.
 
-— J'ai pensé que cette histoire devait être fausse.
+— Une première fois selon la coutume locale.
 
-Un temps.
+Un deuxième.
 
-— Puis je me suis dit qu'elle était beaucoup trop vraisemblable.
+— Une deuxième avec un acte lunaire parfaitement enregistré.
+
+Puis il lève le troisième en retenant déjà un rire.
+
+— Et avant le coucher du soleil, un prêtre est arrivé pour expliquer que personne n'avait jamais eu le droit de vendre quoi que ce soit, parce que la maison appartenait à son temple depuis deux générations.
+
+Daran boit une gorgée et te regarde par-dessus son gobelet.
+
+— Alors, Sage ? **À qui appartient la maison ?**
+
+Il se cale sur son siège, manifestement curieux de voir ce que tu vas répondre.
 
 **[TAL]**
 
