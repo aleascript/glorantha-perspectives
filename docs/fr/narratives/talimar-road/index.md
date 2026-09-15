@@ -39,7 +39,13 @@ Environ **3 h de jeu**. Peu après son initiation, Tal accompagne Hendrik à Jon
 
 ### [Session 2](session-2/index.md) — 14 septembre 2026
 
-Environ **1 h 30 de jeu**. Karest a survécu et peut enfin témoigner. Tal prend d'abord le risque de revenir seul près de la Maison de la Paix pendant la nuit, puis conduit l'affaire jusqu'à son terme : rapporter une vérité qui reste incomplète et la remettre à ceux qui devront décider quoi en faire.
+Environ **2 h de jeu**. Karest a survécu et peut enfin témoigner. Tal prend d'abord le risque de revenir seul près de la Maison de la Paix pendant la nuit, puis conduit l'affaire jusqu'à son terme : rapporter une vérité qui reste incomplète et la remettre à ceux qui devront décider quoi en faire.
+
+### [Session 3](session-3/index.md) — 15 septembre 2026
+
+Environ **2 h de jeu**. Une querelle autour du legs d'un Sage mort finit par lasser Tal, qui abandonne l'affaire à Hendrik et porte son regard ailleurs : les routes, les nouvelles du nord, puis l'histoire de Sartar. La session conduit ainsi d'un conflit d'archives très local à la découverte d'un signe beaucoup plus ouvert : **la Rune de Sartar**, tracée dans la marge d'un texte évoquant ceux qui maintiennent encore secrètement sa force.
+
+Cette session documente aussi un playtest volontairement imparfait : une ambiguïté de mise en scène et un décalage entre la Situation préparée et le souffle recherché par le joueur deviennent eux-mêmes matière à comprendre comment le Joueur peut déplacer l'histoire par ce qu'il choisit de regarder.
 
 ## Tal avant la fiche
 
