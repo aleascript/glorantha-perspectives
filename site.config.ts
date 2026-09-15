@@ -23,8 +23,8 @@ export const site = {
     en: {htmlLang: 'en', label: 'English'},
   },
   identity: {
-    logo: 'img/site/gp-logo-white-on-dark.png',
-    favicon: 'img/site/gp-logo-white-on-black-400x400.png',
+    logo: 'img/site/gp-logo-white-on-black-400x400.png',
+    favicon: 'img/site/favicon.ico',
   } satisfies SiteIdentity,
   repository: {defaultFullName: 'aleascript/glorantha-perspectives'},
   lineage: {
