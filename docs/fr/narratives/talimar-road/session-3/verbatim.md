@@ -14,10 +14,6 @@ Une erreur de résolution importante est conservée puis explicitement corrigée
 
 ---
 
-**[TAL]**
-
-MJ. Reprise de Talimar Road. Je suis joueur. Aucun spoiler.
-
 **[TEMPS]**
 
 Quand vous quittez la maison où les représentants des deux clans ont parlé, Jonstown a déjà repris son bruit.
