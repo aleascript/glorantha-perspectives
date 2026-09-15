@@ -69,6 +69,7 @@ if (!locales.includes(contentLocale)) {
 const config: Config = {
   title: site.title,
   tagline: site.tagline,
+  favicon: site.identity.favicon ?? undefined,
   url,
   baseUrl,
   organizationName,
