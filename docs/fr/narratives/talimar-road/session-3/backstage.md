@@ -86,16 +86,6 @@ La petite caravane aperçue depuis la colline n'était au départ qu'un élémen
 
 Le Temps n'avait pas préparé Daran comme un PNJ important. Il a pris de l'importance parce que Tal a choisi de regarder dans cette direction.
 
-## De l'information à l'immersion : faire vivre Daran
-
-La première version de l'échange avec Daran avait pourtant un défaut révélateur : le marchand donnait successivement les routes, les prix, les Lunaires, la guerre puis une anecdote. Les informations étaient intéressantes, mais la scène ressemblait encore trop à une liste livrée au Joueur.
-
-La consolidation rend donc l'anecdote de la maison plus vivante sans changer ce qu'elle raconte. Après quelques gobelets, **Daran pense tenir une histoire capable d'amuser un Sage Gris**. Il la raconte avec plaisir, compte presque les trois ventes sur ses doigts, puis demande à Tal ce qu'il en pense : *à qui appartient donc cette maison ?*
-
-Le changement est petit mais important. Une information n'arrive plus comme un paragraphe de lore : **elle a un porteur, une humeur, une intention et attend une réaction**. Daran devient une personne qui parle à Tal plutôt qu'une interface donnant des nouvelles du nord.
-
-C'est une leçon d'immersion plus générale : une loi peut arriver par quelqu'un qui s'en plaint, un mythe par quelqu'un qui le raconte mal ou le corrige, une guerre par celui qui a perdu une route, une coutume par un geste. Le Temps n'a pas besoin d'ajouter davantage de texte ; il doit autant que possible **faire arriver l'information dans le monde**.
-
 ## Jorstan et Argrathor : l'affaire se ferme malgré tout
 
 Lorsque Tal revint ensuite chercher discrètement dans les archives, le Temps devait répondre à une question factuelle : Jorstan avait-il laissé des traces sur le statut des documents ?

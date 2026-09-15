@@ -471,7 +471,8 @@ Il se cale sur son siège, manifestement curieux de voir ce que tu vas répondre
 
 **[TAL]**
 
-Je le remercie pour les nouvelles du monde et décide de rentrer au temple. 
+J'hausse les épaules mais son histoire m'amuse car elle met le doigt peut-être sur l'absurdité des lois ou bien me rappelle à quel point mon rôle de Sage Gris n'est peut etre pas si inutile que cela. 
+Peu après, je le remercie pour les nouvelles du monde et décide de rentrer au temple. 
 Discrètement je vais chercher dans les écrits tout ce qui concerne Jorstan et surtout Argrathor. Pour clore le sujet. Avec un très infime espoir de trouver un quelconque intérêt quand même grace a eux ou a ce qu'on a écrit sur eux.
 
 **[TEMPS]**
