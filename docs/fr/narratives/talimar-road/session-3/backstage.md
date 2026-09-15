@@ -57,30 +57,6 @@ Après l'ouverture du paquet, la fiction précisa son contenu à partir de ce qu
 
 Argrathor devint un homme qui élevait du bétail, siégeait aux assemblées et possédait une mémoire exceptionnelle des serments, des terres et des relations entre familles. La formule de Jorstan — **« une bibliothèque dans la tête et aucune patience pour les livres »** — fut improvisée pour rendre cette mémoire sensible sans transformer Argrathor en Sage.
 
-## Une résolution théiste mal exécutée
-
-Le premier tirage de Tal fut :
-
-`4 · 5` → **1 Réussite**.
-
-L'opposition donna :
-
-`3 · 6 · 1`
-
-Le Temps commit alors une erreur claire : il compta immédiatement une seule Réussite et annonça un **Status Quo, 1–1**.
-
-Or la Vision théiste devait être entièrement résolue **avant toute comparaison**. Le `6` permettait de relancer un impair. La relance qui fut donnée plus tard dans la séquence transforma le `1` en `2`. Si l'on replace cette relance au bon endroit, l'opposition obtenait donc **2 Réussites** et la résolution initiale devait se terminer par une **Défaite de Tal, 1–2**.
-
-La table ne revint pas en arrière. Elle continua sur un Status Quo fictif, ouvrit une surenchère, puis produisit une victoire qui n'aurait pas dû exister mécaniquement.
-
-Pour cette raison, le **Verbatim** conserve l'erreur telle qu'elle a eu lieu et ajoute une correction éditoriale explicite. Le **Récit**, lui, conserve la continuité fictionnelle effectivement jouée : Tal obtient provisoirement le paquet et l'examine avec Enastina.
-
-Le correctif de procédure à retenir est simple :
-
-> **Ne jamais comparer les camps tant que la Vision n'a pas fini de transformer le tirage.**
-
-Cette erreur a aussi mis en évidence un problème pratique du jeu par chat : une opération qui aurait pris quelques secondes à une table humaine s'est étirée sur plusieurs échanges, rendant la correction plus coûteuse.
-
 ## Une ambiguïté de mise en scène : ce qu'Enastina revendiquait
 
 La préparation disait que la famille contestait **tout le paquet**.

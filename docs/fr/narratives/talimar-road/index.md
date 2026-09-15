@@ -45,7 +45,7 @@ Environ **2 h de jeu**. Karest a survécu et peut enfin témoigner. Tal prend d'
 
 Environ **2 h de jeu**. Une querelle autour du legs d'un Sage mort finit par lasser Tal, qui abandonne l'affaire à Hendrik et porte son regard ailleurs : les routes, les nouvelles du nord, puis l'histoire de Sartar. La session conduit ainsi d'un conflit d'archives très local à la découverte d'un signe beaucoup plus ouvert : **la Rune de Sartar**, tracée dans la marge d'un texte évoquant ceux qui maintiennent encore secrètement sa force.
 
-Cette session documente aussi un playtest volontairement imparfait : une résolution théiste mal exécutée, une ambiguïté de mise en scène et un décalage entre la Situation préparée et le souffle recherché par le joueur deviennent eux-mêmes matière à comprendre comment le Joueur peut déplacer l'histoire par ce qu'il choisit de regarder.
+Cette session documente aussi un playtest volontairement imparfait : une ambiguïté de mise en scène et un décalage entre la Situation préparée et le souffle recherché par le joueur deviennent eux-mêmes matière à comprendre comment le Joueur peut déplacer l'histoire par ce qu'il choisit de regarder.
 
 ## Tal avant la fiche
 

@@ -6,11 +6,7 @@ title: Verbatim
 
 **Durée estimée : environ 2 h.**
 
-Cette page conserve le jeu dans son ordre réel : paroles de Tal et du Temps, hésitations, échanges `Off:`, Focus, Mises et résultats de dés. Les interventions `Commentaire:` destinées au Debrief sont conservées dans les Coulisses plutôt qu'ici.
-
-Le journal de travail Notion de cette session a été mal structuré : plusieurs fragments ont été ajoutés dans une même grande page et certains numéros ont été dupliqués. La consolidation remet simplement les tours dans leur ordre réel sans prétendre que cette numérotation de travail était correcte.
-
-Une erreur de résolution importante est conservée puis explicitement corrigée ci-dessous. La table n'a pas rembobiné la fiction après sa découverte.
+Cette page conserve le jeu dans son ordre réel : paroles de Tal et du Temps, hésitations, échanges `Off:`, Focus, Mises et résultats de dés.
 
 ---
 
@@ -124,9 +120,9 @@ Tirage: 4, 5 -> 1 réussite
 
 **[TEMPS — erreur de procédure telle que jouée]**
 
-Le Temps lance les **3 Contre-Mises** : **3, 6, 1 → 1 réussite**.
+Le Temps lance les **3 Contre-Mises** : **3, 6, 1 → 3, 6, 2 → 2 réussites**.
 
-**1 contre 1 : statu quo.**
+**1 contre 2 : échec.**
 
 La femme ne te tend pas le paquet. Mais elle ne se referme pas non plus comme avant.
 
@@ -138,25 +134,7 @@ La femme ajoute, presque aussitôt :
 
 — Et moi je ne veux pas qu'il disparaisse dans votre Bibliothèque pendant qu'on discute de savoir à qui il appartient.
 
-Vous êtes exactement au point d'équilibre : aucun des deux n'a rejeté ton idée, aucun ne l'a acceptée.
-
-Tu peux en rester là — et la dispute reprend son cours — ou **surenchérir**. Dans ce cas, les Mises restent en place et tu dois en engager une nouvelle.
-
-**[TAL]**
-
-"Lankhor Mhy veille a la bonne application de la Loi d'Heort. Ce n'est pas la première fois qu'un tel cas se produit. Le seul moyen de sauver votre paquet c'est qu'on l'ouvre et qu'on juge s'il doit rester à la bibliothèque en tant que mémoire d'un des nôtres. C'est une faveur qu'on vous propose en fait"
-
-Résultat final de mes trois mises: 6,6,1 -> 3 réussites
-
-**[TEMPS — erreur de procédure telle que jouée]**
-
-Le **6** de l'opposition fait jouer la Vision théiste : il relance un impair. Je relance le **1** : **2**.
-
-Opposition finale : **3, 6, 2 → 2 réussites**.
-
-**3 contre 2 : victoire.**
-
-Le Sage Gris te regarde encore un instant.
+Le Sage Gris reprend:
 
 — Très bien. Tu en réponds. Mais tu ne décideras pas seul de ce qui appartient au temple.
 
@@ -171,14 +149,6 @@ Elle hésite encore, puis détache lentement ses bras de sa poitrine et te tend 
 — Talimar. Je te le confie à toi.
 
 Derrière toi, Hendrik n'a toujours rien dit.
-
-:::warning[Correction de consolidation]
-
-Cette résolution a été mal exécutée. Sur le **premier** tirage d'opposition `3 · 6 · 1`, le `6` devait faire jouer la Vision théiste **avant toute comparaison**. La relance ensuite donnée à la table (`1 → 2`) aurait donc produit immédiatement `3 · 6 · 2`, soit **2 Réussites** contre **1** pour Tal : **Défaite de Tal, 1–2**.
-
-Le Status Quo et la surenchère n'auraient pas dû avoir lieu. La table a néanmoins continué sans rembobiner ; la fiction où Tal reçoit provisoirement le paquet est donc conservée comme événement effectivement joué.
-
-:::
 
 **[TAL]**
 
@@ -317,7 +287,7 @@ Hendrik est toujours dans la grande salle, à quelques pas, occupé à parler av
 
 **[TAL — Off:]**
 
-Off: je comprends rien. Tu as dit plus haut que c'était la tablette seulement quu devait rester dans leur famille. Pas le reste. Elle est folle? Ou casse bonbon? Lunatique? Vu la tournure j'ai presque envie de la laisser avec les Vieux Sages. J'essaie de l'arranger et elle comprend rien.
+Off: je comprends rien. Tu as dit plus haut que c'était la tablette seulement quu devait rester dans leur famille. Pas le reste. Elle est lunatique? Vu la tournure j'ai presque envie de la laisser avec les Vieux Sages. J'essaie de l'arranger et elle comprend rien.
 
 J'hausse les épaules. "Comme tu veux, je doute que les autres sages soient plus accomodants que moi" Sèchement. Me lève et vais chercher Hendrik "Maître je vous laisse avec Enastina. Elle est inflexible. On a ouvert le paquet et ses documents doivent revenir au temple car ce sont des preuves de titres, des dates de naissance, de mort, bref tout ce qui est nécessaire pour trancher un cas. Et en plus ça appartenait a Jorstan."
 
