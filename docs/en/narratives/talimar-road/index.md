@@ -19,8 +19,10 @@ Each session is preserved in four complementary forms:
 
 Living Portraits are **historical snapshots**: the Portrait from one session is never rewritten by later ones. This makes it possible to see the Protagonist appear and change through play.
 
-:::warning Backstage
+:::warning[Backstage]
+
 The **Time Backstage** pages reveal the preparation for sessions that have already been played. They do not expose secrets or threads that are still active for the rest of the campaign.
+
 :::
 
 ## Sessions
