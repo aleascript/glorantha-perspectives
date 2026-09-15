@@ -24,7 +24,7 @@ export const site = {
   },
   identity: {
     logo: 'img/site/gp-logo-white-on-dark.png',
-    favicon: 'img/site/gp-logo-white-on-dark.png',
+    favicon: 'img/site/gp-logo-white-on-black-400x400.png',
   } satisfies SiteIdentity,
   repository: {defaultFullName: 'aleascript/glorantha-perspectives'},
   lineage: {
