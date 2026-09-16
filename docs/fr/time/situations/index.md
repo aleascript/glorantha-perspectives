@@ -42,6 +42,8 @@ Une **Promesse** est une possibilité remarquable qui appartient au monde : imag
 
 Une Promesse n'est pas une scène à forcer. Elle ne donne aucune trajectoire au scénario.
 
+Les Promesses donnent aussi au Temps une manière de **montrer le merveilleux de Glorantha** sans attendre qu'un Protagoniste le réclame. Le monde peut surprendre, révéler, manifester ses mythes et ses étrangetés de sa propre initiative. En ce sens, **Glorantha devient presque un Protagoniste** : non pas parce qu'elle impose une histoire, mais parce qu'elle agit, répond et se donne à voir.
+
 Un bon test est simple :
 
 > **Ce moment resterait-il remarquable si un autre Protagoniste se trouvait ici ?**
