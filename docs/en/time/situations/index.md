@@ -42,6 +42,8 @@ A **Promise** is a remarkable possibility that belongs to the world: an image, r
 
 A Promise is not a scene to force. It prescribes no trajectory for the scenario.
 
+Promises also give Time a way to **show the wonder of Glorantha** without waiting for a Protagonist to ask for it. The world can surprise, reveal, and manifest its myths and strangeness on its own initiative. In that sense, **Glorantha almost becomes a Protagonist**: not because it imposes a story, but because it acts, responds, and reveals itself.
+
 A useful test is simple:
 
 > **Would this moment remain remarkable if another Protagonist were here?**
