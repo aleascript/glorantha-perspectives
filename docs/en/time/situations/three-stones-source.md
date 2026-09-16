@@ -54,4 +54,4 @@ Time therefore does not need to lead Peek toward the image. It only needs to kno
 
 ## See what the Situation became
 
-This preparation was actually played. [**Adventures in Prax — The Three Stones Spring**](../../narratives/adventures-in-prax/three-stones-source/) publishes the play Verbatim and Time's Backstage without reconstructing, after the fact, a trajectory that did not exist before play.
+This preparation was actually played. [**Adventures in Prax — The Three Stones Spring**](../../narratives/adventures-in-prax/three-stones-source/index.md) publishes the play Verbatim and Time's Backstage without reconstructing, after the fact, a trajectory that did not exist before play.

@@ -54,4 +54,4 @@ Le Temps n'a donc pas à conduire Peek vers cette image. Il lui suffit de savoir
 
 ## Voir ce que la Situation est devenue
 
-Cette préparation a réellement été jouée. [**Aventures en Prax — La Source des Trois Pierres**](../../narratives/adventures-in-prax/three-stones-source/) publie le Verbatim de la partie et les Coulisses du Temps, sans reconstruire après coup une trajectoire qui n'existait pas avant le jeu.
+Cette préparation a réellement été jouée. [**Aventures en Prax — La Source des Trois Pierres**](../../narratives/adventures-in-prax/three-stones-source/index.md) publie le Verbatim de la partie et les Coulisses du Temps, sans reconstruire après coup une trajectoire qui n'existait pas avant le jeu.
