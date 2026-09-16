@@ -41,6 +41,10 @@ function guideDocumentTree(locale) {
     {
       path: 'time/index.md',
       children: [
+        {
+          path: 'time/situations/index.md',
+          children: ['time/situations/three-stones-source.md'],
+        },
         'time/runic-inspiration/index.md',
         'time/runes/index.md',
         'time/runic-imprint.md',
@@ -164,7 +168,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-14',
+      version: '2026-09-16',
       status: 'Draft',
       lineage: {
         designedWith: {
