@@ -8,7 +8,7 @@ title: La Source des Trois Pierres
 
 Peek-ee-Peek arrive à une source de la Désolation où une équipe lunaire prépare un relais d'eau pour la route de **Bouillon-de-Lune**. Son frère Hirrak commande l'escorte Sable. À l'aube, les porteurs doivent déplacer l'une des trois pierres sacrées qui gardent la source.
 
-La partie reprend un Protagoniste né dans *La Voie Lunaire* et le confronte, sans scénario écrit à l'avance, aux règles actuelles de Glorantha Perspectives.
+La partie reprend un Protagoniste né dans *La Voie Lunaire* et le confronte, sans trajectoire écrite à l'avance, aux règles actuelles de Glorantha Perspectives.
 
 ## Deux façons de lire la partie
 
