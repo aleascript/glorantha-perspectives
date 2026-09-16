@@ -8,6 +8,8 @@ Cet exemple montre une Situation assez petite pour être préparée en quelques 
 
 Dans la Désolation, une équipe lunaire escortée par des Sables prépare un relais d'eau pour la route de **Bouillon-de-Lune**. Le chantier doit commencer à l'aube et exige, selon l'arpenteur, de déplacer l'une des trois pierres qui gardent la source.
 
+Les Sables agissent au nom de **Paak-le-Rusé**, Khan de leur tribu et allié des Lunaires. Paak a promis à l'Empire que les Sables escorteraient l'équipe et l'aideraient à trouver une source pour ce relais.
+
 Les bêtes refusent déjà de boire. L'esprit du lieu, la **Mère-des-Roseaux**, tolère qu'on s'abreuve à la source, mais pas qu'on touche aux pierres. Si la grande pierre est déplacée, elle partira ou se vengera.
 
 La Situation existe ainsi avant de savoir quels Protagonistes la rencontreront, ni même s'ils s'y intéresseront.
