@@ -8,6 +8,8 @@ This example shows a Situation small enough to prepare in a few minutes, yet den
 
 In the Wastes, a Lunar work party escorted by Sables is preparing a water station for the road to **Moonbroth**. Work begins at dawn and, according to the surveyor, requires moving one of the three stones that guard the spring.
 
+The Sables are acting on behalf of **Paak the Cunning**, Khan of their tribe and an ally of the Lunars. Paak has promised the Empire that the Sables will escort the work party and help it find a spring for this station.
+
 The animals already refuse to drink. The local spirit, **Mother-of-Reeds**, tolerates drinking from the spring, but not touching the stones. If the great stone is moved, she will leave or take revenge.
 
 The Situation therefore exists before anyone knows which Protagonists will encounter it, or whether they will care about it at all.
