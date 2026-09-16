@@ -30,6 +30,12 @@ const sidebars: SidebarsConfig = {
       label: t('Le Temps', 'Time'),
       link: {type: 'doc', id: 'time/index'},
       items: [
+        {
+          type: 'category',
+          label: 'Situations',
+          link: {type: 'doc', id: 'time/situations/index'},
+          items: ['time/situations/three-stones-source'],
+        },
         'time/runic-inspiration/index',
         'time/runes/index',
         'time/runic-imprint',
@@ -159,6 +165,25 @@ const sidebars: SidebarsConfig = {
               ],
             },
             'narratives/the-lunar-way/others/index',
+          ],
+        },
+        {
+          type: 'category',
+          label: t('Aventures en Prax', 'Adventures in Prax'),
+          link: {type: 'doc', id: 'narratives/adventures-in-prax/index'},
+          items: [
+            {
+              type: 'category',
+              label: t('La Source des Trois Pierres', 'The Three Stones Spring'),
+              link: {
+                type: 'doc',
+                id: 'narratives/adventures-in-prax/three-stones-source/index',
+              },
+              items: [
+                'narratives/adventures-in-prax/three-stones-source/verbatim',
+                'narratives/adventures-in-prax/three-stones-source/backstage',
+              ],
+            },
           ],
         },
         {
