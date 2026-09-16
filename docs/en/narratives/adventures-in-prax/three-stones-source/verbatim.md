@@ -4,9 +4,11 @@ title: Verbatim
 
 # Verbatim
 
+**Estimated play time: about 2½ hours.**
+
 This page preserves play in its actual order: the player's words and Time's responses, Focuses, Bets, rolls, and table corrections. Only internal technical traces from the tool have been removed.
 
-This English version is a faithful translation of the played transcript. It keeps its spontaneous table exchanges and mechanical discussion. English Gloranthan names follow the English localization: **Moonbroth** is used here.
+This English version is a faithful translation of the played transcript. It keeps its spontaneous table exchanges and mechanical discussion.
 
 ---
 
