@@ -8,7 +8,7 @@ Cet exemple montre une Situation assez petite pour être préparée en quelques 
 
 Dans la Désolation, une équipe lunaire escortée par des Sables prépare un relais d'eau pour la route de **Bouillon-de-Lune**. Le chantier doit commencer à l'aube et exige, selon l'arpenteur, de déplacer l'une des trois pierres qui gardent la source.
 
-Les bêtes refusent déjà de boire. L'esprit du lieu, la **Mère-des-Roseaux**, s'est replié contre la grande pierre et se prépare à partir si elle est déplacée.
+Les bêtes refusent déjà de boire. L'esprit du lieu, la **Mère-des-Roseaux**, tolère qu'on s'abreuve à la source, mais pas qu'on touche aux pierres. Si la grande pierre est déplacée, elle partira ou se vengera.
 
 La Situation existe ainsi avant de savoir quels Protagonistes la rencontreront, ni même s'ils s'y intéresseront.
 
@@ -21,7 +21,7 @@ Le Vecteur ne dit pas ce que les Protagonistes doivent faire. Il décrit simplem
 ## Forces
 
 - **Ostar Varenis**, arpenteur de la garnison de Bouillon-de-Lune. Il veut un relais d'eau pour la route impériale. Il n'est pas malveillant : il ne perçoit pas l'esprit et voit une pierre gênante là où un animiste pourrait percevoir une présence.
-- **Hirrak et l'escorte Sable.** Ils veulent honorer la parole de Paak et ramener l'argent promis. Hirrak sait que les pierres sont sacrées, mais il a accepté de ne pas regarder trop précisément ce que le chantier implique.
+- **Hirrak et l'escorte Sable.** Ils veulent honorer la parole de Paak et recevoir l'argent promis. Hirrak a donné sa parole devant le Khan.
 - **La Mère-des-Roseaux.** Elle tolère qu'on boive, mais pas qu'on touche aux pierres. Si la pierre est déplacée, elle partira ou se vengera.
 - **Les autres tribus.** La source est partagée selon la coutume praxienne. Une citerne lunaire gardée changerait qui peut y boire.
 
@@ -30,8 +30,7 @@ Aucune de ces Forces n'est désignée comme « ennemie ». Leur incompatibilité
 ## Pressions
 
 - Le chantier commence à l'aube.
-- La Mère-des-Roseaux se replie déjà autour de la grande pierre.
-- Les bêtes refusent de boire.
+- Les bêtes refusent déjà de boire.
 - C'est la pleine lune. Cette nuit seulement, une ancienne tradition liée à la source peut se manifester.
 
 **Si aucun Protagoniste n'intervient**, les porteurs déplacent la pierre au matin. La source se trouble pendant des jours et une tribu voisine accuse les Sables d'avoir souillé un lieu d'esprit.
@@ -41,7 +40,7 @@ Aucune de ces Forces n'est désignée comme « ennemie ». Leur incompatibilité
 La préparation peut rappeler quelques vérités sans les transformer à l'avance en Mises. Leur pertinence dépend entièrement de ceux qui rencontreront la Situation et de ce qu'ils chercheront à accomplir.
 
 - Un **nomade Sable** ou quelqu'un qui connaît les **coutumes de Prax** saura que les trois pierres sont sacrées et que la source est soumise à des usages partagés entre tribus.
-- Un **animiste**, un chaman ou quelqu'un capable de ressentir les esprits pourra percevoir directement la peur de la Mère-des-Roseaux. Pour d'autres, son existence restera indirecte : les bêtes refusent l'eau, celle-ci change, quelque chose ne va pas.
+- Un **animiste**, un chaman ou quelqu'un capable de ressentir les esprits pourra percevoir directement la Mère-des-Roseaux. Pour d'autres, son existence restera indirecte : les bêtes refusent l'eau, celle-ci change, quelque chose ne va pas.
 - Un **tabou personnel** contre la profanation d'un lieu d'esprit pourrait devenir un **Facteur Cadre**. Il n'appartient pas à la Situation tant qu'aucun Protagoniste ne l'apporte avec lui.
 - Une relation avec **Paak**, **Hirrak**, les Sables, l'Empire ou l'armée lunaire peut donner du poids à des vérités très différentes.
 - Une relation à la **Lune Rouge** peut rendre la Pleine Lune pertinente et faire traverser une Vision par l'Influence lunaire.
