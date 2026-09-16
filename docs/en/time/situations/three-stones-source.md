@@ -8,7 +8,7 @@ This example shows a Situation small enough to prepare in a few minutes, yet den
 
 In the Wastes, a Lunar work party escorted by Sables is preparing a water station for the road to **Moonbroth**. Work begins at dawn and, according to the surveyor, requires moving one of the three stones that guard the spring.
 
-The animals already refuse to drink. The local spirit, **Mother-of-Reeds**, has withdrawn around the great stone and is preparing to leave if it is moved.
+The animals already refuse to drink. The local spirit, **Mother-of-Reeds**, tolerates drinking from the spring, but not touching the stones. If the great stone is moved, she will leave or take revenge.
 
 The Situation therefore exists before anyone knows which Protagonists will encounter it, or whether they will care about it at all.
 
@@ -21,7 +21,7 @@ The Vector does not tell the Protagonists what to do. It simply describes **the 
 ## Forces
 
 - **Ostar Varenis**, surveyor from the Moonbroth garrison. He wants a water station for the Imperial road. He is not malicious: he does not perceive the spirit and sees an inconvenient stone where an animist might perceive a presence.
-- **Hirrak and the Sable escort.** They want to honor Paak's word and bring home the promised money. Hirrak knows the stones are sacred, but he has accepted not to look too closely at what the construction implies.
+- **Hirrak and the Sable escort.** They want to honor Paak's word and receive the promised money. Hirrak gave his word before the Khan.
 - **Mother-of-Reeds.** She tolerates drinking, but not touching the stones. If the stone is moved, she will leave or take revenge.
 - **The other tribes.** The spring is shared under Praxian custom. A guarded Lunar cistern would change who may drink there.
 
@@ -30,8 +30,7 @@ None of these Forces is designated as the "enemy." Their incompatibility is enou
 ## Pressures
 
 - Work begins at dawn.
-- Mother-of-Reeds is already withdrawing around the great stone.
-- The animals refuse to drink.
+- The animals already refuse to drink.
 - It is the full moon. On this night alone, an old tradition tied to the spring may manifest.
 
 **If no Protagonist intervenes**, the porters move the stone in the morning. The spring turns foul for days, and a neighboring tribe accuses the Sables of defiling a spirit place.
@@ -41,7 +40,7 @@ None of these Forces is designated as the "enemy." Their incompatibility is enou
 Preparation may remind Time of a few truths without turning them into Bets in advance. Their relevance depends entirely on who encounters the Situation and what they are trying to accomplish.
 
 - A **Sable Rider** or someone who knows the **customs of Prax** will know that the three stones are sacred and that the spring is governed by shared tribal customs.
-- An **animist**, shaman, or someone able to sense spirits may perceive Mother-of-Reeds' fear directly. For others, her existence remains indirect: the animals refuse the water, the water changes, something is wrong.
+- An **animist**, shaman, or someone able to sense spirits may perceive Mother-of-Reeds directly. For others, her existence remains indirect: the animals refuse the water, the water changes, something is wrong.
 - A **personal taboo** against defiling a spirit place could become a **Frame Factor**. It does not belong to the Situation until a Protagonist brings it with them.
 - A relationship with **Paak**, **Hirrak**, the Sables, the Empire, or the Lunar army may give very different truths weight.
 - A relationship with the **Red Moon** may make the Full Moon relevant and allow Lunar Influence to pass through a Worldview.
