@@ -4,9 +4,11 @@ title: Verbatim
 
 # Verbatim
 
+**Durée estimée : environ 2 h 30.**
+
 Cette page conserve le jeu dans son ordre réel : paroles du joueur et du Temps, Focus, Mises, jets et corrections de table. Seules les traces techniques internes à l'outil sont absentes.
 
-Les formulations du joueur sont conservées telles qu'elles apparaissent dans la source de travail, y compris les fautes, abréviations et échanges hors fiction qui ont participé à la conduite de la table. Les noms propres suivent toutefois la localisation française du site : **Bouillon-de-Lune** est employé ici pour *Moonbroth*.
+Les formulations du joueur sont conservées telles qu'elles apparaissent dans la source de travail, y compris les fautes, abréviations et échanges hors fiction qui ont participé à la conduite de la table.
 
 ---
 
