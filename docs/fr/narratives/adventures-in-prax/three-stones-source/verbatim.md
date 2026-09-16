@@ -98,7 +98,7 @@ Il ne refuse pas. Il attend la suite.
 
 **Intention :** faire renoncer Ostar à creuser à la Source des Trois Pierres.
 
-**Conséquences (Mort) :** ton frère est là et sait que tu mens sur l'envoi de Paak. Tu viens de l'humilier devant l'escorte et devant l'Empire. Si ça tourne mal, le mensonge peut éclater publiquement, et Hirrak pourrait ne pas te le pardonner facilement. Tu peux maintenir, changer de méthode ou réduire ton objectif.
+**Conséquences :** ton frère est là et sait que tu mens sur l'envoi de Paak. Tu viens de l'humilier devant l'escorte et devant l'Empire. Si ça tourne mal, le mensonge peut éclater publiquement, et Hirrak pourrait ne pas te le pardonner facilement. Tu peux maintenir, changer de méthode ou réduire ton objectif.
 
 **Focus, Zoom Action :** *Ostar accepte-t-il, sur ta parole, de suspendre le chantier de l'aube pour reconsidérer le choix de la source, ou maintient-il son plan malgré toi ?*
 
@@ -187,7 +187,7 @@ Les anciens racontaient cela autour des feux. Tu ne les avais jamais crus tout �
 
 **Ce qui n'a pas besoin des dés.** Tu connais le rite des ancêtres, et le sacrifice de pleine lune s'accomplit. Ce qui reste incertain, c'est ce que les esprits en feront.
 
-**Conséquences (Mort)**
+**Conséquences**
 
 - **Ton tabou** interdit de souiller un lieu habité par un esprit. Des os de sacrifice jetés dans l'eau de la Mère-des-Roseaux pourraient être une souillure. Tu dois poser l'offrande sur la rive ou sur les pierres, pas dans l'eau.
 - **La Mère-des-Roseaux est liée à sa source.** Elle ne peut pas aller jusqu'au campement de Paak sans abandonner ce lieu, ce qui serait exactement ce que tu cherches à empêcher. C'est un **Facteur Cadre** : ce n'est pas elle qui voyagera. Tes **ancêtres**, eux, que ce rite appelle, ne sont liés à aucune source. Ils connaissent le chemin vers le chaman de ta tribu.
@@ -352,7 +352,7 @@ Vous traversez le campement jusqu'au feu du chariot aux outils. Le garde lunaire
 
 ---
 
-**Conséquences (Mort) :** si quelqu'un voit Fta-Ah tirer le fil, tout le monde saura qu'une antilope Sable a saboté le marquage. Ce ne serait plus un accident : ce serait ta tribu contre l'escorte que Paak a promise. Et Hirrak t'a prévenue : il ne mentira pas pour toi.
+**Conséquences :** si quelqu'un voit Fta-Ah tirer le fil, tout le monde saura qu'une antilope Sable a saboté le marquage. Ce ne serait plus un accident : ce serait ta tribu contre l'escorte que Paak a promise. Et Hirrak t'a prévenue : il ne mentira pas pour toi.
 
 **Intention :** que la cordelette cesse de toucher la pierre, sans que les Lunaires puissent l'imputer aux Sables.
 
@@ -475,7 +475,7 @@ Pendant que vous marchez vers lui, tu ne peux pas t'empêcher de regarder vers l
 
 ---
 
-**Conséquences (Mort) :** Ostar vient de constater que son marquage a disparu dans la nuit. S'il fait le lien avec votre visite nocturne, votre démarche peut passer pour une manœuvre, et le soupçon retomberait sur l'escorte, donc sur Paak.
+**Conséquences :** Ostar vient de constater que son marquage a disparu dans la nuit. S'il fait le lien avec votre visite nocturne, votre démarche peut passer pour une manœuvre, et le soupçon retomberait sur l'escorte, donc sur Paak.
 
 **Intention :** que les Lunaires renoncent à toucher les pierres sacrées, en creusant autrement ou à la Source des Chacals.
 

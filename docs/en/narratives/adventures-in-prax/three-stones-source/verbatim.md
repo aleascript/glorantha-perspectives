@@ -4,7 +4,7 @@ title: Verbatim
 
 # Verbatim
 
-**Play time: 2½ hours.**
+**Play time: 2 hours and 30 minutes.**
 
 This page preserves play in its actual order: the player's words and Time's responses, Focuses, Bets, rolls, and table corrections.
 
@@ -98,7 +98,7 @@ He is not refusing. He is waiting for the rest.
 
 **Intention:** make Ostar give up digging at the Three Stones Spring.
 
-**Consequences (Death):** your brother is here and knows you are lying about being sent by Paak. You have just humiliated him in front of the escort and the Empire. If this goes badly, the lie may come out publicly, and Hirrak may not forgive you easily. You may maintain your intention, change your method, or reduce your objective.
+**Consequences :** your brother is here and knows you are lying about being sent by Paak. You have just humiliated him in front of the escort and the Empire. If this goes badly, the lie may come out publicly, and Hirrak may not forgive you easily. You may maintain your intention, change your method, or reduce your objective.
 
 **Focus, Action Zoom:** *Does Ostar agree, on your word, to suspend the dawn works and reconsider the choice of spring, or does he maintain his plan despite you?*
 
@@ -187,7 +187,7 @@ The elders used to tell of this around the fires. You never entirely believed th
 
 **What needs no dice.** You know the ancestral rite, and the Full Moon sacrifice is accomplished. What remains uncertain is what the spirits will do with it.
 
-**Consequences (Death)**
+**Consequences**
 
 - **Your taboo** forbids defiling a place inhabited by a spirit. Sacrificial bones thrown into Mother-of-Reeds' water might be a defilement. You must place the offering on the bank or the stones, not in the water.
 - **Mother-of-Reeds is bound to her spring.** She cannot travel to Paak's camp without abandoning this place, which is exactly what you are trying to prevent. This is a **Frame Factor**: she is not the one who will travel. Your **ancestors**, called by this rite, are not bound to any spring. They know the way to your tribe's shaman.
@@ -352,7 +352,7 @@ You cross the camp to the fire by the tool cart. The Lunar guard starts when you
 
 ---
 
-**Consequences (Death):** if anyone sees Fta-Ah pull the thread, everyone will know that a Sable antelope sabotaged the marking. It would no longer be an accident: it would be your tribe against the escort Paak promised. And Hirrak warned you: he will not lie for you.
+**Consequences :** if anyone sees Fta-Ah pull the thread, everyone will know that a Sable antelope sabotaged the marking. It would no longer be an accident: it would be your tribe against the escort Paak promised. And Hirrak warned you: he will not lie for you.
 
 **Intention:** make the cord stop touching the stone without the Lunars being able to blame the Sables.
 
@@ -475,7 +475,7 @@ As you walk toward him, you cannot help looking east. Nothing yet. Only the Wast
 
 ---
 
-**Consequences (Death):** Ostar has just discovered that his marking vanished during the night. If he connects it to your nocturnal visit, your approach may look like a maneuver, and suspicion could fall on the escort—and therefore on Paak.
+**Consequences :** Ostar has just discovered that his marking vanished during the night. If he connects it to your nocturnal visit, your approach may look like a maneuver, and suspicion could fall on the escort—and therefore on Paak.
 
 **Intention:** make the Lunars give up touching the sacred stones, by digging differently or at Jackal Spring.
 
