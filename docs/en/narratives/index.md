@@ -7,6 +7,7 @@ title: Narratives
 These narratives explore Glorantha through games, characters, and Situations played with Glorantha Perspectives.
 
 - [**The Lunar Way**](the-lunar-way/)
+- [**Adventures in Prax**](prax-adventures/) — new Situations with Peek-ee-Peek, played with the current rules.
 - [**The Heirs of Zola Fel**](heirs-of-zola-fel/)
 - [**The Banishment of Gurdtar**](gurdtars-banishment/)
 - [**Talimar's Road**](talimar-road/) — the creation and initiation of a Protagonist discovered through play.
