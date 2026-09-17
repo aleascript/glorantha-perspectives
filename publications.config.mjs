@@ -93,7 +93,7 @@ function guideDocumentTree(locale) {
     },
     {
       label: locale === 'fr' ? 'Éclairages' : 'Insights',
-      children: ['reference/faq.md', 'reference/probabilities.md'],
+      children: ['insights/faq.md', 'insights/probabilities.md'],
     },
     'about/index.md',
   ];
