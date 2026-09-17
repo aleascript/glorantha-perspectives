@@ -264,6 +264,11 @@ const sidebars: SidebarsConfig = {
       items: ['reference/faq', 'reference/probabilities'],
     },
     'about/index',
+    {
+      type: 'link',
+      label: 'Publications',
+      href: '/publications/',
+    },
   ],
 };
 
