@@ -12,7 +12,7 @@ It does not necessarily test whether an action “succeeds.” Success or failur
 
 ## Quick Summary
 
-> What do you want? What do you risk? What question are we settling, at what scale? What matters on each side? Let's launch, read, then see how the world responds.
+> What do you want? What do you risk? What question are we resolving, and at what scale? What matters on each side? Let's roll, read, compare, then see how the world responds.
 
 ## The Grand Cycle of resolution
 
