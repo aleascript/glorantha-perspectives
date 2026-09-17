@@ -29,7 +29,14 @@ function guideDocumentTree(locale) {
       path: 'start/index.md',
       children: [
         'start/vocabulary.md',
-        'start/glorantha.md',
+        {
+          path: 'start/glorantha.md',
+          children: [
+            'start/runic-imprint.md',
+            'start/calendar.md',
+            'start/currency.md',
+          ],
+        },
         'start/table-agreement.md',
         'start/play-modes.md',
       ],
@@ -46,11 +53,6 @@ function guideDocumentTree(locale) {
           children: ['time/situations/three-stones-source.md'],
         },
         'time/runic-inspiration/index.md',
-        'time/runes/index.md',
-        'time/runic-imprint.md',
-        'time/generating-bonds/index.md',
-        'time/calendar.md',
-        'time/currency.md',
       ],
     },
     {
@@ -168,7 +170,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-16',
+      version: '2026-09-17',
       status: 'Draft',
       lineage: {
         designedWith: {
