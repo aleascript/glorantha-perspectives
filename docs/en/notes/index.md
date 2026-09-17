@@ -1,6 +1,0 @@
----
-title: Notes
----
-
-# Notes
-
