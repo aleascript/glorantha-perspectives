@@ -22,41 +22,29 @@ Présentez assez du monde pour que les joueurs puissent choisir réellement. Éc
 
 ## Votre Glorantha adviendra
 
-**Your Glorantha Will Vary** est depuis longtemps un principe de Glorantha : aucune table n'est tenue de reproduire exactement la Glorantha décrite dans les ouvrages.
+Le Grand Compromis a fait entrer le monde dans le **Temps**. Dès lors, les événements peuvent se succéder, laisser des traces et devenir **Histoire**.
 
-Glorantha Perspectives va un peu plus loin et propose sa propre interprétation de ce principe.
+Mais Glorantha nous offre elle-même une étrange perspective sur cette Histoire. *King of Sartar* regarde les Guerres des Héros depuis l'avenir lointain du Nouveau Temps de Harshax. Ce passé y est déjà devenu matière à récits, interprétations, contradictions et reconstructions.
 
-Il n'existe pas une histoire de votre Glorantha déjà écrite quelque part, que le Temps aurait pour tâche de vous faire parcourir correctement.
+Glorantha Perspectives prend cette ouverture au sérieux et en propose une interprétation qui lui est propre : **l'Histoire future de votre Glorantha n'est pas déjà écrite**.
 
-Les sources décrivent un monde immense. Elles vous donnent des peuples, des lieux, des mythes, des puissances, des conflits et des histoires à regarder. Plus vous connaissez Glorantha, plus vous disposez de choses susceptibles de devenir importantes.
+Ce qui compte dépend de ce que votre table rencontre et regarde.
 
-Mais **ce qui compte dépend de votre table**.
+Ce qui en découle dépend de ce que font les Protagonistes.
 
-Une personne mentionnée dans quelques lignes d'un ouvrage peut devenir le centre de votre Guerre des Héros. Un grand événement du canon peut rester lointain. Un lieu presque inconnu peut acquérir une importance immense parce que les Protagonistes y ont aimé, combattu, juré ou échoué.
+Vous n'avez donc pas besoin de connaître toute Glorantha avant de jouer. Vous n'avez pas non plus à craindre de découvrir plus tard qu'un livre décrit autrement une personne, un lieu ou un événement. Les sources donnent au monde sa profondeur et vous offrent toujours davantage de choses à découvrir ; elles ne définissent pas le chemin que votre partie doit suivre.
 
-Et **ce qui en découle dépend de leurs actions**.
+Un personnage presque oublié des chroniques peut devenir essentiel. Un événement majeur peut rester lointain. Un lieu à peine décrit peut devenir le centre de votre Guerre des Héros.
 
-*King of Sartar* regarde les Guerres des Héros depuis un avenir lointain, celui du Nouveau Temps de Harshax. Cet avenir n'est pas un scénario que votre partie aurait pour tâche de rejoindre.
+**Vous ne cherchez pas la bonne manière d'explorer Glorantha. Vous découvrez ce qui compte dans la vôtre.**
 
-Glorantha Perspectives en propose une interprétation ontologique qui lui est propre : **le futur qui regardera un jour les Guerres des Héros est le futur produit par votre partie**.
+Puis vous agissez.
 
-Vous n'êtes donc pas en train de découvrir laquelle des histoires possibles était la bonne. Vous êtes en train de faire arriver la vôtre.
-
-Cela ne rend pas le lore inutile. Au contraire : le lore donne au monde sa profondeur et fournit sans cesse de nouvelles choses auxquelles prêter attention. Mais vous n'avez pas besoin de connaître tout Glorantha pour commencer, ni de craindre qu'une connaissance découverte plus tard invalide ce qui a déjà vécu à votre table.
-
-Regardez la Situation.
-
-Faites vivre ce qui compte.
-
-Laissez les Protagonistes agir.
-
-Puis laissez leurs actions transformer ce qui demeure.
-
-**Le Temps ne raconte pas l'histoire prévue de Glorantha. Il transforme ce qui arrive en histoire.**
+Et ce qui arrive devient son Histoire.
 
 ### Yet Another Glorantha
 
-Glorantha Perspectives imagine parfois ce principe sous la forme d'un mythe.
+Glorantha Perspectives imagine parfois cette idée sous la forme d'un mythe.
 
 Très loin dans l'avenir — sous Harshax, ou peut-être bien après — une Quête Héroïque aurait conduit un Dragon jusqu'à Arachne Solara.
 
@@ -66,13 +54,19 @@ Dans chacun d'eux dort Glorantha.
 
 Aucun n'est exactement semblable aux autres.
 
-Peut-être ces œufs existent-ils réellement. Peut-être est-ce seulement ainsi qu'un sage d'un avenir inimaginable expliquerait pourquoi les récits des Guerres des Héros ne concordent jamais tout à fait.
+Peut-être ces œufs existent-ils réellement. Peut-être est-ce simplement la manière dont un sage d'un avenir inimaginable expliquerait que les récits des Guerres des Héros ne concordent jamais tout à fait.
 
 Cela n'a aucune importance pour ceux qui vivent à l'intérieur.
 
 **Personne ne vit dans une variante de Glorantha. Chacun vit dans Glorantha.**
 
-Le nom **Temps** fait écho au monde des mortels instauré par le Grand Compromis, mais la fonction de jeu ne se limite pas à l'écoulement du temps. Lorsque les Protagonistes entrent dans le Temps des Dieux, ou lorsque la partie se déroule avant le Grand Compromis, le Temps continue de faire vivre Glorantha : les mythes, les rôles, les puissances, les lieux et les événements qui existent hors du Temps.
+Le mythe referme ainsi une boucle commencée avec le Grand Compromis : le Temps rend l'Histoire possible ; l'Histoire transforme Glorantha ; et, depuis un avenir lointain, cette Histoire devient à son tour récit, mémoire et mythe.
+
+C'est aussi pourquoi cette fonction de jeu porte le nom de **Temps**.
+
+Elle ne consiste pas seulement à faire passer les jours. Elle fait vivre un monde dans lequel les actions ont des conséquences, les conséquences laissent des traces, et ce qui demeure peut devenir l'Histoire de votre Glorantha.
+
+Lorsque les Protagonistes entrent dans le Temps des Dieux, ou lorsque la partie se déroule avant le Grand Compromis, cette fonction continue pourtant d'agir : elle fait vivre les mythes, les rôles, les puissances, les lieux et les événements qui existent hors du Temps.
 
 **Le Temps fait vivre Glorantha, y compris ce qui existe hors du Temps.**
 
