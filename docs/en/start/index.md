@@ -14,9 +14,26 @@ The game's fundamental gesture is simple: **look at what matters**.
 
 You do not need to know everything or take everything into account. Start with what the Situation makes visible and important. Glorantha Perspectives is played by paying attention to the world, not by searching for the right rule first.
 
-The Protagonists act freely within that Situation. Most of the time, the fiction moves forward without rolling dice. Resolve only when the outcome is **possible, important, and genuinely uncertain**.
+## Choose where to go next
 
-When resolution becomes necessary, it moves through eight steps:
+You can read this guide in order, but you do not have to. Enter through whatever interests you most:
+
+- [**Glorantha**](glorantha.md) gives you a few landmarks for knowing where to look in an immense world without learning everything first;
+- [**Protagonists**](../protagonists/) shows how characters take shape from what matters to them;
+- [**Time**](../time/) explains how the world keeps living around the Protagonists and how to prepare Situations;
+- [**Perspectives**](../perspectives/) contains the heart of the system: Bets, resolution, Worldviews, and transformations of reality.
+
+If you want to see immediately what makes Glorantha Perspectives mechanically distinctive, go straight to [**Perspectives**](../perspectives/), especially [Resolving Uncertainty](../perspectives/resolution/). You can come back to the rest of the guide afterward.
+
+## Resolve without learning eight rules
+
+The Protagonists act freely within a Situation. Most of the time, the fiction moves forward without rolling dice. Resolve only when the outcome is **possible, important, and genuinely uncertain**.
+
+The Grand Cycle describes eight steps, but you do not need to memorize them as eight separate rules. Start by remembering this:
+
+> **What do you want? What do you risk? What question are we resolving, and at what scale? What matters on each side? Let's roll, read, compare, then see how the world responds.**
+
+That sentence already follows the eight steps in order. The list below only unfolds them:
 
 1. ![](/img/runes/movement.png) **Movement — Intention.** State what the Protagonists, Forces, or other involved actors are actually trying to achieve.
 2. ![](/img/runes/death.png) **Death — Consequences.** Make important consequences visible when they are not obvious.
@@ -28,5 +45,3 @@ When resolution becomes necessary, it moves through eight steps:
 8. ![](/img/runes/illusion.png) **Illusion — Manifestation.** Give that answer a fictional form from the Situation and the Bets, then continue from what has changed.
 
 This sequence forms the [Grand Cycle of resolution](../perspectives/resolution/) according to Glorantha Perspectives. The Runes give the procedure cosmological depth, but knowing their symbolism is not required to use it.
-
-If you are discovering Glorantha, begin with [Glorantha at a Glance](glorantha.md). That page does not try to summarize the setting: it gives you a compass for knowing **where to look** during play.
