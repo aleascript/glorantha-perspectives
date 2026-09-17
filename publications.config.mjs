@@ -216,7 +216,7 @@ export default definePublications({
     },
     quickreference: {
       author: 'AleaScript',
-      version: '2026-09-12',
+      version: '2026-09-17',
       status: 'Draft',
       lineage: {
         designedWith: {
