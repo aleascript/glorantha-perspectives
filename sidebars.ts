@@ -259,7 +259,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: t('Référence', 'Reference'),
+      label: t('Éclairages', 'Insights'),
       link: {type: 'doc', id: 'reference/index'},
       items: ['reference/faq', 'reference/probabilities'],
     },
