@@ -58,7 +58,6 @@ function guideDocumentTree(locale) {
     {
       path: 'perspectives/index.md',
       children: [
-        'perspectives/bets/index.md',
         {
           path: 'perspectives/resolution/index.md',
           children: [
@@ -68,6 +67,7 @@ function guideDocumentTree(locale) {
             'perspectives/resolution/interpretation.md',
           ],
         },
+        'perspectives/bets/index.md',
         {
           path: 'perspectives/worldviews/index.md',
           children: [
