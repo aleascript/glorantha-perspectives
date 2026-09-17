@@ -14,7 +14,12 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'start/index'},
       items: [
         'start/vocabulary',
-        'start/glorantha',
+        {
+          type: 'category',
+          label: 'Glorantha',
+          link: {type: 'doc', id: 'start/glorantha'},
+          items: ['start/runic-imprint', 'start/calendar', 'start/currency'],
+        },
         'start/table-agreement',
         'start/play-modes',
       ],
@@ -37,11 +42,6 @@ const sidebars: SidebarsConfig = {
           items: ['time/situations/three-stones-source'],
         },
         'time/runic-inspiration/index',
-        'time/runes/index',
-        'time/runic-imprint',
-        'time/generating-bonds/index',
-        'time/calendar',
-        'time/currency',
       ],
     },
     {
