@@ -25,7 +25,7 @@ You can read this guide in order, but you do not have to. Enter through whatever
 
 If you want to see immediately what makes Glorantha Perspectives mechanically distinctive, go straight to [**Perspectives**](../perspectives/), especially [Resolving Uncertainty](../perspectives/resolution/). You can come back to the rest of the guide afterward.
 
-## Resolve without learning eight rules
+## Resolve
 
 The Protagonists act freely within a Situation. Most of the time, the fiction moves forward without rolling dice. Resolve only when the outcome is **possible, important, and genuinely uncertain**.
 

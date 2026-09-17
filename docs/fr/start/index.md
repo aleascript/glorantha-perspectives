@@ -25,7 +25,7 @@ Vous pouvez lire ce guide dans l'ordre, mais ce n'est pas obligatoire. Entrez pa
 
 Si vous voulez voir tout de suite ce qui distingue mécaniquement Glorantha Perspectives, allez directement à [**Perspectives**](../perspectives/), et notamment à [Résoudre une incertitude](../perspectives/resolution/). Vous pourrez revenir au reste du guide ensuite.
 
-## Résoudre sans apprendre huit règles
+## Résoudre
 
 Les Protagonistes agissent librement dans une Situation. La plupart du temps, la fiction avance sans lancer de dés. On résout seulement lorsque l'issue est à la fois **possible, importante et réellement incertaine**.
 

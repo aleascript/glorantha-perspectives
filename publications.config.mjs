@@ -86,13 +86,18 @@ function guideDocumentTree(locale) {
             'perspectives/chaos/index.md',
           ],
         },
-        'perspectives/heroquests/index.md',
-        'perspectives/creating-myths/index.md',
-        'perspectives/discovering-a-worldview/index.md',
+        {
+          path: 'perspectives/heroquests/index.md',
+          children: [
+            'perspectives/creating-myths/index.md',
+            'perspectives/discovering-a-worldview/index.md',
+          ],
+        },
       ],
     },
     {
       label: locale === 'fr' ? 'Éclairages' : 'Insights',
+      path: 'insights/index.md',
       children: ['insights/faq.md', 'insights/probabilities.md'],
     },
     'about/index.md',
