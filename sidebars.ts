@@ -51,12 +51,6 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: t('Mises', 'Bets'),
-          link: {type: 'doc', id: 'perspectives/bets/index'},
-          items: ['perspectives/bets/sample/index'],
-        },
-        {
-          type: 'category',
           label: t('Résolution', 'Resolution'),
           link: {type: 'doc', id: 'perspectives/resolution/index'},
           items: [
@@ -65,6 +59,12 @@ const sidebars: SidebarsConfig = {
             'perspectives/resolution/reading-reality',
             'perspectives/resolution/interpretation',
           ],
+        },
+        {
+          type: 'category',
+          label: t('Mises', 'Bets'),
+          link: {type: 'doc', id: 'perspectives/bets/index'},
+          items: ['perspectives/bets/sample/index'],
         },
         {
           type: 'category',
@@ -116,9 +116,15 @@ const sidebars: SidebarsConfig = {
             },
           ],
         },
-        'perspectives/heroquests/index',
-        'perspectives/creating-myths/index',
-        'perspectives/discovering-a-worldview/index',
+        {
+          type: 'category',
+          label: t('Quêtes héroïques', 'Heroquests'),
+          link: {type: 'doc', id: 'perspectives/heroquests/index'},
+          items: [
+            'perspectives/creating-myths/index',
+            'perspectives/discovering-a-worldview/index',
+          ],
+        },
       ],
     },
     {
