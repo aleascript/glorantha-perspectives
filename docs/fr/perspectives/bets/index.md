@@ -4,13 +4,15 @@ title: Mises
 
 # Mises
 
-Lorsqu'une Situation devient importante et réellement incertaine, la question centrale de Glorantha Perspectives est simple :
+Dans le [Grand Cycle de la résolution](../resolution/), les **Mises** apparaissent à l'étape de **Stase**, une fois précisés le Focus, le Zoom et les deux issues mises en balance.
+
+À ce moment-là, la question centrale est simple :
 
 > **Qu'est-ce qui compte ici et maintenant ?**
 
-Les **Mises** sont la réponse mécanique à cette question. Elles ne décrivent pas tout ce qui est établi dans la fiction : elles désignent les éléments que le **Focus** rend pertinents pour ce que la Situation est en train de trancher.
+Les Mises sont la réponse mécanique à cette question. Elles ne décrivent pas tout ce qui est établi dans la fiction : elles désignent les éléments que le **Focus** rend pertinents pour ce que la Situation est en train de trancher.
 
-Une fois les Mises réunies, la procédure complète se poursuit dans [Résoudre une incertitude](../resolution/).
+Cette page approfondit ce concept : pertinence, non-redondance, sens d'une Mise, situations 0 / N, contre-Mises et moment où arrêter de chercher. Pour suivre la procédure dans l'ordre, commencez par [Résoudre une incertitude](../resolution/).
 
 ## Regarder ce qui compte
 
