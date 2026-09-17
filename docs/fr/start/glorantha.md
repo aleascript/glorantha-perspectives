@@ -43,9 +43,11 @@ Ce repère visuel ne suffit pas à définir les cultures de Glorantha, mais il a
 
 Les Runes ne sont pas seulement des signes magiques. Elles apparaissent dans les tatouages, les vêtements, les armes, les temples, les objets, les paysages et les manières de penser.
 
-Elles peuvent aussi marquer le caractère d'un Protagoniste et fournir un langage commun pour comprendre ce qui traverse une Situation.
+Elles peuvent aussi marquer le caractère d'un Protagoniste et fournir un langage commun pour comprendre ce qui traverse une Situation. Une Rune peut devenir une **Mise** lorsqu'elle compte réellement dans ce qui se joue ; elle n'accorde jamais automatiquement un avantage.
 
 Quand une Rune est visible ou ressentie, demandez-vous moins « quel bonus donne-t-elle ? » que **« qu'est-ce qu'elle signifie ici ? »**.
+
+Pour quelques manières concrètes de les rendre perceptibles, voir [Un monde marqué par les Runes](runic-imprint.md).
 
 ## La magie se voit
 
@@ -85,11 +87,15 @@ Apprendre un rite, un texte ou une pratique étrangère ne suffit pas à changer
 
 Glorantha est souvent chatoyante. Les couleurs peuvent être culturelles, religieuses ou runiques. La peau, les cheveux, les yeux, les vêtements et les objets peuvent porter des marques qui seraient extraordinaires dans notre monde et parfaitement normales ici.
 
+## Le monde suit des rythmes
+
+Les jours, les semaines, les saisons, les fêtes et les cycles lunaires peuvent avoir une importance religieuse, sociale ou magique. Vous n'avez pas besoin de les mémoriser avant de jouer : consultez le [calendrier](calendar.md) lorsqu'un de ces rythmes commence réellement à compter.
+
 ## Les échanges dépendent des communautés
 
 Le troc et les petites monnaies restent importants dans la vie quotidienne. Les monnaies de grande valeur sont souvent liées aux cités, aux temples, aux cultes ou aux autorités qui garantissent les échanges.
 
-Voir [Monnaies et échanges](../time/currency.md) pour quelques repères pratiques.
+Voir [Monnaies et échanges](currency.md) pour quelques repères pratiques.
 
 ## La guérison n'efface pas tout
 
