@@ -4,13 +4,15 @@ title: Bets
 
 # Bets
 
-When a Situation becomes important and genuinely uncertain, the central question of Glorantha Perspectives is simple:
+In the [Grand Cycle of resolution](../resolution/), **Bets** appear at **Stasis**, once the Focus, Zoom, and two outcomes in the balance have been established.
+
+At that moment, the central question is simple:
 
 > **What matters here and now?**
 
-**Bets** are the mechanical answer to that question. They do not describe everything established in the fiction: they identify the elements that the **Focus** makes relevant to what the Situation is deciding.
+Bets are the mechanical answer to that question. They do not describe everything established in the fiction: they identify the elements that the **Focus** makes relevant to what the Situation is deciding.
 
-Once the Bets have been gathered, the complete procedure continues in [Resolving Uncertainty](../resolution/).
+This page explores that concept in depth: relevance, non-redundancy, which side a Bet favours, 0 / N situations, counter-Bets, and when to stop looking. To follow the procedure in order, begin with [Resolving Uncertainty](../resolution/).
 
 ## Look at what matters
 
