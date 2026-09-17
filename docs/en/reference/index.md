@@ -1,7 +1,9 @@
 ---
-title: Reference
+title: Insights
 ---
 
-# Reference
+# Insights
 
-This section gathers play aids, procedure summaries, and quick references useful during a game.
+This section gathers answers to questions that often arise while reading or playing, along with a few ways to look more closely at how Glorantha Perspectives behaves.
+
+**Nothing here is required to begin play.** These pages simply offer a second look at points that may deserve a little more light.
