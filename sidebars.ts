@@ -14,7 +14,12 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'start/index'},
       items: [
         'start/vocabulary',
-        'start/glorantha',
+        {
+          type: 'category',
+          label: 'Glorantha',
+          link: {type: 'doc', id: 'start/glorantha'},
+          items: ['start/runic-imprint', 'start/calendar', 'start/currency'],
+        },
         'start/table-agreement',
         'start/play-modes',
       ],
@@ -37,11 +42,6 @@ const sidebars: SidebarsConfig = {
           items: ['time/situations/three-stones-source'],
         },
         'time/runic-inspiration/index',
-        'time/runes/index',
-        'time/runic-imprint',
-        'time/generating-bonds/index',
-        'time/calendar',
-        'time/currency',
       ],
     },
     {
@@ -49,12 +49,6 @@ const sidebars: SidebarsConfig = {
       label: t('Perspectives', 'Perspectives'),
       link: {type: 'doc', id: 'perspectives/index'},
       items: [
-        {
-          type: 'category',
-          label: t('Mises', 'Bets'),
-          link: {type: 'doc', id: 'perspectives/bets/index'},
-          items: ['perspectives/bets/sample/index'],
-        },
         {
           type: 'category',
           label: t('Résolution', 'Resolution'),
@@ -65,6 +59,12 @@ const sidebars: SidebarsConfig = {
             'perspectives/resolution/reading-reality',
             'perspectives/resolution/interpretation',
           ],
+        },
+        {
+          type: 'category',
+          label: t('Mises', 'Bets'),
+          link: {type: 'doc', id: 'perspectives/bets/index'},
+          items: ['perspectives/bets/sample/index'],
         },
         {
           type: 'category',
@@ -116,9 +116,15 @@ const sidebars: SidebarsConfig = {
             },
           ],
         },
-        'perspectives/heroquests/index',
-        'perspectives/creating-myths/index',
-        'perspectives/discovering-a-worldview/index',
+        {
+          type: 'category',
+          label: t('Quêtes héroïques', 'Heroquests'),
+          link: {type: 'doc', id: 'perspectives/heroquests/index'},
+          items: [
+            'perspectives/creating-myths/index',
+            'perspectives/discovering-a-worldview/index',
+          ],
+        },
       ],
     },
     {
@@ -259,9 +265,9 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: t('Référence', 'Reference'),
-      link: {type: 'doc', id: 'reference/index'},
-      items: ['reference/faq', 'reference/probabilities'],
+      label: t('Éclairages', 'Insights'),
+      link: {type: 'doc', id: 'insights/index'},
+      items: ['insights/faq', 'insights/probabilities'],
     },
     'about/index',
     {

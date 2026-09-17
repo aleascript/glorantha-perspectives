@@ -8,7 +8,9 @@ title: Monnaies et échanges
   <img src="/img/runes/exchange.png" alt="Échange" />
 </div>
 
-Glorantha est un monde de communautés. Le troc et les petites monnaies occupent une grande place dans la vie quotidienne, tandis que les monnaies de forte valeur sont souvent liées aux temples, aux cités et aux autorités qui garantissent les échanges.
+Glorantha est un monde de communautés. Les échanges disent donc souvent quelque chose de ceux qui les garantissent : clan, temple, cité, culte, empire ou réseau marchand.
+
+Vous n'avez pas besoin de tenir une comptabilité détaillée pour jouer. Retenez surtout qu'une monnaie n'a de valeur que parce que des personnes et des institutions lui en reconnaissent une.
 
 ## Monnaies de forte valeur
 
@@ -28,8 +30,10 @@ La plupart des transactions ordinaires peuvent passer par le troc ou par des uni
 - clacks chez les Uz ;
 - biens directement utiles à la communauté.
 
+Le prix exact compte moins que la relation : qui accepte cet échange, qui garantit la valeur, qui contracte une dette, et qu'est-ce que cette transaction signifie ici ?
+
 ## En jeu
 
-L'argent ne demande pas nécessairement de comptabilité détaillée.
-
 Quand la richesse, une dette, une cargaison ou la rareté d'une monnaie devient importante dans la Situation, notez-la comme un élément fictionnel concret. Elle peut alors devenir une Mise, une ressource à perdre, une obligation ou un problème à résoudre.
+
+Dans les autres cas, laissez simplement l'échange faire partie du monde sans le transformer en sous-système économique.

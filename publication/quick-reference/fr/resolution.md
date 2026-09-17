@@ -8,7 +8,7 @@ Résolvez lorsqu'une Situation contient quelque chose de **réellement important
 
 ## Résumé rapide
 
-> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, à quelle échelle ? Qu’est-ce qui compte de chaque côté ? Lançons, lisons, puis voyons comment le monde répond.
+> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, et à quelle échelle ? Qu'est-ce qui compte de chaque côté ? Lançons, lisons, comparons, puis voyons comment le monde répond.
 
 ## Grand Cycle
 

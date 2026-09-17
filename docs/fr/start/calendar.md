@@ -1,18 +1,22 @@
 ---
-title: Calendrier aléatoire
+title: Le calendrier
 ---
 
-# Calendrier aléatoire
+# Le calendrier
 
-Il peut être utile de déterminer rapidement un jour du calendrier gloranthien, notamment lorsque le cycle lunaire ou une fête devient important.
+Le calendrier de Glorantha donne un rythme concret au monde : jours, semaines, saisons, fêtes et cycles lunaires peuvent devenir importants dans une Situation.
+
+Vous n'avez pas besoin de mémoriser le calendrier pour jouer. Utilisez-le lorsqu'une date, une saison, une cérémonie ou l'état de la Lune commence réellement à compter.
 
 Le calendrier le plus répandu divise l'année en **jours**, **semaines** et **saisons**, avec une période particulière de deux semaines appelée **Temps Sacré**.
 
 ## Jour de la semaine
 
-Lancez **2D6**. Lisez le premier dé, sauf en cas de double.
+Les jours portent eux-mêmes des noms runiques : Gel, Eau, Argile, Vent, Feu, Sauvage et Divin. Le jour peut compter directement pour la [Voie Lunaire](../perspectives/moon/index.md), surtout hors de la Ligne Brillante.
 
-| Résultat | Jour | Etat de la lune |
+Lorsque vous avez besoin d'un jour sans en avoir fixé un, lancez **2D6**. Lisez le premier dé, sauf en cas de double.
+
+| Résultat | Jour | État de la lune |
 | --- | --- | --- |
 | 1 | ![](/img/runes/darkness.png) Gel | dernier croissant |
 | 2 | ![](/img/runes/water.png) Eau | lune mourante |
@@ -22,11 +26,9 @@ Lancez **2D6**. Lisez le premier dé, sauf en cas de double.
 | 6 | ![](/img/runes/moon.png) Sauvage | pleine lune |
 | double | ![](/img/runes/gods.png) Divin | dernier quartier |
 
-Le jour peut compter directement pour la [Voie Lunaire](../perspectives/moon/index.md), surtout hors de la Ligne Brillante.
-
 ## Semaine
 
-Lancez **1D8**.
+Lorsque la semaine n'est pas déjà connue, lancez **1D8**.
 
 | D8 | Semaine |
 | --- | --- |
@@ -39,11 +41,11 @@ Lancez **1D8**.
 | 7 | ![](/img/runes/illusion.png) Illusion |
 | 8 | ![](/img/runes/truth.png) Vérité |
 
-Le même D8 peut servir de point de départ à une [inspiration runique](runic-inspiration/index.md).
+Le même D8 peut aussi servir de point de départ à une [inspiration runique](../time/runic-inspiration/index.md) lorsque quelque chose reste ouvert dans la fiction.
 
 ## Saison
 
-Lancez **2D20**. Lisez le premier dé, sauf en cas de double.
+Lorsque la saison n'est pas déjà connue, lancez **2D20**. Lisez le premier dé, sauf en cas de double.
 
 | Résultat | Saison | Repère |
 | --- | --- | --- |
@@ -55,3 +57,5 @@ Lancez **2D20**. Lisez le premier dé, sauf en cas de double.
 | double | ![](/img/runes/luck.png)![](/img/runes/fate.png) Temps Sacré | période de rituels de nouvelle année |
 
 En Temps Sacré, un double pair peut indiquer la semaine de la Chance et un double impair la semaine du Destin lorsque vous utilisez ce tirage comme source d'inspiration.
+
+Ces tirages ne remplacent jamais une date déjà établie. Ils servent seulement lorsque le monde a besoin d'un repère que personne n'avait encore fixé.

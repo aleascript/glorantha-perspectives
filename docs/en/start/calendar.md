@@ -1,16 +1,20 @@
 ---
-title: Random Calendar
+title: The Calendar
 ---
 
-# Random Calendar
+# The Calendar
 
-It can be useful to quickly determine a day in the Gloranthan calendar, especially when the Lunar cycle or a festival becomes important.
+Glorantha's calendar gives the world a concrete rhythm: days, weeks, seasons, festivals, and Lunar cycles can become important in a Situation.
+
+You do not need to memorize the calendar before playing. Use it when a date, season, ceremony, or phase of the Moon actually begins to matter.
 
 The most widespread calendar divides the year into **days**, **weeks**, and **seasons**, with a special two-week period called **Sacred Time**.
 
 ## Day of the week
 
-Roll **2D6**. Read the first die unless you roll a double.
+The days themselves bear runic names: Freeze, Water, Clay, Winds, Fire, Wild, and Gods. The day may directly matter for the [Lunar Way](../perspectives/moon/index.md), especially outside the Glowline.
+
+When you need a day that has not already been established, roll **2D6**. Read the first die unless you roll a double.
 
 | Result | Day | Lunar landmark |
 | --- | --- | --- |
@@ -22,11 +26,9 @@ Roll **2D6**. Read the first die unless you roll a double.
 | 6 | ![](/img/runes/moon.png) Wild | full moon |
 | double | ![](/img/runes/gods.png) Gods | last quarter |
 
-The day may directly matter for the [Lunar Way](../perspectives/moon/index.md), especially outside the Glowline.
-
 ## Week
 
-Roll **1D8**.
+When the week is not already known, roll **1D8**.
 
 | D8 | Week |
 | --- | --- |
@@ -39,11 +41,11 @@ Roll **1D8**.
 | 7 | ![](/img/runes/illusion.png) Illusion |
 | 8 | ![](/img/runes/truth.png) Truth |
 
-The same D8 can provide a starting point for [Runic Inspiration](runic-inspiration/index.md).
+The same D8 can also provide a starting point for [Runic Inspiration](../time/runic-inspiration/index.md) when something remains open in the fiction.
 
 ## Season
 
-Roll **2D20**. Read the first die unless you roll a double.
+When the season is not already known, roll **2D20**. Read the first die unless you roll a double.
 
 | Result | Season | Landmark |
 | --- | --- | --- |
@@ -55,3 +57,5 @@ Roll **2D20**. Read the first die unless you roll a double.
 | double | ![](/img/runes/luck.png)![](/img/runes/fate.png) Sacred Time | New Year ritual period |
 
 During Sacred Time, an even double may suggest Luck and an odd double Fate when you use this roll as a source of inspiration.
+
+These rolls never replace a date that has already been established. They are only used when the world needs a landmark no one had yet fixed.

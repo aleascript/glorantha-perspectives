@@ -12,7 +12,7 @@ Elle ne sert pas nécessairement à tester si une action « réussit ». Une ré
 
 ## Résumé rapide
 
-> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, à quelle échelle ? Qu’est-ce qui compte de chaque côté ? Lançons, lisons, puis voyons comment le monde répond.
+> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, et à quelle échelle ? Qu'est-ce qui compte de chaque côté ? Lançons, lisons, comparons, puis voyons comment le monde répond.
 
 ## Le Grand Cycle de la résolution
 
@@ -31,7 +31,7 @@ Dans Glorantha Perspectives, les huit étapes suivent l'ordre numérique des hui
 
 Ce cycle est **la Perspective de Glorantha Perspectives sur sa propre résolution**, pas une vérité cosmologique absolue qui surplomberait toutes les autres Perspectives de Glorantha. Son symbolisme approfondit la procédure ; il n'est jamais nécessaire pour simplement la suivre.
 
-Ceux qui souhaitent explorer davantage ces correspondances peuvent utiliser l'[Inspiration runique](../../time/runic-inspiration/) ou poursuivre la [Méditation sur les runes](../../notes/runes-meditation/).
+Ceux qui souhaitent explorer davantage ces correspondances peuvent utiliser l'[Inspiration runique](../../time/runic-inspiration/).
 
 ## Quatre mouvements
 

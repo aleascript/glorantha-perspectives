@@ -6,18 +6,26 @@ title: Perspectives
 
 **Perspectives** come into play when a Situation contains a genuine uncertainty the table wants to play out.
 
-At that moment, the central question is: **what matters here and now?**
+The gesture can be remembered in one sentence:
 
-Not everything written on the Protagonist sheet. Not everything you know about Glorantha. Only what genuinely weighs on the outcomes the Situation is putting in the balance.
+> **What do you want? What do you risk? What question are we resolving, and at what scale? What matters on each side? Let's roll, read, compare, then see how the world responds.**
 
-Perspectives describe what happens where Protagonists, Time, and uncertainty meet: clarify what the Situation is deciding, put two outcomes in the balance, direct attention through **Focus** and **Zoom**, recognize what matters, turn it into **Bets**, then discover what happens.
+To see how this works in play, begin with [**Resolving Uncertainty**](resolution/). The **Grand Cycle** unfolds that sentence into eight steps, from Intention to the transformed Situation.
 
-Focus is therefore not a search for the right characteristic or the right rule. It is a filter for attention: **among everything Glorantha makes possible and meaningful, what matters for this resolution?**
+This is not about finding the right characteristic or the right rule. Resolution organizes the table's attention: what is genuinely at stake, which question remains open, what matters toward each of its outcomes, then how reality answers.
 
-The heart of resolution remains simple: identify the Bets and which outcome each favours, roll the dice, read each roll according to the **Worldview** that applies to it, then compare **reality's answers**.
+## Two ideas at the heart of Perspectives
 
-> **Situation → Intentions → Focus / Zoom → outcomes in the balance → Bets → Worldview → reality's answer → comparison → interpretation → transformed Situation**
+Two concepts give this procedure its distinctive character.
 
-[**Worldviews**](worldviews/index.md) describe the deep way Protagonists inhabit and read reality. [**Influences and transformations**](influences/index.md), by contrast, describe what may pass through, crack, or transform that reading without becoming an additional Worldview.
+[**Bets**](bets/) bring fiction into resolution. They answer the question: **what matters here and now?** A quality, relationship, place, injury, magic, or any other element of Glorantha is not a permanent bonus: it becomes a Bet when the Focus explains why it weighs toward one of the two outcomes.
 
-The chapters in this section detail that procedure and the Gloranthan particularities that transform it.
+[**Worldviews**](worldviews/) then turn the roll into **reality's answer**. They answer another question: **how is this world read by those who inhabit it?** The same dice therefore do not necessarily mean the same thing to a Theist, Animist, Logician, Mystic, or draconic consciousness.
+
+> **Fiction → Bets → roll → Worldview → reality's answer → transformed fiction**
+
+Bets and Worldviews are not two separate subsystems. They occupy two moments of the same Cycle: **Stasis** temporarily fixes what matters; **Disorder** reads what that constellation becomes through a Worldview.
+
+[**Influences and transformations**](influences/) describe what may pass through, crack, or alter a Worldview without necessarily becoming a new one.
+
+Finally, [**Heroquests**](heroquests/) bring these principles into direct contact with myth: they may require preparing a myth for play, transform it through the Protagonists' actions, or even lead to discovering a new Worldview.

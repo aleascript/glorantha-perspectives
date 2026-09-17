@@ -41,9 +41,11 @@ This visual landmark does not define Gloranthan cultures by itself, but it helps
 
 Runes are not merely magical signs. They appear in tattoos, clothing, weapons, temples, objects, landscapes, and ways of thinking.
 
-They can also mark a Protagonist's character and provide a shared language for understanding what runs through a Situation.
+They can also mark a Protagonist's character and provide a shared language for understanding what runs through a Situation. A Rune can become a **Bet** when it genuinely matters to what is happening; it never grants an automatic advantage.
 
 When a Rune is visible or felt, ask less “what bonus does it give?” than **“what does it mean here?”**
+
+For some concrete ways to make them perceptible, see [A World Marked by Runes](runic-imprint.md).
 
 ## Magic can be seen
 
@@ -83,11 +85,15 @@ Learning a foreign rite, text, or practice is not enough to change Worldview. A 
 
 Glorantha is often vivid. Colors may carry cultural, religious, or runic meaning. Skin, hair, eyes, clothes, and objects can bear marks that would seem extraordinary in our world and perfectly ordinary here.
 
+## The world follows rhythms
+
+Days, weeks, seasons, festivals, and Lunar cycles may carry religious, social, or magical significance. You do not need to memorize them before playing: consult the [calendar](calendar.md) when one of these rhythms actually begins to matter.
+
 ## Exchange depends on communities
 
 Barter and small coinage remain important in everyday life. High-value currencies are often tied to cities, temples, cults, or authorities that guarantee exchange.
 
-See [Currency and Exchange](../time/currency.md) for a few practical landmarks.
+See [Currency and Exchange](currency.md) for a few practical landmarks.
 
 ## Healing does not erase everything
 

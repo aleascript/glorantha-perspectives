@@ -29,7 +29,14 @@ function guideDocumentTree(locale) {
       path: 'start/index.md',
       children: [
         'start/vocabulary.md',
-        'start/glorantha.md',
+        {
+          path: 'start/glorantha.md',
+          children: [
+            'start/runic-imprint.md',
+            'start/calendar.md',
+            'start/currency.md',
+          ],
+        },
         'start/table-agreement.md',
         'start/play-modes.md',
       ],
@@ -46,17 +53,11 @@ function guideDocumentTree(locale) {
           children: ['time/situations/three-stones-source.md'],
         },
         'time/runic-inspiration/index.md',
-        'time/runes/index.md',
-        'time/runic-imprint.md',
-        'time/generating-bonds/index.md',
-        'time/calendar.md',
-        'time/currency.md',
       ],
     },
     {
       path: 'perspectives/index.md',
       children: [
-        'perspectives/bets/index.md',
         {
           path: 'perspectives/resolution/index.md',
           children: [
@@ -66,6 +67,7 @@ function guideDocumentTree(locale) {
             'perspectives/resolution/interpretation.md',
           ],
         },
+        'perspectives/bets/index.md',
         {
           path: 'perspectives/worldviews/index.md',
           children: [
@@ -84,14 +86,19 @@ function guideDocumentTree(locale) {
             'perspectives/chaos/index.md',
           ],
         },
-        'perspectives/heroquests/index.md',
-        'perspectives/creating-myths/index.md',
-        'perspectives/discovering-a-worldview/index.md',
+        {
+          path: 'perspectives/heroquests/index.md',
+          children: [
+            'perspectives/creating-myths/index.md',
+            'perspectives/discovering-a-worldview/index.md',
+          ],
+        },
       ],
     },
     {
-      label: locale === 'fr' ? 'Référence' : 'Reference',
-      children: ['reference/faq.md', 'reference/probabilities.md'],
+      label: locale === 'fr' ? 'Éclairages' : 'Insights',
+      path: 'insights/index.md',
+      children: ['insights/faq.md', 'insights/probabilities.md'],
     },
     'about/index.md',
   ];
@@ -168,7 +175,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-16',
+      version: '2026-09-17',
       status: 'Draft',
       lineage: {
         designedWith: {

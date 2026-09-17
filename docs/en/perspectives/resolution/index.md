@@ -12,7 +12,7 @@ It does not necessarily test whether an action “succeeds.” Success or failur
 
 ## Quick Summary
 
-> What do you want? What do you risk? What question are we settling, at what scale? What matters on each side? Let's launch, read, then see how the world responds.
+> What do you want? What do you risk? What question are we resolving, and at what scale? What matters on each side? Let's roll, read, compare, then see how the world responds.
 
 ## The Grand Cycle of resolution
 
@@ -31,7 +31,7 @@ In Glorantha Perspectives, the eight steps follow the numerical order of the eig
 
 This cycle is **Glorantha Perspectives' Perspective on its own resolution**, not an absolute cosmological truth standing above every other Perspective in Glorantha. Its symbolism deepens the procedure; it is never required simply to follow it.
 
-Those who want to explore these correspondences further can use [Runic Inspiration](../../time/runic-inspiration/) or continue with [Meditations on the Runes](../../notes/runes-meditation/).
+Those who want to explore these correspondences further can use [Runic Inspiration](../../time/runic-inspiration/).
 
 ## Four movements
 

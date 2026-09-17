@@ -2,154 +2,113 @@
 title: "Taboos, Geasa & Oaths"
 ---
 
+# Taboos, Geasa & Oaths
+
 <div data-runes="chapter">
   <img src="/img/runes/truth.png" alt="Truth" />
   <img src="/img/runes/stasis.png" alt="Stasis" />
   <img src="/img/runes/death.png" alt="Death" />
 </div>
 
-> When one wants the strength of gods, spirits or laws, one must first accept the chain one takes upon oneself. All power is paid for with obedience.
+In Glorantha, some powers, affiliations, and relationships impose real obligations. A cult may require a **geas**, a spirit may impose a **taboo**, a community may live under a **prohibition**, and two people may bind themselves through an **oath**.
 
-Glorantha is woven from bonds: the Web of Arachne Solara, the Great Compromise, the clan oaths, the spirit pacts. Nothing is gained without a prohibition coming in return. Some cults only reveal their secrets in exchange for a **geas**. A shaman who binds a spirit without a [Feat](../bets) receives a **taboo**. The Brithini have made the **prohibition** their immortality.
+These bonds are not merely character restrictions. When they matter in a Situation, they become directly playable.
 
-## The Family of Bonds
+> **A Protagonist does not need to have a particular taboo, geas, or oath.** Most can perfectly well have none. Introduce such a bond only when it genuinely exists in their culture, cult, relationships, or through what happens in play. It is not a box to fill during character creation.
 
-These bonds bear different names according to their nature:
+## Different kinds of bonds
 
-- **Taboo**: a prohibition *imposed*, willingly or not, by a spirit, a sacred place or a pact. One does not always draw power from it; one submits to it to exist in the spirit world. *Example: the taboo of the fetish.*
-- **Geas**: an obligation or prohibition *voluntarily accepted* in exchange for power (often a secret). It is the bond of the cult. A geas is not a mere limit: it is an exchange. You bind yourself, and the world gives to you.
-- **Vow**: a promise made *before a god*, most often unilateral.
-- **Oath**: a *mutual* bond between two parties, sealed before a divine witness (Humakt is the god of oaths). The oath binds both camps.
-- **Prohibition**: a ritual, legal or ancestral ban, which does not depend on an individual will. *Example: the prohibition of the Brithini.*
-- **Curse**: an involuntary and destructive geas, often the consequence of perjury.
-- **Wyrm / Utuma**: the draconic bond, chosen to bind reality (the Wyrm) or to renounce it (Utuma).
-- **The secret name**: a taboo of naming. Revealing one's secret name is giving power over oneself.
+- **Taboo** — a prohibition imposed by a spirit, place, tradition, or pact.
+- **Geas** — an obligation or prohibition voluntarily accepted, often in exchange for a power, secret, or status.
+- **Vow** — a solemn promise undertaken by one person.
+- **Oath** — a commitment binding several parties.
+- **Prohibition** — a ritual, social, legal, or ancestral ban that goes beyond one person's will.
+- **Curse** — a constraint suffered by someone, often born from transgression or a hostile power.
 
-These bonds are held by the runes: **Stasis** freezes the commitment, **Truth** calls upon testimony, **Death** makes one pay the ultimate price.
+The exact name depends on the culture, cult, and nature of the bond. What matters for play is knowing **what is required, what the bond makes possible, and what happens if it is broken**.
 
-## The Principle of Exchange
+## Playing a bond
 
-The rule is simple: *no power without a bond, no bond without a price.* Every great secret, every bound spirit, every grimoire opens a space of power that must be balanced by a proportionate prohibition. When a bond appears, the Fate may ask:
+A geas, taboo, or oath is a double-edged truth.
 
-- *What does the character gain?* (a runic secret, an allied spirit, immortality, a spell)
-- *What does the character give in exchange?* (a freedom, a promise, a part of themselves)
-- *What happens if they transgress?*
+### When it supports you
 
-The greater the power, the more binding the bond must be — otherwise the power collapses, or worse, turns against its holder.
+If it explains why the Protagonist is especially able to uphold their intention, the bond can become a **Bet in their favor**.
 
-## The Sources by Worldview
+Example: *Never flee* can matter when a warrior must hold their ground while everything pushes others to give way.
 
-### Theism: Cult Geasa
+### When it constrains you
 
-A theist molds themselves into the exemplary deeds of their gods (see [theism](../theism)). Cults do not offer all their secrets for free: access to runic mysteries is often paid with a geas. The model is **Humakt**, the god of Death and oaths.
+If it closes a possibility or imposes an obligation that cannot simply be ignored, it can become a **Frame Factor**.
 
-*The geasa of Humakt (examples):*
+Example: a spirit bound to a fetish forbids its bearer from crossing running water. Crossing the river is then not merely “more difficult”: the taboo must be taken seriously before deciding what the Protagonist can attempt and at what price.
 
-- Never refuse a single combat challenge.
-- Never flee a battle.
-- Never strike an enemy who cannot see you.
-- Never break an oath.
-- Never lie.
-- Never be healed by the gods of other cults.
-- At the highest ranks, chastity and the abandonment of family ties.
+### When it favors adversity
 
-Each geas opens a secret of the Death rune. Breaking it means losing the secret and incurring the god's wrath.
+If the bond makes the opposition stronger in this Situation, **Time** may propose it as an adversity Bet.
 
-Other cults have their own bonds:
+Example: an opponent knows a Humakti's oath and builds their plan around what they know the warrior will refuse to do.
 
-- **Yelmalio**: chastity, never any alcohol, ritual purity.
-- **Babeester Gor**: never back down from vengeance, never forgive.
-- **Ernalda**: the Peace of Ernalda — do not bring war to sacred places.
-- **Storm Bull**: never flee the Chaos, hunt it without rest.
-- **Issaries**: fair measure, honesty of weights and exchanges.
-- **Eurmal**: the trickster *reverses* geasa. Where others forbid themselves, he must lie, steal and break — his bonds doom him to transgression itself.
+The same bond can therefore help, constrain, or expose depending on what is genuinely at stake.
 
-### Animism: The Fetish Taboo
+## Accepting a new bond
 
-An animist trades with spirits (see [animism](../animism)). When the relationship is free, the spirit comes and goes. But when a shaman seeks to *bind* a spirit without having obtained a [Feat](../bets), the bond is not strong enough to be shared: the spirit lets itself be enclosed in a **fetish**, but the bond imposes a **taboo**.
+When a Protagonist receives a power, binds a spirit, takes on a status, or enters a pact that requires an enduring obligation, clearly record both sides of the exchange:
 
-- The fetish is *personal*: it cannot be shared, lent or resold. The spirit has only one master, the one who accepted its taboo.
-- The taboo is specific to each spirit: not eating a certain meat, not crossing running water, not lying, not sleeping in a closed house...
-- If the taboo is broken, the spirit flees... and may even turn against the shaman. The fetish empties, and the newly freed spirit is no longer an ally: it is a grudge.
+- **what the bond grants**;
+- **what it requires**;
+- **what counts as transgression**;
+- **what may happen if that transgression occurs**.
 
-The animist world also knows other bonds:
+The fiction decides whether an exchange truly requires such a bond. Not every power in Glorantha works in the same way.
 
-- **The totemic taboos** (the Hsunchen): never kill one's totem, respect the rules of the hunt (not being seen before the blow, asking permission, giving thanks).
-- **Ghosts**: often they are spirits *bound* by an unfulfilled promise or oath. They stay because a bond holds them.
+## Breaking a bond
 
-### Logic: The Prohibition of the Brithini
+Breaking a taboo, geas, or oath should produce a consequence that fits the nature of the bond.
 
-The logician invokes no god: they rely on reason (see [logic](../logic)). But reason itself has its bonds.
+A spirit may leave. A divine favor may no longer be available. A community may condemn the oath-breaker. A practice may lose what made it possible. A curse may appear.
 
-- **The prohibition of the Brithini**: the Brithini (the immortal Malkioni) must not *innovate*. As long as they follow the ancestral Law of Brithos to the letter, they remain immortal. The slightest deviation, the slightest innovation, makes them mortal. Immortality is not a gift: it is a prohibition one respects.
-- **The sorcerer's vows**: a sorcerer often binds themselves to their grimoire with vows of method and non-disclosure. Breaking the vow unbalances their practice and betrays the school.
+The consequence becomes a new truth of the Protagonist or the world. It may in turn become a Bet or Frame Factor in later Situations.
 
-### Mysticism: The Illusory Vow
+**Time** does not punish the player for choosing to transgress. It makes the consequences of an already-existing bond live in the fiction.
 
-The mystic knows that bonds are only illusions (see [mysticism](../mysticism)). They can therefore *transcend* them. But voluntary asceticism remains a tool for them: to deprive oneself, to bind oneself, is to surpass oneself and reach the heroic mode. The Illuminated one, for their part, can combine opposites without suffering the usual backlash (see [Illumination](../illumination)).
+## Oaths
 
-### Draconic Thought: Wyrm and Utuma
+An oath binds the parties that accept it. Before recording it, make sure everyone knows what was actually promised.
 
-The draconic bond is a choice (see [Dragons](../draconic)): the **Wyrm** binds the character to matter (they gain, but regress), the **Utuma** unbinds them (they renounce, but evolve). It is the geas of dragons: power is obtained by binding, and true freedom by renouncing.
+An important oath can be played as a Situation in its own right: negotiating terms, witnesses, ritual, hesitation, outside pressure, and the risk of refusal may all matter.
 
-## The Oath: The Mutual Bond
+The Great Compromise shows on a cosmic scale how deeply a commitment can structure the world. It does not mean the gods disappeared from Time: it bounds their freedom of action and establishes the order within which gods and mortals continue their relationships.
 
-The oath is not sworn lightly. It binds *two camps* before a divine witness. Perjury is a cosmic crime: it releases the other camp from its obligations and makes the perjurer a cursed being.
+## Examples
 
-> Even the gods are bound. The **Great Compromise** is the greatest oath of all: the gods renounced intervening directly in the world. The Red Goddess learned to circumvent its letter without breaking the bond — her power is the reflection of her mastery of oaths.
+- An initiate of Humakt has sworn never to flee a fight. The bond may support their courage, but can also make retreat almost impossible to accept.
+- A shaman has bound a spirit into a fetish and must respect the taboo demanded by that spirit.
+- A Brithini lives under the prohibitions of caste and tradition; breaking them may radically transform what was true of them.
+- Revealing a secret name may give someone enduring leverage over the person who revealed it.
 
-## Transgression
+## Generating a bond
 
-Breaking a bond is not a simple failure: it is a reversal.
+When a bond needs to appear and its form is not yet obvious, a Power Rune can provide a starting point.
 
-- *Theist*: the god turns away. The runic secret is lost, divine support turns hostile.
-- *Animist*: the spirit flees and may attack. The fetish empties.
-- *Logician*: the practice unbalances, the grimoire closes.
-- *Mystic*: the bond was illusion — but the price of this revelation is the loss of asceticism.
-- *Draconic*: the regression is immediate.
+The Rune does not give a mandatory answer. It narrows the field of possibilities and helps formulate a bond that fits the spirit, cult, place, or Situation.
 
-**The curse of the perjurer**: the perjurer finds no peace. *"Death does not free the traitor."* Their spirit remains bound, can neither join the ancestors nor be reincarnated: it becomes a ghost or an undead, in the service of the one they betrayed.
-
-**The spiral**: like the [Chaos Taint](../chaos), perjury is a permanent negative keyword. It can never be used to generate a bet in one's favor; the Fate uses it automatically against the character in situations of trust, justice and honor.
-
-## Mechanics
-
-A geas or a taboo plays as a **double-edged keyword**:
-
-- **In its domain, it is always a bet in your favor.** *"Never flee"* is a strength when you stand firm against the enemy. The bond is not a weakness: it is a source of power.
-- **But it is a lever for the Fate.** The temptation to break it, the moment when it forces you against your own interest, the person who knows how to push you there: all of this becomes a frame factor, or even a bet of the adversity.
-
-*Swearing is a ritual.* Taking an oath is a sacred act: it requires a worthy place or witness, and can be resolved as an opposition (see [bets](../bets)). An oath sworn in haste is a trap; an oath sworn at the right moment is a feat.
-
-*Perjury.* The transgression causes the loss of the favor (the secret, the spirit, the immortality) and the appearance of the *Perjurer* keyword, treated as a Taint.
-
-## The Fate's Toolbox
-
-### Bond Generator by Rune
-
-Draw a power rune to invent a geas, a taboo or a prohibition:
-
-| Rune | Geas, taboo or prohibition |
+| Rune | Bond ideas |
 | :--- | :--- |
-| [1] <img src="/img/runes/movement.png" /> *Movement* | Never stay two nights in the same place. / Never refuse a journey. / Never sit on a throne. |
-| [2] <img src="/img/runes/death.png" /> *Death* | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you. |
-| [3] <img src="/img/runes/harmony.png" /> *Harmony* | Never lie. / Never refuse hospitality. / Never break a promise made to an ally. |
-| [4] <img src="/img/runes/stasis.png" /> *Stasis* | Obey the ancestral Law. / Never change your name. / Never leave the sacred place. |
-| [5] <img src="/img/runes/life.png" /> *Life* | Never eat meat. / Chastity. / Never let a creature die without permission. |
-| [6] <img src="/img/runes/disorder.png" /> *Disorder* | Always answer a challenge. / Never plan ahead. / Always say the first thing that comes to mind. |
-| [7] <img src="/img/runes/truth.png" /> *Truth* | Never lie, even by omission. / Reveal any secret you are asked for. / Never steal. |
-| [8] <img src="/img/runes/illusion.png" /> *Illusion* | Never reveal your name. / Never show yourself twice under the same appearance. / Always wear a mask. |
+| [1] ![Movement](/img/runes/movement.png) **Movement** | Never spend two nights in the same place. / Never refuse a journey. / Never sit on a throne. |
+| [2] ![Death](/img/runes/death.png) **Death** | Never flee. / Never refuse a challenge. / Never strike an enemy who cannot see you. |
+| [3] ![Harmony](/img/runes/harmony.png) **Harmony** | Never lie. / Never refuse hospitality. / Never break a promise made to an ally. |
+| [4] ![Stasis](/img/runes/stasis.png) **Stasis** | Obey an ancestral law. / Never change your name. / Never leave a holy place. |
+| [5] ![Life](/img/runes/life.png) **Life** | Never eat flesh. / Preserve a form of chastity. / Never let a creature under your protection die. |
+| [6] ![Disorder](/img/runes/disorder.png) **Disorder** | Always answer a challenge. / Never plan far ahead. / Say the first thing that comes to mind. |
+| [7] ![Truth](/img/runes/truth.png) **Truth** | Never lie, even by omission. / Reveal a secret when a legitimate authority asks. / Never steal. |
+| [8] ![Illusion](/img/runes/illusion.png) **Illusion** | Never reveal your true name. / Never appear twice in the same form. / Always wear a mask in certain circumstances. |
 
-### Concrete Examples
+Before introducing the bond, ask four questions:
 
-- **Varmand, initiate of Humakt**: to access the secret of the *Mercyless Edge*, he swore never to flee a battle. The Fate may place him before a necessary retreat — and turn his geas into a trap.
-- **A shaman** has bound the spirit of the Great Deer in a fetish: the taboo is to never cross running water. The fetish is personal; lending it would expose the spirit to another master.
-- **A Brithini**: the prohibition is innovation. They age with every compromise with novelty.
-- **A secret name**: revealing your secret name is handing a permanent bet to the adversity.
+1. **Why does this bond exist here?**
+2. **Who or what imposes it?**
+3. **What does it grant or protect?**
+4. **What fictional consequence would follow from breaking it?**
 
-### Narrative Hooks
-
-- A character faces the dilemma of breaking their geas to save their own.
-- A spirit demands a new taboo in exchange for its help.
-- An oath sworn to an enemy releases them from their obligations — and turns them against the group.
-- A ghost is none other than a perjurer seeking to be unbound.
+If the answers do not arise naturally from Glorantha and the Situation, keep the Rune as inspiration and look for another formulation. Never add a bond simply because a table suggests one.
