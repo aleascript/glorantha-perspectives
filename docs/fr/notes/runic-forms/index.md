@@ -15,4 +15,4 @@ En particulier:
 - Les épées ont la forme de la rune de Mort
 - Les peaux sont marquées de tatouages qui apparaissent lors des initiations ou dans des cérémonies. Les Gloranthiens ne cachent pas leurs affiliations runiques en général (sauf les cultes trompeurs).
 
-> Pour certains points, on s'éloigne du canon Gloranthien. Mais certaines formes peuvent apparaitre lors d'une Quete Heroïque ou alors assumer le [décalage](../yet-another-glorantha).
+> Pour certains points, on s'éloigne du canon gloranthien. Ces choix relèvent de l'interprétation propre à Glorantha Perspectives et de la Glorantha qui se construit à votre table.
