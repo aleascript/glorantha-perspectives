@@ -12,7 +12,7 @@ Elle ne sert pas nécessairement à tester si une action « réussit ». Une ré
 
 ## Résumé rapide
 
-> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, à quelle échelle ? Qu’est-ce qui compte de chaque côté ? Lançons, lisons, puis voyons comment le monde répond.
+> Que veux-tu ? Que risques-tu ? Quelle question tranche-t-on, et à quelle échelle ? Qu'est-ce qui compte de chaque côté ? Lançons, lisons, comparons, puis voyons comment le monde répond.
 
 ## Le Grand Cycle de la résolution
 
