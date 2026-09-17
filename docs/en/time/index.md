@@ -22,41 +22,29 @@ Present enough of the world for players to make real choices. Listen to their in
 
 ## Your Glorantha will come to be
 
-**Your Glorantha Will Vary** has long been a principle of Glorantha: no table is required to reproduce exactly the Glorantha described in published sources.
+The Great Compromise brought the world into **Time**. From then on, events could follow one another, leave traces, and become **History**.
 
-Glorantha Perspectives goes a little further and offers its own interpretation of that principle.
+But Glorantha itself gives us a strange perspective on that History. *King of Sartar* looks back on the Hero Wars from the distant future of Harshax's New Time. By then, that past has already become material for stories, interpretations, contradictions, and reconstructions.
 
-There is no history of your Glorantha already written somewhere that Time is supposed to guide you through correctly.
+Glorantha Perspectives takes that opening seriously and offers its own interpretation: **the future History of your Glorantha is not already written**.
 
-The sources describe an immense world. They give you peoples, places, myths, powers, conflicts, and histories to look at. The more you know about Glorantha, the more things you have that may become important.
+What matters depends on what your table encounters and chooses to look at.
 
-But **what matters depends on your table**.
+What follows depends on what the Protagonists do.
 
-A person mentioned in a few lines of a book may become the center of your Hero Wars. A major canonical event may remain distant. An obscure place may become immensely important because the Protagonists loved, fought, swore, or failed there.
+You therefore do not need to know all of Glorantha before you begin playing. Nor do you need to fear discovering later that a book describes a person, place, or event differently. The sources give the world its depth and continually offer you more things to discover; they do not define the path your game must follow.
 
-And **what follows depends on their actions**.
+A character nearly forgotten by the chronicles may become essential. A major event may remain distant. A barely described place may become the center of your Hero Wars.
 
-*King of Sartar* looks back at the Hero Wars from a distant future, the New Time of Harshax. That future is not a scenario your game is required to reach.
+**You are not looking for the right way to explore Glorantha. You are discovering what matters in yours.**
 
-Glorantha Perspectives offers its own ontological interpretation: **the future that will one day look back upon the Hero Wars is the future produced by your game**.
+Then you act.
 
-You are not discovering which possible history was the correct one. You are making yours happen.
-
-This does not make lore irrelevant. On the contrary: lore gives the world its depth and continually provides new things worth noticing. But you do not need to know all of Glorantha before you begin, nor fear that something learned later invalidates what has already lived at your table.
-
-Look at the Situation.
-
-Make what matters live.
-
-Let the Protagonists act.
-
-Then let their actions transform what remains.
-
-**Time does not tell Glorantha's predetermined history. It turns what happens into history.**
+And what happens becomes its History.
 
 ### Yet Another Glorantha
 
-Glorantha Perspectives sometimes imagines this principle as a myth.
+Glorantha Perspectives sometimes imagines this idea as a myth.
 
 Far in the future — under Harshax, or perhaps long after — a HeroQuest is said to have led a Dragon to Arachne Solara.
 
@@ -66,13 +54,19 @@ Within each of them sleeps Glorantha.
 
 No two are exactly alike.
 
-Perhaps these eggs truly exist. Perhaps this is only how some sage of an unimaginable future would explain why accounts of the Hero Wars never entirely agree.
+Perhaps these eggs truly exist. Perhaps this is simply how some sage of an unimaginable future would explain why accounts of the Hero Wars never entirely agree.
 
 It makes no difference to those who live inside.
 
 **No one lives in a variant of Glorantha. Everyone lives in Glorantha.**
 
-The name **Time** echoes the mortal world established by the Great Compromise, but the game function is not limited to the passage of time. When the Protagonists enter God Time, or when play takes place before the Great Compromise, Time still keeps Glorantha alive: the myths, roles, powers, places, and events that exist outside Time.
+The myth thus closes a loop begun with the Great Compromise: Time makes History possible; History transforms Glorantha; and, from a distant future, that History in turn becomes story, memory, and myth.
+
+That is also why this game function is called **Time**.
+
+It does more than make the days pass. It keeps alive a world in which actions have consequences, consequences leave traces, and what remains can become the History of your Glorantha.
+
+When the Protagonists enter God Time, or when play takes place before the Great Compromise, this function still acts: it keeps alive the myths, roles, powers, places, and events that exist outside Time.
 
 **Time keeps Glorantha alive, including what exists outside Time.**
 
