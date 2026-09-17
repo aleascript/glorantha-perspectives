@@ -92,7 +92,7 @@ function guideDocumentTree(locale) {
       ],
     },
     {
-      label: locale === 'fr' ? 'Référence' : 'Reference',
+      label: locale === 'fr' ? 'Éclairages' : 'Insights',
       children: ['reference/faq.md', 'reference/probabilities.md'],
     },
     'about/index.md',
