@@ -260,8 +260,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: t('Éclairages', 'Insights'),
-      link: {type: 'doc', id: 'reference/index'},
-      items: ['reference/faq', 'reference/probabilities'],
+      link: {type: 'doc', id: 'insights/index'},
+      items: ['insights/faq', 'insights/probabilities'],
     },
     'about/index',
     {
