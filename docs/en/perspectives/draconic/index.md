@@ -25,8 +25,10 @@ Each even die — `2`, `4`, `6`, or `8` — is one ordinary Success.
 
 Then look for complex patterns:
 
-- **The Egg's Stasis**: several dice show the same value;
+- **The Egg's Stasis**: each value appearing at least twice forms **one pattern**, whether it appears two, three, or more times; even and odd values can both form a Stasis;
 - **The Ouroboros**: the roll contains both a `1` and an `8`.
+
+Patterns are cumulative. The same die may participate in patterns of different kinds: a `1` may belong to an Egg's Stasis and contribute to an Ouroboros at the same time.
 
 ![Draconic dice](/img/rules/draconic-dice.png)
 
@@ -36,7 +38,9 @@ For each complex pattern, choose:
 
 The pattern becomes an additional Success.
 
-But the dragonewt becomes more attached to the world. Add or transform a **Bond** or **Negative Attachment** that expresses this new fixation.
+But the dragonewt becomes more attached to the world.
+
+If at least one pattern is played as Wyrm, the resolution may manifest **one consequence of attachment**: transform a Bond, create a Negative Attachment, or otherwise show how the dragonewt has become more fixed in the world. This consequence is fictional and global; it is not counted pattern by pattern.
 
 The dragonewt may win here and now, but the choice weighs on their spiritual evolution.
 
@@ -47,6 +51,8 @@ The pattern gives no additional Success.
 The dragonewt refuses to twist reality for a material victory. This renunciation preserves spiritual progress and may matter when the next incarnation is understood.
 
 Utuma is therefore not an imposed failure. It is **refusing a victory that could have been taken**.
+
+If an effect acting on the roll later breaks a pattern, the corresponding Wyrm Success disappears when the roll is read again. What seemed to offer material purchase may dissolve and leave the dragonewt in Utuma for that pattern.
 
 When an abstract obstacle is read through Draconic Thought by Mirror, it has no dragonewt spiritual evolution to preserve. If a complex pattern appears in its roll, it uses **Wyrm**: the pattern counts as a Success and no Utuma choice applies.
 
