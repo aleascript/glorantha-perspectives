@@ -175,6 +175,6 @@ Avant le tirage, lorsque le nombre de Mises diffère entre les deux côtés, ajo
 
 Exemple : les Protagonistes ont 5 Mises et l'adversité 3. La résolution reste à **5 contre 3**, mais la Jauge reçoit **2 dés d'adversité**. Ils pourront être dépensés plus tard lorsqu'une difficulté cohérente avec la fiction se présente, selon l'autorité convenue par la table.
 
-La Jauge sert de filet de sécurité visible, pas de comptabilité à équilibrer après chaque scène. Une table qui n'en a pas besoin peut ne pas l'utiliser.
+La Jauge sert de filet de sécurité visible, pas de comptabilité à équilibrer après chaque scène. Elle observe seulement l'asymétrie des Mises : elle ne cherche pas à mesurer ni compenser la puissance effective d'une Vision, son mode affaibli ou héroïque, ou son degré. Une table qui n'en a pas besoin peut ne pas l'utiliser.
 
 La balance est maintenant fixée pour cette résolution. La table peut [lire la réponse du réel](reading-reality.md).
