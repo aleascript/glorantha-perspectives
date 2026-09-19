@@ -26,9 +26,13 @@ Elles peuvent notamment servir à :
 - **exprimer les règles d'un autre monde** — dans l'Autre Monde, et notamment dans le Monde divin, certaines relations au Cosmos peuvent devenir plus immédiates ou plus absolues. Une Quête héroïque peut ainsi placer les participants en Vision héroïque parce que le monde où ils se trouvent obéit à cette échelle ;
 - **exprimer un décalage assumé de puissance** — lorsqu'un Protagoniste, une entité ou une Force agit manifestement à une autre échelle, une lecture affaiblie ou héroïque peut rendre ce décalage directement, sans avoir à gonfler artificiellement le nombre de Mises.
 
-Ces usages peuvent se combiner. Un mortel peut par exemple entrer dans un monde où les puissances qui lui font face agissent en Vision héroïque tandis que sa propre relation au Cosmos demeure ordinaire — ou même affaiblie.
+Dans une même résolution, plusieurs acteurs peuvent agir à des échelles différentes. Un mortel peut par exemple faire face à une puissance en Vision héroïque tandis que sa propre Vision demeure ordinaire — ou affaiblie.
 
-Le mode est choisi **avant le tirage**, parce que la fiction et le Cadre le justifient, jamais après avoir vu les dés. Les Mises continuent d'être établies normalement : sauf si la Situation change elle-même ce qui peut compter, le mode modifie **la lecture du tirage**, pas le nombre de dés.
+Les modes ne se cumulent pas. Une Vision affaiblie fait redescendre l'acteur dans l'échelle au lieu de s'ajouter à une Vision héroïque.
+
+Certaines Visions héroïques admettent plusieurs degrés. Leur lecture est alors fixée par l'échelle de l'acteur ou de la puissance avant le tirage, puis reste stable tant que cette échelle ne change pas dans la fiction. Il n'existe pas de grille universelle commune à toutes les Visions.
+
+Le mode et, lorsqu'il y en a un, son degré sont choisis **avant le tirage**, parce que la fiction et le Cadre le justifient, jamais après avoir vu les dés. Les Mises continuent d'être établies normalement : sauf si la Situation change elle-même ce qui peut compter, l'échelle modifie **la lecture du tirage**, pas le nombre de dés.
 
 ## Une Vision du monde n'est pas un masque
 
