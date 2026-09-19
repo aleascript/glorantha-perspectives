@@ -22,6 +22,7 @@ L'animiste ne demande donc pas seulement : « qu'est-ce qui peut m'aider ? » Il
 
 - Chaque dé **pair** compte comme une Réussite : un esprit répond.
 - Deux dés montrant le **même nombre impair** forment un **Pacte spirituel** et produisent ensemble une Réussite.
+- Formez autant de Pactes que possible ; dans la lecture d'un même Animiste, chaque dé ne peut participer qu'à un seul Pacte. Ainsi, `3 · 3 · 3 · 3` forme deux Pactes, tandis que `3 · 3 · 3` n'en forme qu'un.
 - Un impair solitaire reste sans effet : quelque chose était présent, mais aucune relation utile n'a pu être établie.
 
 Un résultat décisif peut transformer une relation momentanée en relation durable :
@@ -45,7 +46,9 @@ Les frontières entre les deux côtés de la résolution ne limitent plus les Pa
 
 Pour compter les Réussites de l'Animiste, un dé impair de son tirage peut former un **Pacte spirituel** avec un dé montrant le même nombre impair dans le tirage opposé.
 
-Formez autant de Pactes que possible. Pour ce décompte, chaque dé ne peut participer qu'à un seul Pacte. Les dés du tirage opposé ainsi reconnus restent cependant disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
+Formez autant de Pactes que possible. Pour la lecture de cet Animiste, chaque dé ne peut participer qu'à un seul Pacte. Les dés du tirage opposé ainsi reconnus restent cependant disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
+
+Cette restriction n'est pas globale. Si plusieurs Animistes participent à la même résolution, chacun peut reconnaître indépendamment la même présence du tirage opposé et former son propre Pacte avec elle.
 
 Les esprits ne se répartissent plus proprement entre « les miens » et « les siens ». Une présence révélée par l'opposition peut répondre à une présence du propre tirage de l'Animiste.
 
