@@ -49,7 +49,8 @@ Illumination must first be made genuinely possible by the fiction: riddle-master
 After both rolls have been read normally, the Protagonist may then **play one of their `1`s**:
 
 - the `1` removes one `6` from the opposing roll;
-- both dice disappear together at comparison;
+- both dice disappear together;
+- read the changed rolls again to establish their final answer;
 - the Protagonist becomes **Illuminated**.
 
 The shift is irreversible.
@@ -58,7 +59,9 @@ The shift is irreversible.
 
 The Protagonist retains their Worldview and its usual rules.
 
-After both rolls have been read normally, **each of their `1`s may remove one opposing `6`**, with both dice disappearing together at comparison.
+After both rolls have been read normally, **each of their `1`s may remove one opposing `6`**, with both dice disappearing together. Then read the changed rolls again.
+
+Illumination keeps the original Worldview and opens only this effect of **ordinary Mysticism**; it does not grant the **Still Center** or **Empty Mirror**.
 
 ## Chaos
 
