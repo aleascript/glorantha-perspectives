@@ -47,15 +47,21 @@ You can measure the risk. If someone catches you prowling around the place where
 And even if you hear something: **it will be words. Not automatically facts.**
 Your Intention is nevertheless clear: overhear, without being seen, something you could not have learned through the official investigation and that deserves to be examined afterward.
 **Focus — Sequence Zoom:** *can you prowl discreetly enough around the House of Peace to overhear something genuinely useful to the investigation, without being spotted as an observer?*
+
 Your **3 Bets**:
+
 - **Truth, enacted through your ritual** — you deliberately discipline your senses and judgment toward what may be genuinely significant.
 - **You already know the affair precisely** — names, testimony, contradictions, and material facts; you can recognize the importance of a detail others might overlook.
 - **Your neutral clothing** — at first glance, nothing announces the young Grey Sage who came to investigate yesterday.
+
 The **3 Counter-Bets**:
+
 - **The House of Peace keeps watch even at night** — healers, patients, and assistants still move through it.
 - **Karest is a wounded man at the heart of a dispute between two groups** — his presence naturally draws attention and vigilance.
 - **You are unfamiliar with the night-time habits of this quarter** — you know what you are looking for, but not yet which passages, doors, or figures are ordinary at this hour.
-**3 against 3.** No movement of Destiny.
+
+**3 against 3.**
+
 Your roll is read through **ordinary Theism**. The opposition here belongs to the outside world.
 Roll **3d6** and give me the raw results.
 
@@ -330,7 +336,7 @@ The **5 Counter-Bets**:
 - **Beren and Karest already had a known history of resentment**, which colors everything that is heard.
 - **Your words will now have concrete consequences**: compensation, honor, responsibility; everyone will listen to every nuance as something they may later seize upon.
 
-**5 against 5.** No movement of Destiny.
+**5 against 5.**
 
 Your speech here is unambiguously read through **Theism**: you are explicitly acting as a Sage of Lhankor Mhy in the exercise of your function. The opposition will also be read through **Theism**, because what answers you here is not a material obstacle but an Orlanthi assembly caught in its obligations of clan, honor, law, and speech.
 

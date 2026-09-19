@@ -43,15 +43,21 @@ Tu peux mesurer ton risque. Si quelqu'un te surprend à rôder autour du lieu o�
 Et même si tu entends quelque chose : **ce seront des paroles. Pas automatiquement des faits.**
 Ton Intention est néanmoins claire : surprendre, sans être vu, quelque chose que tu n'aurais pas pu apprendre dans l'enquête officielle et qui mérite ensuite d'être examiné.
 **Focus — Zoom Séquence :** *parviens-tu à rôder assez discrètement autour de la Maison de la Paix pour surprendre une parole réellement utile à l'enquête, sans être repéré comme observateur ?*
+
 Tes **3 Mises** :
+
 - **Vérité, mise en acte par ton rituel** — tu disciplines volontairement tes sens et ton jugement vers ce qui peut être réellement significatif.
 - **Tu connais déjà précisément l'affaire** — noms, témoignages, contradictions et faits matériels ; tu peux reconnaître l'importance d'un détail que d'autres laisseraient passer.
 - **Ta tenue neutre** — rien, au premier regard, ne proclame le jeune Sage Gris venu enquêter la veille.
+
 Les **3 Contre-Mises** :
+
 - **La Maison de la Paix veille même la nuit** — guérisseuses, malades et assistants y circulent encore.
 - **Karest est un blessé au cœur d'une querelle entre deux groupes** — sa présence attire naturellement l'attention et la vigilance.
 - **Tu es étranger aux habitudes nocturnes de ce quartier** — tu sais ce que tu cherches, mais pas encore quels passages, portes ou silhouettes sont ordinaires à cette heure.
-**3 contre 3.** Pas de mouvement de Destin.
+
+**3 contre 3.**
+
 Ton tirage est lu selon le **Théisme ordinaire**. L'opposition relève ici du monde extérieur.
 Lance **3d6** et donne-moi les résultats bruts.
 
@@ -320,7 +326,7 @@ Les **5 Contre-Mises** :
 - **Beren et Karest avaient déjà une histoire de rancune connue**, qui colore tout ce qui est entendu.
 - **Tes paroles vont désormais avoir des conséquences concrètes** : compensation, honneur, responsabilité ; chacun va écouter chaque nuance comme quelque chose dont il pourra se saisir.
 
-**5 contre 5.** Pas de mouvement de Destin.
+**5 contre 5.**
 
 Ta parole relève ici sans ambiguïté du **Théisme** : tu agis explicitement comme Sage de Lhankor Mhy, dans l’exercice de ta fonction. L’opposition sera également lue selon le **Théisme**, car ce qui te répond ici n’est pas un obstacle matériel mais une assemblée orlanthi prise dans ses obligations de clan, d’honneur, de droit et de parole.
 

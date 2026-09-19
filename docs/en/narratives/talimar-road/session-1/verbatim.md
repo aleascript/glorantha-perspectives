@@ -100,7 +100,7 @@ The **3 counter-Bets**:
 - **Two armed groups are already caught in a collective confrontation**.
 - **Your young age and lack of established authority here**.
 
-**3 against 3.** The Fate Gauge does not move.
+**3 against 3.**
 
 And Hendrik? He does not interrupt you. But his face gives you absolutely no help in knowing what he thinks.
 
@@ -538,7 +538,7 @@ The **3 counter-Bets**:
 - **She now knows you have examined the body** — she may feel that she is being tested.
 - **The scene remains public, under the eyes of both groups** — every detail she gives can be used against her or Karest.
 
-**3 against 3.** No movement on the Fate Gauge.
+**3 against 3.**
 
 The roll will not decide what really happened. It will say whether you succeed in obtaining a reconstruction clear enough to test her account.
 

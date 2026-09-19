@@ -96,7 +96,7 @@ Les **3 Contre-Mises** :
 - **Deux groupes armés sont déjà pris dans une confrontation collective**.
 - **Ton jeune âge et ton absence d’autorité établie ici**.
 
-**3 contre 3.** La Jauge de Destin ne bouge pas.
+**3 contre 3.**
 
 Et Hendrik ? Il ne t’interrompt pas. Mais son visage ne t’aide absolument pas à savoir ce qu’il pense.
 
@@ -534,7 +534,7 @@ Les **3 Contre-Mises** :
 - **Elle sait maintenant que vous avez examiné le corps** — elle peut se sentir mise à l'épreuve.
 - **La scène reste publique, sous les yeux des deux groupes** — chaque détail qu'elle donne peut être repris contre elle ou contre Karest.
 
-**3 contre 3.** Pas de mouvement de Destin.
+**3 contre 3.**
 
 Le jet ne décidera pas de ce qui s'est réellement passé. Il dira si tu réussis à obtenir d'elle une reconstitution assez nette pour éprouver son récit.
 
