@@ -49,13 +49,15 @@ A decisive result may turn a momentary relationship into a lasting one:
 - Even dice produce their Successes.
 - Matching odd dice can no longer form a Spiritual Pact.
 
-### Heroic Worldview — The Circle of Spirits
+### Heroic Worldview — The Shaman's Path
 
-- An odd die from the Animist's roll may form a **Spiritual Pact** with a die showing the same odd value in the **opposing roll**.
+- This Heroic reading is **not gradual**.
+- Within the **Circle of Spirits**, an odd die from the Animist's roll may form a **Spiritual Pact** with a die showing the same odd value in the **opposing roll**.
 - Form as many Pacts as possible.
 - For this count, each die may participate in only one Pact.
 - Opposing dice recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
 - Several Animists may each recognize the same opposing die in their own reading.
+- Shamanic aptitudes depend on culture, Tradition, and teaching; they open actions unavailable to other Animists and are not additional degrees of this Worldview.
 
 ## Logic
 
@@ -142,6 +144,8 @@ An abstract obstacle read through Draconic Thought by **Mirror** always uses **W
 Every complex pattern must be played as **Wyrm**, with its consequences.
 
 ### Heroic Worldview — The Awakening of the Dragon
+
+This Heroic reading is **not gradual**: it represents a **molt toward the true Dragon**.
 
 Each complex pattern produces both:
 
