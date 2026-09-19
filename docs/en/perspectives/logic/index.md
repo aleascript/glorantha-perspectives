@@ -47,13 +47,15 @@ More matter, knowledge, or preparation is needed to produce the same effect.
 
 ### Convergence toward Law — Heroic Worldview
 
-The divisor progressively decreases:
+The divisor may become:
 
 `4 → 3 → 2 → 1`
 
+The degree depends on the Logician's scale. It is fixed by the fiction before the roll and remains stable until that scale changes; the player does not choose the divisor after seeing the dice.
+
 The closer the Logician comes to Law, the less information is lost when observed reality is transformed into effective action.
 
-At the extreme, dividing by `1` means that almost no gap remains between **measuring**, **understanding**, and **acting**.
+At the extreme, a power such as Zzabur may be represented by a very low divisor. Dividing by `1` means that almost no gap remains between **measuring**, **understanding**, and **acting**.
 
 ## Where to look
 
