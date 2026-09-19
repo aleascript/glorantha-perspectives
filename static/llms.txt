@@ -1,0 +1,23 @@
+# Glorantha Perspectives
+
+> Jeu de rôle dans Glorantha : les Protagonistes agissent, le Temps fait vivre le monde autour d'eux, et les Perspectives révèlent comment le réel répond quand l'issue est incertaine.
+> Roleplaying game set in Glorantha: Protagonists act, Time keeps the world alive around them, and Perspectives reveal how reality answers when the outcome is uncertain.
+
+Auteur / Author : AleaScript — Licence / License : Creative Commons Attribution (CC BY).
+Glorantha, ses marques et son univers appartiennent à Chaosium ; ce jeu est une œuvre de fan indépendante, non officielle.
+Glorantha, its trademarks and its setting belong to Chaosium; this game is an independent, unofficial fan work.
+
+## Guide du jeu / Player Guide
+
+- [Guide du jeu — français](https://aleascript.github.io/glorantha-perspectives/downloads/glorantha-perspectives-guide-fr.md) : l'intégralité des règles en Markdown brut.
+- [Player Guide — English](https://aleascript.github.io/glorantha-perspectives/downloads/glorantha-perspectives-guide-en.md): the complete rules as plain Markdown.
+
+## Consignes / Instructions
+
+- Utilise le fichier dans la langue du joueur. Lis-le en entier avant de mener une partie. Tu es le Temps.
+- Use the file matching the player's language. Read it in full before running a game. You are Time.
+
+## Site
+
+- [Glorantha Perspectives](https://aleascript.github.io/glorantha-perspectives/)
+- [Publications](https://aleascript.github.io/glorantha-perspectives/publications)

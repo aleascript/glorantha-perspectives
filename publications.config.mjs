@@ -201,7 +201,7 @@ export default definePublications({
             //seriesTitle: 'Glorantha Perspectives',
           },
           contents: guideContents('fr'),
-          outputs: ['pdf'],
+          outputs: ['pdf', 'md'],
         },
         en: {
           title: 'Player Guide',
@@ -213,7 +213,7 @@ export default definePublications({
             //seriesTitle: 'Glorantha Perspectives',
           },
           contents: guideContents('en'),
-          outputs: ['pdf'],
+          outputs: ['pdf', 'md'],
         },
       },
     },

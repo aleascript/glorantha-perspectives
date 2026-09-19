@@ -3,6 +3,7 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {build} from '@vivliostyle/cli';
 import config from '../publications.config.mjs';
+import {cleanChapter, documentDepths, llmHeader} from './llm-markdown.mjs';
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const workRoot = path.join(projectRoot, '.publication-workspace');
@@ -710,6 +711,9 @@ async function preparePublication(
   const publicationDocs = new Set(localeConfig.contents.map(normalizeRepoPath));
   const linkStats = {internal: 0, site: 0};
   const entries = [];
+  const wantsMd = localeConfig.outputs.includes('md');
+  const llmDepths = documentDepths(localeConfig.toc?.documents ?? localeConfig.contents);
+  const llmChapters = [];
   for (const sourcePath of localeConfig.contents) {
     const normalizedSourcePath = normalizeRepoPath(sourcePath);
     const sourceAbsolute = path.join(projectRoot, sourcePath);
@@ -726,6 +730,45 @@ async function preparePublication(
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, markdown, 'utf8');
     entries.push(sourcePath);
+
+    if (wantsMd) {
+      // Every link points to the website: chapters are concatenated in one file.
+      const source = await fs.readFile(sourceAbsolute, 'utf8');
+      const llmMarkdown = adaptPublicationMarkdown(
+        source,
+        locale,
+        normalizedSourcePath,
+        new Set(),
+        knownDocs,
+        {internal: 0, site: 0},
+      );
+      llmChapters.push(
+        cleanChapter(llmMarkdown, {
+          locale,
+          publicUrl: config.site.publicUrl,
+          headingShift: llmDepths.get(normalizedSourcePath) ?? 1,
+        }),
+      );
+    }
+  }
+
+  if (wantsMd) {
+    const header = llmHeader({
+      locale,
+      title: localeConfig.title,
+      gameName: 'Glorantha Perspectives',
+      version,
+      status: publication.status,
+      publicUrl: config.site.publicUrl,
+    });
+    await fs.writeFile(
+      path.join(
+        outputRoot,
+        assetName(publication.outputName ?? publicationName, locale, 'md'),
+      ),
+      `${[header, ...llmChapters].join('\n\n')}\n`,
+      'utf8',
+    );
   }
 
   console.log(
@@ -752,7 +795,10 @@ async function preparePublication(
     'utf8',
   );
 
-  const output = localeConfig.outputs.map((format) => ({
+  const vivliostyleFormats = localeConfig.outputs.filter((format) => format !== 'md');
+  if (vivliostyleFormats.length === 0) return null;
+
+  const output = vivliostyleFormats.map((format) => ({
     path: path.join(
       outputRoot,
       assetName(publication.outputName ?? publicationName, locale, format),
@@ -835,11 +881,13 @@ async function main() {
         localeConfig,
         version,
       );
-      await build({
-        config: configPath,
-        logLevel: 'info',
-        enableStaticServe: true,
-      });
+      if (configPath) {
+        await build({
+          config: configPath,
+          logLevel: 'info',
+          enableStaticServe: true,
+        });
+      }
     }
   }
 
