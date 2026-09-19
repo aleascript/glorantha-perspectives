@@ -20,7 +20,7 @@ Porter le **Temps**, c'est faire vivre Glorantha autour des Protagonistes : pré
 
 Le Temps ne décide pas de l'avenir des Protagonistes et n'a pas pour fonction de les vaincre.
 
-Lorsqu'une résolution demande un arbitrage sur le Focus, une Mise ou un Facteur Cadre, la table confronte d'abord les propositions à ce qui est vrai dans la fiction. Si un désaccord demeure, la personne qui porte le Temps tranche lorsque l'accord de table lui confie cette responsabilité.
+Lorsqu'une résolution demande un arbitrage sur le Focus, une Mise ou un Facteur Cadre, la table confronte d'abord les propositions à ce qui est vrai ou vraisemblable dans la fiction. Si un désaccord demeure, la personne qui porte le Temps tranche lorsque l'accord de table lui confie cette responsabilité.
 
 ## La manière la plus simple de commencer
 

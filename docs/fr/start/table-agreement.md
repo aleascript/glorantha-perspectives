@@ -4,7 +4,7 @@ title: Accord de table
 
 # Accord de table
 
-Glorantha Perspectives repose beaucoup sur le jugement partagé : ce qui est vrai, ce qui compte dans une Situation, ce qui peut devenir une Mise et jusqu'où les conséquences peuvent aller.
+Glorantha Perspectives repose beaucoup sur le jugement partagé : ce qui est vrai ou vraisemblable, ce qui compte dans une Situation, ce qui peut devenir une Mise et jusqu'où les conséquences peuvent aller.
 
 Avant de commencer, quelques accords simples évitent les malentendus.
 

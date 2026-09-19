@@ -4,7 +4,7 @@ title: Glorantha en quelques repères
 
 # Glorantha en quelques repères
 
-Il n'est pas nécessaire de connaître toute Glorantha pour commencer à jouer. Quelques repères suffisent pour comprendre ce que les Protagonistes voient autour d'eux et pourquoi certaines choses comptent immédiatement dans une Situation.
+Il n'est pas nécessaire de connaître tout Glorantha pour commencer à jouer. Quelques repères suffisent pour comprendre ce que les Protagonistes voient autour d'eux et pourquoi certaines choses comptent immédiatement dans une Situation.
 
 Le but de cette page n'est donc pas de résumer Glorantha. Elle propose une **boussole du regard** : quelques endroits où porter votre attention lorsque vous découvrez une Situation.
 

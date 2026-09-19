@@ -23,7 +23,7 @@ Vous pouvez lire ce guide dans l'ordre, mais ce n'est pas obligatoire. Entrez pa
 - [**Le Temps**](../time/) explique comment le monde continue de vivre autour des Protagonistes et comment préparer des Situations ;
 - [**Perspectives**](../perspectives/) contient le cœur du système : Mises, résolution, Visions du monde et transformations du réel.
 
-Si vous voulez voir tout de suite ce qui distingue mécaniquement Glorantha Perspectives, allez directement à [**Perspectives**](../perspectives/), et notamment à [Résoudre une incertitude](../perspectives/resolution/). Vous pourrez revenir au reste du guide ensuite.
+Si vous voulez voir tout de suite ce qui distingue mécaniquement Glorantha Perspectives, allez directement à [**Perspectives**](../perspectives/). Vous pourrez revenir au reste du guide ensuite.
 
 ## Résoudre
 

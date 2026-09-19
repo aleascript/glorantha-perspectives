@@ -21,12 +21,10 @@ The game follows **Protagonists** who choose their intentions and actions. Aroun
 
 You do not need to adopt a single table structure. Time may be carried by one person, shared among several players, or supported by Runes, an oracle, or other tools. The same rules remain usable.
 
-## Where should you start?
+## Suggested reading order
 
 1. Read [Start Playing](start/) to understand the game's fundamental gesture.
 2. Browse [Glorantha at a Glance](start/glorantha) to learn where to direct your attention.
 3. Establish the vocabulary with [Protagonists and Time](start/vocabulary).
 4. Choose how you want to [organize play](start/play-modes).
 5. Consult [Perspectives](perspectives/) when uncertainty needs to be resolved.
-
-Later chapters explore worldviews, Runes, Chaos, Illumination, Heroquests, and other ways in which Glorantha transforms resolution.

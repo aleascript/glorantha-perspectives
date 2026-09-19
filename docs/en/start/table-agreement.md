@@ -4,7 +4,7 @@ title: Table Agreement
 
 # Table Agreement
 
-Glorantha Perspectives relies heavily on shared judgment: what is true, what matters in a Situation, what can become a Bet, and how far consequences can go.
+Glorantha Perspectives relies heavily on shared judgment: what is true or credible, what matters in a Situation, what can become a Bet, and how far consequences can go.
 
 A few simple agreements before play prevent misunderstandings.
 

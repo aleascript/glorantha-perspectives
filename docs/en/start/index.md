@@ -23,7 +23,7 @@ You can read this guide in order, but you do not have to. Enter through whatever
 - [**Time**](../time/) explains how the world keeps living around the Protagonists and how to prepare Situations;
 - [**Perspectives**](../perspectives/) contains the heart of the system: Bets, resolution, Worldviews, and transformations of reality.
 
-If you want to see immediately what makes Glorantha Perspectives mechanically distinctive, go straight to [**Perspectives**](../perspectives/), especially [Resolving Uncertainty](../perspectives/resolution/). You can come back to the rest of the guide afterward.
+If you want to see immediately what makes Glorantha Perspectives mechanically distinctive, go straight to [**Perspectives**](../perspectives/). You can come back to the rest of the guide afterward.
 
 ## Resolve
 

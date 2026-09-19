@@ -20,7 +20,7 @@ To carry **Time** is to make Glorantha live around the Protagonists: present the
 
 Time does not decide the future of the Protagonists and is not there to defeat them.
 
-When a resolution needs arbitration over the Focus, a Bet, or a Frame Factor, the table first compares the proposals with what is true in the fiction. If disagreement remains, the person carrying Time makes the final call when the table agreement gives them that responsibility.
+When a resolution needs arbitration over the Focus, a Bet, or a Frame Factor, the table first compares the proposals with what is true or credible in the fiction. If disagreement remains, the person carrying Time makes the final call when the table agreement gives them that responsibility.
 
 ## The simplest way to begin
 

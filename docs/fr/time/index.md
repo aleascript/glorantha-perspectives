@@ -16,7 +16,7 @@ Quand vous ne savez pas où porter votre attention, cherchez d'abord :
 - **quel lieu, quelle Rune, quelle puissance ou quel mythe** rend cette Situation proprement gloranthienne ;
 - **ce qui est en train de changer**, et ce qui risque de continuer à compter après la Situation.
 
-Vous n'avez pas à faire entrer toute Glorantha dans chaque scène. Faites vivre quelques éléments significatifs, assez clairement pour que les joueurs puissent les remarquer et choisir ce qu'ils veulent en faire.
+Vous n'avez pas à faire entrer tout Glorantha dans chaque scène. Faites vivre quelques éléments significatifs, assez clairement pour que les joueurs puissent les remarquer et choisir ce qu'ils veulent en faire.
 
 Présentez assez du monde pour que les joueurs puissent choisir réellement. Écoutez leurs intentions. Faites agir les personnes et les puissances qui ont leurs propres buts. Laissez les conséquences transformer ce qui demeure. Quand l'issue devient incertaine, utilisez les règles de résolution.
 
@@ -32,7 +32,7 @@ Ce qui compte dépend de ce que votre table rencontre et regarde.
 
 Ce qui en découle dépend de ce que font les Protagonistes.
 
-Vous n'avez donc pas besoin de connaître toute Glorantha avant de jouer. Vous n'avez pas non plus à craindre de découvrir plus tard qu'un livre décrit autrement une personne, un lieu ou un événement. Les sources donnent au monde sa profondeur et vous offrent toujours davantage de choses à découvrir ; elles ne définissent pas le chemin que votre partie doit suivre.
+Vous n'avez donc pas besoin de connaître tout Glorantha avant de jouer. Vous n'avez pas non plus à craindre de découvrir plus tard qu'un livre décrit autrement une personne, un lieu ou un événement. Les sources donnent au monde sa profondeur et vous offrent toujours davantage de choses à découvrir ; elles ne définissent pas le chemin que votre partie doit suivre.
 
 Un personnage presque oublié des chroniques peut devenir essentiel. Un événement majeur peut rester lointain. Un lieu à peine décrit peut devenir le centre de votre Guerre des Héros.
 
