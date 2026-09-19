@@ -102,7 +102,7 @@ Peek en allant à l'écurie remarque des yeux rouges et découvre une statuette 
 > - Conflit:
 >   - Sur ses gardes, nomade
 >   - ne se doutent de rien
-> - Résultat 2 vs 1: Réussite +2
+> - Résultat 2 vs 1: Réussite
 
 ![Cacodemon](/img/narratives/the-lunar-way/07/cacodemon.jpg)
 

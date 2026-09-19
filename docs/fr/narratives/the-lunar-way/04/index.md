@@ -44,7 +44,7 @@ Ikarnos attacha ensuite une corde entre son cheval et celui de Jiridan. La manoe
 > * **Conflit :** 
 >   - Archers : `1` (Arcs) + `1` (Avantage de la position) 
 >   - Héros : `1` (Montés) + `1` (Ruse de Jiridan : *"Ne tirez pas !"*)
-> * **Résultat 2 vs 2 :** Victoire des héros à `+2`.
+> * **Résultat 2 vs 2 :** Victoire des héros.
 
 **Jiridan** comprit immédiatement l'avantage tactique qu'Ikarnos venait de lui offrir. Il s'écria en langue Orlanthi : "Ne tirez pas ! Libérez-moi, je suis leur prisonnier !" Cela fit hésiter les archers, qui interrompirent aussitôt leurs tirs.
 

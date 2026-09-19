@@ -77,7 +77,7 @@ Je dois lâcher le lapin, prendre ma hache et me relever, le Nain est déjà sur
 > - Conflit:
 >   - Hache de Guerre, Coup Tranchant, Masque de la Terreur
 >   - Marteau, Armure
-> - Résultat 3 vs 2: victoire +2
+> - Résultat 3 vs 2: victoire
 
 Le Nain n'a pas de tactique particulière heureusement et se contente de me réattaquer comme la 1ere fois mais cette fois je suis prête et j'invoque le masque de terreur de la Déesse pour l'impressionner en faisant tournoyer ma hâche qui le blesse méchamment. Il s'écroule à genoux. *
 
@@ -158,7 +158,7 @@ Ikarnos utilise toutes ses capacités de discrétion pour se fondre dans la mass
 > - Conflit:
 >   - se fondre dans la masse, discrétion, repérage, tous endormis
 >   - quasi-nu, lieu inconnu, nombreux
-> - Résultat 4 vs 3: victoire +2
+> - Résultat 4 vs 3: victoire
 
 Ikarnos se faufile dans le hall. Par chance, tout le monde a l'air endormi. Il a même réussi à récupérer une couverture de berger à l'entrée et dans la pénombre on le prendrait aisément pour un des nombreux hommes venus assister au défi de l'après-midi. Il faut maintenant retrouver l'homme qui lui a volé le médaillon. Si son intuition est bonne, celui-ci doit l'avoir à son cou. 
 
@@ -166,7 +166,7 @@ Ikarnos se faufile dans le hall. Par chance, tout le monde a l'air endormi. Il a
 > - Conflit:
 >   - ombre impériale, observation
 >   - retrouver l'homme parmi la multitude
-> - Résultat 2 vs 1: victoire +2
+> - Résultat 2 vs 1: victoire
 
 Ikarnos met un peu de temps pour retrouver l'homme. Le hall est grand et il doit adapter ses mouvements pour apparaître le plus naturel possible au cas où l'un des hommes verrait sa silhouette. Et soudain il l'aperçoit et l'entend car ce dernier ronfle ivre de sa victoire. Le médaillon brille à son cou et par chance, l'homme a même la dague d'Ikarnos avec lui. Ikarnos s'en saisit tenté de la plonger dans le cœur de l'homme et laisser le poison le tuer. Il approche sa dague de l'homme et coupe la lanière du médaillon qu'il récupère. En le tenant dans sa main et en pensant au Masque de la Déesse, sa vue s'accroît et il voit à travers les ombres. Les hommes allongés apparaissent clairement maintenant. Il frémit. Quelle folie! Ils sont peut-être une cinquantaine. Il est temps de fuir. Ses jambes flageolent un peu mais le courage revient. Il n'a pas le choix de toute façon. Il attrape une tunique et des sandales qui trainent pour pouvoir s'habiller puis s'engouffre par une des sorties. 
 

@@ -4,7 +4,11 @@ title: "The Lunar Way"
 
 # E PLVRIBVS VNVM. We Are All One
 
+:::warning[Rules]
+
 A Gloranthan solo exploration story first using HQ/G rules, then gradually incorporating tests of other rules that ultimately led to **Glorantha Perspectives**.
+
+:::
 
 ![The heroes](/img/narratives/the-lunar-way/heroes/heroes.jpg)
 

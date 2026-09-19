@@ -189,7 +189,7 @@ export default definePublications({
       outputName: 'glorantha-perspectives-guide',
       locales: {
         fr: {
-          title: 'Guide de jeu',
+          title: 'Guide du jeu',
           tocTitle: 'Sommaire',
           toc: tocWithStructure(guideStructure('fr')),
           cover: {
@@ -230,6 +230,7 @@ export default definePublications({
       outputName: 'glorantha-perspectives-quick-reference',
       locales: {
         fr: {
+          releaseTitle: 'Memento',
           title: 'Glorantha Perspectives',
           tocTitle: 'Sommaire',
           toc: tocWithStructure(mementoStructure('fr')),
@@ -242,6 +243,7 @@ export default definePublications({
           outputs: ['pdf'],
         },
         en: {
+          releaseTitle: 'Quick Reference',
           title: 'Glorantha Perspectives',
           tocTitle: 'Contents',
           toc: tocWithStructure(mementoStructure('en')),

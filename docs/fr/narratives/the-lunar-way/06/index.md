@@ -91,7 +91,7 @@ Ikarnos hésite, la requête des Nains est lourde de conséquences économiques 
 > - Conflit:
 >   - Trouver le chemin de la solution + vénalité des Nains 
 >   - Position de force 
-> -  Résultat 2 vs 1: victoire +2
+> -  Résultat 2 vs 1: victoire
 
 Les nains acceptent le passage en échange de l'or. L'objectif est atteint mais avec une perte d'or.
 

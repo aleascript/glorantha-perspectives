@@ -40,7 +40,7 @@ She leans against a tree and her eyes roll back.
 > - Conflict: 
 >   - Peek, Spirit of the beast
 >   - "Bear"
-> - Result 2 vs 1: Victory +2
+> - Result 2 vs 1: Victory
 
 ![Odayla](/img/narratives/the-lunar-way/09/odayla-vision.jpg)
 
@@ -191,7 +191,7 @@ Peek does not notice that one of Hanya's incisors has strangely lengthened while
 > - Conflict: 
 >   - Observer, Sense a secret
 >   - Hanya is too disturbed to oppose anything
-> - Result 3 vs 1: Victory +2
+> - Result 3 vs 1: Victory
 
 Ikarnos discreetly notices Hanya's incisor but says nothing. The situation is more serious than it appears. Knowing Peek's aversion to Chaos, he decides to organize the group as best he can by separating them. He notices the tooth is only visible when she eats but Chaos is gaining on her. He finds a way to isolate himself and asks Jaridan about Hanya's child, whether among the Orlanthis there is a way to heal traces of Chaos. The latter reflects.
 

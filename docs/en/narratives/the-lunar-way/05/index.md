@@ -62,7 +62,7 @@ The group realizes that the chaotic layout of the city is not only due to the ec
 >   - Dying Moon: weakened lunar power
 >   - Rocks (1), increasingly intense (1) 
 >   - Each hero uses an asset (Mastery, Movement, or Antelope) and benefits from a lull (1).
-> Results of the 2 vs 2: Success +2 
+> Results of the 2 vs 2: Success
 
 Taking advantage of a brief lull, Ikarnos keeps his composure, Hanya and Jaridan slip through with agility, and Peek launches her antelope through the debris. After a frantic 200-meter run, they reach an elevated district. Stupefied, they watch the stones continue to crash exactly where they just left. Without trying to understand this marvel, Ikarnos orders to move away as quickly as possible to find the pass.
 
@@ -148,7 +148,7 @@ Suddenly, Peek grips her lance. "Die, Witch!!!"
 > - Conflict: 
 >   - Lance, surprise, kill the enemy 
 >   - Clairvoyant
-> - Result 3 vs 1: Victory +2
+> - Result 3 vs 1: Feat
 
 The lance pierces Elemenoria's heart, who tries to whisper a final curse.
 
@@ -201,7 +201,7 @@ Then she falls into silence. Ikarnos, Hanya, and Jaridan begin to deliberate. Su
 > - Conflict:
 >   - Very good archer (2), surprise (1) 
 >   - Armor (1).
-> - Result 3 vs 1: Victory +2 (The wish effect activates).
+> - Result 3 vs 1: Feat.
 
 The shot is perfect but something strange happens, at the last moment Hanya moves almost imperceptibly and the arrow grazes her and continues on its way. A groan is heard further on and the three heads turn toward Peek then toward the trees that line the mountain foothills. The trees begin to move. And suddenly a monstrous head appears: a gazzam!
 

@@ -91,7 +91,7 @@ Ikarnos hesitates, the Dwarves' request carries heavy economic and strategic con
 > - Conflict:
 >   - Find the path to the solution + the Dwarves' venality 
 >   - Position of strength 
-> - Result 2 vs 1: victory +2
+> - Result 2 vs 1: victory
 
 The dwarves accept passage in exchange for gold. The objective is achieved but with a loss of gold.
 

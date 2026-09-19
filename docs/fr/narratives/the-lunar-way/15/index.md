@@ -127,7 +127,7 @@ Jaridan comprend le projet de Peek et se saisit de son baton d'un air menaçant:
 > - Conflit:
 >   - crier d'une voix claire, le menacer, faire appel à son intelligence
 >   - il tient sa proie, vif, sauvage
-> - Résultat 3 vs 3: victoire +2
+> - Résultat 3 vs 3: victoire
 
 L'alynx semble hésiter et joue encore quelques instants avec le petit être mais finalement, il bondit d'un coup sans élan pour se percher sur une branche d'un arbre proche et quelques instants plus tard, il disparaît dans les feuillages de la forêt.
 
