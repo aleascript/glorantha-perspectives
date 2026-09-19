@@ -40,8 +40,8 @@ Après que les deux tirages ont été lus normalement selon leurs Visions du mon
 
 Il peut **jouer le `1`** comme le ferait un mystique dans sa lecture ordinaire :
 
-- le `1` fait disparaître un `6` du tirage opposé ;
-- les deux dés disparaissent ensemble ;
+- le `1` fait disparaître avec lui **un dé de plus forte valeur du tirage opposé** ;
+- si plusieurs `1` sont joués, appliquez-les successivement au dé de plus forte valeur encore présent ;
 - relisez les tirages modifiés pour établir leur réponse finale ;
 - le personnage devient alors **Illuminé**.
 
@@ -53,7 +53,9 @@ Ce qui vient de changer n'est pas seulement le résultat de l'opposition. Le Pro
 
 Le personnage conserve sa Vision du monde et continue à lire ses tirages selon ses règles habituelles.
 
-Mais il garde désormais définitivement la possibilité suivante : **après la lecture normale des deux tirages, chacun de ses `1` peut faire disparaître un `6` adverse, les deux dés disparaissant ensemble au moment de la comparaison.**
+Mais il garde désormais définitivement la possibilité suivante : **après la lecture normale des deux tirages, chacun de ses `1` fait disparaître avec lui un dé de plus forte valeur adverse.** S'il joue plusieurs `1`, appliquez-les successivement au dé de plus forte valeur encore présent. Relisez ensuite les tirages modifiés pour établir leur réponse finale.
+
+Cette ouverture correspond au **Mysticisme ordinaire**. Elle ne donne pas accès aux accomplissements héroïques du Mysticisme, comme le **Centre immobile** ou les degrés du **Miroir vide**.
 
 L'Illumination n'efface donc pas le Théisme, l'Animisme ou la Logique.
 
