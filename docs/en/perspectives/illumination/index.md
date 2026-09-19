@@ -38,10 +38,11 @@ When that possibility is real, the roll may become the place where the shift occ
 
 After both rolls have been read normally according to their Worldviews, a character facing a genuine possibility of Illumination may look at one of their `1`s and understand that it is not merely a weak or useless result.
 
-They may **play the `1`** as a mystic would:
+They may **play the `1`** as a mystic would in ordinary reading:
 
 - the `1` removes one `6` from the opposing roll;
-- both dice disappear together at comparison;
+- both dice disappear together;
+- read the changed rolls again to establish their final answer;
 - the character then becomes **Illuminated**.
 
 The gesture is irreversible.
@@ -52,7 +53,9 @@ What has changed is not merely the outcome of the opposition. The Protagonist ha
 
 The character keeps their Worldview and continues to read their rolls according to its usual rules.
 
-But they permanently retain the following possibility: **after both rolls have been read normally, each of their `1`s may remove an opposing `6`, with both dice disappearing together at comparison.**
+But they permanently retain the following possibility: **after both rolls have been read normally, each of their `1`s may remove an opposing `6`, with both dice disappearing together.** Then read the changed rolls again to establish their final answer.
+
+This opening corresponds to the **ordinary** reading of Mysticism. It does not grant access to heroic mystical fulfillments such as the **Still Center** or the **Empty Mirror**.
 
 Illumination therefore does not erase Theism, Animism, or Logic.
 
