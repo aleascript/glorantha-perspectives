@@ -66,7 +66,13 @@ A contribution is not a new kind of Bet. It exists only to preserve the unity of
 
 Two contributions therefore do not merge automatically merely because they share the same Worldview. Such pooling could produce effects specific to that Worldview—transmitted divine support, Spiritual Pacts between participants, increased logical efficiency, collective draconic patterns—and therefore belongs to a possible cooperation rule, not to the general procedure for hybrid sides.
 
-Worldviews that explicitly act on the opposing roll still interact with it according to their own rule.
+Worldviews and Influences that explicitly act on another roll intervene **after each roll has first been read in its own way**. Apply those effects, then read every changed roll again to establish its final answer from reality.
+
+A reroll or other transformation already performed is not retroactively undone. This does not mean its fictional effect necessarily occurred: the character may have experienced its presence through their Worldview and then seen it dissolve when Perspectives met. But a die that has been removed, a pair that has been broken, a changed total, or a pattern that no longer exists no longer contributes to the final answer.
+
+If several actors want to affect the same die in a distant roll, resolve those effects in the order the table brings them into play. Once a die has been removed or transformed, it is no longer available in its former form.
+
+Worldviews that explicitly act on the opposing roll therefore continue to interact with it according to their own rule.
 
 For example, one side contains a theist and an animist. The theist's contribution rolls:
 
