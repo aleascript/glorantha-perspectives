@@ -81,6 +81,27 @@ Une modification sans changement de version est donc visible sur le site, mais
 ne crée pas de nouvelle release GitHub. Il faut mettre à jour la version de la
 publication concernée pour en conserver un nouveau snapshot.
 
+## Convertir ses PDF en Markdown pour une IA
+
+`tools/pdf-to-markdown.py` convertit tous les PDF d'un répertoire (non récursif)
+en Markdown du même nom, prêts à être déposés dans un projet IA. Titres,
+tableaux et colonnes sont conservés, les images ignorées, et chaque page est
+précédée d'un repère `<!-- page N -->`.
+
+```bash
+python3 -m venv ~/.venvs/pdf2md                 # une seule fois
+~/.venvs/pdf2md/bin/pip install pymupdf4llm
+
+~/.venvs/pdf2md/bin/python tools/pdf-to-markdown.py ~/glorantha/pdf     # .md à côté des PDF
+~/.venvs/pdf2md/bin/python tools/pdf-to-markdown.py ~/glorantha/pdf --out ~/glorantha/md
+```
+
+Les Markdown déjà à jour sont sautés (`--force` pour tout refaire). Les PDF
+scannés sans couche texte sont signalés et non convertis.
+
+Usage personnel uniquement, sur des PDF que vous possédez : ni les PDF ni les
+Markdown produits n'ont leur place dans ce dépôt.
+
 ## Structure éditoriale
 
 ```text
