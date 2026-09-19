@@ -47,13 +47,15 @@ Davantage de matière, de connaissance ou de préparation est nécessaire pour p
 
 ### La Convergence vers la Loi — Vision héroïque
 
-Le diviseur diminue progressivement :
+Le diviseur peut devenir :
 
 `4 → 3 → 2 → 1`
 
+Le degré dépend de l'échelle du Logicien. Il est fixé par la fiction avant le tirage et demeure stable tant que cette échelle ne change pas ; le joueur ne choisit pas le diviseur après avoir vu les dés.
+
 Plus le Logicien approche de la Loi, moins il perd d'information en transformant le réel observé en action efficace.
 
-À l'extrême, diviser par `1` signifie qu'il ne subsiste pratiquement plus aucun écart entre **mesurer**, **comprendre** et **agir**.
+À l'extrême, une puissance telle que Zzabur peut être représentée par un diviseur très bas. Diviser par `1` signifie qu'il ne subsiste pratiquement plus aucun écart entre **mesurer**, **comprendre** et **agir**.
 
 ## Où porter le regard
 
