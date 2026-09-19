@@ -35,6 +35,7 @@ const sidebars: SidebarsConfig = {
       label: t('Le Temps', 'Time'),
       link: {type: 'doc', id: 'time/index'},
       items: [
+        'time/conduct/index',
         {
           type: 'category',
           label: 'Situations',

@@ -8,6 +8,18 @@ Glorantha Perspectives repose beaucoup sur le jugement partagé : ce qui est vra
 
 Avant de commencer, quelques accords simples évitent les malentendus.
 
+## Ce que le jeu demande aux joueurs
+
+Glorantha Perspectives ne fonctionne que si les joueurs disent ce qui compte.
+
+Les Mises ne sont pas distribuées par le Temps : elles sont proposées, discutées et défendues par ceux qui portent les Protagonistes. Le Focus dépend de ce que la table décide de jouer. Et ce que les joueurs choisissent de regarder, de poursuivre ou d'abandonner déplace réellement la partie.
+
+C'est donc un jeu pour des tables qui veulent cette part-là. Si vous préférez qu'une histoire vous soit racontée et qu'on vous dise quand lancer les dés, Glorantha Perspectives vous demandera quelque chose que vous n'avez pas envie de donner, et la partie paraîtra vide — non parce que la table joue mal, mais parce que la place laissée aux joueurs reste inoccupée.
+
+Mieux vaut le savoir avant de commencer qu'au milieu de la troisième séance.
+
+Voir [Conduire le Temps](../time/conduct/index.md).
+
 ## Le Temps n'est pas l'adversaire
 
 La fonction du Temps est de faire vivre Glorantha autour des Protagonistes, pas de les faire perdre.
