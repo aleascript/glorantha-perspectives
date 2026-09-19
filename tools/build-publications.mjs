@@ -753,6 +753,19 @@ async function preparePublication(
   }
 
   if (wantsMd) {
+    // Instructions addressed to the AI reading the file: Markdown edition only,
+    // never the printed book.
+    const appendixPath = path.join(projectRoot, 'publication', 'ai', `${locale}.md`);
+    if (await pathExists(appendixPath)) {
+      llmChapters.push(
+        cleanChapter(await fs.readFile(appendixPath, 'utf8'), {
+          locale,
+          publicUrl: config.site.publicUrl,
+          headingShift: 1,
+        }),
+      );
+    }
+
     const header = llmHeader({
       locale,
       title: localeConfig.title,

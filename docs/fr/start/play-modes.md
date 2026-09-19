@@ -48,6 +48,22 @@ Ce ne sont pas des **modes officiels** qu'il faudrait apprendre avant de jouer. 
 
 Une organisation fonctionne tant que chacun sait **ce qu'il peut décider, ce qu'il ne décide pas et comment la table tranche lorsqu'elle n'est pas d'accord**.
 
+## Jouer avec une IA
+
+Parmi ces possibilités, l'une devient courante : une **IA** porte le Temps pendant qu'un joueur porte son Protagoniste. L'inverse existe aussi — une IA peut porter un ou plusieurs Protagonistes pendant qu'une personne porte le Temps.
+
+Le jeu est publié dans une édition **Markdown** prévue pour cet usage, disponible dans l'espace [**Publications**](https://aleascript.github.io/glorantha-perspectives/publications/). La manière la plus simple de s'en servir :
+
+1. téléchargez le fichier dans votre langue ;
+2. joignez-le à une conversation avec l'IA de votre choix ;
+3. puis parlez normalement.
+
+Il n'y a pas de formule à retenir. « J'aimerais faire une partie, tu veux bien être le Temps ? », « explique-moi les Mises », « pourquoi ce résultat donne-t-il un Statu quo ? » : demandez ce dont vous avez besoin. L'édition Markdown contient, après les règles, quelques dispositions adressées à l'IA elle-même : ce qu'elle peut vous proposer, comment porter le Temps ou un Protagoniste, et ce qu'elle ne doit pas décider à votre place.
+
+Deux points valent d'être gardés en tête. Une IA n'est pas une autorité sur les règles : lorsqu'elle hésite, improvise ou se contredit, **le guide tranche**. Et lui faire porter des Protagonistes reste **expérimental** : c'est jouable, mais bien moins éprouvé que la répartition habituelle.
+
+Enfin, une conversation n'a pas une mémoire infinie. En fin de séance, demandez-lui le Portrait vivant de votre Protagoniste et un résumé de ce qui reste ouvert : vous les joindrez à la conversation suivante pour reprendre où vous en étiez.
+
 ## Utiliser GP au milieu d'un autre jeu
 
 Glorantha Perspectives peut aussi être utilisé ponctuellement au cours d'une campagne jouée avec **RuneQuest** ou un autre système.

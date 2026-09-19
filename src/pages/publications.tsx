@@ -23,6 +23,8 @@ const copy = {
     unavailable: "Aucune publication générée n'est disponible dans ce build.",
     loading: 'Chargement des publications…',
     formatLabels: {pdf: 'PDF', md: 'Markdown (IA)'},
+    markdownNote:
+      "Le fichier Markdown contient le jeu entier. Joignez-le à une conversation avec l'IA de votre choix, puis demandez-lui ce dont vous avez besoin : expliquer une règle, porter le Temps ou porter un Protagoniste.",
   },
   en: {
     title: 'Publications',
@@ -33,6 +35,8 @@ const copy = {
     unavailable: 'No generated publication is available in this build.',
     loading: 'Loading publications…',
     formatLabels: {pdf: 'PDF', md: 'Markdown (AI)'},
+    markdownNote:
+      'The Markdown file contains the whole game. Attach it to a conversation with the AI of your choice, then ask for what you need: explaining a rule, carrying Time, or carrying a Protagonist.',
   },
 } as const;
 
@@ -111,6 +115,11 @@ export default function PublicationsPage(): React.ReactNode {
                   </a>
                 ))}
               </div>
+              {localizedPublication.formats.some(
+                (asset) => asset.format === 'md',
+              ) ? (
+                <p className="publication-format-note">{text.markdownNote}</p>
+              ) : null}
             </article>
           ))}
         </div>
