@@ -246,4 +246,4 @@ Cette page suffit pour jouer le Chaos dans Glorantha Perspectives.
 
 Pour comprendre pourquoi une innovation n'est pas nécessairement chaotique, comparer le Vampire au Brithini, le Mutateur au mystique, examiner les grandes divinités chaotiques ou explorer le paradoxe lunaire de l'Illumination, voir la page d'approfondissement :
 
-[**Comprendre le Chaos : cosmologie, transgressions et cas limites**](https://aleascript.github.io/glorantha-perspectives/fr/perspectives/chaos/cosmology/).
+[**Comprendre le Chaos : cosmologie, transgressions et cas limites**](https://aleascript.github.io/glorantha-perspectives/perspectives/chaos/cosmology/).
