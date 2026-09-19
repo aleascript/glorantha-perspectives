@@ -25,8 +25,10 @@ Chaque dé pair — `2`, `4`, `6` ou `8` — vaut une Réussite ordinaire.
 
 Cherchez ensuite les motifs complexes :
 
-- **Stase de l'Œuf** : plusieurs dés montrent la même valeur ;
+- **Stase de l'Œuf** : chaque valeur présente au moins deux fois forme **un seul motif**, qu'elle apparaisse deux, trois ou davantage de fois ; les valeurs paires comme impaires peuvent former une Stase ;
 - **Ouroboros** : le tirage contient à la fois un `1` et un `8`.
+
+Les motifs sont cumulatifs. Un même dé peut participer à des motifs de natures différentes : un `1` peut par exemple appartenir à une Stase de l'Œuf et contribuer en même temps à un Ouroboros.
 
 ![Dés draconiques](/img/rules/draconic-dice.png)
 
@@ -36,7 +38,9 @@ Pour chaque motif complexe, choisissez :
 
 Le motif devient une Réussite supplémentaire.
 
-Mais le dragonewt s'attache davantage au monde. Ajoutez ou transformez un **Lien** ou une **Attache négative** qui manifeste cette nouvelle fixation.
+Mais le dragonewt s'attache davantage au monde.
+
+Si au moins un motif est joué en Wyrm, la résolution peut manifester **une conséquence d'attachement** : transformer un Lien, faire apparaître une Attache négative ou montrer autrement comment le dragonewt se fixe davantage au monde. Cette conséquence est fictionnelle et globale ; elle n'est pas comptée motif par motif.
 
 Le dragonewt peut gagner ici et maintenant, mais ce choix pèse sur son évolution spirituelle.
 
@@ -47,6 +51,8 @@ Le motif ne donne aucune Réussite supplémentaire.
 Le dragonewt refuse de tordre la réalité pour obtenir une victoire matérielle. Ce renoncement préserve sa progression spirituelle et peut compter dans la manière dont sa prochaine incarnation sera comprise.
 
 L'Utuma n'est donc pas un échec imposé. C'est **refuser une victoire que l'on pouvait prendre**.
+
+Si un effet agissant sur le tirage brise ensuite un motif, la Réussite de Wyrm correspondante disparaît lors de la relecture finale. Ce qui paraissait offrir une prise matérielle peut alors se dissoudre et laisser le dragonewt dans l'Utuma pour ce motif.
 
 Lorsqu'un obstacle abstrait est lu avec les règles draconiques par effet de Miroir, il ne poursuit pas l'évolution spirituelle d'un dragonewt. Si un motif complexe apparaît dans son tirage, il utilise **Wyrm** : le motif compte comme Réussite sans qu'un choix d'Utuma ait de sens pour lui.
 
@@ -62,7 +68,7 @@ Il est capable de transcendance. Il choisit pourtant toujours l'attachement.
 
 ### L'Éveil du Dragon — Vision héroïque
 
-Le paradoxe entre action et détachement disparaît.
+Cette lecture héroïque n'est pas graduelle. Elle représente une **mue vers le vrai Dragon** : le paradoxe entre action et détachement disparaît.
 
 Chaque motif complexe produit à la fois :
 
@@ -113,6 +119,6 @@ Mais le résultat essentiel pour le dragonewt ne tient pas seulement dans ce nom
 >
 > La Stase de l'Œuf et l'Ouroboros rendent visible cette puissance potentielle. Wyrm et Utuma en font un choix.
 >
-> L'Emprise du Wyrm retire la possibilité du renoncement ; l'Éveil du Dragon résout finalement le paradoxe en permettant d'agir sans s'attacher.
+> L'Emprise du Wyrm retire la possibilité du renoncement ; l'Éveil du Dragon marque la mue qui résout finalement le paradoxe en permettant d'agir sans s'attacher.
 
 Pour les Logiciens, voir aussi le [grimoire Ars Draconis Magica](ars-draconis-magica/).

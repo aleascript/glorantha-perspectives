@@ -39,7 +39,9 @@ The God has not necessarily vanished. Perhaps the protagonist can no longer reco
 
 ### Walking the Myth — Heroic Worldview
 
-Every even die may now reroll an odd die.
+The simplest heroic reading allows **every even die to reroll an odd die**. The `6` keeps its ordinary privilege: if no odd die remains, only a `6` may bring a new die into the roll.
+
+Heroes or powers still closer to Myth may act at a higher scale: a `4`, or even a `2`, may then also bring in a new die when no odd die remains. This scale is fixed by the fiction before the roll and remains stable until the character's relationship to Myth changes.
 
 Divine support no longer appears only through the exceptional `6`.
 

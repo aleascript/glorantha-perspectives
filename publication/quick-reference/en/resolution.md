@@ -83,7 +83,7 @@ A **Bet** is an element of the fiction relevant to the current Focus.
 
 Before the roll, if the two sides do not have the same number of Bets, add the **difference** to the Gauge in dice of the colour of the currently disadvantaged side.
 
-The current resolution **does not change**.
+The current resolution **does not change**. The Gauge measures only asymmetry in Bets; it does not compensate for a Worldview's power or mode.
 
 Opposing colours in the Gauge cancel each other. Stored dice may be spent later when a difficulty coherent with the fiction appears, according to the authority agreed by the table.
 

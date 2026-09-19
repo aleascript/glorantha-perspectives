@@ -22,6 +22,7 @@ The animist therefore does not merely ask: "what can help me?" They ask: **"who 
 
 - Each **even** die counts as a Success: a spirit answers.
 - Two dice showing the **same odd value** form a **Spiritual Pact** and together produce one Success.
+- Form as many Pacts as possible; within one Animist's reading, each die may participate in only one Pact. Thus `3 · 3 · 3 · 3` forms two Pacts, while `3 · 3 · 3` forms only one.
 - A lone odd die has no effect: something was present, but no useful relationship could be established.
 
 A decisive outcome may turn a momentary relationship into a lasting one:
@@ -39,17 +40,23 @@ But matching odd dice can no longer form a Spiritual Pact.
 
 The problem is not the absence of the spirit world. It is the inability to establish a new relationship with it.
 
-### The Circle of Spirits — Heroic Worldview
+### The Shaman's Path — Heroic Worldview
+
+This Heroic reading corresponds to the **Shaman's Path**. It is not gradual: the change concerns the shaman's relationship to the spirit world, not a series of power degrees.
 
 The boundaries between the two sides of the resolution no longer limit Spiritual Pacts.
 
 When counting the Animist's Successes, an odd die from their roll may form a **Spiritual Pact** with a die showing the same odd value in the opposing roll.
 
-Form as many Pacts as possible. For this count, each die may participate in only one Pact. Dice from the opposing roll that are recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
+Form as many Pacts as possible. For this Animist's reading, each die may participate in only one Pact. Dice from the opposing roll that are recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
+
+This restriction is not global. If several Animists take part in the same resolution, each may independently recognize the same presence in the opposing roll and form their own Pact with it.
 
 Spirits are no longer neatly divided between "mine" and "theirs." A presence revealed by the opposition may answer a presence in the Animist's own roll.
 
-**The circle now crosses both sides of the action.**
+**The Circle of Spirits now crosses both sides of the action.**
+
+The Shaman's Path is not limited to this way of reading the roll. Depending on culture, Tradition, and teaching, a shaman may gain [**shamanic aptitudes**](aptitudes)—spirit travel, second sight, possession, exorcism, or others—that make actions possible which other Animists simply cannot perform. These aptitudes are not additional degrees of the Heroic Worldview.
 
 ## Where to look
 
@@ -75,7 +82,7 @@ In the fiction, this does not necessarily mean that three spirits appear before 
 
 She has not merely found a route. She understands which presences of the place have momentarily come into accord with her.
 
-Now, in the **Circle of Spirits**, imagine that the Animist rolls:
+Now, on the **Shaman's Path**, within the Circle of Spirits, imagine that the Animist rolls:
 
 `2 · 5 · 1 · 1`
 
@@ -93,7 +100,7 @@ The Animist therefore obtains three Successes. The spirit world did not stop at 
 >
 > The Spiritual Pact makes a Success emerge from the **relationship between two presences** rather than from an isolated face.
 >
-> The Circle of Spirits carries this logic to fulfillment without introducing a second language of reading: the same relationship simply becomes able to cross the opposition. At this degree of Worldview, the Animist no longer assumes that spirits naturally belong to one side. They recognize the accords that exist across the whole scene.
+> The Shaman's Path carries this logic to fulfillment without introducing a second language of reading: within the Circle of Spirits, the same relationship simply becomes able to cross the opposition. The shaman no longer assumes that spirits naturally belong to one side. They recognize the accords that exist across the whole scene.
 
 [And why not a spirit bag?](spirit-bag)
 

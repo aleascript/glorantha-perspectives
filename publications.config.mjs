@@ -72,7 +72,10 @@ function guideDocumentTree(locale) {
           path: 'perspectives/worldviews/index.md',
           children: [
             'perspectives/theism/index.md',
-            'perspectives/animism/index.md',
+            {
+              path: 'perspectives/animism/index.md',
+              children: ['perspectives/animism/aptitudes/index.md'],
+            },
             'perspectives/logic/index.md',
             'perspectives/mysticism/index.md',
             'perspectives/draconic/index.md',

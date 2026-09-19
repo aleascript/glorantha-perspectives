@@ -22,6 +22,7 @@ L'animiste ne demande donc pas seulement : « qu'est-ce qui peut m'aider ? » Il
 
 - Chaque dé **pair** compte comme une Réussite : un esprit répond.
 - Deux dés montrant le **même nombre impair** forment un **Pacte spirituel** et produisent ensemble une Réussite.
+- Formez autant de Pactes que possible ; dans la lecture d'un même Animiste, chaque dé ne peut participer qu'à un seul Pacte. Ainsi, `3 · 3 · 3 · 3` forme deux Pactes, tandis que `3 · 3 · 3` n'en forme qu'un.
 - Un impair solitaire reste sans effet : quelque chose était présent, mais aucune relation utile n'a pu être établie.
 
 Un résultat décisif peut transformer une relation momentanée en relation durable :
@@ -39,17 +40,23 @@ Mais les doubles impairs ne peuvent plus former de Pacte spirituel.
 
 Le problème n'est pas l'absence du monde des esprits. C'est l'impossibilité d'établir avec lui une relation nouvelle.
 
-### Le Cercle des Esprits — Vision héroïque
+### La Voie du Chaman — Vision héroïque
+
+Cette lecture héroïque correspond à la **Voie du Chaman**. Elle n'est pas graduelle : le changement porte sur la relation du chaman au monde des esprits, pas sur une série de degrés de puissance.
 
 Les frontières entre les deux côtés de la résolution ne limitent plus les Pactes spirituels.
 
 Pour compter les Réussites de l'Animiste, un dé impair de son tirage peut former un **Pacte spirituel** avec un dé montrant le même nombre impair dans le tirage opposé.
 
-Formez autant de Pactes que possible. Pour ce décompte, chaque dé ne peut participer qu'à un seul Pacte. Les dés du tirage opposé ainsi reconnus restent cependant disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
+Formez autant de Pactes que possible. Pour la lecture de cet Animiste, chaque dé ne peut participer qu'à un seul Pacte. Les dés du tirage opposé ainsi reconnus restent cependant disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
+
+Cette restriction n'est pas globale. Si plusieurs Animistes participent à la même résolution, chacun peut reconnaître indépendamment la même présence du tirage opposé et former son propre Pacte avec elle.
 
 Les esprits ne se répartissent plus proprement entre « les miens » et « les siens ». Une présence révélée par l'opposition peut répondre à une présence du propre tirage de l'Animiste.
 
-**Le cercle traverse désormais les deux côtés de l'action.**
+**Le Cercle des Esprits traverse désormais les deux côtés de l'action.**
+
+La Voie du Chaman ne se réduit toutefois pas à cette lecture du tirage. Selon sa culture, sa Tradition et ses enseignements, un chaman peut accéder à des [**aptitudes chamaniques**](aptitudes) — voyage spirituel, seconde vue, possession, exorcisme ou autres — qui rendent possibles des actions inaccessibles aux autres Animistes. Ces aptitudes ne constituent pas des degrés supplémentaires de la Vision héroïque.
 
 ## Où porter le regard
 
@@ -75,7 +82,7 @@ Dans la fiction, cela ne signifie pas nécessairement que trois esprits apparais
 
 Elle ne découvre pas seulement une route. Elle comprend avec quelles présences du lieu elle vient momentanément de s'accorder.
 
-En **Cercle des Esprits**, imaginons maintenant que l'Animiste obtienne :
+Sur la **Voie du Chaman**, dans le Cercle des Esprits, imaginons maintenant que l'Animiste obtienne :
 
 `2 · 5 · 1 · 1`
 
@@ -93,7 +100,7 @@ L'Animiste obtient donc trois Réussites. Le monde spirituel ne s'est pas arrêt
 >
 > Le Pacte spirituel fait émerger une Réussite de la **relation entre deux présences** plutôt que d'une face isolée.
 >
-> Le Cercle des Esprits porte cette logique à son accomplissement sans introduire un second langage de lecture : la même relation devient simplement capable de traverser l'opposition. À ce degré de Vision, l'Animiste ne suppose plus que les esprits appartiennent naturellement à un camp. Il reconnaît les accords qui existent dans l'ensemble de la scène.
+> La Voie du Chaman porte cette logique à son accomplissement sans introduire un second langage de lecture : dans le Cercle des Esprits, la même relation devient simplement capable de traverser l'opposition. Le chaman ne suppose plus que les esprits appartiennent naturellement à un camp. Il reconnaît les accords qui existent dans l'ensemble de la scène.
 
 [Et pourquoi pas un spirit bag ?](spirit-bag)
 

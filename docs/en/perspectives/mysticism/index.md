@@ -21,10 +21,12 @@ They act, but seek not to become attached to the action. They distinguish forms 
 In adversity, the mystic does not merely ask which force will prevail. They look for what, within the opposition itself, can disappear.
 
 - Each **even** die counts as a Success.
-- Each **1** may remove a **6 from the opposing roll**. The `1` and the `6` disappear together.
-- Opposing `6`s are considered only after their own roll has been fully resolved, including rerolls and other effects.
+- Each **1** disappears together with **one highest-value die in the opposing roll**.
+- If several `1`s act, apply them one after another: each annihilates one highest-value die still present.
+- Consider the opposing roll only after it has been fully resolved, including rerolls and other effects.
+- After those dice disappear, read the changed rolls again to establish their final Success totals. A reroll already performed remains in the roll, but a vanished die no longer counts and may break a pair, change a total, or undo a pattern.
 
-This disappearance does not deny what the other side experienced. A theist genuinely received the support of their God; an animist genuinely encountered spirits. Mystical insight only reveals that, when the two realities must be compared, some manifestations can be transcended.
+This disappearance does not deny what the other side experienced through their Worldview. A Theist may have felt the support of their God; an Animist may have recognized a spiritual presence. Mystical insight only reveals that, when the two Perspectives meet, some manifestations can dissolve.
 
 An apparent failure can therefore become decisive: the `1` produces no Success by itself, but it can dissolve what seemed to be the opponent's greatest strength.
 
@@ -34,13 +36,13 @@ An apparent failure can therefore become decisive: the `1` produces no Success b
 
 The mystic can still perceive that oppositions may be transcended, but remains caught within their separation.
 
-It now takes **two `1`s to remove a single opposing `6`**.
+It now takes **two `1`s to disappear together with a single highest-value opposing die**.
 
 Unity is glimpsed, but the mystic must still struggle through duality to reach it.
 
 ### Erasure of the Self — Heroic Worldview
 
-When the mystic truly ceases to place themselves against the world, two fulfillments become possible.
+When the mystic truly ceases to place themselves against the world, several fulfillments become possible. Like other gradual heroic readings, their reach depends on the scale established by the fiction before the roll.
 
 #### The Still Center
 
@@ -58,9 +60,14 @@ What comes to them entirely determines the shape of the trial.
 
 The mystic may instead place Bets normally.
 
-After the rolls have been resolved, each of their `1`s may take **any die from the opposing roll**. The opposing die disappears and the `1` takes its value.
+The Empty Mirror is **gradual**:
 
-The mystic no longer opposes one form to another: for an instant, they become what faces them.
+- at a first heroic scale, each `1` may annihilate **any die in the opposing roll**, instead of being limited to the highest-value die; both dice disappear together;
+- at a higher scale, each `1` may take **any die from the opposing roll**: the opposing die disappears and the `1` takes its value.
+
+Then read the transformed rolls again; the new value is treated normally in the roll that receives it.
+
+The mystic no longer opposes one form to another: at the highest scale of the Empty Mirror, for an instant, they become what faces them.
 
 A `1` may therefore become a high even to strengthen the mystic's own result, or take a high odd whose disappearance is enough to disrupt a Logician's construction.
 

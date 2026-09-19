@@ -21,10 +21,12 @@ Il agit, mais cherche à ne pas s'attacher à son action. Il distingue les forme
 Dans l'adversité, le mystique ne cherche pas seulement à savoir quelle force l'emportera. Il regarde ce qui, dans l'opposition elle-même, peut disparaître.
 
 - Chaque dé **pair** compte comme une Réussite.
-- Chaque **1** peut faire disparaître un **6 du tirage opposé**. Le `1` et le `6` disparaissent ensemble.
-- Les `6` adverses ne sont considérés qu'une fois leur propre tirage entièrement résolu, relances et autres effets compris.
+- Chaque **1** fait disparaître avec lui **un dé de plus forte valeur du tirage opposé**.
+- Si plusieurs `1` agissent, appliquez-les successivement : chacun annihile un dé de plus forte valeur encore présent.
+- Le tirage opposé n'est considéré qu'une fois entièrement résolu, relances et autres effets compris.
+- Après ces disparitions, relisez les tirages modifiés pour établir leur nombre final de Réussites. Une relance déjà effectuée reste dans le tirage, mais un dé disparu ne compte plus et peut briser une paire, modifier une somme ou défaire un motif.
 
-Cette disparition n'annule pas ce que l'autre a vécu. Un théiste a réellement reçu le soutien de son Dieu ; un animiste a réellement rencontré ses esprits. Le regard mystique révèle seulement qu'au moment où les deux réalités doivent être comparées, certaines manifestations peuvent être dépassées.
+Cette disparition n'annule pas ce que l'autre a vécu selon sa Vision. Un Théiste a pu sentir le soutien de son Dieu ; un Animiste reconnaître une présence spirituelle. Le regard mystique révèle seulement qu'au moment où les deux Perspectives se rencontrent, certaines manifestations peuvent se dissoudre.
 
 Un échec apparent peut ainsi devenir décisif : le `1` ne produit aucune Réussite par lui-même, mais il peut dissoudre ce qui semblait être la plus grande force adverse.
 
@@ -34,13 +36,13 @@ Un échec apparent peut ainsi devenir décisif : le `1` ne produit aucune Réuss
 
 Le mystique perçoit encore que les oppositions peuvent être dépassées, mais il reste lui-même prisonnier de leur séparation.
 
-Il faut alors **deux `1` pour faire disparaître un seul `6` adverse**.
+Il faut alors **deux `1` pour faire disparaître ensemble un seul dé de plus forte valeur adverse**.
 
 L'unité est entrevue, mais le mystique doit encore lutter contre la dualité pour l'atteindre.
 
 ### L'Effacement du soi — Vision héroïque
 
-Lorsque le mystique cesse véritablement de se placer lui-même face au monde, deux accomplissements deviennent possibles.
+Lorsque le mystique cesse véritablement de se placer lui-même face au monde, plusieurs accomplissements deviennent possibles. Comme les autres lectures héroïques graduelles, leur portée dépend de l'échelle établie par la fiction avant le tirage.
 
 #### Le Centre immobile
 
@@ -58,9 +60,14 @@ Ce qui vient à lui détermine entièrement la forme de l'épreuve.
 
 Le mystique peut au contraire poser ses Mises normalement.
 
-Après la résolution des tirages, chacun de ses `1` peut prendre **n'importe quel dé du tirage opposé**. Le dé adverse disparaît et le `1` prend sa valeur.
+Le Miroir vide est **graduel** :
 
-Le mystique n'oppose plus une forme à une autre : il devient momentanément ce qui lui fait face.
+- à une première échelle héroïque, chacun de ses `1` peut annihiler **n'importe quel dé du tirage opposé**, au lieu d'être limité au dé de plus forte valeur ; les deux dés disparaissent ensemble ;
+- à une échelle supérieure, chacun de ses `1` peut prendre **n'importe quel dé du tirage opposé** : le dé adverse disparaît et le `1` prend sa valeur.
+
+Relisez ensuite les tirages ainsi transformés ; la nouvelle valeur est traitée normalement dans le tirage qui la reçoit.
+
+Le mystique n'oppose plus une forme à une autre : à l'échelle la plus haute du Miroir vide, il devient momentanément ce qui lui fait face.
 
 Un `1` peut ainsi devenir un pair élevé pour renforcer son propre résultat, mais aussi prendre un grand impair dont la disparition suffit à défaire la construction d'un Logicien.
 
