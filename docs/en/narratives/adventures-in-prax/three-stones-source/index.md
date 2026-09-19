@@ -4,6 +4,8 @@ title: The Three Stones Spring
 
 # The Three Stones Spring
 
+Alongside [**The Lunar Way**](../../the-lunar-way/), an adventure of [**Peek-ee-Peek**](../../the-lunar-way/heroes/peek-ee-peek/) in Prax.
+
 **Played on September 16, 2026.**
 
 Peek-ee-Peek reaches a spring in the Wastes where a Lunar work party is preparing a water station for the road to **Moonbroth**. Her brother Hirrak commands the Sable escort. At dawn, the porters are due to move one of the three sacred stones guarding the spring.

@@ -4,6 +4,8 @@ title: La Source des Trois Pierres
 
 # La Source des Trois Pierres
 
+En marge de [**La Voie Lunaire**](../../the-lunar-way/), une aventure de [**Peek-ee-Peek**](../../the-lunar-way/heroes/peek-ee-peek/) en Prax.
+
 **Jouée le 16 septembre 2026.**
 
 Peek-ee-Peek arrive à une source de la Désolation où une équipe lunaire prépare un relais d'eau pour la route de **Bouillon-de-Lune**. Son frère Hirrak commande l'escorte Sable. À l'aube, les porteurs doivent déplacer l'une des trois pierres sacrées qui gardent la source.

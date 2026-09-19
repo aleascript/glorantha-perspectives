@@ -4,10 +4,10 @@ title: Aventures en Prax
 
 # Aventures en Prax
 
-En marge de [**La Voie Lunaire**](../the-lunar-way/), les aventures de [**Peek-ee-Peek**](../the-lunar-way/heroes/peek-ee-peek/) en Prax.
+Des Situations jouées en Prax avec les règles actuelles de Glorantha Perspectives.
 
-Peek est le même Protagoniste que dans *La Voie Lunaire*, mais ces parties sont jouées avec les règles actuelles de Glorantha Perspectives et constituent une série autonome.
+Chaque récit suit un ou plusieurs Protagonistes, parfois venus d'autres chroniques. Les récits sont autonomes : il n'est pas nécessaire de connaître ces chroniques pour les lire.
 
 Lorsqu'un **Verbatim** suffit à faire récit, il est publié sous sa forme de jeu plutôt que réécrit systématiquement en prose. De même, chaque partie ne reçoit pas nécessairement un Debrief ou un nouveau Portrait : ces documents n'existent que lorsqu'ils apportent réellement quelque chose.
 
-- [**La Source des Trois Pierres**](three-stones-source/) — une source praxienne, un chantier lunaire et une nuit de pleine lune.
+- [**La Source des Trois Pierres**](three-stones-source/) — avec Peek-ee-Peek : une source praxienne, un chantier lunaire et une nuit de pleine lune.
