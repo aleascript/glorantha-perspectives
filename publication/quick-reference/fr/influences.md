@@ -49,7 +49,8 @@ L'Illumination doit d'abord être rendue réellement possible par la fiction : m
 Après lecture normale des deux tirages, le Protagoniste peut alors **jouer l'un de ses `1`** :
 
 - le `1` fait disparaître un `6` du tirage opposé ;
-- les deux dés disparaissent ensemble au moment de la comparaison ;
+- les deux dés disparaissent ensemble ;
+- relisez les tirages modifiés pour établir leur réponse finale ;
 - le Protagoniste devient **Illuminé**.
 
 Le basculement est irréversible.
@@ -58,7 +59,9 @@ Le basculement est irréversible.
 
 Le Protagoniste conserve sa Vision du monde et ses règles habituelles.
 
-Après lecture normale des deux tirages, **chacun de ses `1` peut faire disparaître un `6` adverse**, les deux dés disparaissant ensemble au moment de la comparaison.
+Après lecture normale des deux tirages, **chacun de ses `1` peut faire disparaître un `6` adverse**, les deux dés disparaissant ensemble. Relisez ensuite les tirages modifiés.
+
+L'Illumination conserve la Vision d'origine et ouvre seulement cet effet du **Mysticisme ordinaire** ; elle ne donne pas accès au **Centre immobile** ni au **Miroir vide**.
 
 ## Chaos
 
