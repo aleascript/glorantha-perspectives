@@ -244,7 +244,7 @@ Tal did not receive an abstract progression between two sessions. His Portrait p
 
 “Young Grey Sage” does not mean exactly the same thing after Jonstown. Play did not merely add a principle to Tal; it made him discover a social dimension of the vocation he had chosen. Traces preserve the event that produced this transformation, while the Chapter can now carry what that experience durably changed in the way he understands himself.
 
-Follow this evolution in [Talimar's Road](../../narratives/talimar-road/): [Session 0](../../narratives/talimar-road/session-0/) then [Session 1](../../narratives/talimar-road/session-1/).
+Follow this evolution in [Talimar's Road](../narratives/talimar-road/index.md): [Session 0](../narratives/talimar-road/session-0/index.md) then [Session 1](../narratives/talimar-road/session-1/index.md).
 
 ---
 
