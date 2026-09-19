@@ -22,6 +22,7 @@ const copy = {
     status: 'Statut',
     unavailable: "Aucune publication générée n'est disponible dans ce build.",
     loading: 'Chargement des publications…',
+    formatLabels: {pdf: 'PDF', md: 'Markdown (IA)'},
   },
   en: {
     title: 'Publications',
@@ -31,6 +32,7 @@ const copy = {
     status: 'Status',
     unavailable: 'No generated publication is available in this build.',
     loading: 'Loading publications…',
+    formatLabels: {pdf: 'PDF', md: 'Markdown (AI)'},
   },
 } as const;
 
@@ -44,6 +46,8 @@ export default function PublicationsPage(): React.ReactNode {
       ? configuredDeploymentBaseUrl
       : siteConfig.baseUrl;
   const downloadsBase = `${deploymentBaseUrl.replace(/\/?$/, '/')}downloads/`;
+  const formatLabel = (format: string) =>
+    (text.formatLabels as Record<string, string>)[format] ?? format.toUpperCase();
   const manifestUrl = `${downloadsBase}publications.json`;
   const [manifest, setManifest] = useState<PublicationManifest | null>(null);
   const [failed, setFailed] = useState(false);
@@ -103,7 +107,7 @@ export default function PublicationsPage(): React.ReactNode {
                     className="button button--primary button--sm"
                     href={`${downloadsBase}${asset.path}`}
                     key={asset.format}>
-                    {asset.format.toUpperCase()}
+                    {formatLabel(asset.format)}
                   </a>
                 ))}
               </div>
