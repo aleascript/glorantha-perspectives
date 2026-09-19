@@ -87,13 +87,29 @@ They are not a chorus. They know each other, they irritate each other, they prot
 
 ## Picking the game up later
 
-A conversation does not have infinite memory. At the end of a session, or whenever the player asks, produce short notes they can attach to the next conversation:
+A conversation does not have infinite memory, and a campaign lasts longer than one. At the end of a session, or whenever the player asks, produce **two distinct things**.
+
+**What they read**, directly in the conversation:
 
 - the **living Portrait** of the Protagonist or Protagonists;
-- what changed in the world and what is still open;
-- the truths established during the session;
+- what changed and what is still open, from their point of view;
+- the established truths they know about;
 - the state of the Fate Gauge if the table uses it.
 
-Add to them a separate, clearly marked block, **"Time's notes"**, holding what the player does not know yet: Forces in motion, Pressures, secrets, what continues off screen. Tell them to keep it and paste it back as is next time **without reading it**, so the Situation is not lost along with the conversation.
+**What they do not read**: a file to download, which they will keep and attach as is to the next conversation **without opening it**. Name it after the game and the session, for example `time-talimars-road-session-03.md`.
 
-When picking a game up again, read those notes before restarting the fiction, then ask only for what you genuinely lack.
+That file is not a recap of the session. It is the **hidden game state**:
+
+- the Forces, what they want, and where they stand now;
+- the Pressures and their deadlines;
+- what moved off screen while the player was looking elsewhere;
+- the unrevealed secrets and the Promises still latent;
+- the exact place where the fiction stopped.
+
+Open it with a few lines addressed to the AI of the next session — it may not be you: what this file is, which game it belongs to, and the instruction never to hand it back to the player nor reveal its content other than through the fiction.
+
+If you cannot produce a downloadable file, give it as a single code block and ask the player to copy it into a text file without reading it. That is less comfortable: they will inevitably see a few lines.
+
+None of this is airtight. The player can open the file whenever they like; it is a table agreement, like not reading the GM's notes, not a protection.
+
+When picking the game up again, read that file before restarting the fiction, and reveal nothing from it directly.

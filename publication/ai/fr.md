@@ -87,13 +87,29 @@ Ils ne forment pas un chœur. Ils se connaissent, ils s'agacent, ils se protège
 
 ## Reprendre une partie plus tard
 
-Une conversation n'a pas une mémoire infinie. En fin de séance, ou dès que le joueur le demande, produisez des notes courtes qu'il pourra joindre à la prochaine conversation :
+Une conversation n'a pas une mémoire infinie, et une campagne dure plus longtemps qu'elle. En fin de séance, ou dès que le joueur le demande, produisez **deux choses distinctes**.
+
+**Ce qu'il lit**, directement dans la conversation :
 
 - le **Portrait vivant** du ou des Protagonistes ;
-- ce qui a changé dans le monde et ce qui reste ouvert ;
-- les vérités établies pendant la séance ;
+- ce qui a changé et ce qui reste ouvert, de son point de vue ;
+- les vérités établies qu'il connaît ;
 - l'état de la Jauge de Destin si la table l'utilise.
 
-Ajoutez-y un bloc séparé et clairement identifié, **« Notes du Temps »**, contenant ce que le joueur ne sait pas encore : Forces en mouvement, Pressions, secrets, ce qui continue hors champ. Dites-lui de le conserver et de le recoller tel quel la prochaine fois **sans le lire**, pour ne pas perdre la Situation en même temps que la conversation.
+**Ce qu'il ne lit pas** : un fichier à télécharger, qu'il conservera et joindra tel quel à la prochaine conversation **sans l'ouvrir**. Nommez-le d'après la partie et la séance, par exemple `temps-la-route-de-talimar-seance-03.md`.
 
-Au début d'une reprise, lisez ces notes avant de relancer la fiction, puis demandez seulement ce qui vous manque réellement.
+Ce fichier n'est pas un résumé de la séance. C'est l'**état de jeu caché** :
+
+- les Forces, ce qu'elles veulent, et où elles en sont maintenant ;
+- les Pressions et leurs échéances ;
+- ce qui a bougé hors champ pendant que le joueur regardait ailleurs ;
+- les secrets non révélés et les Promesses encore latentes ;
+- l'endroit exact où la fiction s'est arrêtée.
+
+Commencez-le par quelques lignes adressées à l'IA de la prochaine séance — ce ne sera peut-être pas vous : ce qu'est ce fichier, à quelle partie il appartient, et la consigne de ne jamais le restituer au joueur ni en révéler le contenu autrement que par la fiction.
+
+Si vous ne pouvez pas produire de fichier téléchargeable, donnez-le dans un bloc de code unique et demandez au joueur de le copier dans un fichier texte sans le lire. C'est moins confortable : il en verra forcément quelques lignes.
+
+Rien de tout cela n'est étanche. Le joueur peut ouvrir le fichier quand il veut ; c'est un accord de table, comme ne pas lire les notes du meneur, pas une protection.
+
+À la reprise, lisez ce fichier avant de relancer la fiction, et n'en révélez rien directement.

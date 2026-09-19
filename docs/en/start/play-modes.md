@@ -62,7 +62,7 @@ There is no formula to memorise. "I'd like to play a game, would you carry Time?
 
 Two things are worth keeping in mind. An AI is not an authority on the rules: when it hesitates, improvises, or contradicts itself, **the guide decides**. And having it carry Protagonists remains **experimental**: it is playable, but far less tested than the usual arrangement.
 
-Finally, a conversation does not have infinite memory. At the end of a session, ask for your Protagonist's living Portrait and a summary of what is still open: attach them to the next conversation to pick up where you left off.
+Finally, a conversation does not have infinite memory. At the end of a session, ask for two things: on one side your Protagonist's living Portrait and a summary of what is still open, which you can read; on the other a file holding what Time keeps to itself, which you will keep **without opening it**. Attach both to the next conversation: you will pick up where you left off without losing anything and without spoiling anything.
 
 ## Using GP inside another game
 
