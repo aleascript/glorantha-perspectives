@@ -23,8 +23,9 @@ In adversity, the mystic does not merely ask which force will prevail. They look
 - Each **even** die counts as a Success.
 - Each **1** may remove a **6 from the opposing roll**. The `1` and the `6` disappear together.
 - Opposing `6`s are considered only after their own roll has been fully resolved, including rerolls and other effects.
+- After those dice disappear, read the changed rolls again to establish their final Success totals. A reroll already performed remains in the roll, but a vanished die no longer counts and may break a pair, change a total, or undo a pattern.
 
-This disappearance does not deny what the other side experienced. A theist genuinely received the support of their God; an animist genuinely encountered spirits. Mystical insight only reveals that, when the two realities must be compared, some manifestations can be transcended.
+This disappearance does not deny what the other side experienced through their Worldview. A Theist may have felt the support of their God; an Animist may have recognized a spiritual presence. Mystical insight only reveals that, when the two Perspectives meet, some manifestations can dissolve.
 
 An apparent failure can therefore become decisive: the `1` produces no Success by itself, but it can dissolve what seemed to be the opponent's greatest strength.
 
@@ -58,7 +59,7 @@ What comes to them entirely determines the shape of the trial.
 
 The mystic may instead place Bets normally.
 
-After the rolls have been resolved, each of their `1`s may take **any die from the opposing roll**. The opposing die disappears and the `1` takes its value.
+After the rolls have been resolved, each of their `1`s may take **any die from the opposing roll**. The opposing die disappears and the `1` takes its value. Then read the transformed rolls again; the new value is treated normally in the roll that receives it.
 
 The mystic no longer opposes one form to another: for an instant, they become what faces them.
 
