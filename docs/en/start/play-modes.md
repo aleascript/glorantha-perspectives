@@ -48,6 +48,22 @@ These are not **official modes** you need to learn before play. They are possibi
 
 An arrangement works as long as everyone knows **what they may decide, what they do not decide, and how the table settles disagreement**.
 
+## Playing with an AI
+
+Among these possibilities, one is becoming common: an **AI** carries Time while a player carries their Protagonist. The reverse exists too — an AI can carry one or several Protagonists while a person carries Time.
+
+The game is published in a **Markdown** edition meant for this use, available in the [**Publications**](https://aleascript.github.io/glorantha-perspectives/en/publications/) space. The simplest way to use it:
+
+1. download the file in your language;
+2. attach it to a conversation with the AI of your choice;
+3. then just talk.
+
+There is no formula to memorise. "I'd like to play a game, would you carry Time?", "explain Bets to me", "why is this result a Stalemate?": ask for what you need. After the rules, the Markdown edition carries a few provisions addressed to the AI itself: what it can offer you, how to carry Time or a Protagonist, and what it must not decide in your place.
+
+Two things are worth keeping in mind. An AI is not an authority on the rules: when it hesitates, improvises, or contradicts itself, **the guide decides**. And having it carry Protagonists remains **experimental**: it is playable, but far less tested than the usual arrangement.
+
+Finally, a conversation does not have infinite memory. At the end of a session, ask for your Protagonist's living Portrait and a summary of what is still open: attach them to the next conversation to pick up where you left off.
+
 ## Using GP inside another game
 
 Glorantha Perspectives can also be used occasionally during a campaign played with **RuneQuest** or another system.

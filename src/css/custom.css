@@ -90,3 +90,8 @@ html, body {background: var(--site-background); color: var(--site-text);}
 }
 .publication-card > h2 {margin-bottom: 0.35rem;}
 .publication-formats {display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;}
+.publication-format-note {
+  margin: 0.75rem 0 0;
+  font-size: 0.875rem;
+  color: var(--ifm-color-emphasis-700);
+}

@@ -48,6 +48,7 @@ function guideDocumentTree(locale) {
     {
       path: 'time/index.md',
       children: [
+        'time/conduct/index.md',
         {
           path: 'time/situations/index.md',
           children: ['time/situations/three-stones-source.md'],

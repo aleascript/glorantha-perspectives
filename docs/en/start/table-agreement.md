@@ -8,6 +8,18 @@ Glorantha Perspectives relies heavily on shared judgment: what is true or credib
 
 A few simple agreements before play prevent misunderstandings.
 
+## What the game asks of players
+
+Glorantha Perspectives only works if the players say what matters.
+
+Bets are not handed out by Time: they are proposed, discussed, and argued for by the people carrying the Protagonists. The Focus depends on what the table decides to play. And what players choose to look at, pursue, or abandon genuinely moves the game.
+
+So it is a game for tables that want that share of the work. If you would rather be told a story and be told when to roll, Glorantha Perspectives will ask you for something you do not want to give, and play will feel empty — not because the table is playing badly, but because the space left to the players stays empty.
+
+Better to know that before you begin than midway through the third session.
+
+See [Running Time](../time/conduct/index.md).
+
 ## Time is not the adversary
 
 The function of Time is to keep Glorantha alive around the Protagonists, not to make them lose.
