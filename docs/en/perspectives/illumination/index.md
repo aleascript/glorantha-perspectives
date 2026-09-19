@@ -40,8 +40,8 @@ After both rolls have been read normally according to their Worldviews, a charac
 
 They may **play the `1`** as a mystic would in ordinary reading:
 
-- the `1` removes one `6` from the opposing roll;
-- both dice disappear together;
+- the `1` disappears together with **one highest-value die in the opposing roll**;
+- if several `1`s are played, apply them successively to the highest-value die still present;
 - read the changed rolls again to establish their final answer;
 - the character then becomes **Illuminated**.
 
@@ -53,9 +53,9 @@ What has changed is not merely the outcome of the opposition. The Protagonist ha
 
 The character keeps their Worldview and continues to read their rolls according to its usual rules.
 
-But they permanently retain the following possibility: **after both rolls have been read normally, each of their `1`s may remove an opposing `6`, with both dice disappearing together.** Then read the changed rolls again to establish their final answer.
+But they permanently retain the following possibility: **after both rolls have been read normally, each of their `1`s disappears together with one highest-value opposing die.** If several `1`s are played, apply them successively to the highest-value die still present. Then read the changed rolls again to establish their final answer.
 
-This opening corresponds to the **ordinary** reading of Mysticism. It does not grant access to heroic mystical fulfillments such as the **Still Center** or the **Empty Mirror**.
+This opening corresponds to the **ordinary** reading of Mysticism. It does not grant access to heroic mystical fulfillments such as the **Still Center** or the degrees of the **Empty Mirror**.
 
 Illumination therefore does not erase Theism, Animism, or Logic.
 
