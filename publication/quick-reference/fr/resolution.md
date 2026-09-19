@@ -83,7 +83,7 @@ Une **Mise** est un élément de la fiction pertinent pour le Focus présent.
 
 Avant le tirage, si les deux côtés n'ont pas le même nombre de Mises, ajoutez à la Jauge la **différence** en dés de la couleur du côté actuellement désavantagé.
 
-La résolution en cours **ne change pas**.
+La résolution en cours **ne change pas**. La Jauge mesure seulement l'asymétrie des Mises ; elle ne compense pas la puissance d'une Vision ni son mode.
 
 Des dés de couleurs opposées dans la Jauge s'annulent. Les dés conservés peuvent être dépensés plus tard lorsqu'une difficulté cohérente avec la fiction se présente, selon l'autorité convenue par la table.
 
@@ -101,8 +101,10 @@ Lisez chaque tirage selon sa **Vision du monde**.
 
 Pour un obstacle sans Vision propre :
 
-- **Miroir** : utilisez la même lecture que le Protagoniste lorsque l'épreuve représente surtout son propre dépassement ;
+- **Miroir** : utilisez la même Vision que le Protagoniste lorsque l'épreuve représente surtout son propre dépassement ; par défaut l'obstacle utilise sa **lecture ordinaire**, même face à un Héros ;
 - **Monde médian** : chaque dé **pair** vaut une Réussite, chaque impair vaut zéro lorsque l'obstacle est matériel ou extérieur.
+
+Après la première lecture, appliquez les effets qui agissent sur un autre tirage, puis relisez tous les tirages modifiés. Si plusieurs effets visent le même dé distant, le premier manifesté à la table a priorité ; un dé déjà retiré ou transformé n'est plus disponible sous son ancienne forme.
 
 Le lieu ou la nature de l'obstacle peuvent imposer une autre lecture lorsque la fiction le justifie.
 
