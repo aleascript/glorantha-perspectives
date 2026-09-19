@@ -41,8 +41,6 @@ When the week is not already known, roll **1D8**.
 | 7 | ![](/img/runes/illusion.png) Illusion |
 | 8 | ![](/img/runes/truth.png) Truth |
 
-The same D8 can also provide a starting point for [Runic Inspiration](../time/runic-inspiration/index.md) when something remains open in the fiction.
-
 ## Season
 
 When the season is not already known, roll **2D20**. Read the first die unless you roll a double.

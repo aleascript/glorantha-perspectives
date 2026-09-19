@@ -41,8 +41,6 @@ Lorsque la semaine n'est pas déjà connue, lancez **1D8**.
 | 7 | ![](/img/runes/illusion.png) Illusion |
 | 8 | ![](/img/runes/truth.png) Vérité |
 
-Le même D8 peut aussi servir de point de départ à une [inspiration runique](../time/runic-inspiration/index.md) lorsque quelque chose reste ouvert dans la fiction.
-
 ## Saison
 
 Lorsque la saison n'est pas déjà connue, lancez **2D20**. Lisez le premier dé, sauf en cas de double.
