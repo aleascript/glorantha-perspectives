@@ -82,14 +82,14 @@ Fixez-le avant le tirage ; il reste stable tant que cette échelle ne change pas
 ### Ordinaire
 
 - Chaque dé **pair** vaut une Réussite.
-- Chaque `1` peut faire disparaître **un `6` du tirage opposé**.
-- Le `1` et le `6` disparaissent ensemble.
-- Les `6` adverses ne sont considérés qu'après résolution complète de leur propre tirage, relances et autres effets compris.
+- Chaque `1` fait disparaître avec lui **un dé de plus forte valeur du tirage opposé**.
+- Avec plusieurs `1`, appliquez-les successivement au dé de plus forte valeur encore présent.
+- Le tirage opposé est considéré après résolution complète, relances et autres effets compris.
 - Après disparition des dés, relisez tous les tirages modifiés pour obtenir leurs Réussites finales.
 
 ### Vision affaiblie — Le Voile de la Dualité
 
-Il faut **deux `1`** pour faire disparaître un seul `6` adverse.
+Il faut **deux `1`** pour faire disparaître ensemble un seul dé de plus forte valeur adverse.
 
 ### Vision héroïque — L'Effacement du soi
 
@@ -101,11 +101,11 @@ Choisissez l'une des deux expressions suivantes lorsque la fiction l'établit.
 - Chaque Mise de l'autre côté devient aussi **un dé du sien**.
 - Résolvez ensuite le tirage mystique normalement.
 
-#### Le Miroir vide
+#### Le Miroir vide — graduel
 
 - Le mystique pose ses Mises normalement.
-- Après résolution des tirages, chacun de ses `1` peut prendre **n'importe quel dé du tirage opposé**.
-- Le dé adverse disparaît et le `1` prend sa valeur.
+- Première échelle : chaque `1` peut annihiler **n'importe quel dé opposé** ; les deux disparaissent.
+- Échelle supérieure : chaque `1` peut prendre **n'importe quel dé opposé** ; le dé adverse disparaît et le `1` prend sa valeur.
 - Relisez les tirages transformés ; la nouvelle valeur est traitée normalement dans le tirage qui la reçoit.
 
 ## Pensée draconique
