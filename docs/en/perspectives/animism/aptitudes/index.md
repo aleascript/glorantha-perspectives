@@ -6,6 +6,8 @@ title: "Shamanic aptitudes"
 
 These aptitudes belong to the Spirit rune.
 
+They do not form a universal progression. Depending on culture, Tradition, and teaching, a shaman may have access to some of them and not others. Above all, they represent **spiritual actions unavailable to ordinary Animists**, not additional degrees of the Heroic Worldview.
+
 - **Spirit combat** (whether facing a disembodied spirit in the spirit or middle world, or attacking an adversary by targeting their spirit rather than physically)
 - **Spirit dance** (to escape a hostile spirit in the spirit world)
 - **Spirit knowledge** (you may specify a particular type of spirits, for example those of your Tradition or your Spirit Society)
