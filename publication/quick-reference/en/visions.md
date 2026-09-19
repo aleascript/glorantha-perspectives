@@ -82,14 +82,14 @@ Fix it before the roll; it remains stable until that scale changes.
 ### Ordinary
 
 - Each **even** die is one Success.
-- Each `1` may remove **one `6` from the opposing roll**.
-- The `1` and `6` disappear together.
-- Opposing `6`s are considered only after their own roll has been fully resolved, including rerolls and other effects.
+- Each `1` disappears together with **one highest-value die in the opposing roll**.
+- With several `1`s, apply them successively to the highest-value die still present.
+- Consider the opposing roll after it has been fully resolved, including rerolls and other effects.
 - After dice disappear, read every changed roll again to obtain its final Successes.
 
 ### Weakened Worldview — The Veil of Duality
 
-It takes **two `1`s** to remove a single opposing `6`.
+It takes **two `1`s** to disappear together with a single highest-value opposing die.
 
 ### Heroic Worldview — Erasure of the Self
 
@@ -101,11 +101,11 @@ Choose one of the following two expressions when the fiction establishes it.
 - Each Bet on the other side also becomes **one die on the mystic's side**.
 - Then resolve the mystical roll normally.
 
-#### The Empty Mirror
+#### The Empty Mirror — gradual
 
 - The mystic places Bets normally.
-- After the rolls have been resolved, each of their `1`s may take **any die from the opposing roll**.
-- The opposing die disappears and the `1` takes its value.
+- First scale: each `1` may annihilate **any opposing die**; both dice disappear.
+- Higher scale: each `1` may take **any opposing die**; the opposing die disappears and the `1` takes its value.
 - Read the transformed rolls again; the new value is treated normally in the roll that receives it.
 
 ## Draconic Thought
