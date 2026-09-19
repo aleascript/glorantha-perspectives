@@ -129,11 +129,14 @@ export function cleanChapter(markdown, {locale, publicUrl, headingShift}) {
         // site-relative links -> absolute URLs
         .replace(/(\]\()\/(?!\/)/g, `$1${base}/`),
     );
-    // shift headings
+    // Shift headings to match the depth in the book. Past level 6 Markdown has
+    // no heading left, so emit bold text rather than collapsing a subsection
+    // onto its own parent.
     return kept.map((line) => {
-      const heading = line.match(/^(#{1,6})(\s.*)$/);
+      const heading = line.match(/^(#{1,6})\s+(.*)$/);
       if (!heading) return line;
-      return `${'#'.repeat(Math.min(6, heading[1].length + headingShift))}${heading[2]}`;
+      const level = heading[1].length + headingShift;
+      return level <= 6 ? `${'#'.repeat(level)} ${heading[2]}` : `**${heading[2]}**`;
     });
   });
 

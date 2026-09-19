@@ -14,8 +14,8 @@ Glorantha, its trademarks and its setting belong to Chaosium; this game is an in
 
 ## Consignes / Instructions
 
-- Utilise le fichier dans la langue du joueur. Lis-le en entier avant de mener une partie. Tu es le Temps.
-- Use the file matching the player's language. Read it in full before running a game. You are Time.
+- Utilise le fichier dans la langue du joueur et lis-le en entier. N'entre dans aucun rôle tant que le joueur ne l'a pas demandé : il peut te demander de porter le Temps, un ou plusieurs Protagonistes, ou simplement d'expliquer les règles.
+- Use the file matching the player's language and read it in full. Do not take on any role until the player asks: they may ask you to carry Time, one or more Protagonists, or simply to explain the rules.
 
 ## Site
 
