@@ -49,13 +49,15 @@ Un résultat décisif peut transformer une relation momentanée en relation dura
 - Les pairs produisent leurs Réussites.
 - Les doubles impairs ne forment plus de Pacte spirituel.
 
-### Vision héroïque — Le Cercle des Esprits
+### Vision héroïque — La Voie du Chaman
 
-- Un dé impair de l'Animiste peut former un **Pacte spirituel** avec un dé montrant le même nombre impair dans le **tirage opposé**.
+- Cette lecture héroïque n'est **pas graduelle**.
+- Dans le **Cercle des Esprits**, un dé impair de l'Animiste peut former un **Pacte spirituel** avec un dé montrant le même nombre impair dans le **tirage opposé**.
 - Formez autant de Pactes que possible.
 - Pour ce décompte, chaque dé ne peut participer qu'à un seul Pacte.
 - Les dés opposés ainsi reconnus restent disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
 - Plusieurs Animistes peuvent chacun reconnaître le même dé opposé dans leur propre lecture.
+- Les aptitudes propres au chaman dépendent de sa culture, de sa Tradition et de ses enseignements ; elles ouvrent des actions inaccessibles aux autres Animistes et ne sont pas des degrés supplémentaires de cette Vision.
 
 ## Logique
 
@@ -142,6 +144,8 @@ Un obstacle abstrait lu avec les règles draconiques par **Miroir** utilise touj
 Tout motif complexe doit être joué en **Wyrm**, avec ses conséquences.
 
 ### Vision héroïque — L'Éveil du Dragon
+
+Cette lecture héroïque n'est **pas graduelle** : elle représente une **mue vers le vrai Dragon**.
 
 Chaque motif complexe produit à la fois :
 
