@@ -4,9 +4,11 @@ title: Visions du monde
 
 # Visions du monde
 
+Une Vision décrit le monde que le Protagoniste pense habiter, pas la méthode, le savoir ou la magie qu'il emploie.
+
 Une Vision modifie **la lecture du tirage**, pas le nombre de Mises, sauf règle explicite contraire.
 
-Le mode **affaibli**, **ordinaire** ou **héroïque** est fixé avant le tirage selon la fiction et le Cadre.
+Le mode **affaibli**, **ordinaire** ou **héroïque** est fixé avant le tirage selon la fiction et le Cadre. Les modes ne se cumulent pas. Certaines Visions héroïques ont plusieurs degrés : leur degré est fixé avant le tirage et reste stable tant que l'échelle de l'acteur ne change pas.
 
 ## Théisme
 
@@ -25,6 +27,8 @@ Le mode **affaibli**, **ordinaire** ou **héroïque** est fixé avant le tirage 
 ### Vision héroïque — Marcher dans le Mythe
 
 - Chaque dé **pair** permet de relancer un impair.
+- À l'échelle héroïque la plus simple, seul le `6` crée un nouveau dé lorsqu'il ne reste plus d'impair.
+- À des échelles supérieures, le `4` ou le `2` peuvent aussi recevoir ce pouvoir si la fiction l'établit avant le tirage.
 
 ## Animisme
 
@@ -32,6 +36,7 @@ Le mode **affaibli**, **ordinaire** ou **héroïque** est fixé avant le tirage 
 
 - Chaque dé **pair** vaut une Réussite.
 - Deux dés montrant le **même nombre impair** forment un **Pacte spirituel** et produisent ensemble **1 Réussite**.
+- Formez autant de Pactes que possible ; pour un même Animiste, chaque dé ne participe qu'à un seul Pacte.
 - Un impair solitaire ne produit rien.
 
 Un résultat décisif peut transformer une relation momentanée en relation durable :
@@ -50,6 +55,7 @@ Un résultat décisif peut transformer une relation momentanée en relation dura
 - Formez autant de Pactes que possible.
 - Pour ce décompte, chaque dé ne peut participer qu'à un seul Pacte.
 - Les dés opposés ainsi reconnus restent disponibles pour le décompte propre de l'autre côté : le Cercle crée une relation, il ne retire rien à l'adversaire.
+- Plusieurs Animistes peuvent chacun reconnaître le même dé opposé dans leur propre lecture.
 
 ## Logique
 
@@ -65,9 +71,11 @@ Divisez la somme par **6**.
 
 ### Vision héroïque — La Convergence vers la Loi
 
-Le diviseur diminue progressivement :
+Le diviseur dépend de l'échelle du Logicien :
 
 `4 → 3 → 2 → 1`
+
+Fixez-le avant le tirage ; il reste stable tant que cette échelle ne change pas.
 
 ## Mysticisme
 
@@ -77,6 +85,7 @@ Le diviseur diminue progressivement :
 - Chaque `1` peut faire disparaître **un `6` du tirage opposé**.
 - Le `1` et le `6` disparaissent ensemble.
 - Les `6` adverses ne sont considérés qu'après résolution complète de leur propre tirage, relances et autres effets compris.
+- Après disparition des dés, relisez tous les tirages modifiés pour obtenir leurs Réussites finales.
 
 ### Vision affaiblie — Le Voile de la Dualité
 
@@ -97,6 +106,7 @@ Choisissez l'une des deux expressions suivantes lorsque la fiction l'établit.
 - Le mystique pose ses Mises normalement.
 - Après résolution des tirages, chacun de ses `1` peut prendre **n'importe quel dé du tirage opposé**.
 - Le dé adverse disparaît et le `1` prend sa valeur.
+- Relisez les tirages transformés ; la nouvelle valeur est traitée normalement dans le tirage qui la reçoit.
 
 ## Pensée draconique
 
@@ -108,15 +118,17 @@ Chaque dé pair (`2`, `4`, `6`, `8`) vaut une Réussite.
 
 Cherchez ensuite les motifs complexes :
 
-- **Stase de l'Œuf** : plusieurs dés montrent la même valeur ;
+- **Stase de l'Œuf** : chaque valeur répétée forme **un seul motif**, qu'elle soit paire ou impaire ;
 - **Ouroboros** : le tirage contient à la fois un `1` et un `8`.
+
+Les motifs sont cumulatifs et un même dé peut participer à des motifs de natures différentes.
 
 Pour chaque motif complexe, choisissez :
 
 #### Wyrm
 
 - le motif donne **1 Réussite supplémentaire** ;
-- ajoutez ou transformez un **Lien** ou une **Attache négative** manifestant cette nouvelle fixation au monde.
+- si au moins un motif est joué en Wyrm, la résolution peut produire **une conséquence globale d'attachement**, librement manifestée dans la fiction, quel que soit le nombre de motifs Wyrm.
 
 #### Utuma
 
