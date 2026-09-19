@@ -47,8 +47,10 @@ La manière de lire un tirage dépend de la **Vision du monde** qui s'y applique
 
 Un obstacle sans Vision du monde propre peut être lu de deux façons :
 
-- **Miroir** : il utilise la même lecture que le Protagoniste lorsque l'épreuve représente surtout son propre dépassement ;
+- **Miroir** : il utilise la même Vision que le Protagoniste lorsque l'épreuve représente surtout son propre dépassement ;
 - **Monde médian** : chaque dé pair est une Réussite et chaque dé impair n'en produit pas lorsque l'obstacle est simplement matériel ou extérieur.
+
+Par défaut, un obstacle en Miroir utilise la **lecture ordinaire** de cette Vision, même face à un Héros. Le Héros conserve sa propre échelle : le Miroir reprend une manière de lire le monde, pas automatiquement sa puissance. Si la Situation veut réellement jouer une confrontation à une autre échelle, le Cadre peut toutefois fixer une autre lecture avant le tirage.
 
 Le lieu peut changer cette lecture. Escalader une montagne ordinaire n'est pas la même chose que gravir une montagne qui est elle-même une puissance sacrée.
 
@@ -66,7 +68,13 @@ Une contribution n'est pas un nouveau type de Mise. Elle sert seulement à prés
 
 Deux contributions ne fusionnent donc pas automatiquement parce qu'elles partagent une même Vision du monde. Une telle mise en commun pourrait produire des effets propres à cette Vision — soutien divin transmis, Pactes spirituels entre participants, efficacité logique accrue, motifs draconiques collectifs — et relève donc d'une éventuelle règle de coopération, pas de la procédure générale des côtés hybrides.
 
-Les Visions qui agissent explicitement sur le tirage opposé continuent toutefois d'interagir avec lui selon leur règle propre.
+Les Visions et Influences qui agissent explicitement sur un autre tirage interviennent **après la première lecture de chaque tirage**. Appliquez ces effets, puis relisez les tirages qui ont été modifiés afin d'établir leur réponse finale du réel.
+
+Une relance ou une autre transformation déjà effectuée n'est pas annulée rétroactivement. Cela ne signifie pas que son effet fictionnel s'est nécessairement accompli : le personnage a pu en vivre la présence selon sa Vision, puis la voir se dissoudre lorsque les Perspectives se rencontrent. En revanche, un dé retiré, une paire brisée, une somme modifiée ou un motif qui n'existe plus ne contribue plus à la réponse finale.
+
+Si plusieurs acteurs veulent agir sur le même dé d'un tirage distant, résolvez les effets dans l'ordre où la table les manifeste. Dès qu'un dé a été retiré ou transformé, il n'est plus disponible sous son ancienne forme.
+
+Les Visions qui agissent explicitement sur le tirage opposé continuent ainsi d'interagir avec lui selon leur règle propre.
 
 Par exemple, un côté réunit un théiste et une animiste. La contribution du théiste donne :
 
