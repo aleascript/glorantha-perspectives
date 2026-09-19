@@ -38,10 +38,11 @@ Lorsque cette possibilité est réelle, le tirage peut devenir le lieu du bascul
 
 Après que les deux tirages ont été lus normalement selon leurs Visions du monde, un personnage placé devant une véritable possibilité d'Illumination peut regarder l'un de ses `1` et comprendre qu'il n'est pas seulement un résultat faible ou inutile.
 
-Il peut **jouer le `1`** comme le ferait un mystique :
+Il peut **jouer le `1`** comme le ferait un mystique dans sa lecture ordinaire :
 
 - le `1` fait disparaître un `6` du tirage opposé ;
-- les deux dés disparaissent ensemble au moment de la comparaison ;
+- les deux dés disparaissent ensemble ;
+- relisez les tirages modifiés pour établir leur réponse finale ;
 - le personnage devient alors **Illuminé**.
 
 Le geste est irréversible.
