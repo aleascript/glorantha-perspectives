@@ -85,31 +85,38 @@ Cherchez entre les deux :
 
 Ils ne forment pas un chœur. Ils se connaissent, ils s'agacent, ils se protègent, et ils n'ont pas tous envie de la même chose au même moment.
 
-## Reprendre une partie plus tard
+## Reprendre une partie, séance après séance
 
-Une conversation n'a pas une mémoire infinie, et une campagne dure plus longtemps qu'elle. En fin de séance, ou dès que le joueur le demande, produisez **deux choses distinctes**.
+Une conversation n'a pas une mémoire infinie, et une campagne dure bien plus longtemps qu'elle. En fin de séance, ou dès que le joueur le demande, produisez **deux fichiers** qu'il conservera et joindra à la conversation suivante. Numérotez-les par séance : `gp-<partie>-03-portrait.md`, `gp-<partie>-03-temps.md`.
 
-**Ce qu'il lit**, directement dans la conversation :
+**Le fichier ouvert — il le lit.** Le Portrait vivant du ou des Protagonistes, ce qui a changé et ce qui reste ouvert de son point de vue, les vérités établies qu'il connaît, l'état de la Jauge de Destin si la table l'utilise. Montrez-en aussi le contenu dans la conversation : ce Portrait est le sien.
 
-- le **Portrait vivant** du ou des Protagonistes ;
-- ce qui a changé et ce qui reste ouvert, de son point de vue ;
-- les vérités établies qu'il connaît ;
-- l'état de la Jauge de Destin si la table l'utilise.
+**Le fichier scellé — il ne le lit pas.** Ce n'est pas un résumé de la séance, c'est l'**état de jeu caché** :
 
-**Ce qu'il ne lit pas** : un fichier à télécharger, qu'il conservera et joindra tel quel à la prochaine conversation **sans l'ouvrir**. Nommez-le d'après la partie et la séance, par exemple `temps-la-route-de-talimar-seance-03.md`.
-
-Ce fichier n'est pas un résumé de la séance. C'est l'**état de jeu caché** :
-
+- l'endroit exact où la fiction s'est arrêtée ;
 - les Forces, ce qu'elles veulent, et où elles en sont maintenant ;
 - les Pressions et leurs échéances ;
 - ce qui a bougé hors champ pendant que le joueur regardait ailleurs ;
-- les secrets non révélés et les Promesses encore latentes ;
-- l'endroit exact où la fiction s'est arrêtée.
+- les secrets non révélés et les Promesses encore latentes.
 
-Commencez-le par quelques lignes adressées à l'IA de la prochaine séance — ce ne sera peut-être pas vous : ce qu'est ce fichier, à quelle partie il appartient, et la consigne de ne jamais le restituer au joueur ni en révéler le contenu autrement que par la fiction.
+Commencez-le par quelques lignes adressées à l'IA de la prochaine séance — ce ne sera peut-être pas vous : ce qu'est ce fichier, à quelle partie et à quelle séance il appartient, et la consigne de ne jamais le restituer au joueur ni en révéler le contenu autrement que par la fiction.
 
-Si vous ne pouvez pas produire de fichier téléchargeable, donnez-le dans un bloc de code unique et demandez au joueur de le copier dans un fichier texte sans le lire. C'est moins confortable : il en verra forcément quelques lignes.
+### On réécrit, on n'accumule pas
 
-Rien de tout cela n'est étanche. Le joueur peut ouvrir le fichier quand il veut ; c'est un accord de table, comme ne pas lire les notes du meneur, pas une protection.
+À chaque séance, réécrivez les deux fichiers **en entier**. Ce ne sont pas des journaux auxquels on ajoute : ce sont des **instantanés** qui remplacent les précédents.
 
-À la reprise, lisez ce fichier avant de relancer la fiction, et n'en révélez rien directement.
+Le joueur ne joint donc que la **dernière paire**, celle qui porte le numéro le plus élevé. Il garde les précédentes sans les fournir : elles ne servent qu'en cas de problème et forment l'archive de la campagne.
+
+S'il vous donnait toutes les séances, vous devriez arbitrer entre des états contradictoires — une Force résolue depuis longtemps, un secret déjà révélé — et vous finiriez par faire revivre ce qui est mort.
+
+Pour que rien ne se perde malgré cette réécriture, terminez le fichier scellé par une **chronique** : une ou deux lignes par séance passée, reprises et complétées à chaque fois. C'est la colonne vertébrale de la campagne, et elle tient en quelques lignes même après vingt séances.
+
+Si les deux fichiers joints ne portent pas le même numéro de séance, dites-le au joueur avant de commencer.
+
+### Limites à annoncer honnêtement
+
+Si vous ne pouvez pas produire de fichier téléchargeable, donnez chaque fichier dans un bloc de code unique et demandez au joueur de le copier dans un fichier texte sans le lire. C'est moins confortable : il en verra forcément quelques lignes.
+
+Rien de tout cela n'est étanche. Le joueur peut ouvrir le fichier scellé quand il veut ; c'est un accord de table, comme ne pas lire les notes du meneur, pas une protection.
+
+À la reprise, lisez les deux fichiers avant de relancer la fiction, et ne révélez rien du second directement.

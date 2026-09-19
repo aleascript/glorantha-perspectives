@@ -62,7 +62,7 @@ Il n'y a pas de formule à retenir. « J'aimerais faire une partie, tu veux bien
 
 Deux points valent d'être gardés en tête. Une IA n'est pas une autorité sur les règles : lorsqu'elle hésite, improvise ou se contredit, **le guide tranche**. Et lui faire porter des Protagonistes reste **expérimental** : c'est jouable, mais bien moins éprouvé que la répartition habituelle.
 
-Enfin, une conversation n'a pas une mémoire infinie. En fin de séance, demandez-lui deux choses : d'un côté le Portrait vivant de votre Protagoniste et un résumé de ce qui reste ouvert, que vous pouvez lire ; de l'autre un fichier contenant ce que le Temps garde pour lui, que vous conserverez **sans l'ouvrir**. Joignez les deux à la conversation suivante : vous reprendrez où vous en étiez sans rien perdre et sans rien vous dévoiler.
+Enfin, une conversation n'a pas une mémoire infinie. En fin de séance, demandez-lui deux choses : d'un côté le Portrait vivant de votre Protagoniste et un résumé de ce qui reste ouvert, que vous pouvez lire ; de l'autre un fichier contenant ce que le Temps garde pour lui, que vous conserverez **sans l'ouvrir**. Joignez ces deux fichiers à la conversation suivante : vous reprendrez où vous en étiez sans rien perdre et sans rien vous dévoiler. D'une séance à l'autre, seule la dernière paire est à fournir — les fichiers sont réécrits à chaque fois, pas empilés.
 
 ## Utiliser GP au milieu d'un autre jeu
 
