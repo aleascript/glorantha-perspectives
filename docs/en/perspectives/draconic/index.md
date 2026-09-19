@@ -68,7 +68,7 @@ Transcendence is possible. Attachment is nevertheless always chosen.
 
 ### The Awakening of the Dragon — Heroic Worldview
 
-The paradox between action and detachment disappears.
+This Heroic reading is not gradual. It represents a **molt toward the true Dragon**: the paradox between action and detachment disappears.
 
 Each complex pattern produces both:
 
@@ -119,6 +119,6 @@ But the essential result for the dragonewt is not contained in that number alone
 >
 > The Egg's Stasis and the Ouroboros make that potential power visible. Wyrm and Utuma turn it into a choice.
 >
-> The Grip of the Wyrm removes the possibility of renunciation; the Awakening of the Dragon resolves the paradox by allowing action without attachment.
+> The Grip of the Wyrm removes the possibility of renunciation; the Awakening of the Dragon marks the molt that resolves the paradox by allowing action without attachment.
 
 For Logicians, see also the [Ars Draconis Magica grimoire](ars-draconis-magica/).
