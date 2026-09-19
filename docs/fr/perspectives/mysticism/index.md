@@ -23,8 +23,9 @@ Dans l'adversité, le mystique ne cherche pas seulement à savoir quelle force l
 - Chaque dé **pair** compte comme une Réussite.
 - Chaque **1** peut faire disparaître un **6 du tirage opposé**. Le `1` et le `6` disparaissent ensemble.
 - Les `6` adverses ne sont considérés qu'une fois leur propre tirage entièrement résolu, relances et autres effets compris.
+- Après ces disparitions, relisez les tirages modifiés pour établir leur nombre final de Réussites. Une relance déjà effectuée reste dans le tirage, mais un dé disparu ne compte plus et peut briser une paire, modifier une somme ou défaire un motif.
 
-Cette disparition n'annule pas ce que l'autre a vécu. Un théiste a réellement reçu le soutien de son Dieu ; un animiste a réellement rencontré ses esprits. Le regard mystique révèle seulement qu'au moment où les deux réalités doivent être comparées, certaines manifestations peuvent être dépassées.
+Cette disparition n'annule pas ce que l'autre a vécu selon sa Vision. Un Théiste a pu sentir le soutien de son Dieu ; un Animiste reconnaître une présence spirituelle. Le regard mystique révèle seulement qu'au moment où les deux Perspectives se rencontrent, certaines manifestations peuvent se dissoudre.
 
 Un échec apparent peut ainsi devenir décisif : le `1` ne produit aucune Réussite par lui-même, mais il peut dissoudre ce qui semblait être la plus grande force adverse.
 
@@ -58,7 +59,7 @@ Ce qui vient à lui détermine entièrement la forme de l'épreuve.
 
 Le mystique peut au contraire poser ses Mises normalement.
 
-Après la résolution des tirages, chacun de ses `1` peut prendre **n'importe quel dé du tirage opposé**. Le dé adverse disparaît et le `1` prend sa valeur.
+Après la résolution des tirages, chacun de ses `1` peut prendre **n'importe quel dé du tirage opposé**. Le dé adverse disparaît et le `1` prend sa valeur. Relisez ensuite les tirages ainsi transformés ; la nouvelle valeur est traitée normalement dans le tirage qui la reçoit.
 
 Le mystique n'oppose plus une forme à une autre : il devient momentanément ce qui lui fait face.
 
