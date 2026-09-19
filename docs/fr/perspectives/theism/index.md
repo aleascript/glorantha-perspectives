@@ -39,7 +39,9 @@ Le Dieu n'a pas nécessairement disparu. C'est peut-être le protagoniste qui ne
 
 ### Marcher dans le Mythe — Vision héroïque
 
-Chaque dé pair permet désormais de relancer un impair.
+La forme la plus simple de cette lecture héroïque permet à **chaque dé pair de relancer un impair**. Le `6` conserve alors son privilège ordinaire : s'il ne reste plus d'impair, lui seul peut faire apparaître un nouveau dé.
+
+Des Héros ou des puissances plus proches encore du Mythe peuvent agir à une échelle supérieure : le `4`, voire le `2`, peuvent alors eux aussi faire apparaître un nouveau dé lorsqu'il ne reste plus d'impair. Cette échelle est fixée par la fiction avant le tirage et demeure stable tant que le rapport du personnage au Mythe ne change pas.
 
 Le soutien divin ne surgit plus seulement dans l'exception du `6`.
 
