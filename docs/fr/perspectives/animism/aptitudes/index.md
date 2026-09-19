@@ -6,6 +6,8 @@ title: "Aptitudes chamaniques"
 
 Ces aptitudes font partie de la rune de l’Esprit.
 
+Elles ne forment pas une progression universelle. Selon sa culture, sa Tradition et ses enseignements, un chaman peut avoir accès à certaines d'entre elles et pas à d'autres. Elles représentent surtout des **possibilités d'action spirituelle inaccessibles aux Animistes ordinaires**, pas des degrés supplémentaires de la Vision héroïque.
+
 - **Combat spirituel** (qu’il s’agisse d’affronter un esprit désincarné dans le monde spirituel ou médian, ou bien d’attaquer un adversaire en s’en prenant à son esprit plutôt que physiquement)
 - **Danse spirituelle** (pour échapper à un esprit hostile dans le monde spirituel)
 - **Connaissance des esprits** (on peut préciser un type particulier d’esprits, par exemple ceux de sa Tradition ou de sa Société spirituelle)
