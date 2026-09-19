@@ -22,6 +22,7 @@ The animist therefore does not merely ask: "what can help me?" They ask: **"who 
 
 - Each **even** die counts as a Success: a spirit answers.
 - Two dice showing the **same odd value** form a **Spiritual Pact** and together produce one Success.
+- Form as many Pacts as possible; within one Animist's reading, each die may participate in only one Pact. Thus `3 · 3 · 3 · 3` forms two Pacts, while `3 · 3 · 3` forms only one.
 - A lone odd die has no effect: something was present, but no useful relationship could be established.
 
 A decisive outcome may turn a momentary relationship into a lasting one:
@@ -45,7 +46,9 @@ The boundaries between the two sides of the resolution no longer limit Spiritual
 
 When counting the Animist's Successes, an odd die from their roll may form a **Spiritual Pact** with a die showing the same odd value in the opposing roll.
 
-Form as many Pacts as possible. For this count, each die may participate in only one Pact. Dice from the opposing roll that are recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
+Form as many Pacts as possible. For this Animist's reading, each die may participate in only one Pact. Dice from the opposing roll that are recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
+
+This restriction is not global. If several Animists take part in the same resolution, each may independently recognize the same presence in the opposing roll and form their own Pact with it.
 
 Spirits are no longer neatly divided between "mine" and "theirs." A presence revealed by the opposition may answer a presence in the Animist's own roll.
 
