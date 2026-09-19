@@ -8,7 +8,7 @@ A Worldview describes the world the Protagonist believes they inhabit, not the m
 
 A Worldview changes **how a roll is read**, not the number of Bets, unless a rule explicitly says otherwise.
 
-The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll according to the fiction and the Frame. Modes do not stack. Some Heroic Worldviews have several degrees: their degree is fixed before the roll and remains stable until the actor's scale changes.
+The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll according to the fiction and the Frame. Modes do not stack. A Heroic reading may be **gradual**: its degree is fixed before the roll and remains stable until the actor's scale changes.
 
 ## Theism
 
