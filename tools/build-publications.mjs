@@ -9,6 +9,26 @@ const workRoot = path.join(projectRoot, '.publication-workspace');
 const outputRoot = path.join(projectRoot, 'dist', 'publications');
 const knownDocsByLocale = new Map();
 
+const standardAdmonitions = ['note', 'tip', 'info', 'warning', 'danger', 'caution'];
+const defaultAdmonitionTitles = {
+  en: {
+    note: 'Note',
+    tip: 'Tip',
+    info: 'Info',
+    warning: 'Warning',
+    danger: 'Danger',
+    caution: 'Caution',
+  },
+  fr: {
+    note: 'Note',
+    tip: 'Conseil',
+    info: 'Information',
+    warning: 'Attention',
+    danger: 'Danger',
+    caution: 'Prudence',
+  },
+};
+
 function isPublicationDate(value) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(value ?? '')) return false;
   const parsed = new Date(`${value}T00:00:00Z`);
@@ -53,6 +73,89 @@ function ensureDocumentTitleHeading(markdown) {
 
 function normalizeRepoPath(value) {
   return value.split(path.sep).join('/');
+}
+
+function parseAdmonitionOpening(line) {
+  const match = line.match(/^:::([A-Za-z][\w-]*)(?:\[(.*)\])?\s*$/);
+  return match ? {type: match[1], title: match[2] ?? null} : null;
+}
+
+function escapeAdmonitionHtml(value) {
+  return String(value)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+function transformAdmonitions(markdown, locale) {
+  const allowed = new Set(standardAdmonitions);
+  const lines = markdown.split(/\r?\n/);
+  const output = [];
+  let fenceMarker = null;
+
+  for (let index = 0; index < lines.length; index += 1) {
+    const line = lines[index];
+    const fence = line.match(/^\s*(```+|~~~+)/);
+
+    if (fence) {
+      if (!fenceMarker) fenceMarker = fence[1][0];
+      else if (fence[1][0] === fenceMarker) fenceMarker = null;
+      output.push(line);
+      continue;
+    }
+
+    if (fenceMarker) {
+      output.push(line);
+      continue;
+    }
+
+    const opening = parseAdmonitionOpening(line);
+    if (!opening) {
+      output.push(line);
+      continue;
+    }
+
+    if (!allowed.has(opening.type)) {
+      throw new Error(
+        `Unsupported Markdown directive :::${opening.type} in publication content.`,
+      );
+    }
+
+    const body = [];
+    let foundClosing = false;
+    for (index += 1; index < lines.length; index += 1) {
+      if (lines[index].trim() === ':::') {
+        foundClosing = true;
+        break;
+      }
+      if (parseAdmonitionOpening(lines[index])) {
+        throw new Error('Nested admonitions are not supported in publications.');
+      }
+      body.push(lines[index]);
+    }
+
+    if (!foundClosing) {
+      throw new Error(`Unclosed :::${opening.type} admonition.`);
+    }
+
+    const fallbackTitle =
+      defaultAdmonitionTitles[locale]?.[opening.type] ??
+      opening.type.replaceAll('-', ' ');
+    const title = opening.title || fallbackTitle;
+    const marker =
+      `<span class="publication-admonition-title publication-admonition-${opening.type}">` +
+      `${escapeAdmonitionHtml(title)}</span>`;
+
+    output.push(`> ${marker}`);
+    output.push('>');
+    for (const bodyLine of body) {
+      output.push(bodyLine.length === 0 ? '>' : `> ${bodyLine}`);
+    }
+  }
+
+  return output.join('\n');
 }
 
 function tocDocumentBlueprint(localeConfig) {
@@ -425,8 +528,9 @@ function adaptPublicationMarkdown(
   // Keep the canonical source friendly to the web, but adapt links and glyphs
   // for the multi-file publication assembled by Vivliostyle.
   const withHeading = ensureDocumentTitleHeading(markdown).replaceAll('🎲', diceImage);
+  const withAdmonitions = transformAdmonitions(withHeading, locale);
   return rewritePublicationLinks(
-    withHeading,
+    withAdmonitions,
     sourcePath,
     locale,
     publicationDocs,
