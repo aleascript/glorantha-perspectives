@@ -231,6 +231,34 @@ blockquote {
 blockquote > :first-child { margin-top: 0; }
 blockquote > :last-child { margin-bottom: 0; }
 
+
+.publication-admonition-title {
+  display: inline-block;
+  margin-bottom: 0.35em;
+  color: #5f3d26;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  font-size: 8pt;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+blockquote:has(.publication-admonition-title) {
+  border-inline-start-color: #7a4e2f;
+  background: #f3eadc;
+}
+
+.publication-admonition-title::before {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 0.85em;
+  height: 0.85em;
+  margin-right: 0.5em;
+  border: 0.1em solid currentColor;
+  content: '';
+  vertical-align: -0.02em;
+}
+
 nav[role='doc-toc'] ol { padding-inline-start: 1.5em; }
 nav[role='doc-toc'] a { text-decoration: none; }
 
