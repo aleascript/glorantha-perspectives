@@ -68,7 +68,7 @@ Il est capable de transcendance. Il choisit pourtant toujours l'attachement.
 
 ### L'Éveil du Dragon — Vision héroïque
 
-Le paradoxe entre action et détachement disparaît.
+Cette lecture héroïque n'est pas graduelle. Elle représente une **mue vers le vrai Dragon** : le paradoxe entre action et détachement disparaît.
 
 Chaque motif complexe produit à la fois :
 
@@ -119,6 +119,6 @@ Mais le résultat essentiel pour le dragonewt ne tient pas seulement dans ce nom
 >
 > La Stase de l'Œuf et l'Ouroboros rendent visible cette puissance potentielle. Wyrm et Utuma en font un choix.
 >
-> L'Emprise du Wyrm retire la possibilité du renoncement ; l'Éveil du Dragon résout finalement le paradoxe en permettant d'agir sans s'attacher.
+> L'Emprise du Wyrm retire la possibilité du renoncement ; l'Éveil du Dragon marque la mue qui résout finalement le paradoxe en permettant d'agir sans s'attacher.
 
 Pour les Logiciens, voir aussi le [grimoire Ars Draconis Magica](ars-draconis-magica/).
