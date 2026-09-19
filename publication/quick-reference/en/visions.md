@@ -4,9 +4,11 @@ title: Worldviews
 
 # Worldviews
 
+A Worldview describes the world the Protagonist believes they inhabit, not the method, knowledge, or magic they are using.
+
 A Worldview changes **how a roll is read**, not the number of Bets, unless a rule explicitly says otherwise.
 
-The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll according to the fiction and the Frame.
+The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll according to the fiction and the Frame. Modes do not stack. Some Heroic Worldviews have several degrees: their degree is fixed before the roll and remains stable until the actor's scale changes.
 
 ## Theism
 
@@ -25,6 +27,8 @@ The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll acco
 ### Heroic Worldview — Walking the Myth
 
 - Each **even** die may reroll one odd die.
+- At the simplest heroic scale, only a `6` brings in a new die when no odd die remains.
+- At higher scales, a `4` or `2` may also gain that power if the fiction establishes it before the roll.
 
 ## Animism
 
@@ -32,6 +36,7 @@ The **weakened**, **ordinary**, or **heroic** mode is fixed before the roll acco
 
 - Each **even** die is one Success.
 - Two dice showing the **same odd value** form a **Spiritual Pact** and together produce **1 Success**.
+- Form as many Pacts as possible; for one Animist, each die participates in only one Pact.
 - A lone odd die produces nothing.
 
 A decisive result may turn a momentary relationship into a lasting one:
@@ -50,6 +55,7 @@ A decisive result may turn a momentary relationship into a lasting one:
 - Form as many Pacts as possible.
 - For this count, each die may participate in only one Pact.
 - Opposing dice recognized in this way remain available for the other side's own count: the Circle creates a relationship; it takes nothing away from the opponent.
+- Several Animists may each recognize the same opposing die in their own reading.
 
 ## Logic
 
@@ -65,9 +71,11 @@ Divide the total by **6**.
 
 ### Heroic Worldview — Convergence toward Law
 
-The divisor progressively decreases:
+The divisor depends on the Logician's scale:
 
 `4 → 3 → 2 → 1`
+
+Fix it before the roll; it remains stable until that scale changes.
 
 ## Mysticism
 
@@ -77,6 +85,7 @@ The divisor progressively decreases:
 - Each `1` may remove **one `6` from the opposing roll**.
 - The `1` and `6` disappear together.
 - Opposing `6`s are considered only after their own roll has been fully resolved, including rerolls and other effects.
+- After dice disappear, read every changed roll again to obtain its final Successes.
 
 ### Weakened Worldview — The Veil of Duality
 
@@ -97,6 +106,7 @@ Choose one of the following two expressions when the fiction establishes it.
 - The mystic places Bets normally.
 - After the rolls have been resolved, each of their `1`s may take **any die from the opposing roll**.
 - The opposing die disappears and the `1` takes its value.
+- Read the transformed rolls again; the new value is treated normally in the roll that receives it.
 
 ## Draconic Thought
 
@@ -108,15 +118,17 @@ Each even die (`2`, `4`, `6`, `8`) is one Success.
 
 Then look for complex patterns:
 
-- **The Egg's Stasis**: several dice show the same value;
+- **The Egg's Stasis**: each repeated value forms **one pattern**, whether even or odd;
 - **The Ouroboros**: the roll contains both a `1` and an `8`.
+
+Patterns are cumulative and the same die may participate in patterns of different kinds.
 
 For each complex pattern, choose:
 
 #### Wyrm
 
 - the pattern gives **1 additional Success**;
-- add or transform a **Bond** or **Negative Attachment** expressing this new fixation on the world.
+- if at least one pattern is played as Wyrm, the resolution may produce **one global consequence of attachment**, freely manifested in the fiction regardless of the number of Wyrm patterns.
 
 #### Utuma
 
