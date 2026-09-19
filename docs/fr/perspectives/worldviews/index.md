@@ -30,7 +30,7 @@ Dans une même résolution, plusieurs acteurs peuvent agir à des échelles diff
 
 Les modes ne se cumulent pas. Une Vision affaiblie fait redescendre l'acteur dans l'échelle au lieu de s'ajouter à une Vision héroïque.
 
-Certaines Visions héroïques admettent plusieurs degrés. Leur lecture est alors fixée par l'échelle de l'acteur ou de la puissance avant le tirage, puis reste stable tant que cette échelle ne change pas dans la fiction. Il n'existe pas de grille universelle commune à toutes les Visions.
+Une lecture héroïque peut être **graduelle**. Son degré est alors fixé par l'échelle de l'acteur ou de la puissance avant le tirage, puis reste stable tant que cette échelle ne change pas dans la fiction. Il n'existe pas de grille universelle commune à toutes les Visions.
 
 Le mode et, lorsqu'il y en a un, son degré sont choisis **avant le tirage**, parce que la fiction et le Cadre le justifient, jamais après avoir vu les dés. Les Mises continuent d'être établies normalement : sauf si la Situation change elle-même ce qui peut compter, l'échelle modifie **la lecture du tirage**, pas le nombre de dés.
 
