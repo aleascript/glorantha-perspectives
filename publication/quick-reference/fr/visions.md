@@ -8,7 +8,7 @@ Une Vision décrit le monde que le Protagoniste pense habiter, pas la méthode, 
 
 Une Vision modifie **la lecture du tirage**, pas le nombre de Mises, sauf règle explicite contraire.
 
-Le mode **affaibli**, **ordinaire** ou **héroïque** est fixé avant le tirage selon la fiction et le Cadre. Les modes ne se cumulent pas. Certaines Visions héroïques ont plusieurs degrés : leur degré est fixé avant le tirage et reste stable tant que l'échelle de l'acteur ne change pas.
+Le mode **affaibli**, **ordinaire** ou **héroïque** est fixé avant le tirage selon la fiction et le Cadre. Les modes ne se cumulent pas. Une lecture héroïque peut être **graduelle** : son degré est fixé avant le tirage et reste stable tant que l'échelle de l'acteur ne change pas.
 
 ## Théisme
 
