@@ -804,7 +804,7 @@ function publicationManifest() {
         Object.entries(publication.locales).map(([locale, localeConfig]) => [
           locale,
           {
-            title: localeConfig.title,
+            title: localeConfig.releaseTitle ?? localeConfig.title,
             formats: localeConfig.outputs.map((format) => ({
               format,
               path: assetName(publication.outputName ?? id, locale, format),
