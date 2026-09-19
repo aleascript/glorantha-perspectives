@@ -38,7 +38,7 @@ The journey passes without incident. A few encounters with Orlanthis. Jaridan te
 > - Conflict: 
 >   - Jaridan: information from encountered Orlanthis, cartography + Peek: orienteering
 >   - little frequented, arid lands at the foot of the cliff, they got lost
-> - Result 3 vs 3: Victory +2
+> - Result 3 vs 3: Victory
 
 
 They finally find traces of a trail that looks relatively frequented then with other clues, they reach to the south a wider road that seems to lead toward the cliff. And indeed they see before them a village and above it a road that winds along the cliff! They found it.

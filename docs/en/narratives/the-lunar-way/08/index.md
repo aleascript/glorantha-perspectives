@@ -95,10 +95,10 @@ Each player will face the snakes. We will see through a roll how many, what the 
 >   - Peek: nomad (1), death lance (1), swift (1)
 >   - Jaridan: earth rune (1), in reserve at the time of attack (1)
 > - Results: 
->   - Ikarnos (4 vs 1): Defeat -2
->   - Hanya (3 vs 2): Victory +2
->   - Peek (3 vs 3): Victory +1
->   - Jaridan (3 vs 2): Defeat -1
+>   - Ikarnos (4 vs 1): Fiasco
+>   - Hanya (3 vs 2): Victory
+>   - Peek (3 vs 3): Victory
+>   - Jaridan (3 vs 2): Defeat
 
 
 Ikarnos is bitten and the venom seeps into his veins. Peek manages to extricate herself from the danger zone. Hanya cuts down a few snakes and escapes too. Jaridan dodges but is not out of danger.
@@ -108,7 +108,7 @@ Ikarnos is bitten and the venom seeps into his veins. Peek manages to extricate 
 > - Conflict: 
 >   - The sting-snakes: flash attack (1), swift (1), cunning (1) 
 >   - Jaridan: earth rune (1), Peek reinforcing with her bow (1), snakes dispersing to attack the Sartarites (1)
-> - Result 3 vs 3: Defeat -2
+> - Result 3 vs 3: Defeat
 
 
 Jaridan manages to extricate himself from the vines but a snake bit him too. He rejoins the others. There are enormously many wounded among the Orlanthis. Some are still lying in the vineyard. A decision must be made. A man steps forward and declares: I can burn the vineyard by Yelmalio.
@@ -129,7 +129,7 @@ And suddenly they realize a young Orlanthi is being strangled by a strange rainb
 > - Conflict: 
 >   - strong (1), hypnotize (1)
 >   - lunar fanaticism (1), axe(1), swift (1)
-> - Result 2 vs 3: Victory +2
+> - Result 2 vs 3: Victory
 >   - there were several unrecorded escalations
 
 ![Rainbow Serpent](/img/narratives/the-lunar-way/08/serpent-arc-en-ciel.jpg)

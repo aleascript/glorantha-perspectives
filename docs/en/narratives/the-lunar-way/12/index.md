@@ -76,7 +76,7 @@ I must drop the rabbit, grab my axe and stand up, the Dwarf is already on me wit
 > - Conflict:
 >   - War Axe, Cleaving Blow, Mask of Terror
 >   - Hammer, Armor
-> - Result 3 vs 2: victory +2
+> - Result 3 vs 2: victory
 
 Fortunately the Dwarf has no particular tactic and simply attacks me again like the first time but this time I am ready and I invoke the Goddess's mask of terror to impress him, swinging my axe which wounds him badly. He collapses to his knees. *
 
@@ -157,7 +157,7 @@ Ikarnos uses all his stealth abilities to blend into the crowd as discreetly as 
 > - Conflict:
 >   - blend into the crowd, stealth, scouting, all asleep
 >   - nearly naked, unknown place, numerous
-> - Result 4 vs 3: victory +2
+> - Result 4 vs 3: victory
 
 Ikarnos slips into the hall. Luckily, everyone seems asleep. He even managed to grab a shepherd's blanket at the entrance and in the dim light he would easily be taken for one of the many men who came to witness the afternoon's challenge. Now he must find the man who stole his medallion. If his intuition is correct, the man must have it around his neck.
 
@@ -165,7 +165,7 @@ Ikarnos slips into the hall. Luckily, everyone seems asleep. He even managed to 
 > - Conflict:
 >   - imperial shadow, observation
 >   - find the man among the multitude
-> - Result 2 vs 1: victory +2
+> - Result 2 vs 1: victory
 
 Ikarnos takes a bit of time to find the man. The hall is large and he must adapt his movements to appear as natural as possible in case one of the men sees his silhouette. And suddenly he spots him and hears him because the latter is snoring, drunk on his victory. The medallion gleams at his neck and by luck, the man even has Ikarnos's dagger with him. Ikarnos seizes it, tempted to plunge it into the man's heart and let the poison kill him. He brings his dagger to the man and cuts the medallion's strap, which he recovers. Holding it in his hand and thinking of the Goddess's Mask, his vision sharpens and he sees through the shadows. The lying men now appear clearly. He shudders. What madness! There are perhaps fifty of them. It is time to flee. His legs wobble a bit but courage returns. He has no choice anyway. He grabs a tunic and sandals lying around to dress himself then rushes through one of the exits.
 

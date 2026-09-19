@@ -4,7 +4,11 @@ title: "La Voie Lunaire"
 
 # E PLVRIBVS VNVM. Nous ne faisons qu'Un
 
+:::warning[Règles]
+
 Un récit Gloranthien d'une exploration en solo avec d'abord les règles HQ/G puis petit à petit avec des tests d'autres règles qui ont fini par aboutir à **Glorantha Perspectives**.
+
+:::
 
 ![Les héros](/img/narratives/the-lunar-way/heroes/heroes.jpg)
 

@@ -44,7 +44,7 @@ Ikarnos then tied a rope between his horse and Jiridan's. The maneuver, done dis
 > * **Conflict:** 
 >   - Archers: `1` (Bows) + `1` (Position advantage) 
 >   - Heroes: `1` (Mounted) + `1` (Jiridan's Ruse: *"Don't shoot!"*)
-> * **Result 2 vs 2:** Heroes victory at `+2`.
+> * **Result 2 vs 2:** Heroes victory.
 
 **Jiridan** immediately understood the tactical advantage Ikarnos had just offered him. He cried out in the Orlanthi tongue: "Don't shoot! Free me, I am their prisoner!" This made the archers hesitate, who immediately ceased their fire.
 

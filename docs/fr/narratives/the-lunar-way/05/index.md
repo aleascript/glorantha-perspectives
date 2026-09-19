@@ -62,7 +62,7 @@ Le groupe réalise alors que le tracé chaotique de la ville n'est pas seulement
 >   - Lune mourante : pouvoir lunaire affaibli
 >   - Pierres (1), de plus en plus intenses (1) 
 >   - Chaque héros utilise un atout (Maîtrise, Mouvement ou Antilope) et profite d'une accalmie (1).
->- Résultats des 2 vs 2 : Succès +2 
+>- Résultats des 2 vs 2 : Succès
 
 Profitant d'une brève accalmie, Ikarnos garde son sang-froid, Hanya et Jaridan se faufilent avec agilité, et Peek lance son antilope à travers les décombres. Après une course effrénée de 200 mètres, ils atteignent un quartier en surplomb. Ébahis, ils observent les pierres continuer de s'écraser exactement à l'endroit qu'ils viennent de quitter. Sans chercher à comprendre ce prodige, Ikarnos ordonne de s'éloigner au plus vite pour trouver le col.
 
@@ -148,7 +148,7 @@ Soudain, Peek empoigne sa lance. "Meurs, Sorcière !!!"
 > - Conflit: 
 >   - Lance, surprise, tuer l'ennemi 
 >   - Clairvoyante
-> - Résultat 3 vs 1: Victoire +2
+> - Résultat 3 vs 1: Exploit
 
 La lance transperce le coeur d'Elemenoria, qui tente de murmurer une dernière malédiction. 
 
@@ -201,7 +201,7 @@ Puis elle s'inscrit dans un mutisme. Ikarnos, Hanya et Jaridan se mettent à dé
 > - Conflit:
 >   - Très bon archer (2), surprise (1) 
 >   - Armure (1).
-> - Résultat 3 vs 1 : Victoire +2 (L'effet du voeu s'active).
+> - Résultat 3 vs 1 : Exploit.
 
 Le tir est parfait mais il se passe quelque chose d'étrange, au dernier moment Hanya bouge presque imperceptiblement et la flèche la frôle et continue son chemin. On entend plus loin un râle et les têtes des trois se tournent du côté de Peek puis du côté des arbres qui boisent les contreforts de la montagne. Les arbres se mettent à bouger. Et soudain une tête monstrueuse apparaît : un gazzam !
 

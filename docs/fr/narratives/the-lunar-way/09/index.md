@@ -41,7 +41,7 @@ Elle s'adosse à un arbre et ses yeux se révulsent.
 > - Conflit: 
 >   - Peek, Esprit de la bête
 >   - "Ours"
-> - Résultat 2 vs 1: Victoire +2
+> - Résultat 2 vs 1: Victoire
 
 ![Odayla](/img/narratives/the-lunar-way/09/odayla-vision.jpg)
 
@@ -192,7 +192,7 @@ Peek ne remarque pas qu'une des incisives d'Hanya s'est drôlement allongée qua
 > - Conflit: 
 >   - Observateur, Sentir un secret
 >   - Hanya est trop perturbée pour opposer quoique ce soit
-> - Résultat 3 vs 1: Victoire +2
+> - Résultat 3 vs 1: Victoire
 
 Ikarnos remarque discrétement l'incisive d'Hanya mais ne dit rien. La situation est plus grave qu'il n'y parait. Connaissant l'aversion de Peek pour le Chaos, il décide d'organiser au mieux le groupe en les séparant. Il remarque que la dent n'est visible que lorsqu'elle mange mais le Chaos est en train de la gagner. Il trouve un moyen de s'isoler et de demander à Jaridan par rapport à l'enfant d'Hanya s'il y a chez les Orlanthis une facon de soigner les traces du Chaos. Celui-ci réfléchit.
 

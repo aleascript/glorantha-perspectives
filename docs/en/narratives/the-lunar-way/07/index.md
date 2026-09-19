@@ -102,7 +102,7 @@ Peek going to the stable notices red eyes and discovers a statuette with wings a
 > - Conflict:
 >   - On guard, nomad
 >   - suspect nothing
-> - Result 2 vs 1: Success +2
+> - Result 2 vs 1: Success
 
 ![Cacodemon](/img/narratives/the-lunar-way/07/cacodemon.jpg)
 

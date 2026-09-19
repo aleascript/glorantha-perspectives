@@ -38,7 +38,7 @@ Le voyage se passe sans encombre. Quelques rencontres avec des Orlanthis. Jarida
 > - Conflit: 
 >   - Jaridan: information des Orlanthis rencontrés, cartographie + Peek: s'orienter
 >   - peu fréquentée, terres arides au pied de la falaise, ils se sont perdus
-> - Résultat 3 vs 3: Victoire +2
+> - Résultat 3 vs 3: Victoire
 
 
 Ils finissent par retrouver les traces d'un sentier qui a l'air relativement fréquenté puis avec d'autres indices, ils rejoignent au sud une route plus large qui semble mener vers la falaise. Et effectivement ils voient devant eux un village et au dessus une route qui serpente le long de la falaise! Ils l'ont trouvé.

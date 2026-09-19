@@ -95,10 +95,10 @@ Chaque joueur va être confronté aux serpents. On verra par un jet de combien, 
 >   - Peek: nomade (1), lance de mort (1), rapide (1)
 >   - Jaridan: rune de terre (1), en retrait au moment de l'attaque (1)
 > - Résultats: 
->   - Ikarnos (4 vs 1): Défaite -2
->   - Hanya (3 vs 2): Victoire +2
->   - Peek (3 vs 3): Victoire +1
->   - Jaridan (3 vs 2): Défaite -1
+>   - Ikarnos (4 vs 1): Fiasco
+>   - Hanya (3 vs 2): Victoire
+>   - Peek (3 vs 3): Victoire
+>   - Jaridan (3 vs 2): Défaite
 
 
 Ikarnos est mordu et le venin s'immisce dans ses veines. Peek arrive à s'extirper de la zone dangereuse. Hanya pourfend quelques serpents et s'échappe aussi. Jaridan esquive mais n'est pas pour autant tirer d'affaire.
@@ -129,7 +129,7 @@ Et soudain on se rend compte qu'un jeune Orlanthi est en train de se faire étra
 > - Conflit: 
 >   - fort (1), hypnotiser (1)
 >   - fanatisme lunaire (1), hache(1), rapide (1)
-> - Résultat 2 vs 3: Victoire +2
+> - Résultat 2 vs 3: Victoire
 >   - il y a eu plusieurs surenchères non détaillées
 
 ![Serpent Arc en ciel](/img/narratives/the-lunar-way/08/serpent-arc-en-ciel.jpg)
