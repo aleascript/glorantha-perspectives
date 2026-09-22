@@ -20,7 +20,7 @@ L'animiste ne demande donc pas seulement : « qu'est-ce qui peut m'aider ? » Il
 
 ## Lire le tirage
 
-- Chaque dé **pair** compte comme une Réussite : un esprit répond.
+- Chaque dé **pair** compte comme une Réussite : le **Monde médian répond normalement**, selon sa logique visible et immédiate.
 - Deux dés montrant le **même nombre impair** forment un **Pacte spirituel** et produisent ensemble une Réussite.
 - Formez autant de Pactes que possible ; dans la lecture d'un même Animiste, chaque dé ne peut participer qu'à un seul Pacte. Ainsi, `3 · 3 · 3 · 3` forme deux Pactes, tandis que `3 · 3 · 3` n'en forme qu'un.
 - Un impair solitaire reste sans effet : quelque chose était présent, mais aucune relation utile n'a pu être établie.
@@ -34,9 +34,9 @@ Un résultat décisif peut transformer une relation momentanée en relation dura
 
 ### Les Liens dénoués — Vision affaiblie
 
-Les dés pairs continuent de produire leurs Réussites. Les esprits existent toujours et certains répondent encore.
+Les dés pairs continuent de produire leurs Réussites : le Monde médian continue de répondre normalement.
 
-Mais les doubles impairs ne peuvent plus former de Pacte spirituel.
+Mais les doubles impairs ne peuvent plus former de Pacte spirituel. Les esprits sont toujours là ; c'est la capacité à établir une relation nouvelle avec eux qui s'est dénouée.
 
 Le problème n'est pas l'absence du monde des esprits. C'est l'impossibilité d'établir avec lui une relation nouvelle.
 
@@ -60,9 +60,9 @@ La Voie du Chaman ne se réduit toutefois pas à cette lecture du tirage. Selon 
 
 ## Où porter le regard
 
-Les pairs donnent immédiatement leurs Réussites.
+Les pairs donnent immédiatement leurs Réussites : ils expriment la réponse ordinaire du **Monde médian**.
 
-Mais votre attention doit surtout aller vers **les impairs**. Cherchez ceux qui se ressemblent : *qui vient de reconnaître qui ?*
+Mais votre attention d'Animiste doit surtout aller vers **les impairs**. Cherchez ceux qui se ressemblent : *qui vient de reconnaître qui ?*
 
 En Vision héroïque, ne vous arrêtez plus à votre propre tirage. Regardez aussi les impairs du tirage opposé : *quelles présences se reconnaissent malgré l'opposition ?*
 
@@ -74,7 +74,7 @@ Elle obtient :
 
 `3 · 3 · 4 · 5 · 5`
 
-Le `4` répond directement : une Réussite. Les deux `3` forment un premier **Pacte spirituel**. Les deux `5` en forment un second.
+Le `4` est une Réussite ordinaire du Monde médian. Les deux `3` forment un premier **Pacte spirituel**. Les deux `5` en forment un second.
 
 Le tirage donne donc trois Réussites.
 
@@ -90,13 +90,15 @@ et le tirage opposé :
 
 `4 · 3 · 5 · 1`
 
-Le `2` répond directement : une Réussite. Les deux `1` du tirage de l'Animiste peuvent former un Pacte spirituel. Le `5` peut former un autre Pacte avec le `5` du tirage opposé.
+Le `2` est une Réussite ordinaire du Monde médian. Les deux `1` du tirage de l'Animiste peuvent former un Pacte spirituel. Le `5` peut former un autre Pacte avec le `5` du tirage opposé.
 
 L'Animiste obtient donc trois Réussites. Le monde spirituel ne s'est pas arrêté à la frontière entre les deux côtés de la résolution.
 
 > **CONCEPTION — Pourquoi cette lecture ?**
 >
-> L'Animisme ne transforme pas les impairs en simples résultats ratés. Ils représentent un monde spirituel présent mais difficile à accorder.
+> Les dés pairs conservent la lecture naïve et naturelle du Monde médian : le monde visible répond normalement, comme pour les autres Visions.
+>
+> L'Animisme ne transforme toutefois pas les impairs en simples résultats ratés. Ils révèlent un monde spirituel présent mais difficile à accorder. C'est là que la Vision animiste ajoute quelque chose à la lecture ordinaire du réel.
 >
 > Le Pacte spirituel fait émerger une Réussite de la **relation entre deux présences** plutôt que d'une face isolée.
 >
