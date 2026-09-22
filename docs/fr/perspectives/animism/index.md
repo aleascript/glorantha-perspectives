@@ -20,7 +20,7 @@ L'animiste ne demande donc pas seulement : « qu'est-ce qui peut m'aider ? » Il
 
 ## Lire le tirage
 
-- Chaque dé **pair** compte comme une Réussite : le **Monde médian répond normalement**, selon sa logique visible et immédiate.
+- Chaque dé **pair** compte comme une Réussite : le **Monde médian répond normalement**.
 - Deux dés montrant le **même nombre impair** forment un **Pacte spirituel** et produisent ensemble une Réussite.
 - Formez autant de Pactes que possible ; dans la lecture d'un même Animiste, chaque dé ne peut participer qu'à un seul Pacte. Ainsi, `3 · 3 · 3 · 3` forme deux Pactes, tandis que `3 · 3 · 3` n'en forme qu'un.
 - Un impair solitaire reste sans effet : quelque chose était présent, mais aucune relation utile n'a pu être établie.
