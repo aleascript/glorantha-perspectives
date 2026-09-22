@@ -20,7 +20,7 @@ The animist therefore does not merely ask: "what can help me?" They ask: **"who 
 
 ## Reading the roll
 
-- Each **even** die counts as a Success: the **Middle World responds normally**, according to its visible and immediate logic.
+- Each **even** die counts as a Success: the **Middle World responds normally**.
 - Two dice showing the **same odd value** form a **Spiritual Pact** and together produce one Success.
 - Form as many Pacts as possible; within one Animist's reading, each die may participate in only one Pact. Thus `3 · 3 · 3 · 3` forms two Pacts, while `3 · 3 · 3` forms only one.
 - A lone odd die has no effect: something was present, but no useful relationship could be established.
