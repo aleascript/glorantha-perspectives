@@ -20,7 +20,7 @@ The animist therefore does not merely ask: "what can help me?" They ask: **"who 
 
 ## Reading the roll
 
-- Each **even** die counts as a Success: a spirit answers.
+- Each **even** die counts as a Success: the **Middle World responds normally**, according to its visible and immediate logic.
 - Two dice showing the **same odd value** form a **Spiritual Pact** and together produce one Success.
 - Form as many Pacts as possible; within one Animist's reading, each die may participate in only one Pact. Thus `3 · 3 · 3 · 3` forms two Pacts, while `3 · 3 · 3` forms only one.
 - A lone odd die has no effect: something was present, but no useful relationship could be established.
@@ -34,9 +34,9 @@ A decisive outcome may turn a momentary relationship into a lasting one:
 
 ### Unravelled Bonds — Weakened Worldview
 
-Even dice still produce their Successes. Spirits still exist, and some still answer.
+Even dice still produce their Successes: the Middle World continues to respond normally.
 
-But matching odd dice can no longer form a Spiritual Pact.
+But matching odd dice can no longer form a Spiritual Pact. The spirits are still there; what has unravelled is the ability to establish a new relationship with them.
 
 The problem is not the absence of the spirit world. It is the inability to establish a new relationship with it.
 
@@ -60,9 +60,9 @@ The Shaman's Path is not limited to this way of reading the roll. Depending on c
 
 ## Where to look
 
-Even dice give their Successes immediately.
+Even dice give their Successes immediately: they express the ordinary response of the **Middle World**.
 
-But your attention should go especially to **odd dice**. Look for those that resemble one another: *who has just recognized whom?*
+But as an Animist, your attention should go especially to **odd dice**. Look for those that resemble one another: *who has just recognized whom?*
 
 In the Heroic Worldview, do not stop at your own roll. Look at the odd dice in the opposing roll as well: *which presences recognize one another despite the opposition?*
 
@@ -74,7 +74,7 @@ She rolls:
 
 `3 · 3 · 4 · 5 · 5`
 
-The `4` answers directly: one Success. The two `3`s form a first **Spiritual Pact**. The two `5`s form another.
+The `4` is an ordinary Success of the Middle World. The two `3`s form a first **Spiritual Pact**. The two `5`s form another.
 
 The roll therefore gives three Successes.
 
@@ -90,13 +90,15 @@ and the opposing roll is:
 
 `4 · 3 · 5 · 1`
 
-The `2` answers directly: one Success. The two `1`s in the Animist's own roll may form a Spiritual Pact. The `5` may form another Pact with the `5` in the opposing roll.
+The `2` is an ordinary Success of the Middle World. The two `1`s in the Animist's own roll may form a Spiritual Pact. The `5` may form another Pact with the `5` in the opposing roll.
 
 The Animist therefore obtains three Successes. The spirit world did not stop at the boundary between the two sides of the resolution.
 
 > **DESIGN — Why this reading?**
 >
-> Animism does not reduce odd dice to failed results. They represent a spirit world that is present but difficult to bring into accord.
+> Even dice retain the naïve, natural reading of the Middle World: the visible world responds normally, as it does for the other Worldviews.
+>
+> Animism, however, does not reduce odd dice to failed results. They reveal a spirit world that is present but difficult to bring into accord. This is where the animist Worldview adds something to the ordinary reading of reality.
 >
 > The Spiritual Pact makes a Success emerge from the **relationship between two presences** rather than from an isolated face.
 >
