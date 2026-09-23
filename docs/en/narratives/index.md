@@ -11,4 +11,3 @@ These narratives explore Glorantha through games, characters, and Situations pla
 - [**Talimar's Road**](talimar-road/) — Talimar, a young Grey Sage of the Grey Heron clan, discovered through play since his creation, and now on the roads of Sartar, between investigations, archives and the sign of Sartar.
 - [**Edkored**](edkored/) — an Orlanthi of the Wind Maquis, created through play in Session 0: Air, Movement and Death emerge with his outlaw life before a first sign from Orlanth draws him toward Still Lake.
 - [**The Heirs of Zola Fel**](heirs-of-zola-fel/) — a scholarly thief, a Lunar decurion, a rebellious Durulz and an Orlanthi who believes he was born under a lucky star, bound for the Puzzle Canal. A story in the making, freely adapted from Multisim's HeroWars campaign.
-- [**The Banishment of Gurdtar**](gurdtars-banishment/) — a Protagonist I don't understand yet, whom play will have to reveal. A story barely begun.
