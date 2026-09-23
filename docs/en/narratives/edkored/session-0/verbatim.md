@@ -16,9 +16,8 @@ Before plunging you into a first Situation, we need to sketch out your character
 
 To begin easily, you can orient yourself toward one of these classic archetypes or imagine your own from scratch:
 
-- The storm warrior: an initiate of Orlanth (Theist worldview) from a barbarian clan of Sartar, bearing the Air Rune, who seeks to protect his community against the occupation of the Lunar Empire.
-- The plains scout: a Praxian nomad (Animist worldview), inseparable from her riding beast, who negotiates with the spirits of the Wastes while respecting the heavy taboos of her fetishes.
-- The truth-seeking scholar: a young apprentice Grey Sage of Lhankor Mhy, armed with his scrolls and the Truth Rune, whose curiosity often leads him where he should not set foot.
+- Rather the storm warrior: an initiate of Orlanth (Theist worldview) from a barbarian clan of Sartar, bearing the Air Rune, who seeks to protect his community against the occupation of the Lunar Empire.
+- Rather the truth-seeking scholar: a young apprentice Grey Sage of Lhankor Mhy, armed with his scrolls and the Truth Rune, whose curiosity often leads him where he should not set foot.
 
 Which approach inspires you most for your first steps in this world?
 
@@ -55,9 +54,9 @@ He left with all his Orlanthi equipment. His sword. His shield. He knows how to 
 
 Edkored is a perfectly plausible Protagonist, solidly rooted in the current struggles of Dragon Pass. His making and use of woad — the blue woad that serves as magical armour — along with his mastery of thunderstones, a magic often associated with the Hedkoranth subcult, prove that he is not simply a peasant on the run. His obsession with the myth of the Fourth Test, when Orlanth brought Death into the world to strike down Emperor Yelm, gives tragic depth to his quest. For information, the Orlanthi often call the Red Moon by the pejorative name “Shepelkirt,” considering her a false goddess linked to Chaos.
 
-*(Generation of Edkored's Living Portrait.)*
+*(Writing Edkored's Living Portrait.)*
 
-If this Portrait suits you, we move into play. I take on the role of Time.
+If this Portrait suits you, we move into a first Situation of play for Edkored.
 
 The air is especially dry on this Earth Season afternoon, and the wind blows in irregular gusts through the treetops of the Dogbone hills, a wild zone where no one has the right to put a plough. You have just finished a gruelling training session. Your sword has bitten into the bark of an old dead tree, and the ozone smell of a thunderstone you snapped still hangs in the air.
 
@@ -79,7 +78,26 @@ Sorane nods, her eyes locked on yours with the intensity of a cat about to sprin
 
 You take position opposite the cave, thunderstone — the favored weapon of the god Hedkoranth — firmly in hand.
 
-This is the moment to use the Great Cycle to resolve this uncertain situation! [...]
+This is the moment to use the Great Cycle to resolve this uncertain situation!
+
+**Intention:** draw the patrol away from the shaman's cave, then lose them in the Dogbone hills.
+
+**Focus — Action Zoom:** *Are the thunderclap and Sorane's diversion enough to make the Tarshites abandon the shaman's trail and allow you to disappear into Dogbone?*
+
+Your **4 Bets**:
+
+- **Air** — Hedkoranth's lightning and thunder can seize their attention at once.
+- **Hill survivor** — you know Dogbone's ravines, thorns, and hidden ways.
+- **Sorane** — she creates a second diversion with her alynxes.
+- **Movement** — you are relying on speed, displacement, and opportunity to lose them.
+
+The **3 counter-Bets**:
+
+- **Experienced light infantry** — the patrol knows how to manoeuvre in difficult terrain.
+- **Hound** — it can recover a trail that a human would lose.
+- **Discipline** — the soldiers can react without panicking.
+
+**4 against 3.**
 
 Do you maintain your Intention? If so, you can roll your 4 dice — or I can roll them for you; tell me what you prefer!
 
@@ -105,7 +123,7 @@ I roll on my side :) 6, 6, 3, 3.
 
 **[Time]**
 
-That is a magnificent roll! Orlanth's lightning is literally rumbling in your hands.
+Orlanth's lightning is literally rumbling in your hands.
 
 *(Detailed resolution of the dice, rerolls with Theism.)*
 
@@ -123,13 +141,9 @@ The sun is dropping low, throwing long shadows, and the temperature falls. You a
 
 **[Player]**
 
-Off: that system seems simple and nice. Next time I'll handle the reroll myself. In fact, we can each roll the complete throw with the rerolls on our own side and give the full roll, with the intermediate rolls and the complete result, so we'll go faster.
-
 I am fully aware that my act has revealed my position. Once again I will have to find another place where I can escape the relentless hunt of Shepelkirt, who seeks to wipe out the cult of Orlanth in Sartar. I catch my breath. With the adrenaline and the manifested magic, I feel the air filling my lungs; it is less air than the breath of Orlanth the Thunderer. But my exaltation is short-lived when I hear the croaking and lift my gaze to the dark-feathered bird. I stare at it: “Greetings to you, messenger of the Gods,” I say, trying to make out whether any message is attached to one of its legs.
 
 **[Time]**
-
-Off: noted for future rolls! That is indeed the beauty of the system: you gather all your Bets, throw your handful of dice in one go, and the Worldview gives that constellation its meaning.
 
 The raven tilts its head and watches you sidelong with piercing bright yellow eyes. At your words, it seems to shake its head from side to side, then lets out a series of caws that sound uncannily like a harsh mocking laugh. There is no scroll attached to its leg.
 
@@ -141,7 +155,7 @@ The sun is now behind the hills and the light is fading fast. Your original meet
 
 **[Player]**
 
-Off: in order to evaluate my options, I need to know a little more. Edkored is going to have to leave the area. True, he has shaken the patrol, but maybe they are still around? Did he leave anything at his camp? Probably not, he has everything on him, sword, shield. Maybe he would miss some small gear — a knife, prepared woad, more thunderstones, throwing spears... Would it be reasonable to go back for that before heading toward Torkan Valley? And perhaps Sorane ought to be reassured? And yet, as I say all that, I realize Edkored is not that kind of man: when a call comes, he seizes it. He is not a scribe, not a manager, not reflective. He is like the wind. So no, he does not go back to Sorane, nor to his camp. He picks up the horsehair braid, holds it in his hand, and tries to feel whether it carries anything. Then he sets out toward Torkan Valley, at a jog, used to long marches.
+In order to evaluate my options, I need to know a little more. Edkored is going to have to leave the area. True, he has shaken the patrol, but maybe they are still around? Did he leave anything at his camp? Probably not, he has everything on him, sword, shield. Maybe he would miss some small gear — a knife, prepared woad, more thunderstones, throwing spears... Would it be reasonable to go back for that before heading toward Torkan Valley? And perhaps Sorane ought to be reassured? And yet, as I say all that, I realize Edkored is not that kind of man: when a call comes, he seizes it. He is not a scribe, not a manager, not reflective. He is like the wind. So no, he does not go back to Sorane, nor to his camp. He picks up the horsehair braid, holds it in his hand, and tries to feel whether it carries anything. Then he sets out toward Torkan Valley, at a jog, used to long marches.
 
 **[Time]**
 
@@ -161,8 +175,6 @@ I sense danger in this situation. Something does not fit. Given the circumstance
 
 **[Time]**
 
-Off: noted, rolling all the dice and doing your rerolls on your side will greatly streamline our next resolution cycles! And you have perfectly grasped the spirit of Glorantha Perspectives: Edkored acts according to his nature — Wind — and the game follows the fiction that results.
-
 The alynx is a creature of great intelligence, and its alliance with the people of Orlanth is ancient and unshakable. When it sees you approaching, the great dark-furred feline flattens its ears and hisses in pain, ready to dearly defend its own life and that of its companion. However, when you murmur your word of peace and extend the horsehair braid, the beast stops. Its muzzle twitches. It catches the familiar scent of the fetish and probably recognizes in you a son of the Storms. The shadowcat relaxes ever so slightly and moves half a step aside, granting you access to the figure while keeping its yellow eyes fixed on your every movement. No magic is needed here: the fiction itself is enough to establish that the animal lets you approach.
 
 You bend over the collapsed figure. It is a young man, and he is still alive, though his breathing is short and erratic. Gently parting his cloak to assess his condition, you discover an ugly wound to the chest, probably caused by a polearm or javelin.
@@ -181,11 +193,27 @@ Here is what I am betting on: a known battle ritual, simple and quick because th
 
 **[Time]**
 
-Off: excellent idea! Managing your own rerolls and directly announcing your final number of Successes will make resolution much smoother and more dynamic. We will work that way from now on.
-
 It is a beautiful gesture, very consistent with the myths: Orlanth is Ernalda's husband — Earth — and Orlanthi know how to invoke the soothing powers of earth and water even amid the urgency of battle. The alynx, sensing your peaceful intentions and your affiliation, lets you approach.
 
-Let us place this situation in the balance: [...]
+Let us place this situation in the balance:
+
+**Intention:** quickly stabilize the young Mudhen and his alynx with what is available on the shore.
+
+**Focus — Action Zoom:** *Can you stop their wounds worsening enough to keep them on the side of the living and leave yourself able to act afterward?*
+
+Your **3 Bets**:
+
+- **Known battle ritual** — you know this emergency procedure and the words that accompany it.
+- **Mud and water at hand** — everything needed to improvise the poultice is already within reach.
+- **The alynx has accepted you** — the wounded animal does not prevent you from approaching or acting.
+
+The **3 counter-Bets**:
+
+- **Depth of the wound** — the young man's injury is severe.
+- **Cold and damp** — Still Lake itself is working against you.
+- **Urgency and exposure** — you have little time and no proper healing equipment.
+
+**3 against 3.**
 
 I roll the 3 dice for the gravity of the situation — Adversity. I get: 2, 3, 6. In the Middle World, the even dice, 2 and 6, each give one simple Success, and the 6 allows no reroll. Total Adversity: 2 Successes.
 
@@ -199,7 +227,7 @@ Your turn, Edkored! Roll your 3 dice, apply any Theist rerolls with your 6s, and
 
 Off: perfect, that is exactly right! With your two “2s,” you indeed have 2 Successes in Theism, and your “5” cannot be rerolled because you did not get the famous divine “6.” On my side, with adversity at 2 Successes, we have a perfect tie.
 
-In the Great Cycle of Perspectives, a tie gives a Status quo. The threat remains without having yet won, but neither have you obtained what you wanted.
+A tie gives a Status quo. The threat remains without having yet won, but neither have you obtained what you wanted.
 
 Your hands plunge into the icy clay of the lake. The alynx, Yinkin's sacred beast, allows it with almost human intelligence. The mud clogs its cut and its hissing eases. But for the young Mudhen, the situation is critical. You apply the poultice to the ugly wound, reciting the words of Earth and Water. The bleeding slows beneath your palms, but the biting cold of Still Lake is pitiless. The boy's body is shaken by violent shivers.
 
@@ -226,9 +254,9 @@ On the Adversity side, escalation also adds a die. The new opposing Bet is the i
 - Adversity roll — Middle World: I roll 4, 3, 1, 1. The only even die, 4, gives 1 Success.
 - Your roll — Theism: with your roll of 6, 5, 4, 1 and the rerolled 1 giving a 2, you obtain 3 Successes.
 
-Truth — Comparison: with 3 Successes against 1, the margin is 2, and your score is strictly greater than twice that of the Adversity. It is a Feat!
+With 3 Successes against 1, the margin is 2, and your score is strictly greater than twice that of the Adversity. It is a Feat!
 
-Illusion — Fictional manifestation: your words resonate with a deep intensity. The icy clay beneath your palms seems suddenly to warm, crossed by the slightest tremor, a distant echo of Earth's warmth answering the breath of Air. The dark blood stops flowing at once. The young rebel takes a sharp, ragged breath, his eyelids fluttering. The alynx, sensing danger receding, rubs its scarred head heavily against your shoulder.
+Your words resonate with a deep intensity. The icy clay beneath your palms seems suddenly to warm, crossed by the slightest tremor, a distant echo of Earth's warmth answering the breath of Air. The dark blood stops flowing at once. The young rebel takes a sharp, ragged breath, his eyelids fluttering. The alynx, sensing danger receding, rubs its scarred head heavily against your shoulder.
 
 The Feat not only allows you to save them both, but gives you an unexpected advantage. The divine energy that has just passed through your hands lets out a few bluish crackles of static electricity. On the dark waters of Still Lake, the red light that was moving away stops dead. Your sparks have been seen. You hear a discreet but rapid splashing: a flat-bottomed boat is heading straight for your position on the shore. Members of the Mudhens, the guerrilla band of Orstalor Spearlord hiding in the lake's crannogs, are coming to meet you.
 
@@ -257,8 +285,6 @@ Behind him, his two companions scan the darkness, plainly uneasy about the light
 “I am Edkored. Orlanth guided me here, by sending his raven. I found a young Mudhen badly wounded and his alynx. Hurry, he needs care. I have managed to stabilize him,” I say, completing the ritual and naming myself, but above all making the urgency of the situation clear.
 
 **[Time]**
-
-Off: yes, a “2” in Theism is indeed a success. No problem, it changes nothing in the form of the result: 3 Successes — with the reroll — against 1 still gives a Feat!
 
 Heortling custom demands that in such a meeting in the night, especially between rebels potentially hunted by the Empire, one party names himself first. Your terse answer and your bearing speak for themselves. The warrior, his spear lowered, measures you for a moment. His gaze moves from your runic tattoos of Air and Movement to your skin made bluish by protective woad and your frequent contact with the magic of Orlanth. Then he notices the young wounded man's chest, now rising steadily, and the alynx, creature of Orlanth, rubbing against you.
 

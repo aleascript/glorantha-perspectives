@@ -8,7 +8,7 @@ title: Edkored
 
 The chronicle begins with a **Session 0 that serves both as played character creation and as a true opening adventure**. Edkored does not enter play as an already finished sheet: his voice, Runes, life chapters, and first Situation all emerge within the same continuity of play.
 
-He thus appears as **an Orlanthi man in his thirties**, a theist, close to a solitary adept of Orlanth, living as an outlaw in the Dogbone hills. **Air, Movement, and Death** already structure what he recognizes in himself when the Living Portrait takes shape.
+He thus appears as **an Orlanthi man in his thirties**, a theist, a solitary adept of Orlanth who has taken to the outlaw life in the Dogbone hills. **Air, Movement, and Death** already structure what he recognizes in himself when the Living Portrait takes shape.
 
 ## Reading a session
 

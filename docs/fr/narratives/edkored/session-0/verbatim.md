@@ -55,7 +55,27 @@ Le temps est compté. Mon plan est de me mettre à l'opposé du chemin entre la 
 **[Le Temps]**
 Sorane hoche la tête, ses yeux fixés sur les tiens avec l'intensité d'un félin prêt à bondir. « Que les vents te portent, Edkored. Je les ferai tourner en bourrique de l'autre côté de la crête. » Elle se fond dans les broussailles sans un bruit, accompagnée de la présence invisible de ses alynx, réputés pour leur discrétion absolue.
 Tu te positionnes à l'opposé de la grotte, la pierre tonnerre – l'arme fétiche du dieu Hedkoranth – bien en main.
-C'est le moment d'utiliser le Grand Cycle pour résoudre cette situation incertaine ! [...] 
+C'est le moment d'utiliser le Grand Cycle pour résoudre cette situation incertaine !
+
+**Intention :** détourner la patrouille de la grotte du chaman, puis la semer dans les collines de Dogbone.
+
+**Focus — Zoom Action :** *Le coup de tonnerre et la diversion de Sorane suffisent-ils à faire abandonner la piste du chaman aux Tarshites et à vous permettre de disparaître dans Dogbone ?*
+
+Tes **4 Mises** :
+
+- **Air** — la foudre et le tonnerre d'Hedkoranth peuvent attirer immédiatement l'attention.
+- **Survivant des collines** — tu connais les ravines, les ronces et les passages de Dogbone.
+- **Sorane** — elle crée une seconde diversion avec ses alynx.
+- **Mouvement** — tu comptes sur la vitesse, le déplacement et l'opportunité pour les semer.
+
+Les **3 Contre-Mises** :
+
+- **Infanterie légère expérimentée** — la patrouille sait manœuvrer dans un terrain difficile.
+- **Limier** — il peut reprendre une piste qu'un homme perdrait.
+- **Discipline** — les soldats sont capables de réagir sans paniquer.
+
+**4 contre 3.**
+
 Maintiens-tu ton Intention ? Si oui, tu peux lancer tes 4 dés (ou je peux les lancer pour toi, dis-moi ce que tu préfères !).
 
 **[Joueur]**
@@ -117,7 +137,26 @@ Voila sur quoi je mise: un rituel connu de bataille, simple, rapide car la boue 
 
 **[Le Temps]**
 C'est un beau geste, très cohérent avec les mythes : Orlanth est le mari d'Ernalda (la Terre), et les Orlanthis savent invoquer les pouvoirs apaisants de la terre et de l'eau même dans l'urgence des batailles. L'alynx, sentant tes intentions pacifiques et ton affiliation, te laisse l'approcher.
-Mettons cette situation en balance : [...]
+Mettons cette situation en balance :
+
+**Intention :** stabiliser rapidement le jeune Mudhen et son alynx avec les moyens disponibles sur la rive.
+
+**Focus — Zoom Action :** *Parviens-tu à stopper suffisamment l'aggravation de leurs blessures pour qu'ils restent du côté des vivants et que tu puisses ensuite agir ?*
+
+Tes **3 Mises** :
+
+- **Rituel connu de bataille** — tu connais ce geste d'urgence et les mots qui l'accompagnent.
+- **Boue et eau présentes** — tout le nécessaire pour improviser le baume est déjà à portée de main.
+- **L'alynx t'a accepté** — l'animal blessé ne t'empêche pas d'approcher ni d'agir.
+
+Les **3 Contre-Mises** :
+
+- **Profondeur de la plaie** — la blessure du jeune homme est grave.
+- **Froid et humidité** — le lac Still travaille contre toi.
+- **Urgence et exposition** — tu disposes de peu de temps et tu agis sans matériel de guérison approprié.
+
+**3 contre 3.**
+
 Je lance les 3 dés pour la gravité de la situation (l'Adversité). J'obtiens : 2, 3, 6. En Monde Médian, les pairs (2 et 6) donnent une réussite simple, et le 6 ne permet aucune relance. Total de l'Adversité : 2 Réussites.
 À toi de jouer, Edkored ! Lance tes 3 dés, applique tes éventuelles relances de Théiste (avec tes 6), et donne-moi ton nombre final de Réussites pour qu'on puisse passer à la Vérité (la comparaison) et à l'Illusion (ce qui se passe ensuite dans la fiction) !
 
