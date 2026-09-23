@@ -8,7 +8,7 @@ title: Edkored
 
 La chronique commence par une **Session 0 qui sert à la fois de création jouée et de véritable première aventure**. Edkored n'y entre pas comme une fiche déjà close : sa voix, ses Runes, ses chapitres de vie et sa première Situation apparaissent dans la même continuité de jeu.
 
-Edkored émerge ainsi comme **un Orlanthi d'une trentaine d'années**, théiste, proche d'un adepte solitaire d'Orlanth, vivant au maquis dans les collines de Dogbone. **Air, Mouvement et Mort** structurent déjà ce qu'il reconnaît de lui-même lorsque le Portrait vivant se forme.
+Edkored émerge ainsi comme **un Orlanthi d'une trentaine d'années**, théiste, adepte solitaire d'Orlanth, ayant pris le maquis dans les collines de Dogbone. **Air, Mouvement et Mort** structurent déjà ce qu'il reconnaît de lui-même lorsque le Portrait vivant se forme.
 
 ## Lire une session
 
