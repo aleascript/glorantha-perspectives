@@ -228,6 +228,24 @@ const sidebars: SidebarsConfig = {
                                 ],
                               },
                             ],
+              },
+              {
+                type: 'category',
+                label: 'Edkored',
+                link: {type: 'doc', id: 'narratives/edkored/index'},
+                items: [
+                  {
+                    type: 'category',
+                    label: 'Session 0',
+                    link: {type: 'doc', id: 'narratives/edkored/session-0/index'},
+                    items: [
+                      'narratives/edkored/session-0/verbatim',
+                      'narratives/edkored/session-0/narrative',
+                      'narratives/edkored/session-0/backstage',
+                      'narratives/edkored/session-0/portrait',
+                    ],
+                  },
+                ],
               }
           ]
         }, 
