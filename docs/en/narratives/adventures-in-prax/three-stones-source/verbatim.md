@@ -594,7 +594,7 @@ Then, almost despite himself, he smiles.
 
 **[PEEK]**
 
-"I learned from a good teacher, Father," I say, looking at him the way a daughter looks at a father she deeply admires. (THE END)
+"I learned from a good teacher, Father," I say, looking at him the way a daughter looks at a father she deeply admires.
 
 **[TIME]**
 

@@ -594,7 +594,7 @@ Puis, presque malgré lui, il sourit.
 
 **[PEEK]**
 
-"J'ai été à bonne école avec vous Pere" et le regarde comme une fille qui regarde son pere qu'elle admire profondément. (THE END)
+"J'ai été à bonne école avec vous Pere" et le regarde comme une fille qui regarde son pere qu'elle admire profondément.
 
 **[TEMPS]**
 

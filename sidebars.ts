@@ -176,8 +176,65 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
+          label: t('Aventures en Sartar', 'Adventures in Sartar'),
+          items: [
+                    {
+                      type: 'category',
+                      label: t('La Route de Talimar', "Talimar's Road"),
+                      link: {type: 'doc', id: 'narratives/talimar-road/index'},
+                      items: [
+                              {
+                                type: 'category',
+                                label: 'Session 0',
+                                link: {type: 'doc', id: 'narratives/talimar-road/session-0/index'},
+                                items: [
+                                  'narratives/talimar-road/session-0/verbatim',
+                                  'narratives/talimar-road/session-0/narrative',
+                                  'narratives/talimar-road/session-0/backstage',
+                                  'narratives/talimar-road/session-0/portrait',
+                                ],
+                              },
+                              {
+                                type: 'category',
+                                label: 'Session 1',
+                                link: {type: 'doc', id: 'narratives/talimar-road/session-1/index'},
+                                items: [
+                                  'narratives/talimar-road/session-1/verbatim',
+                                  'narratives/talimar-road/session-1/narrative',
+                                  'narratives/talimar-road/session-1/backstage',
+                                  'narratives/talimar-road/session-1/portrait',
+                                ],
+                              },
+                              {
+                                type: 'category',
+                                label: 'Session 2',
+                                link: {type: 'doc', id: 'narratives/talimar-road/session-2/index'},
+                                items: [
+                                  'narratives/talimar-road/session-2/verbatim',
+                                  'narratives/talimar-road/session-2/narrative',
+                                  'narratives/talimar-road/session-2/backstage',
+                                  'narratives/talimar-road/session-2/portrait',
+                                ],
+                              },
+                              {
+                                type: 'category',
+                                label: 'Session 3',
+                                link: {type: 'doc', id: 'narratives/talimar-road/session-3/index'},
+                                items: [
+                                  'narratives/talimar-road/session-3/verbatim',
+                                  'narratives/talimar-road/session-3/narrative',
+                                  'narratives/talimar-road/session-3/backstage',
+                                  'narratives/talimar-road/session-3/portrait',
+                                ],
+                              },
+                            ],
+              }
+          ]
+        }, 
+        {
+          type: 'category',
           label: t('Aventures en Prax', 'Adventures in Prax'),
-          link: {type: 'doc', id: 'narratives/adventures-in-prax/index'},
+          //link: {type: 'doc', id: 'narratives/adventures-in-prax/index'},
           items: [
             {
               type: 'category',
@@ -191,77 +248,25 @@ const sidebars: SidebarsConfig = {
                 'narratives/adventures-in-prax/three-stones-source/backstage',
               ],
             },
-          ],
-        },
-        {
-          type: 'category',
-          label: t('Les Héritiers de Zola Fel', 'Heirs of Zola Fel'),
-          link: {type: 'doc', id: 'narratives/heirs-of-zola-fel/index'},
-          items: [
             {
               type: 'category',
-              label: t('Héros', 'Heroes'),
+              label: t('Les Héritiers de Zola Fel', 'Heirs of Zola Fel'),
+              link: {type: 'doc', id: 'narratives/heirs-of-zola-fel/index'},
               items: [
-                'narratives/heirs-of-zola-fel/heroes/duckita/index',
-                'narratives/heirs-of-zola-fel/heroes/fazia/index',
-                'narratives/heirs-of-zola-fel/heroes/irinus/index',
-                'narratives/heirs-of-zola-fel/heroes/korlanth/index',
+                {
+                  type: 'category',
+                  label: t('Héros', 'Heroes'),
+                  items: [
+                    'narratives/heirs-of-zola-fel/heroes/duckita/index',
+                    'narratives/heirs-of-zola-fel/heroes/fazia/index',
+                    'narratives/heirs-of-zola-fel/heroes/irinus/index',
+                    'narratives/heirs-of-zola-fel/heroes/korlanth/index',
+                  ],
+                },
               ],
             },
           ],
         },
-        'narratives/gurdtars-banishment/index',
-        {
-          type: 'category',
-          label: t('La Route de Talimar', "Talimar's Road"),
-          link: {type: 'doc', id: 'narratives/talimar-road/index'},
-          items: [
-            {
-              type: 'category',
-              label: 'Session 0',
-              link: {type: 'doc', id: 'narratives/talimar-road/session-0/index'},
-              items: [
-                'narratives/talimar-road/session-0/verbatim',
-                'narratives/talimar-road/session-0/narrative',
-                'narratives/talimar-road/session-0/backstage',
-                'narratives/talimar-road/session-0/portrait',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Session 1',
-              link: {type: 'doc', id: 'narratives/talimar-road/session-1/index'},
-              items: [
-                'narratives/talimar-road/session-1/verbatim',
-                'narratives/talimar-road/session-1/narrative',
-                'narratives/talimar-road/session-1/backstage',
-                'narratives/talimar-road/session-1/portrait',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Session 2',
-              link: {type: 'doc', id: 'narratives/talimar-road/session-2/index'},
-              items: [
-                'narratives/talimar-road/session-2/verbatim',
-                'narratives/talimar-road/session-2/narrative',
-                'narratives/talimar-road/session-2/backstage',
-                'narratives/talimar-road/session-2/portrait',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Session 3',
-              link: {type: 'doc', id: 'narratives/talimar-road/session-3/index'},
-              items: [
-                'narratives/talimar-road/session-3/verbatim',
-                'narratives/talimar-road/session-3/narrative',
-                'narratives/talimar-road/session-3/backstage',
-                'narratives/talimar-road/session-3/portrait',
-              ],
-            },
-          ],
-        }
       ],
     },
     {
