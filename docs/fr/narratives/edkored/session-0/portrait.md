@@ -8,21 +8,21 @@ Ce Portrait représente **Edkored exactement à la fin de la Session 0**. Il res
 
 > « Tant qu'il y a de l'air à respirer, il y a de l'espoir. »
 
-**Edkored — homme, 30 ans — théiste orlanthi.**
+**Edkored — homme, une trentaine d'années — théiste orlanthi.**
 
 ## Runes
 
-### Air
+### ![](/img/runes/air.png) Air — liberté et responsabilité
 
-Liberté, responsabilité, source d'énergie infinie.
+Edkored se reconnaît dans l'Air comme puissance de liberté et de responsabilité. Ce n'est pas seulement le vent qui souffle : c'est aussi une source d'énergie infinie, la respiration même d'Orlanth et la condition de l'espoir.
 
-### Mouvement
+### ![](/img/runes/movement.png) Mouvement — saisir l'ouverture
 
-Saisir l'opportunité, patience et endurance.
+Le Mouvement exprime sa nature profonde : partir quand l'appel vient, saisir l'occasion, avancer sans s'enliser. Mais cette Rune inclut aussi la patience et l'endurance de celui qui a survécu plusieurs années au maquis.
 
-### Mort
+### ![](/img/runes/death.png) Mort — gravité et devoir
 
-Gravité, devoir implacable, fardeau des survivants.
+La Mort grandit en lui comme mémoire tragique des épreuves d'Orlanth. Edkored la relie au moment où le dieu introduisit la Mort dans le monde pour abattre l'Empereur. Elle lui donne gravité, sens du devoir et conscience d'appartenir, comme les survivants des Grandes Ténèbres, à une lignée qui tient malgré le désespoir.
 
 ## Chapitres de vie
 

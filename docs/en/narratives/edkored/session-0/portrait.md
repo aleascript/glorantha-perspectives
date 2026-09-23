@@ -8,21 +8,21 @@ This Portrait represents **Edkored exactly at the end of Session 0**. It remains
 
 > “As long as there is air to breathe, there is hope.”
 
-**Edkored — man, 30 years old — Orlanthi theist.**
+**Edkored — man, in his thirties — Orlanthi theist.**
 
 ## Runes
 
-### Air
+### ![](/img/runes/air.png) Air — freedom and responsibility
 
-Freedom, responsibility, an infinite source of energy.
+Edkored recognizes himself in Air as a power of freedom and responsibility. It is not only the wind that blows: it is also an infinite source of energy, the very breath of Orlanth, and the condition of hope.
 
-### Movement
+### ![](/img/runes/movement.png) Movement — seizing the opening
 
-Seizing opportunity, patience, and endurance.
+Movement expresses his deep nature: leaving when the call comes, seizing opportunity, moving forward without becoming stuck. But the Rune also includes the patience and endurance of one who has survived several years as an outlaw.
 
-### Death
+### ![](/img/runes/death.png) Death — gravity and duty
 
-Gravity, implacable duty, the burden carried by survivors.
+Death grows within him as the tragic memory of Orlanth's trials. Edkored links it to the moment when the god brought Death into the world to strike down the Emperor. It gives him gravity, a sense of duty, and the awareness of belonging, like the survivors of the Great Darkness, to a lineage that endures despite despair.
 
 ## Life chapters
 
