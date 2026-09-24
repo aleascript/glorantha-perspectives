@@ -677,13 +677,38 @@ nav[role='doc-toc'] a::after {
 
   if (publication.runningHeader === true) {
     rules.push(`
-section.level1 > h1:first-child {
+.publication-running-header-source {
+  display: block;
+  height: 0;
+  margin: 0;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
   string-set: publication-chapter content(text);
 }
 `);
   }
 
   return rules.join('');
+}
+
+function publicationDocumentTitle(markdown) {
+  return markdown.match(/^#\s+(.+?)\s*$/m)?.[1]?.trim() ?? null;
+}
+
+function addPublicationRunningHeader(markdown, title) {
+  if (!title) return markdown;
+
+  const marker =
+    `<span class="publication-running-header-source" aria-hidden="true">${escapeHtml(title)}</span>\n`;
+  const frontmatter = markdown.match(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/);
+  const insertionPoint = frontmatter?.[0].length ?? 0;
+  return (
+    markdown.slice(0, insertionPoint) +
+    (insertionPoint > 0 ? '\n' : '') +
+    marker +
+    markdown.slice(insertionPoint)
+  );
 }
 
 function assetName(baseName, locale, format) {
@@ -735,11 +760,12 @@ async function preparePublication(
   const wantsMd = localeConfig.outputs.includes('md');
   const llmDepths = documentDepths(localeConfig.toc?.documents ?? localeConfig.contents);
   const llmChapters = [];
+  let runningHeaderTitle = null;
   for (const sourcePath of localeConfig.contents) {
     const normalizedSourcePath = normalizeRepoPath(sourcePath);
     const sourceAbsolute = path.join(projectRoot, sourcePath);
     const destinationAbsolute = path.join(publicationWorkDir, sourcePath);
-    const markdown = adaptPublicationMarkdown(
+    let markdown = adaptPublicationMarkdown(
       await fs.readFile(sourceAbsolute, 'utf8'),
       locale,
       normalizedSourcePath,
@@ -747,6 +773,14 @@ async function preparePublication(
       knownDocs,
       linkStats,
     );
+
+    if (publication.runningHeader === true) {
+      const documentTitle = publicationDocumentTitle(markdown);
+      if (llmDepths.get(normalizedSourcePath) === 1 && documentTitle) {
+        runningHeaderTitle = documentTitle;
+      }
+      markdown = addPublicationRunningHeader(markdown, runningHeaderTitle);
+    }
 
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, markdown, 'utf8');
