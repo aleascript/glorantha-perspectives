@@ -195,25 +195,27 @@ export default definePublications({
       outputName: 'glorantha-perspectives-guide',
       locales: {
         fr: {
-          title: 'Guide du jeu',
+          releaseTitle: 'Guide du jeu',
+          title: 'Glorantha Perspectives',
           tocTitle: 'Sommaire',
           toc: tocWithStructure(guideStructure('fr')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem.png',
+            image: '/img/site/gp-logo-white-on-dark.png',
             alt: 'Glorantha Perspectives',
-            //seriesTitle: 'Glorantha Perspectives',
+            seriesTitle: 'Guide du jeu',
           },
           contents: guideContents('fr'),
           outputs: ['pdf', 'md'],
         },
         en: {
-          title: 'Player Guide',
+          releaseTitle: 'Player Guide',
+          title: 'Glorantha Perspectives',
           tocTitle: 'Contents',
           toc: tocWithStructure(guideStructure('en')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem.png',
+            image: '/img/site/gp-logo-white-on-dark.png',
             alt: 'Glorantha Perspectives',
-            //seriesTitle: 'Glorantha Perspectives',
+            seriesTitle: 'Player Guide',
           },
           contents: guideContents('en'),
           outputs: ['pdf', 'md'],
