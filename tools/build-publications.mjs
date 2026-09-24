@@ -635,12 +635,29 @@ function publicationThemeOverrides(publication, localeConfig) {
     A4: ['210mm', '297mm'],
     A5: ['148mm', '210mm'],
   }[publication.size ?? 'A4'];
+  const themeVariables = [];
 
   if (pageDimensions) {
+    themeVariables.push(
+      `--publication-page-width: ${pageDimensions[0]};`,
+      `--publication-page-height: ${pageDimensions[1]};`,
+    );
+  }
+  if (publication.coverBackground) {
+    themeVariables.push(
+      `--publication-cover-background: ${publication.coverBackground};`,
+    );
+  }
+  if (publication.backCoverBackground) {
+    themeVariables.push(
+      `--publication-back-cover-background: ${publication.backCoverBackground};`,
+    );
+  }
+
+  if (themeVariables.length > 0) {
     rules.push(`
 :root {
-  --publication-page-width: ${pageDimensions[0]};
-  --publication-page-height: ${pageDimensions[1]};
+  ${themeVariables.join('\n  ')}
 }
 `);
   }
