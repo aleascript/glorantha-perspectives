@@ -662,6 +662,14 @@ nav[role='doc-toc'] a::after {
 `);
   }
 
+  if (localeConfig.runningHeader === true) {
+    rules.push(`
+body > section.level1 > h1:first-child {
+  string-set: publication-chapter content(text);
+}
+`);
+  }
+
   return rules.join('');
 }
 
@@ -819,6 +827,14 @@ async function preparePublication(
     format,
   }));
 
+  const printLayout = publication.printLayout === true;
+  if (printLayout) {
+    const blankPage = '<div class="publication-blank-page" aria-hidden="true"></div>\n';
+    await fs.writeFile(path.join(publicationWorkDir, 'publication-blank-front.md'), blankPage, 'utf8');
+    await fs.writeFile(path.join(publicationWorkDir, 'publication-blank-back.md'), blankPage, 'utf8');
+    await fs.writeFile(path.join(publicationWorkDir, 'publication-back-cover.md'), '<div class="publication-back-cover" aria-hidden="true"></div>\n', 'utf8');
+  }
+
   const task = {
     title: localeConfig.title,
     author: publication.author,
@@ -826,8 +842,12 @@ async function preparePublication(
     size: publication.size ?? 'A4',
     entry: [
       ...(coverEntry ? [coverEntry] : []),
+      ...(printLayout ? ['publication-blank-front.md'] : []),
       {rel: 'contents'},
       ...entries,
+      ...(printLayout
+        ? ['publication-blank-back.md', 'publication-back-cover.md']
+        : []),
     ],
     entryContext: publicationWorkDir,
     theme: themeDestination,
