@@ -191,6 +191,8 @@ export default definePublications({
       size: 'A4',
       printLayout: true,
       runningHeader: true,
+      coverTheme: 'dark',
+      backCoverTheme: 'dark',
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-guide',
       locales: {
@@ -200,8 +202,8 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(guideStructure('fr')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
-            alt: 'Glorantha Perspectives',
+            image: '/img/site/glorantha-perspectives-emblem-value-inversion.png',
+            alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Guide du jeu',
           },
           contents: guideContents('fr'),
@@ -213,8 +215,8 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(guideStructure('en')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
-            alt: 'Glorantha Perspectives',
+            image: '/img/site/glorantha-perspectives-emblem-value-inversion.png',
+            alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Player Guide',
           },
           contents: guideContents('en'),
@@ -234,6 +236,9 @@ export default definePublications({
         poweredBy: null,
       },
       size: 'A5',
+      printLayout: true,
+      coverTheme: 'light',
+      backCoverTheme: 'light',
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-quick-reference',
       locales: {
@@ -243,8 +248,8 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(mementoStructure('fr')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
-            alt: 'Glorantha Perspectives',
+            image: '/img/site/glorantha-perspectives-emblem-black.png',
+            alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Mémento',
           },
           contents: mementoContents('fr'),
@@ -256,8 +261,8 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(mementoStructure('en')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
-            alt: 'Glorantha Perspectives',
+            image: '/img/site/glorantha-perspectives-emblem-black.png',
+            alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Quick Reference',
           },
           contents: mementoContents('en'),
