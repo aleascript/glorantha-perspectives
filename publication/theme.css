@@ -55,7 +55,7 @@ body { margin: 0; }
   align-items: center;
   justify-content: center;
   padding: 8mm 8mm 0;
-  background: #17120f;
+  background: inherit;
 }
 
 .publication-cover__image {
@@ -138,6 +138,20 @@ body { margin: 0; }
   font-variant-numeric: tabular-nums;
   font-weight: 600;
   line-height: 1.15;
+}
+
+.publication-cover--dark {
+  background: #17120f;
+  color: #fbf7ef;
+}
+
+.publication-cover--light {
+  background: #fbf7ef;
+  color: #2b241f;
+}
+
+.publication-cover--light .publication-cover__metadata dt {
+  color: #6f6258;
 }
 
 h1, h2, h3, h4 {
@@ -355,5 +369,12 @@ nav[role='doc-toc'] .publication-toc-group-label {
   box-sizing: border-box;
   width: var(--publication-page-width);
   height: var(--publication-page-height);
+}
+
+.publication-back-cover--dark {
   background: #17120f;
+}
+
+.publication-back-cover--light {
+  background: #fbf7ef;
 }
