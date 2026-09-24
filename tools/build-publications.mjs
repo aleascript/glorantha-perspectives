@@ -626,9 +626,22 @@ function publicationCoverMarkdown(
 `;
 }
 
-function publicationThemeOverrides(localeConfig) {
+function publicationThemeOverrides(publication, localeConfig) {
   const toc = localeConfig.toc ?? {};
   const rules = [];
+  const pageDimensions = {
+    A4: ['210mm', '297mm'],
+    A5: ['148mm', '210mm'],
+  }[publication.size ?? 'A4'];
+
+  if (pageDimensions) {
+    rules.push(`
+:root {
+  --publication-page-width: ${pageDimensions[0]};
+  --publication-page-height: ${pageDimensions[1]};
+}
+`);
+  }
 
   if (toc.numbered === false) {
     rules.push(`
@@ -662,9 +675,9 @@ nav[role='doc-toc'] a::after {
 `);
   }
 
-  if (localeConfig.runningHeader === true) {
+  if (publication.runningHeader === true) {
     rules.push(`
-body > section.level1 > h1:first-child {
+section.level1 > h1:first-child {
   string-set: publication-chapter content(text);
 }
 `);
@@ -812,7 +825,7 @@ async function preparePublication(
   const theme = await fs.readFile(themeSource, 'utf8');
   await fs.writeFile(
     themeDestination,
-    `${theme}${publicationThemeOverrides(localeConfig)}`,
+    `${theme}${publicationThemeOverrides(publication, localeConfig)}`,
     'utf8',
   );
 
@@ -865,7 +878,11 @@ async function preparePublication(
   const configPath = path.join(publicationWorkDir, 'vivliostyle.config.js');
   await fs.writeFile(
     configPath,
-    vivliostyleConfigSource(task, tocBlueprint, coverEntry ? 1 : 0),
+    vivliostyleConfigSource(
+      task,
+      tocBlueprint,
+      (coverEntry ? 1 : 0) + (printLayout ? 1 : 0),
+    ),
     'utf8',
   );
   return configPath;
