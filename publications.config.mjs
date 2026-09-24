@@ -188,7 +188,9 @@ export default definePublications({
         },
         poweredBy: null,
       },
-      size: 'A5',
+      size: 'A4',
+      printLayout: true,
+      runningHeader: true,
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-guide',
       locales: {
