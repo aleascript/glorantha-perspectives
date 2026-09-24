@@ -601,7 +601,9 @@ function publicationCoverMarkdown(
     ? `<p class="publication-cover__author">${escapeHtml(publication.author)}</p>`
     : '';
 
-  return `<div class="publication-cover">
+  const coverTheme = publication.coverTheme === 'light' ? 'light' : 'dark';
+
+  return `<div class="publication-cover publication-cover--${coverTheme}">
   <div class="publication-cover__visual">
     <img class="publication-cover__image" src="${escapeHtml(cover.image)}" alt="${escapeHtml(cover.alt ?? localeConfig.title)}" />
   </div>
@@ -626,9 +628,39 @@ function publicationCoverMarkdown(
 `;
 }
 
-function publicationThemeOverrides(localeConfig) {
+function publicationThemeOverrides(publication, localeConfig) {
   const toc = localeConfig.toc ?? {};
   const rules = [];
+  const pageDimensions = {
+    A4: ['210mm', '297mm'],
+    A5: ['148mm', '210mm'],
+  }[publication.size ?? 'A4'];
+  const themeVariables = [];
+
+  if (pageDimensions) {
+    themeVariables.push(
+      `--publication-page-width: ${pageDimensions[0]};`,
+      `--publication-page-height: ${pageDimensions[1]};`,
+    );
+  }
+  if (publication.coverBackground) {
+    themeVariables.push(
+      `--publication-cover-background: ${publication.coverBackground};`,
+    );
+  }
+  if (publication.backCoverBackground) {
+    themeVariables.push(
+      `--publication-back-cover-background: ${publication.backCoverBackground};`,
+    );
+  }
+
+  if (themeVariables.length > 0) {
+    rules.push(`
+:root {
+  ${themeVariables.join('\n  ')}
+}
+`);
+  }
 
   if (toc.numbered === false) {
     rules.push(`
@@ -662,7 +694,40 @@ nav[role='doc-toc'] a::after {
 `);
   }
 
+  if (publication.runningHeader === true) {
+    rules.push(`
+.publication-running-header-source {
+  display: block;
+  height: 0;
+  margin: 0;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
+  string-set: publication-chapter content(text);
+}
+`);
+  }
+
   return rules.join('');
+}
+
+function publicationDocumentTitle(markdown) {
+  return markdown.match(/^#\s+(.+?)\s*$/m)?.[1]?.trim() ?? null;
+}
+
+function addPublicationRunningHeader(markdown, title) {
+  if (!title) return markdown;
+
+  const marker =
+    `<span class="publication-running-header-source" aria-hidden="true">${escapeHtml(title)}</span>\n`;
+  const frontmatter = markdown.match(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/);
+  const insertionPoint = frontmatter?.[0].length ?? 0;
+  return (
+    markdown.slice(0, insertionPoint) +
+    (insertionPoint > 0 ? '\n' : '') +
+    marker +
+    markdown.slice(insertionPoint)
+  );
 }
 
 function assetName(baseName, locale, format) {
@@ -714,11 +779,12 @@ async function preparePublication(
   const wantsMd = localeConfig.outputs.includes('md');
   const llmDepths = documentDepths(localeConfig.toc?.documents ?? localeConfig.contents);
   const llmChapters = [];
+  let runningHeaderTitle = null;
   for (const sourcePath of localeConfig.contents) {
     const normalizedSourcePath = normalizeRepoPath(sourcePath);
     const sourceAbsolute = path.join(projectRoot, sourcePath);
     const destinationAbsolute = path.join(publicationWorkDir, sourcePath);
-    const markdown = adaptPublicationMarkdown(
+    let markdown = adaptPublicationMarkdown(
       await fs.readFile(sourceAbsolute, 'utf8'),
       locale,
       normalizedSourcePath,
@@ -726,6 +792,14 @@ async function preparePublication(
       knownDocs,
       linkStats,
     );
+
+    if (publication.runningHeader === true) {
+      const documentTitle = publicationDocumentTitle(markdown);
+      if (llmDepths.get(normalizedSourcePath) === 1 && documentTitle) {
+        runningHeaderTitle = documentTitle;
+      }
+      markdown = addPublicationRunningHeader(markdown, runningHeaderTitle);
+    }
 
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, markdown, 'utf8');
@@ -804,7 +878,7 @@ async function preparePublication(
   const theme = await fs.readFile(themeSource, 'utf8');
   await fs.writeFile(
     themeDestination,
-    `${theme}${publicationThemeOverrides(localeConfig)}`,
+    `${theme}${publicationThemeOverrides(publication, localeConfig)}`,
     'utf8',
   );
 
@@ -819,6 +893,28 @@ async function preparePublication(
     format,
   }));
 
+  const printLayout = publication.printLayout === true;
+  if (printLayout) {
+    const blankPage = '<div class="publication-blank-page" aria-hidden="true"></div>\n';
+    const backCoverTheme =
+      publication.backCoverTheme === 'light' ? 'light' : 'dark';
+    await fs.writeFile(
+      path.join(publicationWorkDir, 'publication-blank-front.md'),
+      blankPage,
+      'utf8',
+    );
+    await fs.writeFile(
+      path.join(publicationWorkDir, 'publication-blank-back.md'),
+      blankPage,
+      'utf8',
+    );
+    await fs.writeFile(
+      path.join(publicationWorkDir, 'publication-back-cover.md'),
+      `<div class="publication-back-cover publication-back-cover--${backCoverTheme}" aria-hidden="true"></div>\n`,
+      'utf8',
+    );
+  }
+
   const task = {
     title: localeConfig.title,
     author: publication.author,
@@ -826,8 +922,12 @@ async function preparePublication(
     size: publication.size ?? 'A4',
     entry: [
       ...(coverEntry ? [coverEntry] : []),
+      ...(printLayout ? ['publication-blank-front.md'] : []),
       {rel: 'contents'},
       ...entries,
+      ...(printLayout
+        ? ['publication-blank-back.md', 'publication-back-cover.md']
+        : []),
     ],
     entryContext: publicationWorkDir,
     theme: themeDestination,
@@ -845,7 +945,11 @@ async function preparePublication(
   const configPath = path.join(publicationWorkDir, 'vivliostyle.config.js');
   await fs.writeFile(
     configPath,
-    vivliostyleConfigSource(task, tocBlueprint, coverEntry ? 1 : 0),
+    vivliostyleConfigSource(
+      task,
+      tocBlueprint,
+      (coverEntry ? 1 : 0) + (printLayout ? 1 : 0),
+    ),
     'utf8',
   );
   return configPath;

@@ -179,7 +179,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-22',
+      version: '2026-09-24',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -188,30 +188,38 @@ export default definePublications({
         },
         poweredBy: null,
       },
-      size: 'A5',
+      size: 'A4',
+      printLayout: true,
+      runningHeader: true,
+      coverTheme: 'dark',
+      coverBackground: '#131313',
+      backCoverTheme: 'dark',
+      backCoverBackground: '#131313',
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-guide',
       locales: {
         fr: {
-          title: 'Guide du jeu',
+          releaseTitle: 'Guide du jeu',
+          title: 'Glorantha Perspectives',
           tocTitle: 'Sommaire',
           toc: tocWithStructure(guideStructure('fr')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem.png',
-            alt: 'Glorantha Perspectives',
-            //seriesTitle: 'Glorantha Perspectives',
+            image: '/img/site/gp-logo-white-on-dark.png',
+            alt: 'Cercle des Runes de Glorantha Perspectives',
+            seriesTitle: 'Guide du jeu',
           },
           contents: guideContents('fr'),
           outputs: ['pdf', 'md'],
         },
         en: {
-          title: 'Player Guide',
+          releaseTitle: 'Player Guide',
+          title: 'Glorantha Perspectives',
           tocTitle: 'Contents',
           toc: tocWithStructure(guideStructure('en')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem.png',
-            alt: 'Glorantha Perspectives',
-            //seriesTitle: 'Glorantha Perspectives',
+            image: '/img/site/gp-logo-white-on-dark.png',
+            alt: 'Glorantha Perspectives Rune circle',
+            seriesTitle: 'Player Guide',
           },
           contents: guideContents('en'),
           outputs: ['pdf', 'md'],
@@ -220,7 +228,7 @@ export default definePublications({
     },
     quickreference: {
       author: 'AleaScript',
-      version: '2026-09-19',
+      version: '2026-09-24',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -230,6 +238,11 @@ export default definePublications({
         poweredBy: null,
       },
       size: 'A5',
+      printLayout: true,
+      coverTheme: 'light',
+      coverBackground: '#fff',
+      backCoverTheme: 'light',
+      backCoverBackground: '#fff',
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-quick-reference',
       locales: {
@@ -239,8 +252,8 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(mementoStructure('fr')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
-            alt: 'Glorantha Perspectives',
+            image: '/img/site/gp-logo-dark-on-white.png',
+            alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Mémento',
           },
           contents: mementoContents('fr'),
@@ -252,8 +265,8 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(mementoStructure('en')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
-            alt: 'Glorantha Perspectives',
+            image: '/img/site/gp-logo-dark-on-white.png',
+            alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Quick Reference',
           },
           contents: mementoContents('en'),
