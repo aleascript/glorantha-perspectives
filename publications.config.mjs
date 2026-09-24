@@ -192,7 +192,9 @@ export default definePublications({
       printLayout: true,
       runningHeader: true,
       coverTheme: 'dark',
+      coverBackground: '#131313',
       backCoverTheme: 'dark',
+      backCoverBackground: '#131313',
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-guide',
       locales: {
@@ -238,7 +240,9 @@ export default definePublications({
       size: 'A5',
       printLayout: true,
       coverTheme: 'light',
+      coverBackground: '#fff',
       backCoverTheme: 'light',
+      backCoverBackground: '#fff',
       theme: 'publication/theme.css',
       outputName: 'glorantha-perspectives-quick-reference',
       locales: {
