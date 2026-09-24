@@ -202,7 +202,7 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(guideStructure('fr')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem-value-inversion.png',
+            image: '/img/site/gp-logo-white-on-dark.png',
             alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Guide du jeu',
           },
@@ -215,7 +215,7 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(guideStructure('en')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem-value-inversion.png',
+            image: '/img/site/gp-logo-white-on-dark.png',
             alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Player Guide',
           },
@@ -248,7 +248,7 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(mementoStructure('fr')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem-black.png',
+            image: '/img/site/gp-logo-dark-on-white.png',
             alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Mémento',
           },
@@ -261,7 +261,7 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(mementoStructure('en')),
           cover: {
-            image: '/img/site/glorantha-perspectives-emblem-black.png',
+            image: '/img/site/gp-logo-dark-on-white.png',
             alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Quick Reference',
           },
