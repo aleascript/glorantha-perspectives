@@ -141,12 +141,12 @@ body { margin: 0; }
 }
 
 .publication-cover--dark {
-  background: #17120f;
+  background: var(--publication-cover-background, #17120f);
   color: #fbf7ef;
 }
 
 .publication-cover--light {
-  background: #fff;
+  background: var(--publication-cover-background, #fff);
   color: #2b241f;
 }
 
@@ -372,9 +372,9 @@ nav[role='doc-toc'] .publication-toc-group-label {
 }
 
 .publication-back-cover--dark {
-  background: #17120f;
+  background: var(--publication-back-cover-background, #17120f);
 }
 
 .publication-back-cover--light {
-  background: #fff;
+  background: var(--publication-back-cover-background, #fff);
 }
