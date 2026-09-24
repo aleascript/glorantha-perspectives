@@ -146,7 +146,7 @@ body { margin: 0; }
 }
 
 .publication-cover--light {
-  background: #fbf7ef;
+  background: #fff;
   color: #2b241f;
 }
 
@@ -376,5 +376,5 @@ nav[role='doc-toc'] .publication-toc-group-label {
 }
 
 .publication-back-cover--light {
-  background: #fbf7ef;
+  background: #fff;
 }
