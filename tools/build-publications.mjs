@@ -601,7 +601,9 @@ function publicationCoverMarkdown(
     ? `<p class="publication-cover__author">${escapeHtml(publication.author)}</p>`
     : '';
 
-  return `<div class="publication-cover">
+  const coverTheme = publication.coverTheme === 'light' ? 'light' : 'dark';
+
+  return `<div class="publication-cover publication-cover--${coverTheme}">
   <div class="publication-cover__visual">
     <img class="publication-cover__image" src="${escapeHtml(cover.image)}" alt="${escapeHtml(cover.alt ?? localeConfig.title)}" />
   </div>
@@ -877,9 +879,23 @@ async function preparePublication(
   const printLayout = publication.printLayout === true;
   if (printLayout) {
     const blankPage = '<div class="publication-blank-page" aria-hidden="true"></div>\n';
-    await fs.writeFile(path.join(publicationWorkDir, 'publication-blank-front.md'), blankPage, 'utf8');
-    await fs.writeFile(path.join(publicationWorkDir, 'publication-blank-back.md'), blankPage, 'utf8');
-    await fs.writeFile(path.join(publicationWorkDir, 'publication-back-cover.md'), '<div class="publication-back-cover" aria-hidden="true"></div>\n', 'utf8');
+    const backCoverTheme =
+      publication.backCoverTheme === 'light' ? 'light' : 'dark';
+    await fs.writeFile(
+      path.join(publicationWorkDir, 'publication-blank-front.md'),
+      blankPage,
+      'utf8',
+    );
+    await fs.writeFile(
+      path.join(publicationWorkDir, 'publication-blank-back.md'),
+      blankPage,
+      'utf8',
+    );
+    await fs.writeFile(
+      path.join(publicationWorkDir, 'publication-back-cover.md'),
+      `<div class="publication-back-cover publication-back-cover--${backCoverTheme}" aria-hidden="true"></div>\n`,
+      'utf8',
+    );
   }
 
   const task = {
