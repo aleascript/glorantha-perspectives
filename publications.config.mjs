@@ -179,7 +179,7 @@ export default definePublications({
   publications: {
     guide: {
       author: 'AleaScript',
-      version: '2026-09-24',
+      version: '2026-09-27',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -204,7 +204,7 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(guideStructure('fr')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
+            image: '/img/site/gp-logo-white-transparent.png',
             alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Guide du jeu',
           },
@@ -217,7 +217,7 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(guideStructure('en')),
           cover: {
-            image: '/img/site/gp-logo-white-on-dark.png',
+            image: '/img/site/gp-logo-white-transparent.png',
             alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Player Guide',
           },
@@ -228,7 +228,7 @@ export default definePublications({
     },
     quickreference: {
       author: 'AleaScript',
-      version: '2026-09-24',
+      version: '2026-09-27',
       status: 'Draft',
       lineage: {
         designedWith: {
@@ -252,7 +252,7 @@ export default definePublications({
           tocTitle: 'Sommaire',
           toc: tocWithStructure(mementoStructure('fr')),
           cover: {
-            image: '/img/site/gp-logo-dark-on-white.png',
+            image: '/img/site/gp-logo-black-transparent.png',
             alt: 'Cercle des Runes de Glorantha Perspectives',
             seriesTitle: 'Mémento',
           },
@@ -265,7 +265,7 @@ export default definePublications({
           tocTitle: 'Contents',
           toc: tocWithStructure(mementoStructure('en')),
           cover: {
-            image: '/img/site/gp-logo-dark-on-white.png',
+            image: '/img/site/gp-logo-black-transparent.png',
             alt: 'Glorantha Perspectives Rune circle',
             seriesTitle: 'Quick Reference',
           },

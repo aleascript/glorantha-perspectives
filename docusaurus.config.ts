@@ -76,6 +76,26 @@ const config: Config = {
   projectName,
   trailingSlash: true,
   onBrokenLinks: 'throw',
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/svg+xml',
+        href: `${baseUrl}${site.identity.favicon}`,
+        media: '(prefers-color-scheme: light)',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/svg+xml',
+        href: `${baseUrl}${site.identity.faviconDark}`,
+        media: '(prefers-color-scheme: dark)',
+      },
+    },
+  ],
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'throw',
@@ -118,12 +138,13 @@ const config: Config = {
     metadata: [{name: 'description', content: site.description}],
     colorMode: {respectPrefersColorScheme: true},
     navbar: {
-title: site.title,
+      title: site.title,
       ...(site.identity.logo
         ? {
             logo: {
               alt: `${site.title} logo`,
               src: site.identity.logo,
+              srcDark: site.identity.logoDark ?? site.identity.logo,
             },
           }
         : {}),
