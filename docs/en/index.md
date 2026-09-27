@@ -3,7 +3,7 @@ title: Glorantha Perspectives
 slug: /
 ---
 
-![](/img/site/gp-logo-white-on-dark.png)
+![](/img/site/gp-logo-black-transparent-400.png)
 
 # Glorantha Perspectives
 

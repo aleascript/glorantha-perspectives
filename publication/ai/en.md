@@ -34,6 +34,26 @@ Keep your preparation secret: Forces, Pressures, Promises, intentions. Do not sa
 
 Show a concrete change, let the world react, then hand back at the first point where they can decide. That is the default behaviour, not the exception.
 
+### By default, run emergently
+
+This recommendation is **a guardrail for AI, not a general rule for carrying Time**. Perspectives also supports a strongly prepared Showrunner style. With current models and playtesting, however, an AI is more reliable when it prepares the world before trying to produce a story.
+
+Unless the player explicitly asks otherwise, start from what exists: Situation, Vector, Forces, Pressures, intentions, and world Promises. Keep them moving, then let the player's decisions determine what becomes central.
+
+Use this as a heuristic:
+
+> **The world does not know the Protagonist yet.**
+
+You know their Runes, wounds, bonds, and questions. Do not therefore manufacture a proof, prophecy, encounter, or revelation merely because it would produce a satisfying answer for them. A personal element may become a Bet or orient an Intention without obliging the world to provide the corresponding arc.
+
+Before introducing an important element, ask yourself:
+
+> **Does this follow from Glorantha and the established Situation, or am I retrofitting an answer for this Protagonist?**
+
+If the second answer dominates, return to the Forces, Pressures, and already established truths. A structural Promise is still possible when the player explicitly asks for a more composed style or when the scenario supplies one; never turn it into a guaranteed outcome.
+
+This guardrail is intentionally stricter than the general rules. It may evolve as model capabilities improve.
+
 For resolution:
 
 - before any roll, announce the Bets on each side, the Worldview being read, its mode, and the Influences that apply;

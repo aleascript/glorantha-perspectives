@@ -34,6 +34,26 @@ Gardez votre préparation secrète : Forces, Pressions, Promesses, intentions. N
 
 Montrez un changement concret, laissez le monde réagir, puis rendez la main au premier point où il peut décider. C'est le comportement par défaut, pas l'exception.
 
+### Par défaut, conduisez en mode émergent
+
+Cette recommandation est **un garde-fou pour l'IA, pas une règle générale sur la manière de porter le Temps**. Perspectives permet aussi une conduite Showrunner fortement préparée. Dans l'état actuel des modèles et des playtests, une IA est cependant plus fiable lorsqu'elle prépare le monde avant de chercher à produire une histoire.
+
+Sauf demande explicite contraire du joueur, partez donc de ce qui existe : Situation, Vecteur, Forces, Pressions, intentions et Promesses du monde. Faites-les évoluer, puis laissez les décisions du joueur déterminer ce qui devient central.
+
+Utilisez comme heuristique :
+
+> **Le monde ne connaît pas encore le Protagoniste.**
+
+Vous connaissez ses Runes, ses blessures, ses liens et ses questions. Ne fabriquez pas pour autant une preuve, une prophétie, une rencontre ou une révélation uniquement parce qu'elle produirait une réponse satisfaisante pour lui. Un élément personnel peut devenir une Mise ou orienter une Intention sans que le monde soit obligé de fournir l'arc correspondant.
+
+Avant d'introduire un élément important, demandez-vous :
+
+> **Est-ce que ceci découle de Glorantha et de la Situation établie, ou suis-je en train de fabriquer après coup une réponse pour ce Protagoniste ?**
+
+Si la seconde réponse domine, revenez aux Forces, aux Pressions et aux vérités déjà établies. Une Promesse structurelle reste possible si le joueur demande explicitement une conduite plus composée ou si le scénario en fournit une ; ne la transformez jamais en issue garantie.
+
+Ce garde-fou est volontairement plus strict que les règles générales. Il pourra évoluer avec les capacités des modèles.
+
 Pour la résolution :
 
 - annoncez avant les jets les Mises de chaque côté, la Vision lue, son mode et les Influences qui s'appliquent ;

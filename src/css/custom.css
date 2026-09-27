@@ -20,6 +20,13 @@
 html, body {background: var(--site-background); color: var(--site-text);}
 .navbar__title {font-weight: 700; letter-spacing: -0.02em;}
 .theme-doc-markdown {max-width: var(--site-content-width);}
+/*
+ * Keep the light logo in Markdown so publication builds use it unchanged.
+ * Only the website swaps the rendered image when Docusaurus is in dark mode.
+ */
+html[data-theme='dark'] .theme-doc-markdown img[src*='gp-logo-black-transparent-400'] {
+  content: url('/img/site/gp-logo-white-transparent-400.png');
+}
 .theme-doc-markdown > h1:first-child {letter-spacing: -0.035em;}
 .theme-doc-markdown p, .theme-doc-markdown li {font-size: 1.04rem;}
 .theme-doc-markdown blockquote {border-left-color: var(--site-primary); color: var(--site-muted);}

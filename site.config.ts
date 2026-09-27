@@ -1,6 +1,8 @@
 export type SiteIdentity = {
   logo: string | null;
+  logoDark: string | null;
   favicon: string | null;
+  faviconDark: string | null;
 };
 export type ProjectLink = {label: string; href: string};
 export type SiteLineage = {designedWith: ProjectLink | null; poweredBy: ProjectLink | null};
@@ -23,8 +25,10 @@ export const site = {
     en: {htmlLang: 'en', label: 'English'},
   },
   identity: {
-    logo: 'img/site/gp-logo-white-on-black-400x400.png',
-    favicon: 'img/site/favicon.ico',
+    logo: 'img/site/gp-logo-black-transparent-400.png',
+    logoDark: 'img/site/gp-logo-white-transparent-400.png',
+    favicon: 'img/site/gp-logo-black-transparent-400.png',
+    faviconDark: 'img/site/gp-logo-white-transparent-400.png',
   } satisfies SiteIdentity,
   repository: {defaultFullName: 'aleascript/glorantha-perspectives'},
   lineage: {
