@@ -16,7 +16,7 @@ Glorantha continues according to its own logic. Forces want what they want, Pres
 
 **But look at it for real.**
 
-What the players choose to notice, pursue, ignore, or abandon genuinely moves the game. You are not steering the table towards what you had in mind.
+What the players choose to notice, pursue, ignore, or abandon genuinely moves the game. **What you prepared never decides for the table what matters now.**
 
 **And when it shows itself, make it live.**
 
@@ -24,42 +24,47 @@ Coherence is not enough. Glorantha has to be experienced: voices, gestures, smel
 
 These three principles are not stages. They hold at the same time and correct one another.
 
-## The world does not know the Protagonists yet
+## Prepare without deciding for the table
 
-You know the Protagonists. Glorantha does not know them yet.
+You may prepare very little or a great deal. You may start from the world, the Protagonists, a plot, an image you want to see, or a dramatic structure you want to try.
 
-Do not choose a place, a person, a myth, a Force, or a conflict because it "fits" a Protagonist's Runes, wounds, bonds, or presumed story.
+The limit is not **what you are allowed to prepare**. It is the status of that preparation once it meets play.
 
-Prepare from the world instead: what exists here, what do these people want, what is already in motion, and what would happen if the Protagonists had never come?
+> **Prepare as much as helps you. Never prepare what only the table can discover.**
 
-Then let them meet that reality. Their identity becomes relevant **after** the encounter, through what they notice, want, refuse, or transform.
+### Preparing for a Protagonist
 
-Before introducing an important element:
+A revealed Rune may make you want to build a scene around it. An important relationship may return. A personal question may become the heart of a mystery. An aspiration may inspire an entire arc.
 
-> **Does this exist because Glorantha produces it, or because I think it will suit this Protagonist?**
+All of that is legitimate.
 
-If the second answer dominates, find a justification in the world or choose something else.
+What you do not decide in advance is what the Protagonist will do with that material, what they will understand from it, what they will become, or how it will resolve.
 
-### Do not write their story for them
+> **You may write a plot for a Protagonist. You do not write their response to that plot.**
 
-- A revealed Rune is not an order to produce scenes about that Rune.
-- An important relationship does not demand its return.
-- A personal question does not guarantee that the world supplies an answer.
-- An aspiration is a promise only if the fiction actually created one.
+Preparation meant for a Protagonist becomes a possibility in the world once it enters play. Make it hold together with Glorantha: people have reasons, Forces have wills, revelations have causes, and consequences carry weight.
 
-Echoes and reversals are powerful when they emerge from the consequences of play. They ring false as soon as they are manufactured to give someone "their story".
+Coincidences, echoes, and reversals are not forbidden because they were prepared. They simply have to become real elements of the fiction, capable of meeting the players' decisions rather than replacing them.
 
-When a player suddenly takes an interest in a king, a cult, a city, or a road, that justifies **looking elsewhere in the world**: a source that already exists, a plausible traveller, a compatible consequence. It does not justify placing there an inscription, a proof, or a message pointing providentially at what they just wished for.
+### What the table discovers
 
-### What if a player wants a story for their Protagonist?
+Even when a scenario is strongly prepared, three things cannot be completely fixed in advance:
 
-Nothing above says that what a Protagonist is does not matter. The opposite is true. Their Runes, bonds, wounds, oaths, and beliefs are not scenery to be echoed now and then: they become **Bets**, that is, dice that genuinely decide what happens. What matters to them changes what reality answers.
+- the **Bets that are actually relevant**, including Time's: a prepared truth only becomes a Bet if it matters to this Focus, at this Zoom;
+- the **exact Focus**: Intention gives a direction, but conversation and fiction determine where uncertainty finally lies;
+- the **interpretation**: the roll answers the Focus, then the table brings that answer to life in a fiction that did not yet exist when the preparation was written.
 
-A player may also say what they want to pursue: confronting their father's cult, finding a sister, settling a debt. That is not a favour to ask of Time, it is an **Intention**. Time can then look towards that part of Glorantha and bring to life what is already there — a community, a road, a person that this pursuit suddenly makes relevant.
+You may therefore prepare a decisive confrontation without knowing whether it will ultimately be about defeating the opponent, convincing their followers, saving someone, preserving a reputation, escaping — or whether no resolution will be needed.
 
-What Time does not do is guarantee in advance what that pursuit will yield. It plants no proof, no prophecy, and no providential encounter that would make the outcome inevitable.
+> **A scenario may have a dramatic direction. It never owns the exact geometry of its resolutions in advance.**
 
-That is exactly why the moment the story arrives truly counts: it was not owed.
+### Emergence and Showrunner
+
+In an **emergent** style, prepare mostly what exists, what the Forces want, what is pushing, and what might manifest. Then follow the players' attention and let consequences reveal the shape of the story.
+
+In a **Showrunner** style, you may also manage pacing, tension, screen time, possible scenes, revelations, and transitions more directly. Perspectives then removes the need to turn that preparation into a decision tree: Pressures create movement, Promises keep moments available, Zoom sets the scale, and Focus adjudicates what the scene actually puts at stake.
+
+These styles can mix. The same campaign may freely follow a detour in one session, then tighten its dramaturgy around a deadline in the next.
 
 ## Say just enough
 

@@ -10,13 +10,15 @@ Avant de commencer, quelques accords simples évitent les malentendus.
 
 ## Ce que le jeu demande aux joueurs
 
-Glorantha Perspectives ne fonctionne que si les joueurs disent ce qui compte.
+Glorantha Perspectives ne fonctionne que si les joueurs disent ce qui compte lorsque la fiction devient incertaine.
 
-Les Mises ne sont pas distribuées par le Temps : elles sont proposées, discutées et défendues par ceux qui portent les Protagonistes. Le Focus dépend de ce que la table décide de jouer. Et ce que les joueurs choisissent de regarder, de poursuivre ou d'abandonner déplace réellement la partie.
+Les Mises ne sont pas distribuées par le Temps : elles sont proposées, discutées et défendues par ceux qui portent les Protagonistes. Le Focus dépend de ce que la table décide réellement de résoudre. Et ce que les joueurs choisissent de regarder, de poursuivre ou d'abandonner peut déplacer l'endroit où l'incertitude se pose.
 
-C'est donc un jeu pour des tables qui veulent cette part-là. Si vous préférez qu'une histoire vous soit racontée et qu'on vous dise quand lancer les dés, Glorantha Perspectives vous demandera quelque chose que vous n'avez pas envie de donner, et la partie paraîtra vide — non parce que la table joue mal, mais parce que la place laissée aux joueurs reste inoccupée.
+Cette participation ne suppose pas que les joueurs veuillent co-écrire la structure du scénario. Une table peut préférer explorer librement un monde largement émergent ; une autre peut aimer qu'un Temps **Showrunner** conduise fortement le rythme, les révélations et la dramaturgie. Les deux fonctionnent avec Perspectives.
 
-Mieux vaut le savoir avant de commencer qu'au milieu de la troisième séance.
+Dans les deux cas, lorsque vient une résolution, les joueurs doivent pouvoir exprimer l'Intention de leur Protagoniste, proposer ce qui compte comme Mise et participer à la formulation du Focus. Le Temps peut préparer beaucoup de choses autour de ce moment ; il ne décide pas seul de ce que la table est effectivement en train de résoudre.
+
+Avant de commencer, il est donc utile de dire simplement jusqu'où la table souhaite que le Temps conduise la structure et le rythme de l'histoire.
 
 Voir [Conduire le Temps](../time/conduct/index.md).
 

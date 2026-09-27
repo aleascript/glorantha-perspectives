@@ -16,7 +16,7 @@ Glorantha continue selon sa logique propre. Les Forces veulent ce qu'elles veule
 
 **Mais regardez-le vraiment.**
 
-Ce que les joueurs choisissent de remarquer, de poursuivre, d'ignorer ou d'abandonner déplace réellement la partie. Vous ne conduisez pas la table vers ce que vous aviez prévu.
+Ce que les joueurs choisissent de remarquer, de poursuivre, d'ignorer ou d'abandonner déplace réellement la partie. **Ce que vous avez préparé ne décide jamais à la place de la table de ce qui compte maintenant.**
 
 **Et quand il se montre, faites-le vivre.**
 
@@ -24,42 +24,47 @@ La cohérence ne suffit pas. Glorantha doit être éprouvée : des voix, des ges
 
 Ces trois principes ne sont pas des étapes. Ils se tiennent en même temps et se corrigent mutuellement.
 
-## Le monde ne connaît pas encore les Protagonistes
+## Préparer sans décider à la place de la table
 
-Vous connaissez les Protagonistes. Glorantha, elle, ne les connaît pas encore.
+Vous pouvez préparer très peu ou beaucoup. Vous pouvez partir du monde, des Protagonistes, d'une intrigue, d'une image que vous voulez voir apparaître ou d'une structure dramatique que vous souhaitez essayer.
 
-Ne choisissez pas un lieu, une personne, un mythe, une Force ou un conflit parce qu'il « correspond bien » aux Runes, aux blessures, aux liens ou à l'histoire supposée d'un Protagoniste.
+La limite n'est pas **ce que vous avez le droit de préparer**. Elle est dans le statut de cette préparation lorsqu'elle rencontre le jeu.
 
-Préparez plutôt depuis le monde : qu'est-ce qui existe ici, que veulent ces gens, qu'est-ce qui est déjà en mouvement, et qu'arriverait-il si les Protagonistes n'étaient jamais venus ?
+> **Préparez autant que cela vous aide. Ne préparez jamais ce que seule la table peut découvrir.**
 
-Puis laissez-les rencontrer cette réalité. Leur identité devient pertinente **après** la rencontre, par ce qu'ils remarquent, désirent, refusent ou transforment.
+### Préparer pour un Protagoniste
 
-Avant d'introduire un élément important :
+Une Rune révélée peut vous donner envie de construire une scène autour d'elle. Une relation importante peut revenir. Une question personnelle peut devenir le cœur d'un mystère. Une aspiration peut inspirer tout un arc.
 
-> **Est-ce que ceci existe parce que Glorantha le produit, ou parce que je pense que cela conviendra à ce Protagoniste ?**
+Tout cela est légitime.
 
-Si la seconde réponse domine, cherchez une justification dans le monde ou choisissez autre chose.
+Ce que vous ne décidez pas d'avance, c'est ce que le Protagoniste fera de cette matière, ce qu'il en comprendra, ce qu'il deviendra ni comment elle se résoudra.
 
-### N'écrivez pas son histoire à sa place
+> **Vous pouvez écrire une intrigue pour un Protagoniste. Vous n'écrivez pas sa réponse à cette intrigue.**
 
-- Une Rune révélée n'est pas une commande pour produire des scènes autour de cette Rune.
-- Une relation importante n'exige pas son retour.
-- Une question personnelle ne garantit pas que le monde fournisse une réponse.
-- Une aspiration n'est une promesse que si la fiction l'a réellement créée.
+Une préparation destinée à un Protagoniste devient une possibilité du monde dès qu'elle entre en jeu. Faites-la donc tenir avec Glorantha : les personnes ont leurs raisons, les Forces leurs volontés, les révélations leurs causes et les conséquences leur poids.
 
-Les échos et les retournements sont puissants lorsqu'ils émergent des conséquences du jeu. Ils sonnent faux dès qu'ils sont fabriqués pour donner à quelqu'un « son histoire ».
+Les coïncidences, les échos et les retournements ne sont pas interdits parce qu'ils ont été préparés. Ils doivent simplement devenir de vrais éléments de la fiction, capables de rencontrer les décisions des joueurs plutôt que de les remplacer.
 
-Quand un joueur s'intéresse soudain à un roi, un culte, une ville ou une route, cela justifie de **regarder ailleurs dans le monde** : une source qui existe déjà, un voyageur plausible, une conséquence compatible. Cela ne justifie pas d'y déposer une inscription, une preuve ou un message qui pointerait providentiellement vers ce qu'il vient de désirer.
+### Ce que la table découvre
 
-### Et si un joueur veut une histoire pour son Protagoniste ?
+Même lorsque le scénario est fortement préparé, trois choses ne peuvent être fixées complètement à l'avance :
 
-Rien de ce qui précède ne dit que ce qu'est un Protagoniste ne compte pas. C'est l'inverse. Ses Runes, ses liens, ses blessures, ses serments et ses croyances ne sont pas un décor à faire résonner de temps en temps : ils deviennent des **Mises**, c'est-à-dire des dés qui décident réellement de ce qui arrive. Ce qui compte pour lui change ce que le réel répond.
+- les **Mises réellement pertinentes**, y compris celles du Temps : une vérité préparée ne devient une Mise que si elle compte pour ce Focus, à ce Zoom ;
+- le **Focus exact** : l'Intention donne une direction, mais la conversation et la fiction déterminent où se trouve finalement l'incertitude ;
+- l'**interprétation** : le tirage répond au Focus, puis la table fait vivre cette réponse dans une fiction qui n'existait pas encore au moment de la préparation.
 
-Un joueur peut aussi dire ce qu'il veut poursuivre : affronter le culte de son père, retrouver une sœur, éteindre une dette. Ce n'est pas une faveur à demander au Temps, c'est une **Intention**. Le Temps peut alors regarder de ce côté de Glorantha et faire vivre ce qui s'y trouve déjà — une communauté, une route, une personne que cette poursuite rend soudain pertinentes.
+Vous pouvez donc préparer une confrontation décisive sans savoir si elle portera finalement sur vaincre l'adversaire, convaincre ceux qui le suivent, sauver quelqu'un, préserver une réputation, réussir à fuir — ou si aucune résolution ne sera nécessaire.
 
-Ce qu'il ne fait pas, c'est garantir d'avance ce que cette poursuite donnera. Il ne dépose ni la preuve, ni la prophétie, ni la rencontre providentielle qui rendrait l'issue inévitable.
+> **Le scénario peut avoir une direction dramatique. Il ne possède jamais à l'avance la géométrie exacte de ses résolutions.**
 
-C'est précisément pour cela que le moment où l'histoire arrive compte vraiment : elle n'était pas due.
+### Émergence et Showrunner
+
+Dans une conduite **émergente**, préparez surtout ce qui existe, ce que veulent les Forces, ce qui pousse et ce qui pourrait se manifester. Suivez ensuite l'attention des joueurs et laissez les conséquences révéler la forme de l'histoire.
+
+Dans une conduite **Showrunner**, vous pouvez aussi gérer plus directement le rythme, la tension, le temps d'écran, des scènes possibles, des révélations et des transitions. Les outils de Perspectives évitent alors d'avoir à transformer cette préparation en arbre de décisions : les Pressions créent du mouvement, les Promesses gardent des moments disponibles, le Zoom règle l'échelle et le Focus arbitre ce que la scène met réellement en jeu.
+
+Ces conduites peuvent se mélanger. La même campagne peut suivre librement un détour pendant une séance, puis resserrer fortement sa dramaturgie autour d'une échéance la suivante.
 
 ## Parler juste assez
 

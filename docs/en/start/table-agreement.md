@@ -10,13 +10,15 @@ A few simple agreements before play prevent misunderstandings.
 
 ## What the game asks of players
 
-Glorantha Perspectives only works if the players say what matters.
+Glorantha Perspectives only works if players say what matters when the fiction becomes uncertain.
 
-Bets are not handed out by Time: they are proposed, discussed, and argued for by the people carrying the Protagonists. The Focus depends on what the table decides to play. And what players choose to look at, pursue, or abandon genuinely moves the game.
+Bets are not handed out by Time: they are proposed, discussed, and argued for by the people carrying the Protagonists. The Focus depends on what the table actually decides to resolve. And what players choose to look at, pursue, or abandon may move where uncertainty finally lies.
 
-So it is a game for tables that want that share of the work. If you would rather be told a story and be told when to roll, Glorantha Perspectives will ask you for something you do not want to give, and play will feel empty — not because the table is playing badly, but because the space left to the players stays empty.
+That participation does not require players to want to co-author the scenario's structure. One table may prefer to explore a largely emergent world; another may enjoy a **Showrunner** Time who strongly conducts pacing, revelations, and dramaturgy. Both work with Perspectives.
 
-Better to know that before you begin than midway through the third session.
+In either case, when a resolution arrives, players must be able to express their Protagonist's Intention, propose what matters as a Bet, and participate in framing the Focus. Time may prepare a great deal around that moment; Time does not decide alone what the table is actually resolving.
+
+Before play, it is therefore useful to say simply how strongly the table wants Time to conduct the structure and pacing of the story.
 
 See [Running Time](../time/conduct/index.md).
 
