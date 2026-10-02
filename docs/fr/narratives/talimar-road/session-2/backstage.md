@@ -34,7 +34,7 @@ Même après le témoignage de Karest, il n'existait aucune nécessité que l'af
 
 ## Ce que Tal a fait émerger : la sortie nocturne
 
-La première grande bifurcation fut entièrement proposée par le joueur.
+La première grande bifurcation fut entièrement proposée par le joueur de Tal.
 
 Avant de reprendre la scène du matin, Tal déclara qu'il n'avait pas réussi à dormir et qu'il était allé rôder autour de la Maison de la Paix. Il savait que cette conduite pouvait être discutable pour un Sage Gris, mais l'affaire l'ébranlait assez pour qu'il prenne le risque de chercher un détail oublié.
 
@@ -60,7 +60,7 @@ Le monde opposait :
 
 Le premier état conduisit à un **Status Quo** : Tal trouvait un point d'observation sûr mais n'apprenait rien de réellement utile et n'était pas découvert.
 
-Le joueur choisit alors la surenchère : Tal quitta volontairement la sécurité de son point de vue et se rapprocha des murs et des ouvertures.
+Le joueur de Tal choisit alors la surenchère : Tal quitta volontairement la sécurité de son point de vue et se rapprocha des murs et des ouvertures.
 
 Une correction de procédure fut nécessaire pendant la partie : la surenchère après un Status Quo ajoute une Mise **des deux côtés**. La résolution correcte fut donc **4 contre 4**. Tal obtint 4 Réussites ; le Temps, lu en Monde médian, en obtint 3. **Victoire de Tal, 4–3.**
 
@@ -89,7 +89,7 @@ Le Debrief fit apparaître un outil qui aurait pu aider le Temps à choisir cett
 
 Karest n'avait pas été préparé comme un coupable secret ou un innocent caché.
 
-Le joueur commença par une question ouverte : raconter le raid, sa blessure et ce qui s'était passé avant et après. Karest donna alors une version largement compatible avec celle d'Enissa : Beren l'avait blessé, était tombé ou avait glissé, conservait son couteau, avait frappé vers le haut, puis Karest avait répondu une fois avec sa lance.
+Tal commença par une question ouverte : raconter le raid, sa blessure et ce qui s'était passé avant et après. Karest donna alors une version largement compatible avec celle d'Enissa : Beren l'avait blessé, était tombé ou avait glissé, conservait son couteau, avait frappé vers le haut, puis Karest avait répondu une fois avec sa lance.
 
 La seconde question de Tal fut beaucoup plus accusatoire : Karest s'était-il avancé vers Beren pour l'emporter dans la mort avec lui ?
 
@@ -157,7 +157,7 @@ Le jeu ne doit ni devenir une improvisation sans ancrage, ni s'arrêter à chaqu
 
 Le Debrief a fait apparaître une possibilité qui n'a pas été utilisée pendant cette session.
 
-Après le rapport de Tal, le Joueur aurait pu temporairement porter l'un des deux clans — par exemple les Greenhaft — tandis que le Temps portait les Blueberry. Tal serait resté silencieux dans la fiction, mais la table aurait joué directement la négociation au lieu de la regarder entièrement comme une scène de personnages non joueurs.
+Après ce rapport, le joueur de Tal aurait pu temporairement porter l'un des deux clans — par exemple les Greenhaft — tandis que le Temps portait les Blueberry. Tal serait resté silencieux dans la fiction, mais la table aurait joué directement la négociation au lieu de la regarder entièrement comme une scène de personnages non joueurs.
 
 Cette idée découle du vocabulaire même de GP : **Temps est une fonction de jeu, pas nécessairement une personne fixe**. Certaines de ses responsabilités peuvent donc être redistribuées localement, à condition de préciser qui porte quoi, de respecter tous les faits déjà établis et de restituer ensuite clairement la distribution précédente.
 

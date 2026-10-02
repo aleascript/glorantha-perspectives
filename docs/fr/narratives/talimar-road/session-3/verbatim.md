@@ -6,7 +6,7 @@ title: Verbatim
 
 **Durée estimée : environ 2 h.**
 
-Cette page conserve le jeu dans son ordre réel : paroles de Tal et du Temps, hésitations, échanges `Off:`, Focus, Mises et résultats de dés.
+Cette page conserve le jeu dans son ordre réel : paroles des joueurs, côté Tal et côté Temps, hésitations, échanges `Off:`, Focus, Mises et résultats de dés.
 
 ---
 
@@ -585,7 +585,7 @@ Et dans la marge, quelqu'un a ajouté d'une autre main, beaucoup plus récemment
 
 :::info[Retcon de consolidation]
 
-Après le Debrief, le Joueur et le Temps ont décidé que cette phrase était trop directive et ressemblait trop à un crochet fabriqué pour répondre immédiatement au désir d'épique exprimé par le Joueur.
+Après le Debrief, les joueurs ont décidé que cette phrase était trop directive et ressemblait trop à un crochet fabriqué pour répondre immédiatement au désir d'épique exprimé pour Tal.
 
 Dans la version canonique publiée de la fiction, **la phrase n'existe pas**. Dans la marge se trouve seulement, tracée d'une autre main, **la Rune de Sartar** :
 

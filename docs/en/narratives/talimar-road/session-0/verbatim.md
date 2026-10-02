@@ -10,7 +10,7 @@ title: Transcript
 
 This game was played in **French**. This page is an English translation of the original transcript.
 
-This translation preserves the turns in their real order, the Bets, dice, corrections, and procedural exchanges that actually contributed to play. Internal technical traces from the tools are removed.
+This translation preserves the turns in their real order, the Bets, dice, corrections, and procedural exchanges that actually contributed to play.
 
 The **PROCEDURE** annotations were added retrospectively and are explicitly marked as such.
 
@@ -1021,7 +1021,7 @@ Out of character: I know it isn't easy and requires a lot of improv but I don't 
 
 Yes, I agree about the consequence. I treated the **+2 as a better intellectual solution**, whereas a Feat should also change something **in the fiction around Tal**. Your version is fairer: that day becomes a founding memory of his apprenticeship. He proposes a reconstruction that explains all three testimonies, then surprises everyone by producing a second, equally compatible one, and therefore refuses to pretend he knows which is true. Hendrik is impressed; the other apprentices begin looking at Tal differently. I retain that correction as the canonical consequence of the Feat.
 
-For what Hendrik is about to tell now, however, I want to avoid making up a “nice Lhankor Mhy myth” from memory. I check the account in the Glorantha sources we have, then Hendrik will speak.
+For what Hendrik is about to tell now, however, I want to avoid making up a “nice Lhankor Mhy myth” from memory. I check the account in our Glorantha sourcebooks, then Hendrik will speak.
 
 Hendrik waits until everyone is settled.
 

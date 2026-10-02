@@ -6,7 +6,7 @@ title: Talimar's Road
 
 **Talimar's Road** is an actual game of Glorantha Perspectives, published as a playtest chronicle.
 
-It serves two purposes at once: following the story of **Talimar “Tal”**, a young Orlanthi of the Grey Heron clan, and showing concretely **how GP works at the table** — including the player's choices, Bets, dice, Time's rulings, mistakes, and what emerges without having been prepared.
+It serves two purposes at once: following the story of **Talimar “Tal”**, a young Orlanthi of the Grey Heron clan, and showing concretely **how GP works at the table** — including the players' choices, Bets, dice, Time's rulings, mistakes, and what emerges without having been prepared.
 
 ## Reading a session
 
@@ -45,7 +45,7 @@ About **2 hours of play**. Karest has survived and can finally testify. Tal firs
 
 About **2 hours of play**. A dispute over the legacy of a dead Sage eventually wears Tal down. He leaves the matter to Hendrik and turns his gaze elsewhere: the roads, news from the north, then the history of Sartar. The session thus moves from a very local archival quarrel to the discovery of a much more open sign: **the Rune of Sartar**, drawn in the margin of a text about those who still secretly maintain his strength.
 
-The session also documents a deliberately imperfect playtest: an ambiguity in staging and a mismatch between the prepared Situation and the kind of breath sought by the player become material for understanding how the Player can move the story through what they choose to look at.
+The session also documents a deliberately imperfect playtest: an ambiguity in staging and a mismatch between the prepared Situation and the kind of breath sought by the players become material for understanding how a Protagonist can move the story through what they choose to look at.
 
 ## Tal before the sheet
 
@@ -53,6 +53,6 @@ Tal fully belongs to his community, but the way it tells the world is no longer 
 
 He travelled in Tarsh with his merchant uncle **Grimar**. There he saw roads, buildings, baths, organization, and certain Lunar ways of examining several sides of a conflict that fascinated him. He also knows that this same civilization practices domination and slavery, and that the Crimson Bat exists beneath the same Moon.
 
-This contradiction was not written to complete a character sheet. It appeared in the conversation of play and became one of Tal's central truths.
+This contradiction was not written to complete a character sheet. It appeared during play and became one of Tal's central truths.
 
 The Road begins there: with a few truths strong enough to play, but without yet knowing exactly who Talimar will become.

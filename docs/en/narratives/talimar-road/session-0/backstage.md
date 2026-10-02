@@ -14,7 +14,7 @@ Creating Talimar was not meant to lead an already defined character toward an in
 
 ## Initial intention
 
-When the player revealed a possible interest in **Lhankor Mhy**, Time did not decide that Tal would become a Grey Sage.
+When a possible interest in **Lhankor Mhy** surfaced at the table, Time did not decide that Tal would become a Grey Sage.
 
 The intention was simpler: **put that aspiration into a Situation so that play could confirm it, transform it, or abandon it.**
 
@@ -59,7 +59,7 @@ Only three elements were truly intentional once the possibility of Lhankor Mhy a
 2. use the **stone and tablet** as an epistemological problem: move from “find the error” to “how do you know which version is false?”;
 3. let Tal discover Lhankor Mhy through **Situations, teachings, and myths**, rather than through a catalogue of powers or abilities.
 
-Everything else had to remain available to be produced by the player's answers and the consequences of the fiction.
+Everything else had to remain available to be produced by the players' answers and the consequences of the fiction.
 
 ## What play made emerge
 
@@ -67,11 +67,11 @@ Much of what now defines Tal was therefore not prepared.
 
 **Grimar** gained an unexpected emotional depth. He could have remained merely a practical merchant uncle; play made him a genuine root for Tal, capable both of showing him the world and of letting him leave.
 
-The feeling of **calm before a bounded problem** appeared directly in the player's response to the stone and tablet. It became a major key to the character: Tal does not seek knowledge only out of ambition; he finds relief when the noise of the world can be looked at precisely.
+The feeling of **calm before a bounded problem** appeared directly in the way Tal responded to the stone and tablet. It became a major key to the character: Tal does not seek knowledge only out of ambition; he finds relief when the noise of the world can be looked at precisely.
 
 The precise temperament of **Hendrik** was largely improvised in response to Tal: the accusation of Western sorcery, the endless genealogy, the questions about his travels, the desire to go far away. His irony and teaching style grew from those exchanges.
 
-The **Feat of the three testimonies** had not been prepared as a moment of social recognition. Time's first treatment of it was in fact too weak. The player pointed out that a Feat should leave a stronger mark. The consequence was corrected at the table: Tal produces two compatible reconstructions, refuses to claim he knows which one is true, impresses Hendrik, and changes how the other apprentices look at him.
+The **Feat of the three testimonies** had not been prepared as a moment of social recognition. Time's first treatment of it was in fact too weak. The players pointed out that a Feat should leave a stronger mark. The consequence was corrected at the table: Tal produces two compatible reconstructions, refuses to claim he knows which one is true, impresses Hendrik, and changes how the other apprentices look at him.
 
 Finally, the Runes emerged entirely from play:
 
@@ -80,13 +80,13 @@ Finally, the Runes emerged entirely from play:
 - **Movement** as curiosity and the need to go and see;
 - then, during initiation, the realization that for Tal **Harmony expressed Law at a deeper level** and that **Movement was oriented toward Truth**.
 
-This last transformation was not a prepared result. It arose from the player's doubt when he realized that Tal had just offered his life to Law and Truth even though he had not recognized either among his own Runes.
+This last transformation was not a prepared result. It arose from a doubt at the table, when the players realized that Tal had just offered his life to Law and Truth even though he had not recognized either among his own Runes.
 
 The return of **“Tell me what's wrong”** during the initiation experience was likewise an improvised reuse of something play had made significant.
 
 ## How Time reacted
 
-The logic throughout the session was to pick up what the player made important rather than bring Tal back toward a predetermined trajectory.
+The logic throughout the session was to pick up what the players made important rather than bring Tal back toward a predetermined trajectory.
 
 When Tal became interested in Hendrik's travels, the apprenticeship began to take the form of a quest driven by questions. When the stone calmed him, his training placed more emphasis on distinctions and facts. When he proposed Air, Harmony, and Movement, Hendrik did not correct the sheet: he asked Tal to clarify what those words meant to him. And when initiation suddenly made Law and Truth central, the scene used that discrepancy instead of treating it as a character-creation error.
 

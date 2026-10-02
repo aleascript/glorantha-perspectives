@@ -81,9 +81,9 @@ Le détail de l'affaire n'était pas fixé au-delà de ce qui était nécessaire
 
 ## Ce que le jeu a fait émerger
 
-La première surprise fut la manière dont Tal mobilisa immédiatement **Loi** et **Vérité** comme des exigences presque absolues. Le joueur commence pourtant par identifier lucidement une posture qui pourrait le détourner de l'essentiel : **ne pas faire honte à Hendrik** et **être digne de Lhankor Mhy** ne sont pas encore Loi et Vérité. Mais, confronté aux deux groupes, Tal transforme presque aussitôt ses nouvelles Runes en autorité : la vengeance n'étant pas la justice, il ordonne aux proches de partir afin de pouvoir chercher la Vérité plus proprement.
+La première surprise fut la manière dont Tal mobilisa immédiatement **Loi** et **Vérité** comme des exigences presque absolues. Tal commence pourtant par identifier lucidement une posture qui pourrait le détourner de l'essentiel : **ne pas faire honte à Hendrik** et **être digne de Lhankor Mhy** ne sont pas encore Loi et Vérité. Mais, confronté aux deux groupes, Tal transforme presque aussitôt ses nouvelles Runes en autorité : la vengeance n'étant pas la justice, il ordonne aux proches de partir afin de pouvoir chercher la Vérité plus proprement.
 
-Le joueur perçoit lui-même que sa diatribe est plus péremptoire qu'il ne l'aurait voulu et qu'elle peut faire de l'ombre à Hendrik. Cette tension entre **la posture du jeune Sage** et **la fonction réelle du Sage** devient ainsi présente avant même le premier jet.
+Autour de la table, on perçoit aussitôt que la diatribe de Tal est plus péremptoire que voulu et qu'elle peut faire de l'ombre à Hendrik. Cette tension entre **la posture du jeune Sage** et **la fonction réelle du Sage** devient ainsi présente avant même le premier jet.
 
 Une autre découverte s'est construite pendant toute la Situation sans être formulée en une maxime unique. Jusqu'ici, Tal avait surtout rencontré sa vocation par les **mythes, les textes, les questions, la recherche du savoir et la possibilité de voyager**. Jonstown lui montre son versant social : une guérisseuse vient chercher un Sage ; des familles attendent qu'il examine des faits ; des témoins lui parlent ; deux groupes doivent ensuite décider comment agir à partir de ce que les Sages pourront honnêtement affirmer.
 
@@ -103,7 +103,7 @@ pour devenir :
 
 > **« Qu'avons-nous le droit de dire que nous savons ? »**
 
-La conséquence durable choisie par le joueur fut :
+La conséquence durable choisie pour Tal fut :
 
 > **« Ne chercher et ne rapporter que les faits avérés. »**
 
@@ -113,7 +113,7 @@ Ces deux transformations ne se confondent pas. La seconde précise **comment Tal
 
 ## Ce qui a été improvisé
 
-Une grande partie du détail concret a été créée en réponse aux choix du joueur :
+Une grande partie du détail concret a été créée en réponse aux choix de Tal :
 
 - les formulations précises des témoignages de Darin et Enissa ;
 - le passé personnel entre Beren et Karest ;
@@ -142,11 +142,11 @@ Cette séance montre ainsi quelque chose de très propre à GP : **réussir une 
 
 Deux erreurs nettes ont été relevées pendant la partie.
 
-D'abord, le Temps a fait réagir Hendrik à une pensée intérieure de Tal qui n'avait jamais été prononcée. Le joueur l'a signalé immédiatement et la partie a repris en considérant correctement cette pensée comme privée.
+D'abord, le Temps a fait réagir Hendrik à une pensée intérieure de Tal qui n'avait jamais été prononcée. La table l'a relevé immédiatement et la partie a repris en considérant correctement cette pensée comme privée.
 
 Ensuite, une réplique de la mère de Beren a inversé par erreur la logique des témoignages autour de « Ça suffit » et a dû être corrigée explicitement.
 
-La première erreur fournit une règle de vigilance simple : **les pensées décrites par le joueur sont privées tant qu'elles ne sont pas dites ou manifestées dans la fiction.**
+La première erreur fournit une règle de vigilance simple : **les pensées décrites pour un Protagoniste sont privées tant qu'elles ne sont pas dites ou manifestées dans la fiction.**
 
 Un autre risque est apparu avec Hendrik lui-même. Il peut facilement devenir le professeur qui énonce toujours la « bonne leçon ». S'il le fait trop souvent, Tal apprend par exposition du mentor au lieu d'apprendre en se heurtant au monde. La fin de la session fonctionne mieux : Tal formule lui-même ce qu'il pense pouvoir dire aux clans ; Hendrik ne fait que resserrer la formulation.
 

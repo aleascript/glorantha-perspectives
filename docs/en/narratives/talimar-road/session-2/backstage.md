@@ -34,7 +34,7 @@ Even after Karest's testimony, there was no necessity for the affair to produce 
 
 ## What Tal made emerge: the night outing
 
-The first major divergence was proposed entirely by the player.
+The first major divergence was proposed entirely by Tal's player.
 
 Before resuming the morning scene, Tal declared that he had been unable to sleep and had gone prowling around the House of Peace. He knew this conduct might be questionable for a Grey Sage, but the affair unsettled him enough that he took the risk of searching for a detail he might have missed.
 
@@ -60,7 +60,7 @@ The world opposed him with:
 
 The first state led to a **Status Quo**: Tal found a safe observation point but learned nothing genuinely useful and was not discovered.
 
-The player then chose to raise the stakes: Tal deliberately left the safety of his vantage point and moved closer to the walls and openings.
+Tal's player then chose to raise the stakes: Tal deliberately left the safety of his vantage point and moved closer to the walls and openings.
 
 A procedural correction was needed during play: raising the stakes after a Status Quo adds one Bet **to both sides**. The correct resolution was therefore **4 against 4**. Tal scored 4 Successes; Time, read through the Middle World, scored 3. **Victory for Tal, 4–3.**
 
@@ -89,7 +89,7 @@ The Debrief revealed a tool that could have helped Time choose this manifestatio
 
 Karest had not been prepared as a secret culprit or a hidden innocent.
 
-The player began with an open question: recount the raid, his wound, and what had happened before and after. Karest then gave a version broadly compatible with Enissa's: Beren had wounded him, had fallen or slipped, still held his knife, had struck upward, and Karest had answered once with his spear.
+Tal began with an open question: recount the raid, his wound, and what had happened before and after. Karest then gave a version broadly compatible with Enissa's: Beren had wounded him, had fallen or slipped, still held his knife, had struck upward, and Karest had answered once with his spear.
 
 Tal's second question was much more accusatory: had Karest moved toward Beren in order to take him into death with him?
 
@@ -157,7 +157,7 @@ Play should become neither improvisation without grounding nor an encyclopedia s
 
 The Debrief revealed a possibility that was not used during this session.
 
-After Tal's report, the Player could temporarily have carried one of the two clans — for example, the Greenhaft — while Time carried the Blueberry. Tal would have remained silent in the fiction, but the table would have played the negotiation directly instead of watching it entirely as a scene between non-player characters.
+After that report, Tal's player could temporarily have carried one of the two clans — for example, the Greenhaft — while Time carried the Blueberry. Tal would have remained silent in the fiction, but the table would have played the negotiation directly instead of watching it entirely as a scene between non-player characters.
 
 This idea follows from GP's own vocabulary: **Time is a game function, not necessarily a fixed person**. Some of its responsibilities can therefore be redistributed locally, provided it is clear who carries what, all established facts are respected, and the previous distribution is then clearly restored.
 

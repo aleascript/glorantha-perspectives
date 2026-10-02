@@ -11,7 +11,7 @@ Jonstown propose d'abord à Tal une querelle d'archives autour du legs d'un Sage
 
 Sa curiosité le conduit de **Tarsh et l'Empire lunaire** à **Sartar**, à l'histoire des routes royales et enfin à une tradition affirmant que certains maintiennent encore secrètement la force du fondateur du royaume. Dans la marge d'un texte, un signe attire son regard : **la Rune de Sartar**.
 
-La session est aussi un playtest particulièrement instructif : la Situation préparée ne correspond pas au souffle recherché par le joueur, une ambiguïté de mise en scène autour d'Enastina crée de la friction, et pourtant le jeu continue parce que Tal peut déplacer lui-même son regard — et avec lui l'histoire.
+La session est aussi un playtest particulièrement instructif : la Situation préparée ne correspond pas au souffle recherché par les joueurs, une ambiguïté de mise en scène autour d'Enastina crée de la friction, et pourtant le jeu continue parce que Tal peut déplacer lui-même son regard — et avec lui l'histoire.
 
 ## Quatre façons de lire la session
 

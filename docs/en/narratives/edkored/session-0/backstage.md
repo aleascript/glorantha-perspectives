@@ -92,7 +92,7 @@ Two movements are especially clear.
 
 First, the **Focus** protects the fiction from the implicit logic of “combat.” Edkored does not need to kill the patrol: he needs to save the shaman and escape. The resolution decides that, and only that.
 
-Second, a **Status quo** is not an absence of event. It creates an unstable position in which the player must decide whether to accept the result or commit more. Here, escalation reveals something deeply personal: Edkored refuses to let Vorlak die and turns that refusal into a Bet.
+Second, a **Status quo** is not an absence of event. It creates an unstable position in which the table must decide whether to accept the result or commit more. Here, escalation reveals something deeply personal: Edkored refuses to let Vorlak die and turns that refusal into a Bet.
 
 The session's loop is therefore unusually readable:
 

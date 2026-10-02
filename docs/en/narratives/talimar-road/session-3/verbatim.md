@@ -591,7 +591,7 @@ And in the margin, someone has added, in another hand and much more recently:
 
 :::info[Consolidation retcon]
 
-After the Debrief, the Player and Time decided that this sentence was too directive and looked too much like a hook manufactured to answer immediately the Player's stated desire for something epic.
+After the Debrief, the players decided that this sentence was too directive and looked too much like a hook manufactured to answer immediately the desire for something epic expressed for Tal.
 
 In the canonical published version of the fiction, **the sentence does not exist**. In the margin there is only, drawn by another hand, **the Rune of Sartar**:
 

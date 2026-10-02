@@ -6,9 +6,9 @@ title: Verbatim
 
 **Durée de jeu : 2 h 30.**
 
-Cette page conserve le jeu dans son ordre réel : paroles du joueur et du Temps, Focus, Mises, jets et corrections de table.
+Cette page conserve le jeu dans son ordre réel : paroles des joueurs, côté Peek et côté Temps, Focus, Mises, jets et corrections de table.
 
-Les formulations du joueur sont conservées telles qu'elles apparaissent dans la source de travail, y compris les fautes, abréviations et échanges hors fiction qui ont participé à la conduite de la table.
+Les formulations des joueurs sont conservées telles qu'elles ont été écrites pendant la partie, y compris les fautes, abréviations et échanges hors fiction qui ont participé à la conduite de la table.
 
 ---
 

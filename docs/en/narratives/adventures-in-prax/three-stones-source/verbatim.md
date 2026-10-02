@@ -6,7 +6,7 @@ title: Verbatim
 
 **Play time: 2 hours and 30 minutes.**
 
-This page preserves play in its actual order: the player's words and Time's responses, Focuses, Bets, rolls, and table corrections.
+This page preserves play in its actual order: the players' words, on Peek's side and on Time's, Focuses, Bets, rolls, and table corrections.
 
 This English version is a faithful translation of the played transcript. It keeps its spontaneous table exchanges and mechanical discussion.
 

@@ -92,7 +92,7 @@ Deux mouvements sont particulièrement nets.
 
 D'abord, le **Focus** protège la fiction contre la logique implicite du « combat ». Edkored n'a pas besoin d'abattre la patrouille : il doit sauver le chaman et s'échapper. La résolution tranche cela, et seulement cela.
 
-Ensuite, le **Statu quo** n'est pas une absence d'événement. Il produit une position instable dans laquelle le joueur doit décider s'il accepte le résultat ou s'il engage davantage. Ici, la surenchère fait apparaître quelque chose de très personnel : Edkored refuse de laisser mourir Vorlak et transforme ce refus en Mise.
+Ensuite, le **Statu quo** n'est pas une absence d'événement. Il produit une position instable dans laquelle il faut décider si l'on accepte le résultat ou si l'on engage davantage. Ici, la surenchère fait apparaître quelque chose de très personnel : Edkored refuse de laisser mourir Vorlak et transforme ce refus en Mise.
 
 La boucle de la séance est donc particulièrement lisible :
 
