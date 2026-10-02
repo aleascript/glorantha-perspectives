@@ -81,9 +81,9 @@ The details of the affair had not been fixed beyond what was necessary for the S
 
 ## What play made emerge
 
-The first surprise was how immediately Tal mobilized **Law** and **Truth** as almost absolute requirements. Yet the player begins by lucidly identifying a posture that might distract him from what matters: **not shaming Hendrik** and **being worthy of Lhankor Mhy** are not themselves Law and Truth. But faced with the two groups, Tal almost immediately turns his new Runes into authority: since vengeance is not justice, he orders the kin to leave so that Truth can be sought more cleanly.
+The first surprise was how immediately Tal mobilized **Law** and **Truth** as almost absolute requirements. Yet Tal begins by lucidly identifying a posture that might distract him from what matters: **not shaming Hendrik** and **being worthy of Lhankor Mhy** are not themselves Law and Truth. But faced with the two groups, Tal almost immediately turns his new Runes into authority: since vengeance is not justice, he orders the kin to leave so that Truth can be sought more cleanly.
 
-The player himself notices that his speech is more peremptory than he intended and that it may overshadow Hendrik. The tension between **the posture of the young Sage** and **the actual function of the Sage** is therefore present before the first roll even happens.
+Around the table, everyone quickly notices that Tal's speech is more peremptory than intended and that it may overshadow Hendrik. The tension between **the posture of the young Sage** and **the actual function of the Sage** is therefore present before the first roll even happens.
 
 Another discovery developed throughout the Situation without ever being reduced to a single maxim. Until now, Tal had encountered his vocation mainly through **myths, texts, questions, the search for knowledge, and the possibility of travel**. Jonstown shows him its social side: a healer comes looking for a Sage; families expect him to examine facts; witnesses speak to him; two groups must then decide how to act based on what the Sages can honestly state.
 
@@ -103,7 +103,7 @@ and became:
 
 > **“What are we entitled to say that we know?”**
 
-The lasting consequence chosen by the player was:
+The lasting consequence chosen for Tal was:
 
 > **“Seek and report only established facts.”**
 
@@ -113,7 +113,7 @@ These two transformations are not the same. The second clarifies **how Tal must 
 
 ## What was improvised
 
-Much of the concrete detail was created in response to the player's choices:
+Much of the concrete detail was created in response to Tal's choices:
 
 - the precise wording of Darin's and Enissa's testimonies;
 - the personal history between Beren and Karest;
@@ -142,11 +142,11 @@ The session thus shows something very characteristic of GP: **succeeding at an i
 
 Two clear mistakes were identified during play.
 
-First, Time made Hendrik react to an internal thought of Tal's that had never been spoken. The player pointed it out immediately, and play resumed with that thought correctly treated as private.
+First, Time made Hendrik react to an internal thought of Tal's that had never been spoken. The table pointed it out immediately, and play resumed with that thought correctly treated as private.
 
 Then, a line from Beren's mother accidentally inverted the logic of the testimonies around “Enough” and had to be explicitly corrected.
 
-The first mistake provides a simple vigilance rule: **thoughts described by the player remain private unless they are spoken or manifested in the fiction.**
+The first mistake provides a simple vigilance rule: **thoughts described for a Protagonist remain private unless they are spoken or manifested in the fiction.**
 
 Another risk appeared with Hendrik himself. He can easily become the teacher who always states the “right lesson.” If he does so too often, Tal learns by listening to his mentor rather than by colliding with the world. The end of the session works better: Tal himself formulates what he thinks can be said to the clans; Hendrik only tightens the wording.
 

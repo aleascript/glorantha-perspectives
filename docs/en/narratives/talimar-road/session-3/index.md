@@ -11,7 +11,7 @@ Jonstown first presents Tal with an archival dispute over the legacy of a dead S
 
 His curiosity leads him from **Tarsh and the Lunar Empire** to **Sartar**, the history of the Royal Roads, and finally to a tradition claiming that some still secretly maintain the founder's strength. In the margin of a text, a sign catches his eye: **the Rune of Sartar**.
 
-The session is also a particularly instructive playtest: the prepared Situation does not match the kind of breath the player is looking for, an ambiguity in how Enastina's position is framed creates friction, and yet play continues because Tal can move his own gaze — and with it, the story.
+The session is also a particularly instructive playtest: the prepared Situation does not match the kind of breath the players are looking for, an ambiguity in how Enastina's position is framed creates friction, and yet play continues because Tal can move his own gaze — and with it, the story.
 
 ## Four ways to read the session
 

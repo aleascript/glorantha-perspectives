@@ -61,7 +61,7 @@ Argrathor devint un homme qui élevait du bétail, siégeait aux assemblées et 
 
 La préparation disait que la famille contestait **tout le paquet**.
 
-Pendant la scène, le Temps donna cependant beaucoup plus de poids à la grosse tablette : Argrathor avait explicitement dit qu'elle ne devait jamais quitter la famille. Le joueur comprit alors logiquement que cette tablette était le cœur de la revendication et que le reste pouvait être cédé plus facilement au temple.
+Pendant la scène, le Temps donna cependant beaucoup plus de poids à la grosse tablette : Argrathor avait explicitement dit qu'elle ne devait jamais quitter la famille. Tal — et la table avec lui — comprit alors logiquement que cette tablette était le cœur de la revendication et que le reste pouvait être cédé plus facilement au temple.
 
 Quand Enastina continua ensuite à revendiquer les autres documents, elle parut changer de position.
 
@@ -80,7 +80,7 @@ Le moment décisif de la session n'était pas préparé.
 
 Tal finit par abandonner la querelle à Hendrik. Il sortit de la Bibliothèque et retrouva une insatisfaction déjà connue auprès de son oncle **Grimar** : autrefois, il aimait les voyages mais pas les marchandises ; ici, il aimait la connaissance mais pas l'impression de devenir le notaire de querelles locales.
 
-Ce mouvement appartient entièrement au Joueur.
+Le Temps n'y est pour rien : ce mouvement appartient entièrement à Tal.
 
 La petite caravane aperçue depuis la colline n'était au départ qu'un élément de décor urbain. Tal choisit de la rejoindre. Elle devint alors une ouverture sur le monde : **Daran fils d'Orlev**, Alda-Chur, Tarsh, Furthest, contrôles sur les routes, rumeurs de soldats et nouvelles contradictoires.
 
@@ -100,20 +100,20 @@ Ce choix était important : la Situation pouvait se résoudre sans obliger Tal �
 
 ## Le décalage de souffle
 
-Le Debrief a révélé que la Situation préparée respectait bien le principe **« le monde ne connaît pas le Protagoniste »**, mais qu'elle correspondait mal à l'appétit du Joueur ce jour-là.
+Le Debrief a révélé que la Situation préparée respectait bien le principe **« le monde ne connaît pas le Protagoniste »**, mais qu'elle correspondait mal à l'appétit des joueurs ce jour-là.
 
-Le joueur aime le réalisme de Glorantha, mais aspirait cette fois à davantage **d'épique, d'aventure, de merveilleux et d'horizon**. Le conflit d'archives lui parut donc étroit et irritant.
+Les joueurs aiment le réalisme de Glorantha, mais aspiraient cette fois à davantage **d'épique, d'aventure, de merveilleux et d'horizon**. Le conflit d'archives leur parut donc étroit et irritant.
 
 Cette irritation n'a pourtant pas cassé la partie. Elle est devenue de la matière de jeu : Tal s'est retiré, a cherché la route, les nouvelles du monde, puis a choisi lui-même d'étudier **Sartar**.
 
-La session met ainsi en évidence une propriété forte de GP : le Joueur ne décrète pas ce qui existe dans le monde, mais il contrôle très puissamment **où il porte son regard**. Ce regard peut déplacer la campagne sans qu'une trajectoire ait été préparée pour lui.
+La session met ainsi en évidence une propriété forte de GP : les joueurs ne décrètent pas ce qui existe dans le monde, mais ils contrôlent très puissamment **où ils portent leur regard**. Ce regard peut déplacer la campagne sans qu'une trajectoire ait été préparée pour lui.
 
 ## Vers un « souffle de session » ?
 
 Une piste de design est apparue au Debrief : distinguer deux niveaux qui ne sont pas contradictoires.
 
 - **Glorantha ne connaît pas le Protagoniste.** Le monde ne doit pas fabriquer des événements sur mesure pour accomplir son arc.
-- **Le Temps connaît les Joueurs.** À une table, il peut savoir qu'aujourd'hui ils ont envie de route, de merveilleux, de tension sombre, de légèreté ou d'enjeux plus vastes.
+- **Le Temps connaît les joueurs.** Il peut savoir qu'aujourd'hui ils ont envie de route, de merveilleux, de tension sombre, de légèreté ou d'enjeux plus vastes.
 
 Cela suggère peut-être un outil très léger de contrat de table : un **Souffle de session** ou un **Horizon de session**, formulé librement en une phrase plutôt qu'en grille obligatoire.
 
@@ -141,7 +141,7 @@ La boussole qui en ressort est simple :
 > Autonomie, Situation, Forces, Pressions.
 >
 > **Mais regarde-le vraiment.**  
-> Focus, attention du Joueur, curiosité, déplacement de la campagne.
+> Focus, attention des joueurs, curiosité, déplacement de la campagne.
 >
 > **Et quand il se montre, fais-le vivre.**  
 > Immersion, manifestations, PNJ incarnés, Promesses, Waou.
@@ -152,7 +152,7 @@ La première évite le scénario truqué. La deuxième évite le railroad. La tr
 
 La session a aussi montré le danger inverse.
 
-Après que le Joueur eut expliqué en `Off:` que Tal cherchait davantage de sens et de souffle épique, le Temps introduisit dans un texte une note marginale récente : **« Demander aux Sages de Boldhome ce qu'ils savent encore des anciens rites. »**
+Après un `Off:` expliquant que Tal cherchait davantage de sens et de souffle épique, le Temps introduisit dans un texte une note marginale récente : **« Demander aux Sages de Boldhome ce qu'ils savent encore des anciens rites. »**
 
 C'était trop ajusté.
 
@@ -180,7 +180,7 @@ Le signe conserve le mystère et devient une Promesse ouverte sans prescrire de 
 - l'ouverture du contenu du paquet ;
 - la possibilité, non garantie, que Jorstan ait laissé des traces.
 
-### Émergent par les choix du Joueur
+### Émergent par les choix de Tal
 
 - la ruse initiale de Tal ;
 - son jugement privé sur l'autre Sage Gris ;
@@ -210,6 +210,6 @@ Cette session est moins réussie comme proposition initiale de jeu que les préc
 
 D'abord, **une Situation peut rater son accroche sans que la partie s'effondre**. Parce que la Situation n'est pas une trajectoire, Tal peut la quitter et le monde continue.
 
-Ensuite, le contrôle du regard par le Joueur ne s'exerce peut-être pas seulement à l'intérieur d'une résolution par les Mises, le Focus et le Zoom. Il peut agir à l'échelle de la campagne : ce que Tal choisit d'observer, de poursuivre ou d'abandonner finit par déplacer l'histoire elle-même.
+Ensuite, le contrôle du regard par les joueurs ne s'exerce peut-être pas seulement à l'intérieur d'une résolution par les Mises, le Focus et le Zoom. Il peut agir à l'échelle de la campagne : ce que Tal choisit d'observer, de poursuivre ou d'abandonner finit par déplacer l'histoire elle-même.
 
 Enfin, l'autonomie du monde et l'écoute de la table ne sont pas des principes opposés. Le défi du Temps est de **tenir compte de l'appétit des joueurs sans fabriquer rétrospectivement un monde qui leur obéit**, tout en faisant de Glorantha une présence assez incarnée, merveilleuse et surprenante pour que cette autonomie reste désirable à explorer.

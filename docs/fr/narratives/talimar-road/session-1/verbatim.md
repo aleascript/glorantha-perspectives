@@ -6,9 +6,9 @@ title: Verbatim
 
 **Durée estimée : environ 3 h.**
 
-Cette page conserve le jeu dans son ordre réel : paroles du joueur et du Temps, hésitations, corrections, Focus, Mises et résultats de dés. Seules les traces techniques internes à l'outil sont absentes.
+Cette page conserve le jeu dans son ordre réel : paroles des joueurs, côté Tal et côté Temps, hésitations, corrections, Focus, Mises et résultats de dés.
 
-Les formulations sont conservées telles qu'elles apparaissent dans la source de travail, y compris les fautes, abréviations et échanges hors fiction qui ont participé à la conduite de la table.
+Les formulations sont conservées telles qu'elles ont été écrites pendant la partie, y compris les fautes, abréviations et échanges hors fiction qui ont participé à la conduite de la table.
 
 ---
 

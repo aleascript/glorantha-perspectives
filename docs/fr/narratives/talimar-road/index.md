@@ -6,7 +6,7 @@ title: La Route de Talimar
 
 **La Route de Talimar** est une partie réellement jouée de Glorantha Perspectives et publiée comme chronique de playtest.
 
-Elle remplit deux fonctions à la fois : suivre l'histoire de **Talimar « Tal »**, jeune Orlanthi du clan du Héron Gris, et permettre de voir concrètement **comment GP fonctionne à la table** — y compris les choix du joueur, les Mises, les dés, les arbitrages du Temps, les erreurs et ce qui émerge sans avoir été préparé.
+Elle remplit deux fonctions à la fois : suivre l'histoire de **Talimar « Tal »**, jeune Orlanthi du clan du Héron Gris, et permettre de voir concrètement **comment GP fonctionne à la table** — y compris les choix des joueurs, les Mises, les dés, les arbitrages du Temps, les erreurs et ce qui émerge sans avoir été préparé.
 
 ## Lire une session
 
@@ -45,7 +45,7 @@ Environ **2 h de jeu**. Karest a survécu et peut enfin témoigner. Tal prend d'
 
 Environ **2 h de jeu**. Une querelle autour du legs d'un Sage mort finit par lasser Tal, qui abandonne l'affaire à Hendrik et porte son regard ailleurs : les routes, les nouvelles du nord, puis l'histoire de Sartar. La session conduit ainsi d'un conflit d'archives très local à la découverte d'un signe beaucoup plus ouvert : **la Rune de Sartar**, tracée dans la marge d'un texte évoquant ceux qui maintiennent encore secrètement sa force.
 
-Cette session documente aussi un playtest volontairement imparfait : une ambiguïté de mise en scène et un décalage entre la Situation préparée et le souffle recherché par le joueur deviennent eux-mêmes matière à comprendre comment le Joueur peut déplacer l'histoire par ce qu'il choisit de regarder.
+Cette session documente aussi un playtest volontairement imparfait : une ambiguïté de mise en scène et un décalage entre la Situation préparée et le souffle recherché par les joueurs deviennent eux-mêmes matière à comprendre comment un Protagoniste peut déplacer l'histoire par ce qu'il choisit de regarder.
 
 ## Tal avant la fiche
 
@@ -53,6 +53,6 @@ Tal appartient pleinement à sa communauté, mais la manière dont elle raconte 
 
 Il a voyagé au Tarsh avec son oncle marchand **Grimar**. Il y a vu des routes, des bâtiments, des bains, une organisation et certaines manières lunaires d'examiner plusieurs faces d'un conflit qui l'ont fasciné. Il sait aussi que cette même civilisation pratique la domination et l'esclavage, et que la Chauve-Souris Pourpre existe sous la même Lune.
 
-Cette contradiction n'a pas été écrite pour compléter une fiche. Elle est apparue dans la conversation de jeu et est devenue l'une des vérités centrales de Tal.
+Cette contradiction n'a pas été écrite pour compléter une fiche. Elle est apparue en jouant et est devenue l'une des vérités centrales de Tal.
 
 La Route commence là : avec quelques vérités assez fortes pour jouer, mais sans savoir encore exactement qui Talimar va devenir.

@@ -61,7 +61,7 @@ Argrathor became a man who raised cattle, sat in assemblies, and possessed an ex
 
 The preparation said that the family disputed **the entire bundle**.
 
-During the scene, however, Time gave much greater weight to the thick tablet: Argrathor had explicitly said it must never leave the family. The player therefore quite reasonably understood that this tablet was the heart of the claim and that the rest might be surrendered to the temple more easily.
+During the scene, however, Time gave much greater weight to the thick tablet: Argrathor had explicitly said it must never leave the family. Tal — and the table with him — therefore quite reasonably understood that this tablet was the heart of the claim and that the rest might be surrendered to the temple more easily.
 
 When Enastina then continued to claim the other documents, she appeared to have changed her position.
 
@@ -80,7 +80,7 @@ The decisive moment of the session was not prepared.
 
 Tal eventually abandoned the dispute to Hendrik. He left the Library and rediscovered an old dissatisfaction from his time with his uncle **Grimar**: he had loved the journeys but not the merchandise; here, he loved knowledge but not the feeling that he was becoming a notary for local disputes.
 
-That movement belongs entirely to the Player.
+Time had no part in it: that movement belongs entirely to Tal.
 
 The small caravan glimpsed from the hill was originally only an element of urban scenery. Tal chose to go to it. It then became an opening onto the wider world: **Daran, son of Orlev**, Alda-Chur, Tarsh, Furthest, inspections on the roads, rumors of soldiers, and contradictory news.
 
@@ -100,20 +100,20 @@ That choice mattered: the Situation could resolve without forcing Tal to become 
 
 ## The mismatch in breath
 
-The Debrief revealed that the prepared Situation did indeed respect the principle **“the world does not know the Protagonist”**, but matched the Player's appetite poorly that day.
+The Debrief revealed that the prepared Situation did indeed respect the principle **“the world does not know the Protagonist”**, but matched the players' appetite poorly that day.
 
-The player likes Glorantha's realism, but this time wanted more **epic scope, adventure, wonder, and horizon**. The archival dispute therefore felt narrow and irritating.
+The players like Glorantha's realism, but this time wanted more **epic scope, adventure, wonder, and horizon**. The archival dispute therefore felt narrow and irritating.
 
 That irritation did not break play. It became game material: Tal withdrew, sought the road and news of the wider world, then chose for himself to study **Sartar**.
 
-The session therefore highlights a strong property of GP: the Player does not decree what exists in the world, but exerts very powerful control over **where they direct their gaze**. That gaze can move the campaign without any trajectory having been prepared for them.
+The session therefore highlights a strong property of GP: the players do not decree what exists in the world, but exert very powerful control over **where they direct their gaze**. That gaze can move the campaign without any trajectory having been prepared for them.
 
 ## Toward a “Session Breath”?
 
 A design possibility emerged in the Debrief: distinguishing two levels that are not contradictory.
 
 - **Glorantha does not know the Protagonist.** The world must not manufacture tailor-made events to fulfill their arc.
-- **Time knows the Players.** At a table, Time can know that today they want roads, wonder, dark tension, lightness, or larger stakes.
+- **Time knows the players.** Time can know that today they want roads, wonder, dark tension, lightness, or larger stakes.
 
 This perhaps suggests a very light table-contract tool: a **Session Breath** or **Session Horizon**, expressed freely in a sentence rather than through a mandatory grid.
 
@@ -141,7 +141,7 @@ The compass that emerges is simple:
 > Autonomy, Situation, Forces, Pressures.
 >
 > **But really look at it.**  
-> Focus, Player attention, curiosity, movement of the campaign.
+> Focus, players' attention, curiosity, movement of the campaign.
 >
 > **And when it shows itself, make it live.**  
 > Immersion, manifestations, embodied NPCs, Promises, Wow.
@@ -152,7 +152,7 @@ The first avoids the rigged scenario. The second avoids railroading. The third p
 
 The session also showed the opposite danger.
 
-After the Player explained in `Off:` that Tal was looking for more meaning and epic breath, Time introduced a recent marginal note into a text: **“Ask the Sages of Boldhome what they still know of the old rites.”**
+After an `Off:` explaining that Tal was looking for more meaning and epic breath, Time introduced a recent marginal note into a text: **“Ask the Sages of Boldhome what they still know of the old rites.”**
 
 It was too tailored.
 
@@ -180,7 +180,7 @@ The sign preserves the mystery and becomes an open Promise without prescribing a
 - the opening of the bundle's contents;
 - the possibility, not guaranteed, that Jorstan had left traces.
 
-### Emergent through the Player's choices
+### Emergent through Tal's choices
 
 - Tal's initial ruse;
 - his private judgment of the other Grey Sage;
@@ -208,8 +208,8 @@ The sign preserves the mystery and becomes an open Promise without prescribing a
 
 This session is less successful as an initial proposition for play than the previous ones, but it reveals several important properties.
 
-First, **a Situation can fail to hook the Player without the game collapsing**. Because a Situation is not a trajectory, Tal can leave it and the world continues.
+First, **a Situation can fail to hook the players without the game collapsing**. Because a Situation is not a trajectory, Tal can leave it and the world continues.
 
-Second, the Player's control of the gaze may not operate only inside a resolution through Bets, Focus, and Zoom. It can act at campaign scale: what Tal chooses to observe, pursue, or abandon eventually moves the story itself.
+Second, the players' control of the gaze may not operate only inside a resolution through Bets, Focus, and Zoom. It can act at campaign scale: what Tal chooses to observe, pursue, or abandon eventually moves the story itself.
 
 Finally, the autonomy of the world and listening to the table are not opposing principles. Time's challenge is to **take the players' appetite into account without retrospectively manufacturing a world that obeys them**, while making Glorantha embodied, wondrous, and surprising enough that its autonomy remains desirable to explore.

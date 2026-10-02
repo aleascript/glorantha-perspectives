@@ -14,7 +14,7 @@ La création de Talimar n'avait pas pour but de conduire un personnage déjà d�
 
 ## Intention initiale
 
-Lorsque le joueur a fait apparaître un intérêt possible pour **Lhankor Mhy**, le Temps n'a pas décidé que Tal deviendrait Sage Gris.
+Lorsqu'un intérêt possible pour **Lhankor Mhy** est apparu autour de la table, le Temps n'a pas décidé que Tal deviendrait Sage Gris.
 
 L'intention était plus simple : **mettre cette aspiration en Situation pour qu'elle puisse être confirmée, transformée ou abandonnée par le jeu.**
 
@@ -59,7 +59,7 @@ Trois éléments seulement étaient véritablement intentionnels lorsque la voie
 2. utiliser la **pierre et la tablette** comme problème épistémologique : passer de « trouver l'erreur » à « comment sais-tu quelle version est fausse ? » ;
 3. faire découvrir Lhankor Mhy par **Situations, enseignements et mythes**, plutôt que par un catalogue de pouvoirs ou de compétences.
 
-Le reste devait pouvoir être produit par les réponses du joueur et les conséquences de la fiction.
+Le reste devait pouvoir être produit par les réponses des joueurs et les conséquences de la fiction.
 
 ## Ce que le jeu a fait émerger
 
@@ -67,11 +67,11 @@ Beaucoup de ce qui définit aujourd'hui Tal n'était donc pas préparé.
 
 **Grimar** a pris une profondeur affective inattendue. Il aurait pu n'être qu'un oncle marchand pratique ; le jeu en a fait une véritable racine de Tal, capable à la fois de lui montrer le monde et de le laisser partir.
 
-La sensation d'**apaisement devant un problème borné** est apparue directement dans la réponse du joueur à la pierre et à la tablette. C'est devenu une clé majeure du personnage : Tal ne cherche pas seulement le savoir par ambition ; il trouve un soulagement lorsque le vacarme du monde peut être regardé avec précision.
+La sensation d'**apaisement devant un problème borné** est apparue directement dans la manière dont Tal a répondu à la pierre et à la tablette. C'est devenu une clé majeure du personnage : Tal ne cherche pas seulement le savoir par ambition ; il trouve un soulagement lorsque le vacarme du monde peut être regardé avec précision.
 
 Le tempérament précis d'**Hendrik** a été largement improvisé en réaction à Tal : accusation de sorcellerie occidentale, généalogie interminable, questions sur ses voyages, volonté de partir au loin. Son ironie et sa pédagogie sont nées de ces échanges.
 
-L'**Exploit des trois témoignages** n'avait pas été préparé comme moment de reconnaissance sociale. Son premier traitement par le Temps était d'ailleurs trop faible. Le joueur a signalé qu'un Exploit devait laisser une trace plus forte. La conséquence a été corrigée à la table : Tal produit deux reconstructions compatibles, refuse de prétendre savoir laquelle est vraie, impressionne Hendrik et change le regard des autres apprentis.
+L'**Exploit des trois témoignages** n'avait pas été préparé comme moment de reconnaissance sociale. Son premier traitement par le Temps était d'ailleurs trop faible. Les joueurs ont relevé qu'un Exploit devait laisser une trace plus forte. La conséquence a été corrigée à la table : Tal produit deux reconstructions compatibles, refuse de prétendre savoir laquelle est vraie, impressionne Hendrik et change le regard des autres apprentis.
 
 Enfin, les Runes ont entièrement émergé du jeu :
 
@@ -80,13 +80,13 @@ Enfin, les Runes ont entièrement émergé du jeu :
 - **Mouvement** comme curiosité et nécessité d'aller voir ;
 - puis, lors de l'initiation, la compréhension que pour Tal **Harmonie exprimait en profondeur la Loi** et que **Mouvement était orienté vers la Vérité**.
 
-Cette dernière transformation n'était pas un résultat préparé. Elle est née du doute du joueur lorsqu'il a réalisé que Tal venait d'offrir sa vie à Loi et Vérité alors qu'il ne les avait pas reconnues parmi ses propres Runes.
+Cette dernière transformation n'était pas un résultat préparé. Elle est née d'un doute à la table, lorsque les joueurs ont réalisé que Tal venait d'offrir sa vie à Loi et Vérité alors qu'il ne les avait pas reconnues parmi ses propres Runes.
 
 Le retour de **« Dis-moi ce qui ne va pas »** comme expérience de l'initiation est lui aussi une reprise improvisée d'un élément que le jeu avait rendu significatif.
 
 ## Comment le Temps a réagi
 
-La logique suivie pendant la session a été de reprendre ce que le joueur rendait important plutôt que de ramener Tal vers une trajectoire prédéfinie.
+La logique suivie pendant la session a été de reprendre ce que les joueurs rendaient important plutôt que de ramener Tal vers une trajectoire prédéfinie.
 
 Quand Tal s'est intéressé aux voyages d'Hendrik, l'apprentissage a commencé à prendre la forme d'une quête menée par les questions. Quand il a été apaisé par la pierre, la formation a davantage insisté sur les distinctions et les faits. Quand il a proposé Air, Harmonie et Mouvement, Hendrik n'a pas corrigé la feuille : il lui a demandé de préciser ce que ces mots signifiaient pour lui. Et lorsque l'initiation a rendu Loi et Vérité soudain centrales, la scène a utilisé ce décalage plutôt que de le considérer comme une erreur de création de personnage.
 

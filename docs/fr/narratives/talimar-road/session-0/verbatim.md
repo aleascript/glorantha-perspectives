@@ -6,7 +6,7 @@ title: Verbatim
 
 **Durée de jeu estimée : environ 3 h 30.**
 
-Cette page conserve les tours dans leur ordre de jeu, les Mises, les dés, les corrections et les échanges de procédure qui ont réellement participé à la partie. Les traces techniques internes aux outils sont retirées.
+Cette page conserve les tours dans leur ordre de jeu, les Mises, les dés, les corrections et les échanges de procédure qui ont réellement participé à la partie.
 
 Les annotations **PROCÉDURE** ont été ajoutées rétrospectivement et sont signalées comme telles.
 
@@ -1015,7 +1015,7 @@ Off: je sais que ce n'est pas simple et nécessite un niveau d'impro mais je tro
 
 Oui, je suis d’accord sur la conséquence. J’ai traité le **+2 comme une meilleure résolution intellectuelle**, alors qu’un Exploit devait aussi changer quelque chose **dans la fiction autour de Tal**. Ta version est plus juste : ce jour-là devient un souvenir fondateur de son apprentissage. Il propose une reconstruction qui explique les trois témoignages, puis surprend tout le monde en en produisant une seconde, également compatible, et refuse donc de prétendre savoir laquelle est vraie. Hendrik est impressionné ; les autres apprentis commencent à regarder Tal autrement. Je retiens cette correction comme conséquence canonique de l’Exploit.
 
-Pour ce qu’Hendrik va raconter maintenant, je veux en revanche éviter de fabriquer un « joli mythe de Lhankor Mhy » de mémoire. Je vérifie le récit dans les sources Glorantha que nous avons, puis Hendrik parlera.
+Pour ce qu’Hendrik va raconter maintenant, je veux en revanche éviter de fabriquer un « joli mythe de Lhankor Mhy » de mémoire. Je vérifie le récit dans nos suppléments Glorantha, puis Hendrik parlera.
 
 Hendrik attend que chacun soit installé.
 
