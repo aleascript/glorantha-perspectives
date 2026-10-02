@@ -102,6 +102,19 @@ scannés sans couche texte sont signalés et non convertis.
 Usage personnel uniquement, sur des PDF que vous possédez : ni les PDF ni les
 Markdown produits n'ont leur place dans ce dépôt.
 
+`tools/docx-to-markdown.py` concatène tous les DOCX d'un répertoire (non
+récursif) en un seul Markdown, dans l'ordre naturel des noms de fichiers. Chaque
+document devient une section `# <nom du fichier>`, précédée d'un repère
+`<!-- source : <nom>.docx -->` ; les images sont ignorées. Seul prérequis :
+`pandoc`.
+
+```bash
+python3 tools/docx-to-markdown.py ~/glorantha/docx ~/glorantha/recueil.md
+python3 tools/docx-to-markdown.py ~/glorantha/docx ~/glorantha/loge.md --pattern 'Anyata*'
+```
+
+Un Markdown plus récent que tous ses DOCX est sauté (`--force` pour le refaire).
+
 ## Structure éditoriale
 
 ```text
